@@ -2,13 +2,14 @@ import { useState, useEffect, useMemo } from 'react'
 import { loadMerchant, loadMerchantsIndex } from '../services/dataLoader'
 import type { Merchant } from '../types/merchant'
 import type { MerchantIndexItem } from '../services/dataLoader'
-import { Search, ChevronLeft, Store, MapPin, Phone } from 'lucide-react'
+import { Search, ChevronLeft, Store, MapPin, Phone, Map } from 'lucide-react'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 
 export function MerchantsPage() {
   const [merchantsList, setMerchantsList] = useState<MerchantIndexItem[]>([])
   const [searchTerm, setSearchTerm] = useState('')
   const [filterEnabled, setFilterEnabled] = useState<'ALL' | 'ACTIVE' | 'INACTIVE'>('ALL')
+  const [filterState, setFilterState] = useState<string>('ALL')
 
   const [selectedMerchant, setSelectedMerchant] = useState<Merchant | null>(null)
   const [loadingList, setLoadingList] = useState(true)
@@ -22,6 +23,16 @@ export function MerchantsPage() {
       .finally(() => setLoadingList(false))
   }, [])
 
+  const availableStates = useMemo(() => {
+    const states = new Set<string>()
+    merchantsList.forEach(m => {
+      if (m.state && m.state !== 'Otro' && m.state !== 'Desconocido') {
+        states.add(m.state)
+      }
+    })
+    return ['ALL', ...Array.from(states).sort()]
+  }, [merchantsList])
+
   const filteredMerchants = useMemo(() => {
     return merchantsList.filter(m => {
       const matchesSearch =
@@ -34,9 +45,11 @@ export function MerchantsPage() {
           filterEnabled === 'ACTIVE' ? m.enabled === true :
             m.enabled === false;
 
-      return matchesSearch && matchesFilter;
+      const matchesState = filterState === 'ALL' || m.state === filterState;
+
+      return matchesSearch && matchesFilter && matchesState;
     })
-  }, [merchantsList, searchTerm, filterEnabled])
+  }, [merchantsList, searchTerm, filterEnabled, filterState])
 
   async function handleSelectMerchant(id: number) {
     setLoadingDetail(id)
@@ -218,6 +231,20 @@ export function MerchantsPage() {
             placeholder="Buscar por nombre, ID o categoría..."
             className="w-full pl-12 pr-4 py-3 bg-gray-50 border-none rounded-xl focus:ring-2 focus:ring-indigo-500 outline-none text-gray-800 transition-all font-medium"
           />
+        </div>
+        <div className="relative w-full md:w-64">
+          <Map className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+          <select
+            value={filterState}
+            onChange={(e) => setFilterState(e.target.value)}
+            className="w-full pl-12 pr-10 py-3 bg-gray-50 border-none rounded-xl focus:ring-2 focus:ring-indigo-500 outline-none text-gray-800 transition-all font-medium appearance-none cursor-pointer text-sm"
+          >
+            <option value="ALL">Todo el país</option>
+            {availableStates.filter(s => s !== 'ALL').map(state => (
+              <option key={state} value={state}>{state}</option>
+            ))}
+          </select>
+          <ChevronLeft className="absolute right-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 -rotate-90 pointer-events-none" />
         </div>
       </div>
 

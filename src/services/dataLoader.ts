@@ -29,7 +29,7 @@ export function loadStore(id: number): Promise<StorePaymentMethods> {
   return cachedFetch<StorePaymentMethods>(`/SAMPLE_STORE/store_${id}.json`)
 }
 
-export interface MerchantIndexItem { id: number; name: string; category: string; enabled: boolean; type: string; locations?: { lat: number, lng: number, name: string }[]; }
+export interface MerchantIndexItem { id: number; name: string; category: string; enabled: boolean; type: string; state?: string; locations?: { lat: number, lng: number, name: string, state?: string }[]; }
 export interface StoreIndexItem { id: number; methodCount: number; types: string[]; }
 export interface OrderIndexItem { id: string; identifierNumber: number; amount: number; status: string; channel: string; customerName: string | null; createdAt: string | null; }
 
