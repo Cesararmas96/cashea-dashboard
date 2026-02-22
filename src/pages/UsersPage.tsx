@@ -91,7 +91,8 @@ export function UsersPage() {
                     />
                 </div>
 
-                <div className="overflow-x-auto flex-1 h-[600px] custom-scrollbar">
+                {/* Desktop View: Table */}
+                <div className="hidden md:block overflow-x-auto flex-1 h-[600px] custom-scrollbar">
                     <table className="w-full text-left border-collapse relative">
                         <thead className="sticky top-0 bg-white z-10 shadow-sm">
                             <tr className="border-b border-gray-100 text-xs font-bold text-gray-500 uppercase tracking-widest bg-gray-50/50">
@@ -131,6 +132,47 @@ export function UsersPage() {
                             )}
                         </tbody>
                     </table>
+                </div>
+
+                {/* Mobile View: Cards */}
+                <div className="flex md:hidden flex-col gap-4 flex-1 h-[600px] overflow-y-auto custom-scrollbar pb-4 pr-1">
+                    {paginatedUsers.map((user) => (
+                        <div key={user.identifierNumber} className="bg-white p-5 rounded-2xl border border-gray-100 shadow-sm flex flex-col gap-4 relative">
+                            <div className="flex justify-between items-start">
+                                <div>
+                                    <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">ID / Cédula</p>
+                                    <p className="font-mono text-gray-600 font-bold">{user.identifierNumber}</p>
+                                </div>
+                                <div className="text-right">
+                                    <p className="font-black text-xl text-indigo-600 leading-none">${user.volume.toLocaleString('en-US', { minimumFractionDigits: 2 })}</p>
+                                    <p className="text-[9px] text-gray-400 uppercase tracking-widest font-extrabold mt-1">Volumen</p>
+                                </div>
+                            </div>
+
+                            <div className="bg-gray-50 p-3 rounded-xl border border-gray-100 mt-1">
+                                <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Cliente</p>
+                                <p className="text-sm font-bold text-gray-800 capitalize line-clamp-1">{user.name.toLowerCase()}</p>
+                            </div>
+
+                            <div className="flex justify-between items-center mt-1 border-t border-gray-100 pt-3">
+                                <span className="bg-blue-50 text-blue-600 py-1.5 px-3 rounded-lg text-xs font-bold">
+                                    {user.ordersCount} órdenes
+                                </span>
+                                <Link
+                                    to={`/users/${user.identifierNumber}`}
+                                    className="inline-flex items-center justify-center py-2 px-3 rounded-lg bg-indigo-50 hover:bg-indigo-100 text-indigo-600 font-bold text-xs transition-all"
+                                >
+                                    Ver perfil <ChevronRight className="w-4 h-4 ml-1" />
+                                </Link>
+                            </div>
+                        </div>
+                    ))}
+
+                    {users.length === 0 && (
+                        <div className="p-12 text-center text-gray-400 bg-gray-50 rounded-2xl border border-dashed border-gray-200">
+                            No se encontraron usuarios que coincidan con la búsqueda.
+                        </div>
+                    )}
                 </div>
 
                 {totalPages > 1 && (

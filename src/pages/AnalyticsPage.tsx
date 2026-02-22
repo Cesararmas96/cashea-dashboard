@@ -389,7 +389,8 @@ export function AnalyticsPage() {
                         <p className="text-xs text-gray-400">Usuarios con mayor volumen de compra en la plataforma</p>
                     </div>
                 </div>
-                <div className="overflow-x-auto">
+                {/* Desktop View: Table */}
+                <div className="hidden md:block overflow-x-auto">
                     <table className="w-full text-left border-collapse">
                         <thead>
                             <tr className="border-b border-gray-100 bg-gray-50/50">
@@ -421,6 +422,41 @@ export function AnalyticsPage() {
                             ))}
                         </tbody>
                     </table>
+                </div>
+
+                {/* Mobile View: Cards */}
+                <div className="flex md:hidden flex-col gap-4">
+                    {topClients.map((client, i) => (
+                        <div key={i} className="bg-white p-4 rounded-2xl border border-gray-100 shadow-sm flex flex-col gap-3">
+                            <div className="flex justify-between items-center bg-gray-50 rounded-xl p-3">
+                                <div className="flex items-center gap-3">
+                                    <div className={`w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg shadow-sm ${i === 0 ? 'bg-amber-100 text-amber-600' : i === 1 ? 'bg-gray-200 text-gray-600' : i === 2 ? 'bg-orange-100 text-orange-700' : 'bg-white text-gray-500'}`}>
+                                        #{i + 1}
+                                    </div>
+                                    <div>
+                                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest leading-none mb-1">Cliente</p>
+                                        <Link to={`/users/${client.identifierNumber}`} className="font-bold text-gray-800 flex items-center gap-1 capitalize hover:text-indigo-600">
+                                            {client.name.toLowerCase()} <ExternalLink className="w-3 h-3 text-indigo-400" />
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="flex justify-between items-end px-1 mt-1">
+                                <div>
+                                    <span className="bg-indigo-50 text-indigo-600 py-1.5 px-3 rounded-lg text-xs font-bold">
+                                        {client.ordersCount} compras
+                                    </span>
+                                </div>
+                                <div className="text-right">
+                                    <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Volumen Total</p>
+                                    <p className="font-black text-xl text-gray-900 leading-none">
+                                        ${client.volume.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    ))}
                 </div>
             </div>
         </div>
