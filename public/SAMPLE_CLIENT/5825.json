@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T21:15:14.845Z",
+  "id": "5551",
+  "amount": 40.6,
+  "invoiceId": "13936",
+  "paidToMerchant": false,
+  "identifierNumber": 5825,
+  "billingDate": "2022-12-28T21:15:14.845Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-14T04:00:00.519+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "19083",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20033495",
+      "fullName": "REISER EDUARDO LORCA FLORES",
+      "phoneNumber": "+584123193562"
+    },
+    "installments": [
+      {
+        "id": "19085",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:17:07.261Z",
+        "amount": 6.766666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19084",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:17:07.261Z",
+        "amount": 6.766666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19083",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:17:07.261Z",
+        "amount": 6.766666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19082",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:17:07.261Z",
+        "amount": 20.3,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

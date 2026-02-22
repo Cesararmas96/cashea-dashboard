@@ -1,0 +1,27 @@
+{
+  "createdAt": "2022-12-21T21:37:34.601Z",
+  "id": "3221",
+  "amount": 39.9,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3649,
+  "billingDate": "2022-12-21T21:37:34.601Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "cancelledAt": 1713368239197,
+    "cancellationReason": "Cancelled from Merchant Web: error - Admin Tolón (tolon@parfois.com)",
+    "originCancellation": "MERCHANT_WEB"
+  },
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T20:23:17.468Z",
+  "id": "2258",
+  "amount": 68.57,
+  "invoiceId": "17876",
+  "paidToMerchant": false,
+  "identifierNumber": 2799,
+  "billingDate": "2022-12-18T20:23:17.468Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13808147",
+      "fullName": "EVEIN RAFAEL VILLARROEL",
+      "phoneNumber": "+584125598785"
+    },
+    "installments": [
+      {
+        "id": "7405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T20:23:43.257Z",
+        "amount": 11.429999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "7402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T20:23:43.258Z",
+        "amount": 34.28,
+        "status": "DONE"
+      },
+      {
+        "id": "7404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T20:23:43.257Z",
+        "amount": 11.429999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "7403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T20:23:43.257Z",
+        "amount": 11.429999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

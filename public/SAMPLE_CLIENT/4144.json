@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:46:45.270Z",
+  "id": "3730",
+  "amount": 147.35,
+  "invoiceId": "3836",
+  "paidToMerchant": false,
+  "identifierNumber": 4144,
+  "billingDate": "2022-12-22T23:46:45.270Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15664271",
+      "fullName": "NATHALIE VERONICA PIUNNO BRICENO",
+      "phoneNumber": "+584141783911"
+    },
+    "installments": [
+      {
+        "id": "12513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:47:12.011Z",
+        "amount": 24.56,
+        "status": "DONE"
+      },
+      {
+        "id": "12510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:47:12.012Z",
+        "amount": 73.67,
+        "status": "DONE"
+      },
+      {
+        "id": "12512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:47:12.011Z",
+        "amount": 24.56,
+        "status": "DONE"
+      },
+      {
+        "id": "12511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:47:12.011Z",
+        "amount": 24.56,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

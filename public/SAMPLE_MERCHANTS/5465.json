@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-30T19:42:03.159Z",
+  "updatedAt": "2025-05-07T20:07:05.870Z",
+  "id": 5465,
+  "name": "Servicio de diagnostico y atencion primaria Servidiap",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "14745340-a460-4767-a6d3-22a7f815474d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "admonservidiap@gmail.com",
+    "legalName": "Ruth",
+    "phoneNumber": "4126131182"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-30T19:43:06.397Z",
+      "updatedAt": "2025-04-30T19:43:06.397Z",
+      "id": 13474,
+      "merchantId": 5465,
+      "name": "Servicio de diagnostico y atencion primaria Servidiap Av Urdaneta CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7596,
+      "address": {
+        "name": "AVENIDA URDANETA, ESQUINA DE ANIMAS, EDIFICIO IBERIA, PISO 1 CARACAS - DTTO. CAPITAL",
+        "long": -66.91375000000001,
+        "lat": 10.503749999999997,
+        "location": "0101000020E610000015AE47E17ABA50C050B81E85EB012540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

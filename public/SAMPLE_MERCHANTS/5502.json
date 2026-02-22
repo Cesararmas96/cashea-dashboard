@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-02T14:38:15.513Z",
+  "updatedAt": "2025-05-08T20:35:15.685Z",
+  "id": 5502,
+  "name": "Master Group Carabobo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ce2dfdf3-996a-437c-a31c-cead15366eed",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "leonardo_loreto@hotmail.com",
+    "legalName": "Leonardo Loreto",
+    "phoneNumber": "4123301925"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T18:52:31.649Z",
+      "updatedAt": "2025-05-08T18:52:31.649Z",
+      "id": 13833,
+      "merchantId": 5502,
+      "name": "Master Group Carabobo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6634,
+      "address": {
+        "name": "CALLE JOSE FELIX RIVAS, NRO 2, NUMERO CIVICO 80-206 BARRIO LA LIBERTAD VALENCIA CARABOBO ZONA POSTAL 2003",
+        "long": -67.989937,
+        "lat": 10.1672668,
+        "location": "0101000020E610000000000000000037400000000000003C40",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

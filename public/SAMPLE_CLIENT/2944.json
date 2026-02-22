@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T01:53:42.993Z",
+  "id": "2474",
+  "amount": 81.29,
+  "invoiceId": "6728",
+  "paidToMerchant": false,
+  "identifierNumber": 2944,
+  "billingDate": "2022-12-19T01:53:42.993Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-04T04:00:00.408+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "8159",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20411126",
+      "fullName": "MARIANNY THANIBE GARCIA VELIZ",
+      "phoneNumber": "+584127111897"
+    },
+    "installments": [
+      {
+        "id": "8161",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T01:54:06.889Z",
+        "amount": 13.546666666666669,
+        "status": "DELAYED"
+      },
+      {
+        "id": "8160",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T01:54:06.889Z",
+        "amount": 13.546666666666669,
+        "status": "DELAYED"
+      },
+      {
+        "id": "8159",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T01:54:06.889Z",
+        "amount": 13.546666666666669,
+        "status": "DELAYED"
+      },
+      {
+        "id": "8158",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T01:54:06.889Z",
+        "amount": 40.65,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

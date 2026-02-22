@@ -1,0 +1,299 @@
+{
+  "createdAt": "2025-05-06T21:16:15.228Z",
+  "updatedAt": "2025-05-08T13:51:58.077Z",
+  "id": 5572,
+  "name": "Cachapas Del Este",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "38c31547-7e28-45f8-ac15-b4de4c0b112c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "rabp100799@gmail.com",
+    "legalName": "Robert Bracho",
+    "phoneNumber": "04246338962"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-23T15:04:35.902Z",
+      "updatedAt": "2025-09-23T15:04:35.902Z",
+      "id": 22133,
+      "merchantId": 5572,
+      "name": "Cachapas del Este Chacao",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Av Sucre con Boulevard Uslar Pietri Edif Linery piso B local D Chacao, Miranda.",
+        "long": -66.85593750000001,
+        "lat": 10.493937500000001,
+        "location": "0101000020E6100000E27A14AEC7B650C038894160E5FC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-23T14:58:02.171Z",
+      "updatedAt": "2025-09-23T14:58:02.171Z",
+      "id": 22131,
+      "merchantId": 5572,
+      "name": "Cachapas del Este CC Millenium Mall",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Av. Romulo Gallegos con Av Principal de la Carlota, Millennum Mall, local C4-05 los dos Caminos Caracas",
+        "long": -66.83268749999999,
+        "lat": 10.4951875,
+        "location": "0101000020E61000006E1283C04AB550C0A8C64B3789FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T01:35:07.431Z",
+      "updatedAt": "2025-05-07T01:35:07.431Z",
+      "id": 13689,
+      "merchantId": 5572,
+      "name": "Cachapas Del Este Ciudad Traki Cabudare",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Cachapas Del Este Ciudad Traki Cabudare",
+        "long": -69.2323125,
+        "lat": 10.01906249999999,
+        "location": "0101000020E6100000EE7C3F35DE4E51C0F0285C8FC2092440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T01:41:50.317Z",
+      "updatedAt": "2025-05-07T01:41:50.317Z",
+      "id": 13690,
+      "merchantId": 5572,
+      "name": "Cachapas Del Este CC Rio Lama Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Cachapas Del Este CC Rio Lama Barquisimeto",
+        "long": -69.2854375,
+        "lat": 10.063062500000001,
+        "location": "0101000020E610000054E3A59B445251C040355EBA49202440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T01:51:58.093Z",
+      "updatedAt": "2025-05-07T01:51:58.093Z",
+      "id": 13691,
+      "merchantId": 5572,
+      "name": "Cachapas Del Este CC Sambil Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Cachapas Del Este CC Sambil Barquisimeto",
+        "long": -69.29343750000001,
+        "lat": 10.072687499999986,
+        "location": "0101000020E6100000E27A14AEC75251C0E8A7C64B37252440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T21:20:02.995Z",
+      "updatedAt": "2025-05-06T21:20:02.995Z",
+      "id": 13679,
+      "merchantId": 5572,
+      "name": "Cachapas Del Este Altamira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Edificio Dumas, Plaza Altamira Sur. Avenida Francisco de Miranda Al lado de la Embajada de Canadá.",
+        "long": -66.8494375,
+        "lat": 10.494687500000012,
+        "location": "0101000020E6100000BE9F1A2F5DB650C0E87A14AE47FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T21:20:43.830Z",
+      "updatedAt": "2025-05-06T21:20:43.830Z",
+      "id": 13680,
+      "merchantId": 5572,
+      "name": "Cachapas Del Este CC El Recreo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Centro comercial El Recreo, Av. Casanova, Nivel New York, Piso 6 local P43, al lado de Caracas Burguer",
+        "long": -66.87718750000002,
+        "lat": 10.4915625,
+        "location": "0101000020E6100000723D0AD723B850C048E17A14AEFB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T21:21:20.560Z",
+      "updatedAt": "2025-05-06T21:21:20.560Z",
+      "id": 13681,
+      "merchantId": 5572,
+      "name": "Cachapas Del Este CC Candelaria Center",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3879,
+      "address": {
+        "name": "Esquina de la Cruz y Alcabala, Av. Este 0, CC Candelaria Center, por la entrada Principal frente a la plaza, al lado del Farmatodo, Caracas 1011",
+        "long": -66.90468750000001,
+        "lat": 10.504687500000003,
+        "location": "0101000020E610000067666666E6B950C06866666666022540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,358 @@
+{
+  "createdAt": "2025-04-09T16:12:54.088Z",
+  "updatedAt": "2025-04-09T18:07:39.555Z",
+  "id": 5147,
+  "name": "Stic Store",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "392dd2c0-d7f2-456d-a814-419288fb03a4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "inversionesrafaiderstic2010@gmail.com",
+    "legalName": "Rafael Eugenio",
+    "phoneNumber": "04142544342"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-23T20:45:02.219Z",
+      "updatedAt": "2025-07-23T20:45:02.219Z",
+      "id": 17910,
+      "merchantId": 5147,
+      "name": "Stic Store Av. España / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "Sucursal: Boulevard de Catia entre Primera y Segunda, Hotel Orientplace, N° 56, Av. España, Parroquia Sucre, Caracas",
+        "long": -66.9456875,
+        "lat": 10.516937499999997,
+        "location": "0101000020E61000001B2FDD2486BC50C0E8263108AC082540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-23T20:38:41.239Z",
+      "updatedAt": "2025-07-23T20:38:41.239Z",
+      "id": 17908,
+      "merchantId": 5147,
+      "name": "Stic Store Catia / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "Sucursal catia, entre calle 2 y Panamericana centro comercial España nivel PB local 4 urbanizacion nueva caracas. Municipio Sucre",
+        "long": -66.9383125,
+        "lat": 10.516062500000004,
+        "location": "0101000020E6100000643BDF4F0DBC50C05062105839082540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-23T20:46:12.620Z",
+      "updatedAt": "2025-07-23T20:46:12.620Z",
+      "id": 17911,
+      "merchantId": 5147,
+      "name": "Stic Store Boulevard de Catia / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "Dirección: Sucursal-Boulevard de Catia Entre calle panamericana y Segunda avenida  Urbanización Nueva Caracas ,  Parroquia Sucre Caracas",
+        "long": -74.07499999999999,
+        "lat": 4.725000000000001,
+        "location": "0101000020E6100000CCCCCCCCCC8452C06866666666E61240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-29T22:14:44.936Z",
+      "updatedAt": "2025-09-29T22:14:44.936Z",
+      "id": 22685,
+      "merchantId": 5147,
+      "name": "Stic Store Carrera 8 Con Calle 2 Guanarito",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "Carrera 8 Con Calle 2 Guanarito",
+        "long": -69.2108125,
+        "lat": 8.697187500000013,
+        "location": "0101000020E6100000A245B6F37D4D51C0305C8FC2F5642140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-23T20:49:32.829Z",
+      "updatedAt": "2025-07-23T20:49:32.829Z",
+      "id": 17912,
+      "merchantId": 5147,
+      "name": "Stic Store Petare II",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "Av. Francisco de Miranda, Calle Pacheco, Edif. La Parada, Petare",
+        "long": -66.80868749999999,
+        "lat": 10.4759375,
+        "location": "0101000020E6100000C64B3789C1B350C048E17A14AEF32440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-10T16:41:06.207Z",
+      "updatedAt": "2025-06-10T16:41:06.207Z",
+      "id": 15457,
+      "merchantId": 5147,
+      "name": "Stic Store Esq Miguelacho / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "AVENIDA SUR 13 ESQUINA MIGUELACHO EDI CACHAMA LOCAL PB CARACAS LA CANDELARIA",
+        "long": -66.9054375,
+        "lat": 10.503312499999993,
+        "location": "0101000020E61000009CC420B0F2B950C000560E2DB2012540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T16:22:47.172Z",
+      "updatedAt": "2025-04-09T16:22:47.172Z",
+      "id": 12755,
+      "merchantId": 5147,
+      "name": "Stic Store CC La Cascada",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": " N2-1 A,NIVEL DOS CENTRO COMERCIAL CIUDAD COMERCIAL LA CASCADA KILOMETRO 21 CARRETERA PANAMERICANA CARRIZAL",
+        "long": -67.0030625,
+        "lat": 10.354312499999992,
+        "location": "0101000020E610000004560E2D32C050C0C020B07268B52440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-10T14:22:27.278Z",
+      "updatedAt": "2025-06-10T14:22:27.278Z",
+      "id": 15449,
+      "merchantId": 5147,
+      "name": "Stic Store Esq Ferrenquin / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "DIRECCION ESQ FERRENQUIN A CRUZ DE LA CANDELARIA EDF 178 PISO PB LA CADELARIA DIAGONAL A LA PLAZA LA  CANDELARIA",
+        "long": -66.9058125,
+        "lat": 10.505062499999994,
+        "location": "0101000020E6100000B6F3FDD4F8B950C038DF4F8D97022540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-10T15:01:01.075Z",
+      "updatedAt": "2025-06-10T15:01:01.075Z",
+      "id": 15451,
+      "merchantId": 5147,
+      "name": "Stic Store Esq Gradillas / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "ESQUINA DE GRADILLA A PLANTA BAJA PARROQUITA CATEDRAL DEL MUNICIPIO LIBERTADOR",
+        "long": -66.9139375,
+        "lat": 10.505312499999988,
+        "location": "0101000020E6100000A245B6F37DBA50C01885EB51B8022540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-10T16:03:14.590Z",
+      "updatedAt": "2025-06-10T16:03:14.590Z",
+      "id": 15453,
+      "merchantId": 5147,
+      "name": "Stic Store Petare",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6169,
+      "address": {
+        "name": "CALLE FEDERACION HACIA PUENTE BALOA EDF SAN ELIAS LOCAL D PETARE",
+        "long": -66.8061875,
+        "lat": 10.477187500000014,
+        "location": "0101000020E61000006ABC749398B350C0C01E85EB51F42440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-25T13:59:05.674Z",
+  "updatedAt": "2025-05-22T15:42:47.354Z",
+  "id": 5383,
+  "name": "La Romelia",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "652d7265-e3db-430d-84f0-cc34c4434872",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "laromeliaca@gmail.com",
+    "legalName": "Maria Yesenia",
+    "phoneNumber": "4246282884"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T14:01:03.111Z",
+      "updatedAt": "2025-04-25T14:01:03.111Z",
+      "id": 13273,
+      "merchantId": 5383,
+      "name": "La Romelia Zulia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7820,
+      "address": {
+        "name": "AV. 3F CON CALLE 67 CC LA FUENTE NIVEL PB LOCAL 1 SECTOR BELLAS ARTES",
+        "long": -71.6175625,
+        "lat": 10.707812499999989,
+        "location": "0101000020E61000001B2FDD2486E751C060666666666A2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

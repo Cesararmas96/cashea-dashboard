@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T22:00:10.494Z",
+  "id": "4947",
+  "amount": 118.43,
+  "invoiceId": "26915",
+  "paidToMerchant": false,
+  "identifierNumber": 5162,
+  "billingDate": "2022-12-24T22:00:10.494Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19877123",
+      "fullName": "DAYANA CAROLINA MORALES ARTEAGA",
+      "phoneNumber": "+584141348219"
+    },
+    "installments": [
+      {
+        "id": "16956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:00:59.629Z",
+        "amount": 19.736666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "16954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:00:59.630Z",
+        "amount": 59.22,
+        "status": "DONE"
+      },
+      {
+        "id": "16957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:00:59.629Z",
+        "amount": 19.736666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "16955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:00:59.629Z",
+        "amount": 19.736666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:40:36.828Z",
+  "id": "5672",
+  "amount": 38.92,
+  "invoiceId": "13398",
+  "paidToMerchant": false,
+  "identifierNumber": 5926,
+  "billingDate": "2022-12-28T23:40:36.828Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20953402",
+      "fullName": "EBRAHIN ALEXANDER MEDINA DELGADO",
+      "phoneNumber": "+584264098742"
+    },
+    "installments": [
+      {
+        "id": "19525",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:41:05.677Z",
+        "amount": 6.486666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19524",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:41:05.677Z",
+        "amount": 6.486666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19523",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:41:05.677Z",
+        "amount": 6.486666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19522",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:41:05.677Z",
+        "amount": 19.46,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T19:08:14.233Z",
+  "id": "1435",
+  "amount": 34.9,
+  "invoiceId": "11996",
+  "paidToMerchant": false,
+  "identifierNumber": 2044,
+  "billingDate": "2022-12-14T19:08:14.233Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19584272",
+      "fullName": "DIEGO ARMANDO MARVAL MARVAL",
+      "phoneNumber": "+584123584215"
+    },
+    "installments": [
+      {
+        "id": "4631",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T19:09:24.844Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4632",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T19:09:24.844Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4633",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T19:09:24.844Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4630",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T19:09:24.844Z",
+        "amount": 17.45,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

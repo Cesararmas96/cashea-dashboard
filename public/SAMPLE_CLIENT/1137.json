@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-01T18:25:45.572Z",
+  "id": "562",
+  "amount": 70,
+  "invoiceId": "00000573",
+  "paidToMerchant": false,
+  "identifierNumber": 1137,
+  "billingDate": "2022-12-01T18:25:45.572Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16792115",
+      "fullName": "KEYLA MAYELING CARBALLO PALACIOS",
+      "phoneNumber": "+584245588273"
+    },
+    "installments": [
+      {
+        "id": "1782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-01T18:26:09.075Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "1784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-29T18:26:09.074Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-15T18:26:09.074Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-12T18:26:09.074Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

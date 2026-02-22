@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-28T15:53:39.394Z",
+  "id": "11178",
+  "amount": 37.467999999999996,
+  "invoiceId": "TM-SO159251",
+  "paidToMerchant": false,
+  "identifierNumber": 5086,
+  "billingDate": "2023-01-28T15:53:39.394Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19888996",
+      "fullName": "DARWIN JOSE CABAÑA BENITEZ",
+      "phoneNumber": "+584124782454"
+    },
+    "installments": [
+      {
+        "id": "34100",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-25T15:53:39.436Z",
+        "amount": 6.245999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "34101",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-11T15:53:39.436Z",
+        "amount": 6.245999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "34099",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-11T15:53:39.436Z",
+        "amount": 6.245999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "34098",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-28T15:53:39.437Z",
+        "amount": 18.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 69,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 3703,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

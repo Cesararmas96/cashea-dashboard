@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T22:56:11.222Z",
+  "id": "2623",
+  "amount": 103,
+  "invoiceId": "307320",
+  "paidToMerchant": false,
+  "identifierNumber": 3106,
+  "billingDate": "2022-12-19T22:56:11.222Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24455455",
+      "fullName": "ANDREE ALFONSO FLOREZ LOAIZA",
+      "phoneNumber": "+584241554210"
+    },
+    "installments": [
+      {
+        "id": "8614",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:57:35.352Z",
+        "amount": 51.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8617",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:57:35.351Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "8615",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:57:35.351Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "8616",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:57:35.351Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

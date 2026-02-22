@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:07:09.386Z",
+  "id": "2071",
+  "amount": 156.49,
+  "invoiceId": "17014",
+  "paidToMerchant": false,
+  "identifierNumber": 2615,
+  "billingDate": "2022-12-17T22:07:09.386Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13426342",
+      "fullName": "LETTY MORELA SUNIAGA LOPEZ",
+      "phoneNumber": "+584142342467"
+    },
+    "installments": [
+      {
+        "id": "6729",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:07:24.369Z",
+        "amount": 26.080000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6728",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:07:24.369Z",
+        "amount": 26.080000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6727",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:07:24.369Z",
+        "amount": 26.080000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6726",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:07:24.370Z",
+        "amount": 78.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

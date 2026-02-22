@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:44:24.541Z",
+  "id": "2404",
+  "amount": 171.48,
+  "invoiceId": "12087",
+  "paidToMerchant": false,
+  "identifierNumber": 2939,
+  "billingDate": "2022-12-18T23:44:24.541Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13404031",
+      "fullName": "MERBIN EDUARDO CORDOVA SIMANCAS",
+      "phoneNumber": "+584141287733"
+    },
+    "installments": [
+      {
+        "id": "7906",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:44:52.633Z",
+        "amount": 85.74,
+        "status": "DONE"
+      },
+      {
+        "id": "7909",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:44:52.633Z",
+        "amount": 28.58,
+        "status": "DONE"
+      },
+      {
+        "id": "7908",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:44:52.633Z",
+        "amount": 28.58,
+        "status": "DONE"
+      },
+      {
+        "id": "7907",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:44:52.633Z",
+        "amount": 28.58,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T18:55:50.258Z",
+  "id": "1189",
+  "amount": 41.16,
+  "invoiceId": "30.90",
+  "paidToMerchant": false,
+  "identifierNumber": 1854,
+  "billingDate": "2022-12-11T18:55:50.258Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "57",
+    "buyDebtDate": "2023-01-11T06:00:00.614+00:00",
+    "lastStoreId": 43,
+    "boughtForInstallmentId": "3796",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25253319",
+      "fullName": "TIFFANY HIRAYANA LOBO CATAMO",
+      "phoneNumber": "+584241570281"
+    },
+    "installments": [
+      {
+        "id": "3794",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T18:56:33.566Z",
+        "amount": 20.58,
+        "status": "DONE"
+      },
+      {
+        "id": "3797",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T18:56:33.565Z",
+        "amount": 6.859999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "3795",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T18:56:33.565Z",
+        "amount": 6.859999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "3796",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T18:56:33.565Z",
+        "amount": 6.859999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

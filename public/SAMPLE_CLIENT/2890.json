@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:45:36.038Z",
+  "id": "2360",
+  "amount": 73.33,
+  "invoiceId": "6710",
+  "paidToMerchant": false,
+  "identifierNumber": 2890,
+  "billingDate": "2022-12-18T22:45:36.038Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18938206",
+      "fullName": "ENDER JOSE COLLAZO",
+      "phoneNumber": "+584141276255"
+    },
+    "installments": [
+      {
+        "id": "7765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:46:40.163Z",
+        "amount": 12.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:46:40.163Z",
+        "amount": 12.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:46:40.163Z",
+        "amount": 36.66,
+        "status": "DONE"
+      },
+      {
+        "id": "7764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:46:40.163Z",
+        "amount": 12.223333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

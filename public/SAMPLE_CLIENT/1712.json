@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T22:08:40.791Z",
+  "id": "11541",
+  "amount": 64.99,
+  "invoiceId": "16149",
+  "paidToMerchant": false,
+  "identifierNumber": 1712,
+  "billingDate": "2023-01-30T22:08:40.791Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23518968",
+      "fullName": "RAIZA DEYANIRA ROCHA",
+      "phoneNumber": "+584241809181"
+    },
+    "installments": [
+      {
+        "id": "35398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T22:08:59.848Z",
+        "amount": 32.49,
+        "status": "DONE"
+      },
+      {
+        "id": "35401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T22:08:59.845Z",
+        "amount": 10.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T22:08:59.845Z",
+        "amount": 10.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T22:08:59.845Z",
+        "amount": 10.83333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

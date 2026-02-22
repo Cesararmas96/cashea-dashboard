@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T22:52:10.012Z",
+  "id": "2621",
+  "amount": 105.43,
+  "invoiceId": "44592",
+  "paidToMerchant": false,
+  "identifierNumber": 3102,
+  "billingDate": "2022-12-19T22:52:10.012Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13729842",
+      "fullName": "EUGENIO DEL VALLE BETANCOURT PENA",
+      "phoneNumber": "+584248409285"
+    },
+    "installments": [
+      {
+        "id": "8598",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:52:36.007Z",
+        "amount": 52.72,
+        "status": "DONE"
+      },
+      {
+        "id": "8601",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:52:36.006Z",
+        "amount": 17.570000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "8599",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:52:36.006Z",
+        "amount": 17.570000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "8600",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:52:36.006Z",
+        "amount": 17.570000000000004,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-12T14:47:31.826Z",
+  "updatedAt": "2025-05-13T15:24:07.642Z",
+  "id": 5703,
+  "name": "Carniceria y Charcuteria La Realeza",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "fcc9020f-a575-41c1-a400-c22b29ab8be1",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "edgaram76@gmail.com",
+    "legalName": "Edgar",
+    "phoneNumber": "4146446456"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-23T13:13:27.763Z",
+      "updatedAt": "2025-05-23T13:13:27.763Z",
+      "id": 14584,
+      "merchantId": 5703,
+      "name": "VR_Carniceria y Charcuteria La Realeza",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3935,
+      "address": {
+        "name": "Calle 99B entre Av. 49B y 53 cas N.º 49B-190 Barrio Gallo Verde Maracaibo Zulia",
+        "long": -71.66481250000001,
+        "lat": 10.6676875,
+        "location": "0101000020E6100000365EBA498CEA51C060E5D022DB552540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-12T14:58:34.738Z",
+      "updatedAt": "2025-05-12T14:58:34.738Z",
+      "id": 13963,
+      "merchantId": 5703,
+      "name": "Carniceria y Charcuteria La Realeza Maracaibo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3935,
+      "address": {
+        "name": "Calle 99B entre Av. 49B y 53 cas N.º 49B-190 Barrio Gallo Verde Maracaibo Zulia",
+        "long": -71.66481250000001,
+        "lat": 10.6676875,
+        "location": "0101000020E6100000365EBA498CEA51C060E5D022DB552540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

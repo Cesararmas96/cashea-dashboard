@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:42:39.145Z",
+  "id": "5125",
+  "amount": 30.73,
+  "invoiceId": "7258",
+  "paidToMerchant": false,
+  "identifierNumber": 5402,
+  "billingDate": "2022-12-26T22:42:39.145Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15761920",
+      "fullName": "DAVID FRANCISCO SASTRE ROJAS",
+      "phoneNumber": "+584142521034"
+    },
+    "installments": [
+      {
+        "id": "17558",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:43:14.625Z",
+        "amount": 15.37,
+        "status": "DONE"
+      },
+      {
+        "id": "17561",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:43:14.624Z",
+        "amount": 5.12,
+        "status": "DONE"
+      },
+      {
+        "id": "17560",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:43:14.624Z",
+        "amount": 5.12,
+        "status": "DONE"
+      },
+      {
+        "id": "17559",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:43:14.624Z",
+        "amount": 5.12,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

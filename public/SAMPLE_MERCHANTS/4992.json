@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-02T17:07:16.563Z",
+  "updatedAt": "2025-04-02T19:48:29.011Z",
+  "id": 4992,
+  "name": "CENTRO OFTALMOLOGICO ALIANZA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "042c62f5-dca5-466c-877a-3f6b2d578b61",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "coalianza.98@gmail.com",
+    "legalName": "FERNAN RAMON BORGES GUEVERA",
+    "phoneNumber": "4249034024"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T19:49:48.023Z",
+      "updatedAt": "2025-04-02T19:49:48.023Z",
+      "id": 12545,
+      "merchantId": 4992,
+      "name": "Centro Oftalmologico Alianza CC Roraima",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "AV. GUARAPICHE CENTROCOMERCIAL RORAIMA PB.LOCAL 1 Y 2 UNARE I PUERTOORDAZ-EDO. BOLIVAR",
+        "long": -62.7519375,
+        "lat": 8.2854375,
+        "location": "0101000020E61000006891ED7C3F604FC0A01A2FDD24922040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

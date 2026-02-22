@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T17:30:06.790Z",
+  "id": "5208",
+  "amount": 31.42,
+  "invoiceId": "13220",
+  "paidToMerchant": false,
+  "identifierNumber": 5492,
+  "billingDate": "2022-12-27T17:30:06.790Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30057805",
+      "fullName": "ROSANGELA ANABEL OCHOA GAMEZ",
+      "phoneNumber": "+584129977309"
+    },
+    "installments": [
+      {
+        "id": "17842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T17:30:32.806Z",
+        "amount": 15.71,
+        "status": "DONE"
+      },
+      {
+        "id": "17843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T17:30:32.806Z",
+        "amount": 4.69544101687995,
+        "status": "DONE"
+      },
+      {
+        "id": "17845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T17:30:32.806Z",
+        "amount": 5.236666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T17:30:32.806Z",
+        "amount": 5.7778923165,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

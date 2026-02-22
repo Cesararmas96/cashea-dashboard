@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-03T16:07:15.542Z",
+  "updatedAt": "2025-04-03T16:07:15.542Z",
+  "id": 5025,
+  "name": "Elemas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cec29c46-b250-4f30-a930-7eff2c203d7f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mercadeoelemas@gmail.com",
+    "legalName": "José De Sousa",
+    "phoneNumber": "04146583621"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T15:07:39.136Z",
+      "updatedAt": "2025-04-23T15:07:39.136Z",
+      "id": 13181,
+      "merchantId": 5025,
+      "name": "VR_Elemas Pto Fijo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4798,
+      "address": {
+        "name": "Elemas Coro ",
+        "long": -70.1874375,
+        "lat": 11.691937500000009,
+        "location": "0101000020E6100000D122DBF9FE8B51C088C0CAA145622740",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-03T16:09:22.499Z",
+      "updatedAt": "2025-04-03T16:09:22.499Z",
+      "id": 12579,
+      "merchantId": 5025,
+      "name": "Elemas Punto Fijo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4798,
+      "address": {
+        "name": "Elemas Coro ",
+        "long": -70.1874375,
+        "lat": 11.691937500000009,
+        "location": "0101000020E6100000D122DBF9FE8B51C088C0CAA145622740",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

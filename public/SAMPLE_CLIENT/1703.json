@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-09T23:05:42.615Z",
+  "id": "1022",
+  "amount": 31.98,
+  "invoiceId": "4503",
+  "paidToMerchant": false,
+  "identifierNumber": 1703,
+  "billingDate": "2022-12-09T23:05:42.615Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-09T04:00:00.659+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "3244",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28494940",
+      "fullName": "BARBARA ASHLEY APONTE GONZALEZ",
+      "phoneNumber": "+584242070722"
+    },
+    "installments": [
+      {
+        "id": "3245",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T23:05:59.937Z",
+        "amount": 5.33,
+        "status": "DONE"
+      },
+      {
+        "id": "3244",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T23:05:59.937Z",
+        "amount": 5.33,
+        "status": "DONE"
+      },
+      {
+        "id": "3243",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T23:05:59.937Z",
+        "amount": 5.33,
+        "status": "DONE"
+      },
+      {
+        "id": "3242",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T23:05:59.937Z",
+        "amount": 15.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

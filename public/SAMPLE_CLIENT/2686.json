@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:30:39.364Z",
+  "id": "2150",
+  "amount": 31.94,
+  "invoiceId": "4053",
+  "paidToMerchant": false,
+  "identifierNumber": 2686,
+  "billingDate": "2022-12-18T00:30:39.364Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25221912",
+      "fullName": "MANUEL ALEJANDRO CEREZO SALAZAR",
+      "phoneNumber": "+584242063182"
+    },
+    "installments": [
+      {
+        "id": "7017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:31:12.390Z",
+        "amount": 5.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:31:12.390Z",
+        "amount": 5.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:31:12.390Z",
+        "amount": 5.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:31:12.391Z",
+        "amount": 15.97,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

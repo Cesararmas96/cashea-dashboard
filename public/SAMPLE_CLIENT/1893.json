@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T21:12:33.813Z",
+  "id": "1234",
+  "amount": 72.98,
+  "invoiceId": "000870",
+  "paidToMerchant": false,
+  "identifierNumber": 1893,
+  "billingDate": "2022-12-11T21:12:33.813Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "38",
+    "buyDebtDate": "2023-01-11T06:00:00.570+00:00",
+    "lastStoreId": 24,
+    "boughtForInstallmentId": "3964",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21062692",
+      "fullName": "FRANCELIS DEL CARMEN RODRIGUEZ MONTILLA",
+      "phoneNumber": "+584120704050"
+    },
+    "installments": [
+      {
+        "id": "3964",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T21:12:59.098Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3965",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T21:12:59.098Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3962",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T21:12:59.098Z",
+        "amount": 36.49,
+        "status": "DONE"
+      },
+      {
+        "id": "3963",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T21:12:59.098Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

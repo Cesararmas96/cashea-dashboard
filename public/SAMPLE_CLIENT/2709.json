@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:39:13.952Z",
+  "id": "2155",
+  "amount": 31.97,
+  "invoiceId": "14644",
+  "paidToMerchant": false,
+  "identifierNumber": 2709,
+  "billingDate": "2022-12-18T00:39:13.952Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14666048",
+      "fullName": "LEONARDO LINARES ARIAS",
+      "phoneNumber": "+584142590033"
+    },
+    "installments": [
+      {
+        "id": "7036",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:39:45.530Z",
+        "amount": 5.329999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "7037",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:39:45.530Z",
+        "amount": 5.329999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "7035",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:39:45.530Z",
+        "amount": 5.329999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "7034",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:39:45.530Z",
+        "amount": 15.98,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

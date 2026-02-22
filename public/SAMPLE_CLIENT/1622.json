@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-08T21:34:16.459Z",
+  "id": "936",
+  "amount": 119,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1622,
+  "billingDate": "2022-12-08T21:34:16.459Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 52,
+    "name": "Swarovski Corner Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

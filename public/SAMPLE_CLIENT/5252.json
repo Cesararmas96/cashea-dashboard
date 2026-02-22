@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:03:14.262Z",
+  "id": "5004",
+  "amount": 31.63,
+  "invoiceId": "33,39",
+  "paidToMerchant": false,
+  "identifierNumber": 5252,
+  "billingDate": "2022-12-26T17:03:14.262Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9916320",
+      "fullName": "OMAIRA JOSEFINA ANDRADES CORREA",
+      "phoneNumber": "+584125523848"
+    },
+    "installments": [
+      {
+        "id": "17160",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:03:51.981Z",
+        "amount": 5.2733333333333325,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17158",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:03:51.982Z",
+        "amount": 15.81,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17161",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:03:51.981Z",
+        "amount": 5.2733333333333325,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17159",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:03:51.981Z",
+        "amount": 5.2733333333333325,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

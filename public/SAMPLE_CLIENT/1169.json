@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-09T21:37:09.907Z",
+  "id": "98",
+  "amount": 183,
+  "invoiceId": "6096",
+  "paidToMerchant": false,
+  "identifierNumber": 1169,
+  "billingDate": "2022-10-09T21:37:09.907Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16655156",
+      "fullName": "ADRIAN JOSE MENDOZA CROES",
+      "phoneNumber": "+584247553112"
+    },
+    "installments": [
+      {
+        "id": "309",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-09T21:37:48.597Z",
+        "amount": 90,
+        "status": "DONE"
+      },
+      {
+        "id": "311",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-06T21:37:48.597Z",
+        "amount": 31,
+        "status": "DONE"
+      },
+      {
+        "id": "310",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-23T21:37:48.597Z",
+        "amount": 31,
+        "status": "DONE"
+      },
+      {
+        "id": "312",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-20T21:37:48.597Z",
+        "amount": 31,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

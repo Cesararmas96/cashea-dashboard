@@ -1,0 +1,133 @@
+{
+  "createdAt": "2025-05-15T20:10:11.869Z",
+  "updatedAt": "2025-05-15T20:10:11.869Z",
+  "id": 5803,
+  "name": "Pollo Cool (Inversiones Vada 2012)",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f06240e3-65f9-440c-9bf1-c505a1592a1f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "luis.va1912@gmail.com",
+    "legalName": "Luis Valero",
+    "phoneNumber": "04144590086"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-20T20:08:26.195Z",
+      "updatedAt": "2025-05-20T20:08:26.195Z",
+      "id": 14410,
+      "merchantId": 5803,
+      "name": "VR_Pollo Cool C.C Los Aviadores Mcy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 2124,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6251,
+      "address": {
+        "name": "Pollo Cool C.C Los Aviadores.",
+        "long": -67.5796875,
+        "lat": 10.186937499999999,
+        "location": "0101000020E61000009A99999919E550C0C0CAA145B65F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T18:52:27.880Z",
+      "updatedAt": "2025-05-15T18:52:27.880Z",
+      "id": 14197,
+      "merchantId": 5803,
+      "name": "Pollo Cool C.C Los Aviadores Mcy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 2124,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6251,
+      "address": {
+        "name": "Pollo Cool C.C Los Aviadores.",
+        "long": -67.5796875,
+        "lat": 10.186937499999999,
+        "location": "0101000020E61000009A99999919E550C0C0CAA145B65F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

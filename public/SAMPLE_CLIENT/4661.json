@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-16T20:14:08.783Z",
+  "id": "8600",
+  "amount": 38.8,
+  "invoiceId": "00006996",
+  "paidToMerchant": false,
+  "identifierNumber": 4661,
+  "billingDate": "2023-01-16T20:14:08.783Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-03-02T04:00:00.979+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "29897",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30016350",
+      "fullName": "DANIEL ALEJANDRO SAN IGNACIO BAQUERO",
+      "phoneNumber": "+584126300684"
+    },
+    "installments": [
+      {
+        "id": "29896",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T20:14:36.635Z",
+        "amount": 6.466666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "29897",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T20:14:36.635Z",
+        "amount": 6.466666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "29894",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T20:14:36.636Z",
+        "amount": 19.4,
+        "status": "DONE"
+      },
+      {
+        "id": "29895",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T20:14:36.635Z",
+        "amount": 6.466666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

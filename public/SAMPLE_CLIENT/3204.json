@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T14:29:24.389Z",
+  "id": "2715",
+  "amount": 40.1,
+  "invoiceId": "50146",
+  "paidToMerchant": false,
+  "identifierNumber": 3204,
+  "billingDate": "2022-12-20T14:29:24.389Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30016333",
+      "fullName": "VALERY NATASHA CAMEJO BENCOMO",
+      "phoneNumber": "+584125953632"
+    },
+    "installments": [
+      {
+        "id": "8942",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T14:34:19.044Z",
+        "amount": 20.05,
+        "status": "DONE"
+      },
+      {
+        "id": "8943",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T14:34:19.044Z",
+        "amount": 6.683333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8944",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T14:34:19.044Z",
+        "amount": 6.683333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8945",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T14:34:19.044Z",
+        "amount": 6.683333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

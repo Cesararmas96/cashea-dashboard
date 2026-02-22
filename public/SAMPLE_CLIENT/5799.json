@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:01:17.792Z",
+  "id": "5519",
+  "amount": 63,
+  "invoiceId": "00002282",
+  "paidToMerchant": false,
+  "identifierNumber": 5799,
+  "billingDate": "2022-12-28T20:01:17.792Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18033374",
+      "fullName": "JORGE ENRIQUE LUNA MACHADO",
+      "phoneNumber": "+584142257244"
+    },
+    "installments": [
+      {
+        "id": "18958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:04:00.607Z",
+        "amount": 31.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:04:00.607Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:04:00.607Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:04:00.607Z",
+        "amount": 10.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

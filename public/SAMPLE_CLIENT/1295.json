@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-05T14:47:32.203Z",
+  "id": "263",
+  "amount": 38,
+  "invoiceId": "3299",
+  "paidToMerchant": false,
+  "identifierNumber": 1295,
+  "billingDate": "2022-11-05T14:47:32.203Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15962727",
+      "fullName": "JUAN CARLOS RIVAS DE LOS RIOS",
+      "phoneNumber": "+584123976429"
+    },
+    "installments": [
+      {
+        "id": "825",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-05T14:47:47.430Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "826",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-19T14:47:47.428Z",
+        "amount": 6,
+        "status": "DONE"
+      },
+      {
+        "id": "827",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-03T14:47:47.428Z",
+        "amount": 6,
+        "status": "DONE"
+      },
+      {
+        "id": "828",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-17T14:47:47.428Z",
+        "amount": 6,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

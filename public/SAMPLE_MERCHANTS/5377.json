@@ -1,0 +1,207 @@
+{
+  "createdAt": "2025-04-25T13:26:11.345Z",
+  "updatedAt": "2025-05-17T13:20:20.621Z",
+  "id": 5377,
+  "name": "MUEBLES MASRI",
+  "ecommerceUrl": null,
+  "changePolicy": "Solo realizamos cambios o devoluciones por defectos de fábrica",
+  "email": "MUEBLERIAMASRI@GMAIL.COM",
+  "phoneNumber": "+584248772115",
+  "logoUrl": null,
+  "data": {
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": 747,
+  "tags": [],
+  "uuid": "f7b50568-d194-42f0-a3ad-b6d192614fcf",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gerenciadk79@gmail.com",
+    "legalName": "Elías Drikha",
+    "phoneNumber": "4248772115"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T16:42:00.940Z",
+      "updatedAt": "2025-05-16T16:42:00.940Z",
+      "id": 14239,
+      "merchantId": 5377,
+      "name": "MUEBLES MASRI Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 747,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6832,
+      "address": {
+        "name": "CALLE JUNCAL, PUERTO LA CRUZ, LOCAL 31-A, ANZOATEGUI",
+        "long": -64.625,
+        "lat": 10.225000000000001,
+        "location": "0101000020E610000000000000002850C03433333333732440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-25T13:30:05.236Z",
+      "updatedAt": "2025-04-25T13:30:05.236Z",
+      "id": 13266,
+      "merchantId": 5377,
+      "name": "MUEBLES MASRI Calle Juncal",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 747,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6832,
+      "address": {
+        "name": "CALLE JUNCAL, PUERTO LA CRUZ, LOCAL 31-A, ANZOATEGUI",
+        "long": -64.625,
+        "lat": 10.225000000000001,
+        "location": "0101000020E610000000000000002850C03433333333732440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-25T13:36:13.629Z",
+      "updatedAt": "2025-04-25T13:36:13.629Z",
+      "id": 13269,
+      "merchantId": 5377,
+      "name": "MUEBLERIA MASRI Calle Libertad",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 747,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 0,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6832,
+      "address": {
+        "name": "CALLE LIBERTAD, PUERTO LA CRUZ LOCAL 33, ANZOATEGUI",
+        "long": -64.6351875,
+        "lat": 10.222562499999995,
+        "location": "0101000020E6100000FED478E9A62850C0C8A145B6F3712440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    },
+    {
+      "id": 5,
+      "name": "SPLIT_12",
+      "data": {
+        "minimumLevel": 6,
+        "installmentsAmount": 13,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 12 cuotas"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

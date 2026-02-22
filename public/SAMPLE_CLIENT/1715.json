@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T00:16:22.679Z",
+  "id": "1037",
+  "amount": 36.84,
+  "invoiceId": "13915",
+  "paidToMerchant": false,
+  "identifierNumber": 1715,
+  "billingDate": "2022-12-10T00:16:22.679Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11563428",
+      "fullName": "MARICELA JOSEFINA BURGUILLOS CASTRO",
+      "phoneNumber": "+584149360100"
+    },
+    "installments": [
+      {
+        "id": "3309",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T00:23:23.037Z",
+        "amount": 6.140000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "3307",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T00:23:23.037Z",
+        "amount": 6.140000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "3308",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T00:23:23.037Z",
+        "amount": 6.140000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "3306",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T00:23:23.037Z",
+        "amount": 18.42,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

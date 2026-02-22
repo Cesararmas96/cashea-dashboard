@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T01:45:00.916Z",
+  "id": "3842",
+  "amount": 85.95,
+  "invoiceId": "7132",
+  "paidToMerchant": false,
+  "identifierNumber": 4227,
+  "billingDate": "2022-12-23T01:45:00.916Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21289439",
+      "fullName": "HABIBETH AIDA MENDOZA SOCORRO",
+      "phoneNumber": "+584242153979"
+    },
+    "installments": [
+      {
+        "id": "12934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:45:30.268Z",
+        "amount": 42.98,
+        "status": "DONE"
+      },
+      {
+        "id": "12936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:45:30.268Z",
+        "amount": 14.323333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "12937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:45:30.268Z",
+        "amount": 14.323333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "12935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:45:30.268Z",
+        "amount": 14.323333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

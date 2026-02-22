@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:43:54.188Z",
+  "id": "4486",
+  "amount": 70,
+  "invoiceId": "00018455",
+  "paidToMerchant": false,
+  "identifierNumber": 4869,
+  "billingDate": "2022-12-24T01:43:54.188Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9881230",
+      "fullName": "FRANCISCO ANTONIO LOPEZ REQUENA",
+      "phoneNumber": "+584143225403"
+    },
+    "installments": [
+      {
+        "id": "15286",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:45:45.538Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "15289",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:45:45.538Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15288",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:45:45.538Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15287",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:45:45.538Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

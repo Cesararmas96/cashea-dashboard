@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T20:15:20.977Z",
+  "id": "5250",
+  "amount": 34.94,
+  "invoiceId": "194,80",
+  "paidToMerchant": false,
+  "identifierNumber": 5571,
+  "billingDate": "2022-12-27T20:15:20.977Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12723017",
+      "fullName": "KELLY KATIUSKA VALERO GONZALEZ",
+      "phoneNumber": "+584265104584"
+    },
+    "installments": [
+      {
+        "id": "18011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T20:16:35.304Z",
+        "amount": 5.823333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T20:16:35.306Z",
+        "amount": 17.47,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T20:16:35.304Z",
+        "amount": 5.823333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T20:16:35.304Z",
+        "amount": 5.823333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

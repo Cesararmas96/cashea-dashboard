@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T23:41:36.305Z",
+  "id": "1145",
+  "amount": 45.1,
+  "invoiceId": "11731",
+  "paidToMerchant": false,
+  "identifierNumber": 4909,
+  "billingDate": "2022-12-10T23:41:36.305Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13127692",
+      "fullName": "TEDDY JOEL RIOS GONZALEZ",
+      "phoneNumber": "+584166332140"
+    },
+    "installments": [
+      {
+        "id": "3653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T23:42:33.202Z",
+        "amount": 7.516666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T23:42:33.202Z",
+        "amount": 7.516666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T23:42:33.202Z",
+        "amount": 7.516666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T23:42:33.203Z",
+        "amount": 22.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

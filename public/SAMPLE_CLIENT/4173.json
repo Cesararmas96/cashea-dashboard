@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T19:59:15.670Z",
+  "id": "10088",
+  "amount": 50.33,
+  "invoiceId": "16443",
+  "paidToMerchant": false,
+  "identifierNumber": 4173,
+  "billingDate": "2023-01-17T19:59:15.670Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23943624",
+      "fullName": "OSMAR RAFAEL PALMA GUERRERO",
+      "phoneNumber": "+584140221866"
+    },
+    "installments": [
+      {
+        "id": "30189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T19:59:29.255Z",
+        "amount": 8.389999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T19:59:29.256Z",
+        "amount": 25.16,
+        "status": "DONE"
+      },
+      {
+        "id": "30187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T19:59:29.255Z",
+        "amount": 8.389999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T19:59:29.255Z",
+        "amount": 8.389999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

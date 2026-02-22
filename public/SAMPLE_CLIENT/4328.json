@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T16:07:57.272Z",
+  "id": "3918",
+  "amount": 82.99,
+  "invoiceId": "48,96",
+  "paidToMerchant": false,
+  "identifierNumber": 4328,
+  "billingDate": "2022-12-23T16:07:57.272Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25369815",
+      "fullName": "MARIANGEL ADASOL ESPINOZA LIBERON",
+      "phoneNumber": "+584242231460"
+    },
+    "installments": [
+      {
+        "id": "13198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T16:09:00.131Z",
+        "amount": 41.49,
+        "status": "DONE"
+      },
+      {
+        "id": "13200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T16:09:00.130Z",
+        "amount": 13.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T16:09:00.130Z",
+        "amount": 13.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T16:09:00.130Z",
+        "amount": 13.83333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

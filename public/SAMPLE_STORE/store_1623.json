@@ -1,0 +1,74 @@
+[
+  {
+    "id": 665,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J411746568",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "internalBankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "account": "01910098792198417186",
+    "accountType": "Corriente",
+    "phoneNumber": "4122045178",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 663,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J411746568",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "internalBankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "account": "01910098792198417186",
+    "accountType": "Corriente",
+    "phoneNumber": "4122045178",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 664,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J411746568",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "internalBankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "account": "01910098792198417186",
+    "accountType": "Corriente",
+    "phoneNumber": "4122045178",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 666,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J411746568",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "internalBankHolder": "BIOKEM INGREDIENTES, C.A.",
+    "account": "01910098792398324999",
+    "accountType": "Custodia",
+    "phoneNumber": "4122045178",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

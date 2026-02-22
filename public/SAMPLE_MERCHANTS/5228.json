@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-14T17:42:51.266Z",
+  "updatedAt": "2025-07-18T18:54:39.641Z",
+  "id": 5228,
+  "name": "Contodo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 73,
+  "tags": [],
+  "uuid": "b74c29a1-db94-48c2-b01c-067fe704d253",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ana.colmenares@abreugrupo.com",
+    "legalName": "Ana María Colmenares",
+    "phoneNumber": "4248952920"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T17:45:26.245Z",
+      "updatedAt": "2025-04-14T17:45:26.245Z",
+      "id": 12960,
+      "merchantId": 5228,
+      "name": "C01 CDO COSTANERA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 73,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11259,
+      "address": {
+        "name": "C01 CDO COSTANERA",
+        "long": -64.69131250000001,
+        "lat": 10.172937500000003,
+        "location": "0101000020E61000003AB4C8763E2C50C0088195438B582440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-12T15:30:25.898Z",
+      "updatedAt": "2025-12-12T15:30:25.898Z",
+      "id": 27914,
+      "merchantId": 5228,
+      "name": "C03 CDO CALLE LIBERTAD",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11259,
+      "address": {
+        "name": "Calle Libertad, Puerto La Cruz, Edo Anzoátegui",
+        "long": -64.63656250000001,
+        "lat": 10.220937499999991,
+        "location": "0101000020E61000000BD7A370BD2850C080EB51B81E712440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-12T13:54:07.816Z",
+      "updatedAt": "2025-09-12T13:54:07.816Z",
+      "id": 21292,
+      "merchantId": 5228,
+      "name": "C02 CDO LOS NUEVOS TEQUES",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3539,
+      "address": {
+        "name": "Urb los nuevos teques, cc los nuevos teques, pb, local 11, munc Guaicaipuro, edo miranda",
+        "long": -67.0344375,
+        "lat": 10.343812499999999,
+        "location": "0101000020E61000006210583934C250C078E9263108B02440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

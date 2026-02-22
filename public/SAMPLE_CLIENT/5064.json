@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T19:53:05.820Z",
+  "id": "4836",
+  "amount": 39.99,
+  "invoiceId": "4087",
+  "paidToMerchant": false,
+  "identifierNumber": 5064,
+  "billingDate": "2022-12-24T19:53:05.820Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-15T04:00:00.720+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": 16571,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24219331",
+      "fullName": "YOMARY DEL CARMEN PONCE SAMPAYO",
+      "phoneNumber": "+584242653110"
+    },
+    "installments": [
+      {
+        "id": "16571",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:53:43.319Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16570",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:53:43.319Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "16573",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:53:43.319Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16572",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:53:43.319Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

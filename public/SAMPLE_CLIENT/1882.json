@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-11-10T18:00:40.489Z",
+  "id": "334",
+  "amount": 50.000000000044,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1882,
+  "billingDate": "2022-11-10T18:00:40.489Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17142398",
+      "fullName": "ELIO JUAN CHAMATE RODRIGUEZ",
+      "phoneNumber": "+584141633253"
+    },
+    "installments": [
+      {
+        "id": "1028",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-22T18:00:40.545Z",
+        "amount": 8.333333333348,
+        "status": "DONE"
+      },
+      {
+        "id": "1027",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-08T18:00:40.545Z",
+        "amount": 8.333333333348,
+        "status": "DONE"
+      },
+      {
+        "id": "1025",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-10T18:00:40.545Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "1026",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-24T18:00:40.545Z",
+        "amount": 8.333333333348,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 16,
+    "name": "Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 36,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T23:55:51.248Z",
+  "id": "1151",
+  "amount": 189.28,
+  "invoiceId": "14009",
+  "paidToMerchant": false,
+  "identifierNumber": 1820,
+  "billingDate": "2022-12-10T23:55:51.248Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12483034",
+      "fullName": "ZULLY CAROLINA RIOS DE ARGUELLO",
+      "phoneNumber": "+584141377679"
+    },
+    "installments": [
+      {
+        "id": "3670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T23:56:53.564Z",
+        "amount": 94.64,
+        "status": "DONE"
+      },
+      {
+        "id": "3673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T23:56:53.563Z",
+        "amount": 31.546666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T23:56:53.563Z",
+        "amount": 31.546666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T23:56:53.563Z",
+        "amount": 31.546666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

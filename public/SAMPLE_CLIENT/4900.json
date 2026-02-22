@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:39:42.691Z",
+  "id": "4564",
+  "amount": 94.61,
+  "invoiceId": "00013356",
+  "paidToMerchant": false,
+  "identifierNumber": 4900,
+  "billingDate": "2022-12-24T15:39:42.691Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22983377",
+      "fullName": "FRANK CARLOS DEPABLOS RIVERA",
+      "phoneNumber": "+584247010425"
+    },
+    "installments": [
+      {
+        "id": "15566",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:40:10.285Z",
+        "amount": 47.3,
+        "status": "DONE"
+      },
+      {
+        "id": "15567",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:40:10.285Z",
+        "amount": 15.770000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15568",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:40:10.285Z",
+        "amount": 15.770000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15569",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:40:10.285Z",
+        "amount": 15.770000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

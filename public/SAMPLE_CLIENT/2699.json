@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T01:54:13.788Z",
+  "id": "2179",
+  "amount": 55,
+  "invoiceId": "684",
+  "paidToMerchant": false,
+  "identifierNumber": 2699,
+  "billingDate": "2022-12-18T01:54:13.788Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15831342",
+      "fullName": "YEZNER EDWIN RIQUETT GONZALEZ",
+      "phoneNumber": "+584142159410"
+    },
+    "installments": [
+      {
+        "id": "7126",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T01:58:09.949Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "7129",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T01:58:09.948Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "7127",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T01:58:09.948Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "7128",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T01:58:09.948Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

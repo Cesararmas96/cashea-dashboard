@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-16T22:32:58.956Z",
+  "id": "1807",
+  "amount": 144.98,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2397,
+  "billingDate": "2022-12-16T22:32:58.956Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

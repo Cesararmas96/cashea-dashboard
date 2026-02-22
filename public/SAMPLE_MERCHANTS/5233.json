@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-15T02:17:16.865Z",
+  "updatedAt": "2025-04-15T02:19:06.081Z",
+  "id": 5233,
+  "name": "Venechi",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e579bfb4-b0aa-44b7-b14e-7b47d89a2b98",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "venechi.tiendas@outlook.com",
+    "legalName": "Sleiman Al Masri",
+    "phoneNumber": "4128401117"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T02:19:29.118Z",
+      "updatedAt": "2025-04-15T02:19:29.118Z",
+      "id": 12983,
+      "merchantId": 5233,
+      "name": "Venechi CC La Cascada Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5709,
+      "address": {
+        "name": "CC La Cascada Maturin",
+        "long": -63.1555625,
+        "lat": 9.703062500000001,
+        "location": "0101000020E6100000F4FDD478E9934FC08816D9CEF7672340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

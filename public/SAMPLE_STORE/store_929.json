@@ -1,0 +1,74 @@
+[
+  {
+    "id": 531,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500370725",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LIVERI DIGITAL, C.A",
+    "internalBankHolder": "LIVERI DIGITAL C.A.",
+    "account": "01910098782198406682",
+    "accountType": "Corriente",
+    "phoneNumber": "4241251527",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 529,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500370725",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LIVERI DIGITAL, C.A",
+    "internalBankHolder": "LIVERI DIGITAL C.A.",
+    "account": "01910098782198406682",
+    "accountType": "Corriente",
+    "phoneNumber": "4241251527",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 530,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500370725",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LIVERI DIGITAL, C.A",
+    "internalBankHolder": "LIVERI DIGITAL C.A.",
+    "account": "01910098782198406682",
+    "accountType": "Corriente",
+    "phoneNumber": "4241251527",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 532,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500370725",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LIVERI DIGITAL, C.A",
+    "internalBankHolder": "LIVERI DIGITAL C.A.",
+    "account": "01910098792398311301",
+    "accountType": "Custodia",
+    "phoneNumber": "4241251527",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

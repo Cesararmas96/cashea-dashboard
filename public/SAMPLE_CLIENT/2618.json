@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T00:15:13.754Z",
+  "id": "6711",
+  "amount": 31,
+  "invoiceId": "15110",
+  "paidToMerchant": false,
+  "identifierNumber": 2618,
+  "billingDate": "2022-12-31T00:15:13.754Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "84",
+    "buyDebtDate": "2023-01-30T04:00:01.463+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "23168",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25227623",
+      "fullName": "WILME HUMBERTO QUINTERO RIOS",
+      "phoneNumber": "+584142188622"
+    },
+    "installments": [
+      {
+        "id": "23168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T00:18:17.021Z",
+        "amount": 5.166666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "23166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T00:18:17.021Z",
+        "amount": 15.5,
+        "status": "DONE"
+      },
+      {
+        "id": "23169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T00:18:17.021Z",
+        "amount": 5.166666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "23167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T00:18:17.021Z",
+        "amount": 5.166666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

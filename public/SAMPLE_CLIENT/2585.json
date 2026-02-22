@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T22:49:44.306Z",
+  "id": "10110",
+  "amount": 32.15,
+  "invoiceId": "4857",
+  "paidToMerchant": false,
+  "identifierNumber": 2585,
+  "billingDate": "2023-01-17T22:49:44.306Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24108509",
+      "fullName": "LUISANA MATHEUS FELIPE",
+      "phoneNumber": "+584248469455"
+    },
+    "installments": [
+      {
+        "id": "30265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T22:49:50.266Z",
+        "amount": 5.359999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T22:49:50.266Z",
+        "amount": 5.359999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T22:49:50.268Z",
+        "amount": 16.07,
+        "status": "DONE"
+      },
+      {
+        "id": "30263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T22:49:50.266Z",
+        "amount": 5.359999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

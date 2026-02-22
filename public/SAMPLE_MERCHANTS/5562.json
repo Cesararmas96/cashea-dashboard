@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-06T15:06:09.961Z",
+  "updatedAt": "2025-05-15T12:18:32.844Z",
+  "id": 5562,
+  "name": "Farmauno",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "eb38c2dc-03cd-4ec3-a43a-81e8c0b369b8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "maltamiranda@gmail.com",
+    "legalName": "MADELAINE YBETH",
+    "phoneNumber": "04126547045"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T15:08:11.020Z",
+      "updatedAt": "2025-05-06T15:08:11.020Z",
+      "id": 13642,
+      "merchantId": 5562,
+      "name": "Farmauno Av España",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5061,
+      "address": {
+        "name": "AV ESPAÑA EDIF ISABELLA PISO PB LOCAL 1 SECTOR PUEBLO NUEVO SAN CRISTOBAL TACHIRA",
+        "long": -72.20625,
+        "lat": 7.7862499999999955,
+        "location": "0101000020E610000033333333330D52C080EB51B81E251F40",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

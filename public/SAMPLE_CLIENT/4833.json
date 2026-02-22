@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:28:58.042Z",
+  "id": "2768",
+  "amount": 40,
+  "invoiceId": "17458",
+  "paidToMerchant": false,
+  "identifierNumber": 4833,
+  "billingDate": "2022-12-20T18:28:58.042Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14560726",
+      "fullName": "ANALOYS DEL CARMEN GOMEZ ROJAS",
+      "phoneNumber": "+584140216852"
+    },
+    "installments": [
+      {
+        "id": "9124",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:29:58.324Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9122",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:29:58.324Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "9123",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:29:58.324Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9125",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:29:58.324Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

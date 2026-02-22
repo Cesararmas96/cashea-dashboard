@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T23:57:18.923Z",
+  "id": "5688",
+  "amount": 103.49,
+  "invoiceId": "593",
+  "paidToMerchant": false,
+  "identifierNumber": 5979,
+  "billingDate": "2022-12-28T23:57:18.923Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-28T04:00:00.417+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "19584",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10634521",
+      "fullName": "YASMELY JOSEFINA MONTILLA HERNANDEZ",
+      "phoneNumber": "+584142247357"
+    },
+    "installments": [
+      {
+        "id": "19584",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:57:39.226Z",
+        "amount": 17.249999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "19585",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:57:39.226Z",
+        "amount": 17.249999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "19582",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:57:39.227Z",
+        "amount": 51.74,
+        "status": "DONE"
+      },
+      {
+        "id": "19583",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:57:39.226Z",
+        "amount": 17.249999999999996,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T15:45:17.029Z",
+  "id": "11574",
+  "amount": 86.5,
+  "invoiceId": "TM-SO158895",
+  "paidToMerchant": false,
+  "identifierNumber": 3217,
+  "billingDate": "2023-01-31T15:45:17.029Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25227043",
+      "fullName": "STEPHANIE YEIMAR BRICEÑO UTRERA",
+      "phoneNumber": "+584141013481"
+    },
+    "installments": [
+      {
+        "id": "35509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T15:46:19.182Z",
+        "amount": 14.416666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T15:46:19.182Z",
+        "amount": 14.416666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T15:46:19.182Z",
+        "amount": 43.25,
+        "status": "DONE"
+      },
+      {
+        "id": "35507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T15:46:19.182Z",
+        "amount": 14.416666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 69,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

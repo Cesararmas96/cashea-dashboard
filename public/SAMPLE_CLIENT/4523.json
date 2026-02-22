@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:06:30.199Z",
+  "id": "4150",
+  "amount": 60,
+  "invoiceId": "9413",
+  "paidToMerchant": false,
+  "identifierNumber": 4523,
+  "billingDate": "2022-12-23T21:06:30.199Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "52",
+    "buyDebtDate": "2023-01-09T04:00:01.237+00:00",
+    "lastStoreId": 38,
+    "boughtForInstallmentId": "14043",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25214254",
+      "fullName": "DERIANT ENRIQUE CABRICES HERMOSO",
+      "phoneNumber": "+584242409854"
+    },
+    "installments": [
+      {
+        "id": "14045",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:07:22.721Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "14044",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:07:22.721Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "14042",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:07:22.721Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "14043",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:07:22.721Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,63 @@
+{
+  "createdAt": "2022-12-24T18:56:10.488Z",
+  "id": "4776",
+  "amount": 130.12,
+  "invoiceId": "18561",
+  "paidToMerchant": false,
+  "identifierNumber": 5020,
+  "billingDate": "2022-12-24T18:56:10.488Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "cancellationReason": "Cancelled from API Retool:  Indica que la compra no fue realizada",
+    "canceledAtMilliseconds": 1764094824158,
+    "originCancellation": "ADMIN"
+  },
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27588603",
+      "fullName": "ORIANY PAOLA ANGARITA MEDINA",
+      "phoneNumber": "+584123015082"
+    },
+    "installments": [
+      {
+        "id": "16353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:56:34.061Z",
+        "amount": 21.686666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:56:34.061Z",
+        "amount": 21.686666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:56:34.061Z",
+        "amount": 21.686666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:56:34.061Z",
+        "amount": 65.06,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

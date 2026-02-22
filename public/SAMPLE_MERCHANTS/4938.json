@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-31T21:27:52.164Z",
+  "updatedAt": "2025-03-31T21:27:52.164Z",
+  "id": 4938,
+  "name": "Auto Escape SILEMCAR",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f691bf21-7f14-4175-a21d-3725372d8f93",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cubillan.andres@gmail.com",
+    "legalName": "ANDRES",
+    "phoneNumber": "04126278722"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-31T21:29:44.317Z",
+      "updatedAt": "2025-03-31T21:29:44.317Z",
+      "id": 12435,
+      "merchantId": 4938,
+      "name": "Auto Escape SILEMCAR Maracaibo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7648,
+      "address": {
+        "name": "CALLE 79 DR. QUINTERO LOCAL NRO. 14A-85 SECTOR BELLOSO MARACAIBO ESTADO ZULIA",
+        "long": -71.61806250000001,
+        "lat": 10.661687500000014,
+        "location": "0101000020E6100000941804568EE751C0185839B4C8522540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T13:06:51.282Z",
+      "updatedAt": "2025-05-07T13:06:51.282Z",
+      "id": 13695,
+      "merchantId": 4938,
+      "name": "VR_Auto Escape SILEMCAR",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7648,
+      "address": {
+        "name": "CALLE 79 DR. QUINTERO LOCAL NRO. 14A-85 SECTOR BELLOSO MARACAIBO ESTADO ZULIA",
+        "long": -71.61806250000001,
+        "lat": 10.661687500000014,
+        "location": "0101000020E6100000941804568EE751C0185839B4C8522540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

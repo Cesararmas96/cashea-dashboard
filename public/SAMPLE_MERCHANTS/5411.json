@@ -1,0 +1,150 @@
+{
+  "createdAt": "2025-04-28T13:21:45.615Z",
+  "updatedAt": "2025-06-11T22:44:09.976Z",
+  "id": 5411,
+  "name": "Madison Center",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "57838ad3-9a48-4319-a09e-ad3c4a8b4b65",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "corporacionchallenger360@gmail.com",
+    "legalName": "Guillermo Woliner",
+    "phoneNumber": "4149175195"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T14:10:20.397Z",
+      "updatedAt": "2025-05-09T14:10:20.397Z",
+      "id": 13868,
+      "merchantId": 5411,
+      "name": "CORPORACION CHALLENGER 360 Edif Tecno Avila",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4416,
+      "address": {
+        "name": "Calle Miraima, Edif Tecno Avila, local T4, Boleíta Norte, Caracas.",
+        "long": -66.8204375,
+        "lat": 10.494937500000006,
+        "location": "0101000020E61000005EBA490C82B450C0C820B07268FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T13:23:16.368Z",
+      "updatedAt": "2025-04-28T13:23:16.368Z",
+      "id": 13326,
+      "merchantId": 5411,
+      "name": "CORPORACION CHALLENGER 360 Edif Tecno Avila",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4416,
+      "address": {
+        "name": "Calle Miraima, Edif Tecno Avila, local T4, Boleíta Norte, Caracas.",
+        "long": -66.8204375,
+        "lat": 10.494937500000006,
+        "location": "0101000020E61000005EBA490C82B450C0C820B07268FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-13T17:15:01.730Z",
+      "updatedAt": "2025-06-13T17:15:01.730Z",
+      "id": 15676,
+      "merchantId": 5411,
+      "name": "Web Madison Center",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4416,
+      "address": {
+        "name": "Sucursal Online",
+        "long": -66.83164173154401,
+        "lat": 10.484634249395867,
+        "location": "0101000020E61000001ABE3D9E39B550C0805AF7FA21F82440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-05T21:39:50.710Z",
+  "id": "276",
+  "amount": 80,
+  "invoiceId": "6515",
+  "paidToMerchant": false,
+  "identifierNumber": 2173,
+  "billingDate": "2022-11-05T21:39:50.710Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21618145",
+      "fullName": "YEFERSON JOSE REYES RODRIGUEZ",
+      "phoneNumber": "+584129972400"
+    },
+    "installments": [
+      {
+        "id": "869",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-05T21:41:24.378Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "872",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-17T21:41:24.377Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "871",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-03T21:41:24.377Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "870",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-19T21:41:24.377Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

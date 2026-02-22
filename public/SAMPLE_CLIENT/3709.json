@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:58:13.608Z",
+  "id": "3271",
+  "amount": 65,
+  "invoiceId": "1823",
+  "paidToMerchant": false,
+  "identifierNumber": 3709,
+  "billingDate": "2022-12-21T22:58:13.608Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26738983",
+      "fullName": "JOSE ESTEBAN TORRES ABREU",
+      "phoneNumber": "+584141320270"
+    },
+    "installments": [
+      {
+        "id": "10870",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:58:47.926Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "10873",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:58:47.925Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10872",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:58:47.925Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10871",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:58:47.925Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

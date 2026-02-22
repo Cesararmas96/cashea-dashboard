@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:14:56.937Z",
+  "id": "1287",
+  "amount": 60,
+  "invoiceId": "1615",
+  "paidToMerchant": false,
+  "identifierNumber": 1555,
+  "billingDate": "2022-12-11T23:14:56.937Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18810203",
+      "fullName": "KATIUSKA CAROLINA VALDEZ RIVAS",
+      "phoneNumber": "+584241994333"
+    },
+    "installments": [
+      {
+        "id": "4138",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:15:22.475Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "4139",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:15:22.474Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "4141",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:15:22.474Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "4140",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:15:22.474Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

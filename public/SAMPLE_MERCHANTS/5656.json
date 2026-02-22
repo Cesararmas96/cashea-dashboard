@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-09T03:07:54.778Z",
+  "updatedAt": "2025-05-13T16:06:44.309Z",
+  "id": 5656,
+  "name": "Chain a la Parrilla",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5ed39c30-c2fa-459a-afa2-a46d4a9cbbb5",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "chainalaparrilla@gmail.com",
+    "legalName": "Efrain ",
+    "phoneNumber": "04244353808"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-10T17:07:08.012Z",
+      "updatedAt": "2025-05-10T17:07:08.012Z",
+      "id": 13941,
+      "merchantId": 5656,
+      "name": "VR_Chain a la Parrilla Naguanagua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4148,
+      "address": {
+        "name": "Chain a la Parrilla Naguangua.",
+        "long": -68.00706249999999,
+        "lat": 10.230062500000003,
+        "location": "0101000020E6100000CAA145B6730051C0701283C0CA752440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T03:09:01.879Z",
+      "updatedAt": "2025-05-09T03:09:01.879Z",
+      "id": 13861,
+      "merchantId": 5656,
+      "name": "Chain a la Parrilla Naguangua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4148,
+      "address": {
+        "name": "Chain a la Parrilla Naguangua.",
+        "long": -68.00706249999999,
+        "lat": 10.230062500000003,
+        "location": "0101000020E6100000CAA145B6730051C0701283C0CA752440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

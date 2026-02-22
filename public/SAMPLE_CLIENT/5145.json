@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T20:47:19.723Z",
+  "id": "4881",
+  "amount": 98.8,
+  "invoiceId": "13864",
+  "paidToMerchant": false,
+  "identifierNumber": 5145,
+  "billingDate": "2022-12-24T20:47:19.723Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-07T04:00:01.044+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "16733",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18033882",
+      "fullName": "FRANCIS MARISOL ROJAS PAZ",
+      "phoneNumber": "+584241855558"
+    },
+    "installments": [
+      {
+        "id": "16732",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:49:37.154Z",
+        "amount": 16.466666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "16730",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:49:37.154Z",
+        "amount": 49.4,
+        "status": "DONE"
+      },
+      {
+        "id": "16733",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:49:37.154Z",
+        "amount": 16.466666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "16731",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:49:37.154Z",
+        "amount": 16.466666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

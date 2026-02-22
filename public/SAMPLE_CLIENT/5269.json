@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T19:08:58.019Z",
+  "id": "5874",
+  "amount": 77.4,
+  "invoiceId": "14700",
+  "paidToMerchant": false,
+  "identifierNumber": 5269,
+  "billingDate": "2022-12-29T19:08:58.019Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12115836",
+      "fullName": "RICHARD AMILCAR PORTILLO HERNANDEZ",
+      "phoneNumber": "+584123233836"
+    },
+    "installments": [
+      {
+        "id": "20266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T19:13:20.318Z",
+        "amount": 38.7,
+        "status": "DONE"
+      },
+      {
+        "id": "20268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T19:13:20.318Z",
+        "amount": 12.9,
+        "status": "DONE"
+      },
+      {
+        "id": "20269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T19:13:20.318Z",
+        "amount": 12.9,
+        "status": "DONE"
+      },
+      {
+        "id": "20267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T19:13:20.318Z",
+        "amount": 12.9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

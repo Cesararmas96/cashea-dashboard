@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:24:29.108Z",
+  "id": "3010",
+  "amount": 37.43,
+  "invoiceId": "00001819",
+  "paidToMerchant": false,
+  "identifierNumber": 3809,
+  "billingDate": "2022-12-21T00:24:29.108Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26029124",
+      "fullName": "JOSMARLI RAFAELA CARIPE GONZALEZ",
+      "phoneNumber": "+584146859911"
+    },
+    "installments": [
+      {
+        "id": "9934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:24:49.084Z",
+        "amount": 18.71,
+        "status": "DONE"
+      },
+      {
+        "id": "9937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:24:49.084Z",
+        "amount": 6.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:24:49.084Z",
+        "amount": 6.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:24:49.084Z",
+        "amount": 6.239999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

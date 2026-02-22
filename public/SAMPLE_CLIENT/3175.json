@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:01:42.830Z",
+  "id": "2663",
+  "amount": 96.04,
+  "invoiceId": "13712",
+  "paidToMerchant": false,
+  "identifierNumber": 3175,
+  "billingDate": "2022-12-20T00:01:42.830Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21132570",
+      "fullName": "ERICK EDUARDO REYES AVILA",
+      "phoneNumber": "+584242822185"
+    },
+    "installments": [
+      {
+        "id": "8742",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:02:29.778Z",
+        "amount": 48.02,
+        "status": "DONE"
+      },
+      {
+        "id": "8745",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:02:29.777Z",
+        "amount": 16.006666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "8744",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:02:29.777Z",
+        "amount": 16.006666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "8743",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:02:29.777Z",
+        "amount": 16.006666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

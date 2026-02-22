@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:06:08.911Z",
+  "id": "4385",
+  "amount": 89.9,
+  "invoiceId": "15283",
+  "paidToMerchant": false,
+  "identifierNumber": 4774,
+  "billingDate": "2022-12-24T00:06:08.911Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25236955",
+      "fullName": "ADELCHI ULDERICO ANTONIO RUGGIERO RUSSO",
+      "phoneNumber": "+584241964315"
+    },
+    "installments": [
+      {
+        "id": "14894",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:06:41.785Z",
+        "amount": 44.95,
+        "status": "DONE"
+      },
+      {
+        "id": "14897",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:06:41.783Z",
+        "amount": 14.983333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14896",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:06:41.783Z",
+        "amount": 14.983333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14895",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:06:41.783Z",
+        "amount": 14.983333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

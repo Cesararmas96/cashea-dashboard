@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T19:58:36.929Z",
+  "id": "1361",
+  "amount": 34.99,
+  "invoiceId": "5915",
+  "paidToMerchant": false,
+  "identifierNumber": 1945,
+  "billingDate": "2022-12-13T19:58:36.929Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26484548",
+      "fullName": "LUZANGELYS ALONDRA GONZALEZ MORALES",
+      "phoneNumber": "+584141305025"
+    },
+    "installments": [
+      {
+        "id": "4401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T19:59:05.906Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T19:59:05.906Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T19:59:05.907Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "4399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T19:59:05.906Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

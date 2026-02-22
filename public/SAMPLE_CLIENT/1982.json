@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-31T22:35:58.747Z",
+  "id": "7166",
+  "amount": 60.62,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1982,
+  "billingDate": "2022-12-31T22:35:58.747Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31046761",
+      "fullName": "DALESKA DANIELA URBINA MORALES",
+      "phoneNumber": "+584242888721"
+    },
+    "installments": [
+      {
+        "id": "24837",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T22:36:22.532Z",
+        "amount": 10.103333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "24834",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T22:36:22.533Z",
+        "amount": 30.31,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "24836",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T22:36:22.532Z",
+        "amount": 10.103333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "24835",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T22:36:22.532Z",
+        "amount": 10.103333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,151 @@
+{
+  "createdAt": "2025-05-08T15:51:33.318Z",
+  "updatedAt": "2025-09-02T17:35:00.720Z",
+  "id": 5634,
+  "name": "Boardriders",
+  "ecommerceUrl": null,
+  "changePolicy": "\"Políticas de cambio\n\nImprescindible presentar factura original de compra para realizar cambios. Tiempo máximo para realizar cambios: 30 días de la fecha de compra. Cambios por defecto de fábrica: 30 días a partir de la fecha de compra, no aplica para productos que demuestren haber tenido mal uso. Debe presentar factura original de compra y empaque del producto. No se aceptan devoluciones, solo aceptamos cambios de mercancía por artículos de igual o mayor valor. Mercancía en promoción, o descuento, no tiene cambio.✓ por motivos de higiene no se aceptan cambios ni devoluciones en los trajes de baño ni ropa interior. Por limitantes técnicas, no se hacen reimpresiones de facturas, ni de notas de crédito.\n\"",
+  "email": "Ventasboraiders@gmail.com",
+  "phoneNumber": "+584242484635",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": 11,
+  "tags": [],
+  "uuid": "97b1a715-0cc7-46b4-8c6a-bfa3545856a7",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "10:00",
+    "to": "19:00"
+  },
+  "contact": {
+    "email": "lourdes.carreno@bwavegroup.com",
+    "legalName": "Lourdes",
+    "phoneNumber": "04142458989"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T16:12:44.435Z",
+      "updatedAt": "2025-05-08T16:12:44.435Z",
+      "id": 13819,
+      "merchantId": 5634,
+      "name": "Boardriders CC Cerro Verde",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11652,
+      "address": {
+        "name": "Crta cafeta el hatillo CC CERRO VERDE NIVEL PLAZA LOCAL P 23 EL HATILLO",
+        "long": -66.8308125,
+        "lat": 10.4506875,
+        "location": "0101000020E6100000E92631082CB550C0986E1283C0E62440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-02T14:24:16.807Z",
+      "updatedAt": "2025-09-02T14:24:16.807Z",
+      "id": 20472,
+      "merchantId": 5634,
+      "name": "Boardriders Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11652,
+      "address": {
+        "name": "Boardriders",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-20T14:37:20.225Z",
+      "updatedAt": "2025-06-20T14:37:20.225Z",
+      "id": 16057,
+      "merchantId": 5634,
+      "name": "VR_Boardriders",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11652,
+      "address": {
+        "name": "Crta cafeta el hatillo CC CERRO VERDE NIVEL PLAZA LOCAL P 23 EL HATILLO",
+        "long": -66.8308125,
+        "lat": 10.4506875,
+        "location": "0101000020E6100000E92631082CB550C0986E1283C0E62440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

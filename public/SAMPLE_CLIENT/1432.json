@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T16:29:15.959Z",
+  "id": "663",
+  "amount": 173,
+  "invoiceId": "7084",
+  "paidToMerchant": false,
+  "identifierNumber": 1432,
+  "billingDate": "2022-12-04T16:29:15.959Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9880454",
+      "fullName": "PATRICIA LA CANDIA CAVA",
+      "phoneNumber": "+584140176709"
+    },
+    "installments": [
+      {
+        "id": "2130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T16:29:36.631Z",
+        "amount": 86.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T16:29:36.630Z",
+        "amount": 28.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "2131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T16:29:36.630Z",
+        "amount": 28.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "2133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T16:29:36.630Z",
+        "amount": 28.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

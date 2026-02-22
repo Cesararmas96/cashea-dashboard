@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:46:20.272Z",
+  "id": "2978",
+  "amount": 38.59,
+  "invoiceId": "50226",
+  "paidToMerchant": false,
+  "identifierNumber": 3417,
+  "billingDate": "2022-12-20T23:46:20.272Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27770514",
+      "fullName": "LUIS DAVID DIAZ ECHENIQUE",
+      "phoneNumber": "+584242175027"
+    },
+    "installments": [
+      {
+        "id": "9830",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:47:11.022Z",
+        "amount": 19.3,
+        "status": "DONE"
+      },
+      {
+        "id": "9831",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:47:11.021Z",
+        "amount": 6.430000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "9832",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:47:11.021Z",
+        "amount": 6.430000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "9833",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:47:11.021Z",
+        "amount": 6.430000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

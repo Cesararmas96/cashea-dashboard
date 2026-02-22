@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:54:20.668Z",
+  "id": "5686",
+  "amount": 31.5,
+  "invoiceId": "00987",
+  "paidToMerchant": false,
+  "identifierNumber": 5977,
+  "billingDate": "2022-12-28T23:54:20.668Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12259190",
+      "fullName": "KARY DUBRASKA ZAMBRANO MENDEZ",
+      "phoneNumber": "+584242193568"
+    },
+    "installments": [
+      {
+        "id": "19573",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:54:37.339Z",
+        "amount": 5.25,
+        "status": "DONE"
+      },
+      {
+        "id": "19570",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:54:37.339Z",
+        "amount": 15.75,
+        "status": "DONE"
+      },
+      {
+        "id": "19572",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:54:37.339Z",
+        "amount": 5.25,
+        "status": "DONE"
+      },
+      {
+        "id": "19571",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:54:37.339Z",
+        "amount": 5.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

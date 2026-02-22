@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-06T13:33:35.457Z",
+  "updatedAt": "2025-05-09T12:21:47.575Z",
+  "id": 5552,
+  "name": "Piñateria Epa Miguel",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4321e0b9-f02d-4b47-a7f0-a5dae91e97d3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "pinateriaepamiguel@gmail.com",
+    "legalName": "José Miguel",
+    "phoneNumber": "04143203470"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T13:53:49.393Z",
+      "updatedAt": "2025-05-06T13:53:49.393Z",
+      "id": 13623,
+      "merchantId": 5552,
+      "name": "Piñateria Epa Miguel Calle Valentin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7260,
+      "address": {
+        "name": "CALLE VALENTINI EDIF VENGLOB PISO 1 LOCAL B URB LAS POLONIAS SAN ANTONIO DE LOS ALTOS MIRANDA ZONA POSTAL 1204",
+        "long": -66.96043750000001,
+        "lat": 10.369312499999992,
+        "location": "0101000020E61000008816D9CE77BD50C008022B8716BD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Entretenimiento",
+  "shipmentOptionsAvailable": []
+}

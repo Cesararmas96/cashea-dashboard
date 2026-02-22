@@ -1,0 +1,167 @@
+{
+  "createdAt": "2025-04-08T16:09:17.967Z",
+  "updatedAt": "2025-08-07T20:50:26.325Z",
+  "id": 5120,
+  "name": "TicketGo",
+  "ecommerceUrl": null,
+  "changePolicy": "1. Selección de zonas y entradas: Al adquirir entradas a través de la plataforma de Cashea, ten en cuenta que sólo podrás seleccionar la zona de tu preferencia. Si deseas que los asientos sean consecutivos, procura seleccionar la mesa que disponga de la cantidad de asientos que buscas. Es decir, es necesario que realices una única compra que incluya la cantidad total de entradas deseadas.\n\n2. Pago seguro: El pago debe realizarse únicamente a los datos especificados en el portal de Cashea. Es fundamental que verifiques esta información, ya que no nos hacemos responsables de pagos realizados a terceros.\n\n\n3. Confirmación de compra: Una vez completada tu compra a través de la plataforma de la App de Cashea, deberás contactarnos al número designado y enviar la siguiente información:\n\n-Correo electrónico.\n\n-Comprobante de pago.\n\n-Cédula.\n\n-Teléfono.\n\n-Orden de factura proporcionada por Cashea.\n\n4. Responsabilidad del titular: El titular de la cuenta en Cashea será el mismo que figure en las entradas emitidas en TICKETGO. Asegúrate de ingresar correctamente tus datos personales al momento de la compra.\n\n5. Política de cambios y devoluciones: No se permiten cambios ni devoluciones una vez adquiridos los boletos. Por ello, recomendamos validar tu compra antes de proceder al pago, ya que al finalizar tu primera cuota deberás finalizar todo el proceso. \n\n6. Aceptación de términos: Al recibir el código QR y completar la compra, el portador acepta automáticamente todas nuestras políticas y se compromete a respetar las normativas establecidas para el evento. \n\n7. TicketGo, se encarga de la venta y distribución de las entradas para los eventos publicados en nuestra página. No somos responsables de modificaciones en horarios, ubicación, fechas, cambios de artistas, cancelaciones o reprogramaciones; toda esta responsabilidad recae en la producción del evento, que se detalla en nuestra página web.\n\n8. No se permitirá el ingreso al evento de:\n\n-Alimentos\n\n-Bebidas\n\n-Paraguas\n\n-Bolsos de gran tamaño\n\n-Termos\n\n-Maquillaje con espejo\n\n-Cigarrillos / Vapers\n\n-Objetos punzo-penetrantes\n\n-Cámaras fotográficas profesionales\n\n9.  Reglas para menores de edad: Los menores de edad (a partir de 4 años) solo podrán ingresar al recinto si están acompañados por un adulto responsable en todo momento. Al ingresar, el adulto asume todos los riesgos que puedan surgir antes, durante y después del evento, conforme a la normativa municipal.\n\n10. Transferencia de códigos QR: Una vez enviado el código QR, este es intransferible. En caso de que otra persona obtenga el mismo código, TicketGo no se hace responsable y no se realizarán devoluciones ni reubicaciones. \n\n11. Proporcionar información veraz y actualizada: El usuario debe proporcionar información veraz y actualizada al momento del registro. En caso de inconvenientes con la compra, TicketGo utilizará estos datos para comunicarse con el cliente. Está estrictamente prohibido utilizar identidades ajenas, incluidas la suplantación de personalidades. TicketGo se reserva el derecho de cancelar el perfil y las compras de aquellos usuarios que incurran en estas prácticas.\n",
+  "email": "ticketgoventasonline@gmail.com",
+  "phoneNumber": "+584128695325",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "1a7e2721-5a93-4027-93e9-beba15be64f2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mcardozoindriago@gmail.com",
+    "legalName": "Marcos Cardozo",
+    "phoneNumber": "+584120341172"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-18T19:21:47.035Z",
+      "updatedAt": "2025-08-18T19:21:47.035Z",
+      "id": 19405,
+      "merchantId": 5120,
+      "name": "Web TicketGo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7922,
+      "address": {
+        "name": "AV PEDRO LEON TORRES CON CALLE 58 CC SOTAVENTO NIVEL 1 LOCAL 14 SECTOR OESTE BARQUISIMETO LARA ZONA POSTAL 3001",
+        "long": -69.3440625,
+        "lat": 10.0649375,
+        "location": "0101000020E6100000EC51B81E055651C06891ED7C3F212440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-08T16:11:44.700Z",
+      "updatedAt": "2025-08-07T20:50:26.323Z",
+      "id": 12707,
+      "merchantId": 5120,
+      "name": "TicketGo Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7922,
+      "address": {
+        "name": "AV PEDRO LEON TORRES CON CALLE 58 CC SOTAVENTO NIVEL 1 LOCAL 14 SECTOR OESTE BARQUISIMETO LARA ZONA POSTAL 3001",
+        "long": -69.3440625,
+        "lat": 10.0649375,
+        "location": "0101000020E6100000EC51B81E055651C06891ED7C3F212440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T15:03:49.155Z",
+      "updatedAt": "2025-04-29T15:03:49.155Z",
+      "id": 13420,
+      "merchantId": 5120,
+      "name": "VR_TicketGo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7922,
+      "address": {
+        "name": "AV PEDRO LEON TORRES CON CALLE 58 CC SOTAVENTO NIVEL 1 LOCAL 14 SECTOR OESTE BARQUISIMETO LARA ZONA POSTAL 3001",
+        "long": -69.3440625,
+        "lat": 10.0649375,
+        "location": "0101000020E6100000EC51B81E055651C06891ED7C3F212440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Entretenimiento",
+  "shipmentOptionsAvailable": []
+}

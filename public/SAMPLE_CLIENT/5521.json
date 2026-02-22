@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T18:01:21.122Z",
+  "id": "5215",
+  "amount": 116.99,
+  "invoiceId": "00015377",
+  "paidToMerchant": false,
+  "identifierNumber": 5521,
+  "billingDate": "2022-12-27T18:01:21.122Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25847507",
+      "fullName": "ANDREA VARGAS BENARROCH",
+      "phoneNumber": "+584241134895"
+    },
+    "installments": [
+      {
+        "id": "17873",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T18:01:47.261Z",
+        "amount": 19.499999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "17870",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T18:01:47.262Z",
+        "amount": 58.49,
+        "status": "DONE"
+      },
+      {
+        "id": "17871",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T18:01:47.261Z",
+        "amount": 19.499999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "17872",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T18:01:47.261Z",
+        "amount": 19.499999999999996,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T21:57:54.464Z",
+  "id": "2880",
+  "amount": 150,
+  "invoiceId": "307357",
+  "paidToMerchant": false,
+  "identifierNumber": 3609,
+  "billingDate": "2022-12-20T21:57:54.464Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14585146",
+      "fullName": "ARELYS ESTEFANIA ARNAL URBINA",
+      "phoneNumber": "+584129777780"
+    },
+    "installments": [
+      {
+        "id": "9490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:59:00.680Z",
+        "amount": 75,
+        "status": "DONE"
+      },
+      {
+        "id": "9491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:59:00.679Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "9493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:59:00.679Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "9492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:59:00.679Z",
+        "amount": 25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

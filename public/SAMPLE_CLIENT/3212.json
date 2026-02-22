@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T02:38:00.863Z",
+  "id": "2711",
+  "amount": 59.61,
+  "invoiceId": "12531",
+  "paidToMerchant": false,
+  "identifierNumber": 3212,
+  "billingDate": "2022-12-20T02:38:00.863Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26619116",
+      "fullName": "NOHELY DAIJES ANTILLANO APONTE",
+      "phoneNumber": "+584242796061"
+    },
+    "installments": [
+      {
+        "id": "8922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T02:38:11.844Z",
+        "amount": 29.8,
+        "status": "DONE"
+      },
+      {
+        "id": "8925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T02:38:11.843Z",
+        "amount": 9.936666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T02:38:11.843Z",
+        "amount": 9.936666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T02:38:11.843Z",
+        "amount": 9.936666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

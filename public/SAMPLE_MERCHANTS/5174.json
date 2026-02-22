@@ -1,0 +1,175 @@
+{
+  "createdAt": "2025-04-11T12:41:04.981Z",
+  "updatedAt": "2025-10-14T21:12:42.326Z",
+  "id": 5174,
+  "name": "FERRETECHOS MARGARITA",
+  "ecommerceUrl": null,
+  "changePolicy": "Los productos electrónicos tienen una garantía de 15 días, mientras que el resto de los productos cuentan con una garantía de 30 días.\n\nEl producto debe estar en perfectas condiciones para poder hacer válida cualquier devolución o cambio.\n\nEl cliente puede optar por un cambio siempre y cuando el nuevo producto no tenga un precio superior al del producto original, a menos que pague la diferencia.\n\nPara los productos en oferta, no se aceptan devoluciones.\n\nNo se aceptan devoluciones de productos electrónicos que hayan sido afectados por picos o bajones de electricidad, mal uso o instalación incorrecta.",
+  "email": "margaritaferretechos@gmail.com",
+  "phoneNumber": "+584149025989",
+  "logoUrl": null,
+  "data": {
+    "rif": "J505463772"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": 808,
+  "tags": [],
+  "uuid": "d7242818-a839-4526-a695-3559bbe872d2",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "margaritaferretechos@gmail.com",
+    "legalName": "Genrry",
+    "phoneNumber": "4241768726"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-11T13:51:46.300Z",
+      "updatedAt": "2025-04-11T13:51:46.300Z",
+      "id": 12843,
+      "merchantId": 5174,
+      "name": "FERRETECHOS MARGARITA AV 4 DE MAYO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 808,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5261,
+      "address": {
+        "name": "AV 4 DE MAYO, LOCAL SIN NUMERO, JUNTO A DOMESA",
+        "long": -63.8396875,
+        "lat": 10.968562500000004,
+        "location": "0101000020E610000014AE47E17AEB4FC098438B6CE7EF2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-10T20:36:19.016Z",
+      "updatedAt": "2025-09-16T16:43:13.060Z",
+      "id": 17163,
+      "merchantId": 5174,
+      "name": "FERRETECHOS MARGARITA Av 4 de mayo Nva Esparta Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5261,
+      "address": {
+        "name": "AV 4 DE MAYO, LOCAL SIN NUMERO, JUNTO A DOMESA",
+        "long": -63.8396875,
+        "lat": 10.968562500000004,
+        "location": "0101000020E610000014AE47E17AEB4FC098438B6CE7EF2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    },
+    {
+      "id": 5,
+      "name": "SPLIT_12",
+      "data": {
+        "minimumLevel": 6,
+        "installmentsAmount": 13,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 12 cuotas"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-28T23:23:57.443Z",
+  "id": "543",
+  "amount": 40,
+  "invoiceId": "6992",
+  "paidToMerchant": false,
+  "identifierNumber": 1102,
+  "billingDate": "2022-11-28T23:23:57.443Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19513238",
+      "fullName": "WILLIAMS JOSE MAYORGA RAMIREZ",
+      "phoneNumber": "+584241294673"
+    },
+    "installments": [
+      {
+        "id": "1717",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-09T23:24:47.273Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1714",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-28T23:24:47.274Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1715",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-12T23:24:47.273Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1716",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-26T23:24:47.273Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

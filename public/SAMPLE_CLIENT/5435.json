@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T00:36:56.867Z",
+  "id": "5170",
+  "amount": 53.86,
+  "invoiceId": "13205",
+  "paidToMerchant": false,
+  "identifierNumber": 5435,
+  "billingDate": "2022-12-27T00:36:56.867Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-12T04:00:00.269+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "17719",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23639243",
+      "fullName": "SARADEY DE LOS ANGELES MULATO CORREDOR",
+      "phoneNumber": "+584241643177"
+    },
+    "installments": [
+      {
+        "id": "17721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T00:37:16.289Z",
+        "amount": 8.976666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T00:37:16.289Z",
+        "amount": 8.976666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T00:37:16.289Z",
+        "amount": 8.976666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T00:37:16.289Z",
+        "amount": 26.93,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

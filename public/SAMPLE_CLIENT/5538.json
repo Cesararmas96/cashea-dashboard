@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T21:40:50.702Z",
+  "id": "5273",
+  "amount": 32.7,
+  "invoiceId": "2536",
+  "paidToMerchant": false,
+  "identifierNumber": 5538,
+  "billingDate": "2022-12-27T21:40:50.702Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20211988",
+      "fullName": "ROBERT MOISES CORRALES MALDONADO",
+      "phoneNumber": "+584126042972"
+    },
+    "installments": [
+      {
+        "id": "18101",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T21:41:23.873Z",
+        "amount": 5.45,
+        "status": "DONE"
+      },
+      {
+        "id": "18098",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T21:41:23.873Z",
+        "amount": 16.35,
+        "status": "DONE"
+      },
+      {
+        "id": "18100",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T21:41:23.873Z",
+        "amount": 5.45,
+        "status": "DONE"
+      },
+      {
+        "id": "18099",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T21:41:23.873Z",
+        "amount": 5.45,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 30,
+    "name": "Korotos Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

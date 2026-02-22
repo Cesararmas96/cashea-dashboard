@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-11T22:59:36.428Z",
+  "id": "1272",
+  "amount": 350,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1929,
+  "billingDate": "2022-12-11T22:59:36.428Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:55:43.590Z",
+  "id": "2808",
+  "amount": 49.9,
+  "invoiceId": "8396",
+  "paidToMerchant": false,
+  "identifierNumber": 3289,
+  "billingDate": "2022-12-20T19:55:43.590Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26546501",
+      "fullName": "NOEL JOSE RUKOZ URIBE",
+      "phoneNumber": "+584123935511"
+    },
+    "installments": [
+      {
+        "id": "9238",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:56:11.915Z",
+        "amount": 24.95,
+        "status": "DONE"
+      },
+      {
+        "id": "9239",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:56:11.914Z",
+        "amount": 8.316666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9240",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:56:11.914Z",
+        "amount": 8.316666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9241",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:56:11.914Z",
+        "amount": 8.316666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

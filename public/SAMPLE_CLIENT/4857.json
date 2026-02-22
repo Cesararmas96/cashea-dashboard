@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:38:06.497Z",
+  "id": "4479",
+  "amount": 55.92,
+  "invoiceId": "1087",
+  "paidToMerchant": false,
+  "identifierNumber": 4857,
+  "billingDate": "2022-12-24T01:38:06.497Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25286076",
+      "fullName": "KEVYNN JOSE URBINA ROSAL",
+      "phoneNumber": "+584128429874"
+    },
+    "installments": [
+      {
+        "id": "15258",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:39:04.723Z",
+        "amount": 27.96,
+        "status": "DONE"
+      },
+      {
+        "id": "15261",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:39:04.722Z",
+        "amount": 9.32,
+        "status": "DONE"
+      },
+      {
+        "id": "15260",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:39:04.722Z",
+        "amount": 9.32,
+        "status": "DONE"
+      },
+      {
+        "id": "15259",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:39:04.722Z",
+        "amount": 9.32,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

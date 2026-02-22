@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:28:01.037Z",
+  "id": "3287",
+  "amount": 53.05,
+  "invoiceId": "12710",
+  "paidToMerchant": false,
+  "identifierNumber": 3715,
+  "billingDate": "2022-12-21T23:28:01.037Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22905250",
+      "fullName": "LUZMARY ZUJEIL BOLIVAR AREVALO",
+      "phoneNumber": "+584241302600"
+    },
+    "installments": [
+      {
+        "id": "10937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:28:49.046Z",
+        "amount": 8.843333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:28:49.047Z",
+        "amount": 26.52,
+        "status": "DONE"
+      },
+      {
+        "id": "10935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:28:49.046Z",
+        "amount": 8.843333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:28:49.046Z",
+        "amount": 8.843333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

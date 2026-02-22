@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-28T18:56:57.604Z",
+  "updatedAt": "2025-04-02T18:41:20.305Z",
+  "id": 4912,
+  "name": "Farmapíritu",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cce77a3f-268f-4d63-9fe1-b5e7456ac59d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "farmapirituconsultoria@gmail.com",
+    "legalName": "Dannielys Jose",
+    "phoneNumber": "04148199536"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T19:02:10.578Z",
+      "updatedAt": "2025-03-28T19:02:10.578Z",
+      "id": 12343,
+      "merchantId": 4912,
+      "name": "Farmapíritu CC Gaby Mar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5163,
+      "address": {
+        "name": "Av Principal del Tejar CC Gaby Mar locales 3,4,5,6 y 7, 6022, Anzoátegui",
+        "long": -65.0255625,
+        "lat": 10.0516875,
+        "location": "0101000020E61000004260E5D0A24150C05839B4C8761A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-23T19:59:14.212Z",
+      "updatedAt": "2025-04-23T19:59:14.212Z",
+      "id": 13203,
+      "merchantId": 4912,
+      "name": "VR_Farmapíritu",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5163,
+      "address": {
+        "name": "Av Principal del Tejar CC Gaby Mar locales 3,4,5,6 y 7, 6022, Anzoátegui",
+        "long": -65.0255625,
+        "lat": 10.0516875,
+        "location": "0101000020E61000004260E5D0A24150C05839B4C8761A2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

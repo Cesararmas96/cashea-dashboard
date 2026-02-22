@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T20:40:14.042Z",
+  "id": "1095",
+  "amount": 70,
+  "invoiceId": "1556",
+  "paidToMerchant": false,
+  "identifierNumber": 1749,
+  "billingDate": "2022-12-10T20:40:14.042Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23644456",
+      "fullName": "VANESSA DEL MILAGRO MENDEZ MORENO",
+      "phoneNumber": "+584127177847"
+    },
+    "installments": [
+      {
+        "id": "3475",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T20:41:11.554Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3477",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T20:41:11.554Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3476",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T20:41:11.554Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3474",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T20:41:11.554Z",
+        "amount": 35,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

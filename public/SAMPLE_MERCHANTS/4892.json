@@ -1,0 +1,839 @@
+{
+  "createdAt": "2025-03-28T12:59:23.094Z",
+  "updatedAt": "2025-10-25T21:28:10.986Z",
+  "id": 4892,
+  "name": "Forum Supermayorista",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 624,
+  "tags": [],
+  "uuid": "a70ef593-3c07-4fc7-8e1e-993f5b3ce33a",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Cacuna@forum.com.ve",
+    "legalName": "Carlos Acuna",
+    "phoneNumber": "04241547015"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T16:15:03.009Z",
+      "updatedAt": "2025-03-28T16:15:03.009Z",
+      "id": 12336,
+      "merchantId": 4892,
+      "name": "Forum Supermayorista Av Rotaria Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Supermayorista Av Rotaria Acarigua",
+        "long": -69.1989375,
+        "lat": 9.567187500000003,
+        "location": "0101000020E6100000AC1C5A64BB4C51C06866666666222340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:44:22.265Z",
+      "updatedAt": "2025-03-28T14:44:22.265Z",
+      "id": 12323,
+      "merchantId": 4892,
+      "name": "Forum CC La Pirámide",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": " CC La Pirámide piso 1, Concresa",
+        "long": -66.8708125,
+        "lat": 10.453187499999999,
+        "location": "0101000020E6100000AC1C5A64BBB750C078E9263108E82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:33:56.342Z",
+      "updatedAt": "2025-03-28T14:33:56.342Z",
+      "id": 12320,
+      "merchantId": 4892,
+      "name": "Forum CC La Florida",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "PLANTA BAJA DE LA UNIDAD COMERCIAL LA FLORIDA, LOCAL 32, AV. JUAN BAUTISTA ARISMENDI, CARACAS 1050, DISTRITO CAPITAL.",
+        "long": -66.8753125,
+        "lat": 10.5018125,
+        "location": "0101000020E6100000EC51B81E05B850C0B0726891ED002540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:23:22.614Z",
+      "updatedAt": "2025-03-28T14:23:22.614Z",
+      "id": 12315,
+      "merchantId": 4892,
+      "name": "Forum CC Parque Humboldt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CENTRO COMERCIAL PARQUE HUMBOLDT, ENTRE AVENIDAS RIO CAURA Y PARQUE HUMBOLDT, TERRAZAS DEL CLUB HÍPICO, MUNICIPIO BARUTA, ESTADO MIRANDA.",
+        "long": -66.8725625,
+        "lat": 10.449187500000008,
+        "location": "0101000020E6100000D34D6210D8B750C0488B6CE7FBE52440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T22:12:14.396Z",
+      "updatedAt": "2025-03-28T22:12:14.396Z",
+      "id": 12366,
+      "merchantId": 4892,
+      "name": "Forum Ciudad Bolivar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Ciudad Bolivar",
+        "long": -63.5360625,
+        "lat": 8.10318749999999,
+        "location": "0101000020E6100000560E2DB29DC44FC040B6F3FDD4342040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T13:10:41.140Z",
+      "updatedAt": "2025-03-28T13:10:41.140Z",
+      "id": 12300,
+      "merchantId": 4892,
+      "name": "Forum Ipsfa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "AV LOS PROCERES CC LOS PROCERES PB LOCAL PE‐003 SECTOR LOS PROCERES, EL VALLE, LIBERTADOR CARACAS",
+        "long": -66.8951875,
+        "lat": 10.4729375,
+        "location": "0101000020E61000006F1283C04AB950C0A01A2FDD24F22440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:29:54.292Z",
+      "updatedAt": "2025-03-28T14:29:54.292Z",
+      "id": 12318,
+      "merchantId": 4892,
+      "name": "Forum Charallave",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CARRETERA CHARALLAVE OCUMARE SECTOR PITAHAYA, CHARALLAVE, MUNICIPIO CRISTÓBAL ROJAS, ESTADO BOLIVARIANO DE MIRANDA.",
+        "long": -66.8549375,
+        "lat": 10.2175625,
+        "location": "0101000020E6100000F0A7C64BB7B650C008AC1C5A646F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:19:01.385Z",
+      "updatedAt": "2025-03-28T14:19:01.385Z",
+      "id": 12314,
+      "merchantId": 4892,
+      "name": "Forum Guatire",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "DIRECCIÓN HIPERMERCADO CENTRAL MADEIRENSE GUATIRE, SITUADA EN LA AVENIDA INTERCOMUNAL ‐GUATIRE Y LA AVENIDA LOS BUCARES, SECTOR EL MARQUÉS‐ VEGA ABAJO, PARROQUIA GUATIRE, MUNICIPIO ZAMORA, ESTADO MIRANDA.",
+        "long": -66.5420625,
+        "lat": 10.458812499999993,
+        "location": "0101000020E6100000D578E926B1A250C0F0FDD478E9EA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T13:17:07.790Z",
+      "updatedAt": "2025-03-28T13:17:07.790Z",
+      "id": 12303,
+      "merchantId": 4892,
+      "name": "Forum CC Multiplaza Paraíso",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CENTRO COMERCIAL MULTIPLAZA PARAÍSO LOCAL CM‐1, SITUADO EN LA AVENIDA JOSÉ ANTONIO PÁEZ, URBANIZACIÓN EL PARAÍSO, MUNICIPIO LIBERTADOR, DISTRITO CAPITAL.",
+        "long": -66.9343125,
+        "lat": 10.4855625,
+        "location": "0101000020E61000009EEFA7C6CBBB50C0F853E3A59BF82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:16:03.181Z",
+      "updatedAt": "2025-03-28T14:16:03.181Z",
+      "id": 12311,
+      "merchantId": 4892,
+      "name": "Forum CC La Cascada",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CARRETERA PANAMERICANA, KM. 21, C.C. LA CASCADA, LOCAL N2‐66, CARRIZAL",
+        "long": -67.0030625,
+        "lat": 10.354312499999992,
+        "location": "0101000020E610000004560E2D32C050C0C020B07268B52440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T13:13:32.430Z",
+      "updatedAt": "2025-03-28T13:13:32.430Z",
+      "id": 12301,
+      "merchantId": 4892,
+      "name": "Forum San Bernardino / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "AV LOS ANAUCOS, CC ABASTOS BICENTENARIO LOCAL A‐1 URB: SAN BERNARDINO, LIBERTADOR CARACAS",
+        "long": -66.90106250000001,
+        "lat": 10.507687499999989,
+        "location": "0101000020E6100000BB490C02ABB950C0082DB29DEF032540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:25:45.525Z",
+      "updatedAt": "2025-03-28T14:25:45.525Z",
+      "id": 12317,
+      "merchantId": 4892,
+      "name": "Forum CC Puerta Del Este",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CENTRO COMERCIAL PUERTA DEL ESTE FRENTE AV FRANCISCO DE MIRANDA LOCAL 13, LA CALIFORNIA MUNICIPIO PETARE EDO MIRANDA",
+        "long": -66.8229375,
+        "lat": 10.485062499999998,
+        "location": "0101000020E6100000BA490C02ABB450C03008AC1C5AF82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T13:40:32.299Z",
+      "updatedAt": "2025-03-31T13:40:32.299Z",
+      "id": 12395,
+      "merchantId": 4892,
+      "name": "Forum Super Mayorista Cagua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Cagua.",
+        "long": -67.45781249999999,
+        "lat": 10.192687500000005,
+        "location": "0101000020E6100000CCCCCCCC4CDD50C030B29DEFA7622440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:14:21.524Z",
+      "updatedAt": "2025-03-28T14:14:21.524Z",
+      "id": 12310,
+      "merchantId": 4892,
+      "name": "Forum CC Guarenas Plaza",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "DIRECCIÓN CALLE ARISMENDI CON VARGAS, CENTRO COMERCIAL GUARENAS PLAZA, (ANTIGUO CENTRAL MADEIRENSE), GUARENAS, ESTADO MIRANDA.",
+        "long": -66.62168750000001,
+        "lat": 10.469687500000006,
+        "location": "0101000020E610000040355EBAC9A750C018AE47E17AF02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T22:11:37.726Z",
+      "updatedAt": "2025-03-28T22:11:37.726Z",
+      "id": 12365,
+      "merchantId": 4892,
+      "name": "Forum Centro de Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Centro de Maturin",
+        "long": -63.17568750000001,
+        "lat": 9.744312500000007,
+        "location": "0101000020E6100000746891ED7C964FC010022B87167D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:17:18.363Z",
+      "updatedAt": "2025-03-28T14:17:18.363Z",
+      "id": 12313,
+      "merchantId": 4892,
+      "name": "Forum La Urbina",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CENTRO COMERCIAL LOS JARDINES, SITUADO EN LA URBANIZACIÓN LA URBINA, CALLE 1, MUNICIPIO SUCRE, ESTADO MIRANDA.",
+        "long": -66.80624999999999,
+        "lat": 10.486249999999998,
+        "location": "0101000020E61000009999999999B350C0285C8FC2F5F82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T15:55:52.218Z",
+      "updatedAt": "2025-03-28T15:55:52.218Z",
+      "id": 12334,
+      "merchantId": 4892,
+      "name": "Forum Supermayorista CC Babilon Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Supermayorista CC Babilon Barquisimeto",
+        "long": -69.3410625,
+        "lat": 10.076687500000006,
+        "location": "0101000020E610000017D9CEF7D35551C02806819543272440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T22:10:57.949Z",
+      "updatedAt": "2025-03-28T22:10:57.949Z",
+      "id": 12364,
+      "merchantId": 4892,
+      "name": "Forum Monagas Plaza",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Monagas Plaza",
+        "long": -63.2014375,
+        "lat": 9.795187499999997,
+        "location": "0101000020E6100000105839B4C8994FC04060E5D022972340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T13:29:26.877Z",
+      "updatedAt": "2025-03-28T13:29:26.877Z",
+      "id": 12306,
+      "merchantId": 4892,
+      "name": "Forum CC Los Molinos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "AV SAN MARTIN CON CALLE SIMÓN BOLÍVAR DE LA URBANIZACIÓN ARVELO PARROQUIA PARAÍSO CENTRO COMERCIAL LOS MOLINOS MUNICIPIO LIBERTADOR DISTRITO CAPITAL",
+        "long": -73.94168750000001,
+        "lat": 42.49131249999998,
+        "location": "0101000020E610000055E3A59B447C52C0D6CEF753E33E4540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:24:45.558Z",
+      "updatedAt": "2025-03-28T14:24:45.558Z",
+      "id": 12316,
+      "merchantId": 4892,
+      "name": "Forum Los Teques",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CENTRO COMERCIAL LA HOYADA, AVENIDA LA HOYADA, LOS TEQUES, MIRANDA.",
+        "long": -67.0414375,
+        "lat": 10.345437500000003,
+        "location": "0101000020E6100000FED478E9A6C250C0C09F1A2FDDB02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T14:05:15.961Z",
+      "updatedAt": "2025-03-31T14:05:15.961Z",
+      "id": 12400,
+      "merchantId": 4892,
+      "name": "Forum Super Mayorista Mañongo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Mañongo.",
+        "long": -68.00125,
+        "lat": 10.246250000000003,
+        "location": "0101000020E6100000AE47E17A140051C0B047E17A147E2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T13:57:36.742Z",
+      "updatedAt": "2025-03-31T13:57:36.742Z",
+      "id": 12396,
+      "merchantId": 4892,
+      "name": "Forum Super Mayorista Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Maracay.",
+        "long": -67.5824375,
+        "lat": 10.253687499999998,
+        "location": "0101000020E6100000B29DEFA746E550C0D8CEF753E3812440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T13:56:48.846Z",
+      "updatedAt": "2025-03-28T13:56:48.846Z",
+      "id": 12309,
+      "merchantId": 4892,
+      "name": "Forum Plaza Venezuela",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "SITUADA EN EL LOCAL B‐11 CENTRO COMERCIAL BICENTENARIO PLAZA VENEZUELA, PARROQUIA EL RECREO, MUNICIPIO LIBERTADOR, DISTRITO CAPITAL.",
+        "long": -66.88606250000001,
+        "lat": 10.49718750000001,
+        "location": "0101000020E610000092ED7C3FB5B850C0C8F5285C8FFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T14:34:49.862Z",
+      "updatedAt": "2025-03-28T14:34:49.862Z",
+      "id": 12321,
+      "merchantId": 4892,
+      "name": "Forum La Guaira",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "CENTRO COMERCIAL LITORAL, IDENTIFICADO CON LA LETRA A, EN LA AV SOUBLETTE DE MAIQUETÍA, ESTADO LA GUAIRA.",
+        "long": -66.9464375,
+        "lat": 10.5979375,
+        "location": "0101000020E6100000508D976E92BC50C0A01A2FDD24322540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T20:29:55.904Z",
+      "updatedAt": "2025-03-28T20:29:55.904Z",
+      "id": 12350,
+      "merchantId": 4892,
+      "name": "Forum Super Mayorista Isabelica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Isabelica.",
+        "long": -67.9705625,
+        "lat": 10.163187500000006,
+        "location": "0101000020E6100000560E2DB21DFE50C0683BDF4F8D532440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T21:15:02.376Z",
+      "updatedAt": "2025-03-28T21:15:02.376Z",
+      "id": 12353,
+      "merchantId": 4892,
+      "name": "Forum Super Mayorista Santa Cecilia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-04-07T00:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 5336,
+      "address": {
+        "name": "Forum Santa Cecilia.",
+        "long": -68.0100625,
+        "lat": 10.200937499999995,
+        "location": "0101000020E6100000A01A2FDDA40051C07814AE47E1662440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

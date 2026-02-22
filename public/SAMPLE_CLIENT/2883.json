@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:42:35.774Z",
+  "id": "2357",
+  "amount": 32,
+  "invoiceId": "784684",
+  "paidToMerchant": false,
+  "identifierNumber": 2883,
+  "billingDate": "2022-12-18T22:42:35.774Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12683423",
+      "fullName": "WILLIANS KIUWMAN GUILLEN ORDAZ",
+      "phoneNumber": "+584142962715"
+    },
+    "installments": [
+      {
+        "id": "7758",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:43:56.193Z",
+        "amount": 16,
+        "status": "DONE"
+      },
+      {
+        "id": "7761",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:43:56.193Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7759",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:43:56.193Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7760",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:43:56.193Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

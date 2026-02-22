@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T17:29:03.107Z",
+  "id": "2511",
+  "amount": 30.77,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2994,
+  "billingDate": "2022-12-19T17:29:03.107Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

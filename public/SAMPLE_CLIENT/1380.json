@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-10-09T22:09:10.935Z",
+  "id": "99",
+  "amount": 200,
+  "invoiceId": "6097",
+  "paidToMerchant": false,
+  "identifierNumber": 1380,
+  "billingDate": "2022-10-09T22:09:10.935Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2022-10-20T04:00:00.119+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": 316,
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22215091",
+      "fullName": "RISNELGGYS JOSEFINA CONDE FLORES",
+      "phoneNumber": "+584244164665"
+    },
+    "installments": [
+      {
+        "id": "313",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-09T22:09:55.316Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "316",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-20T22:09:55.316Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "314",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-23T22:09:55.316Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "315",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-06T22:09:55.316Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-10T21:57:03.211Z",
+  "id": "339",
+  "amount": 145,
+  "invoiceId": "10069",
+  "paidToMerchant": false,
+  "identifierNumber": 1008,
+  "billingDate": "2022-11-10T21:57:03.211Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13716423",
+      "fullName": "MARIA LORENA VERA VERA",
+      "phoneNumber": "+584142389589"
+    },
+    "installments": [
+      {
+        "id": "1045",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-10T21:57:28.446Z",
+        "amount": 72.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1046",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-24T21:57:28.445Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1048",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-22T21:57:28.445Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1047",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-08T21:57:28.445Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T23:46:28.434Z",
+  "id": "4366",
+  "amount": 40.39,
+  "invoiceId": "12976",
+  "paidToMerchant": false,
+  "identifierNumber": 4721,
+  "billingDate": "2022-12-23T23:46:28.434Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-23T04:00:01.441+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "14816",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27580198",
+      "fullName": "HOWARD JOSE CLOSIER ANDRADE",
+      "phoneNumber": "+584241301342"
+    },
+    "installments": [
+      {
+        "id": "14817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:47:54.988Z",
+        "amount": 6.73,
+        "status": "DONE"
+      },
+      {
+        "id": "14816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:47:54.988Z",
+        "amount": 6.73,
+        "status": "DONE"
+      },
+      {
+        "id": "14814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:47:54.989Z",
+        "amount": 20.2,
+        "status": "DONE"
+      },
+      {
+        "id": "14815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:47:54.988Z",
+        "amount": 6.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

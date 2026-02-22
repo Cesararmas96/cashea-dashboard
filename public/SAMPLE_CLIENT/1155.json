@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-11-09T17:46:15.501Z",
+  "id": "316",
+  "amount": 112,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1155,
+  "billingDate": "2022-11-09T17:46:15.501Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 13,
+    "name": "Pintacasa La Trinidad"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

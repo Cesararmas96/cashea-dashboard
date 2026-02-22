@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:31:57.912Z",
+  "id": "4673",
+  "amount": 57.55,
+  "invoiceId": "13843",
+  "paidToMerchant": false,
+  "identifierNumber": 3267,
+  "billingDate": "2022-12-24T17:31:57.912Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17443915",
+      "fullName": "CRISFEL JESUS COSTERO GONZALEZ",
+      "phoneNumber": "+584123658313"
+    },
+    "installments": [
+      {
+        "id": "15990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:38:15.720Z",
+        "amount": 28.77,
+        "status": "DONE"
+      },
+      {
+        "id": "15993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:38:15.720Z",
+        "amount": 9.593333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:38:15.720Z",
+        "amount": 9.593333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:38:15.720Z",
+        "amount": 9.593333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

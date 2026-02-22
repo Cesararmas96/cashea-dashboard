@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:13:27.585Z",
+  "id": "5596",
+  "amount": 70.46,
+  "invoiceId": "14618",
+  "paidToMerchant": false,
+  "identifierNumber": 5890,
+  "billingDate": "2022-12-28T22:13:27.585Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13009957",
+      "fullName": "JHONNY ABDON MOLINA",
+      "phoneNumber": "+4129019668"
+    },
+    "installments": [
+      {
+        "id": "19246",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:13:50.715Z",
+        "amount": 35.23,
+        "status": "DONE"
+      },
+      {
+        "id": "19249",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:13:50.714Z",
+        "amount": 11.743333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19248",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:13:50.714Z",
+        "amount": 11.743333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19247",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:13:50.714Z",
+        "amount": 11.743333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

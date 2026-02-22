@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-10T21:09:08.613Z",
+  "id": "1102",
+  "amount": 241.54,
+  "invoiceId": "12666",
+  "paidToMerchant": false,
+  "identifierNumber": 1751,
+  "billingDate": "2022-12-10T21:09:08.613Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "61",
+    "buyDebtDate": "2023-01-10T04:00:00.591+00:00",
+    "lastStoreId": 47,
+    "boughtForInstallmentId": "3504",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "8757770",
+      "fullName": "CONSUELO MERCEDES FERMIN MACHADO",
+      "phoneNumber": "+584242675080"
+    },
+    "installments": [
+      {
+        "id": "3505",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T21:09:51.086Z",
+        "amount": 40.25666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3502",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T21:09:51.086Z",
+        "amount": 120.77,
+        "status": "DONE"
+      },
+      {
+        "id": "3503",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T21:09:51.086Z",
+        "amount": 40.25666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3504",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T21:09:51.086Z",
+        "amount": 40.25666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

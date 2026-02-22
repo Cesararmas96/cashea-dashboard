@@ -1,0 +1,57 @@
+{
+  "createdAt": "2025-04-25T17:23:26.657Z",
+  "updatedAt": "2025-05-05T15:39:43.017Z",
+  "id": 5393,
+  "name": "Cashea Test Onboarding CARACAS",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "1969d8ce-b05a-4087-b55d-54b002dca9bc",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "caracas@caracas.com",
+    "legalName": "caracas",
+    "phoneNumber": "00000000000"
+  },
+  "stores": [],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

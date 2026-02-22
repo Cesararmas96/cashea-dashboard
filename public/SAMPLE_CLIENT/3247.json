@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:07:24.502Z",
+  "id": "2757",
+  "amount": 56.46,
+  "invoiceId": "0936",
+  "paidToMerchant": false,
+  "identifierNumber": 3247,
+  "billingDate": "2022-12-20T18:07:24.502Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21445247",
+      "fullName": "YOSELYN MAITHE TOVAR RASMAN",
+      "phoneNumber": "+584145638140"
+    },
+    "installments": [
+      {
+        "id": "9085",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:09:13.719Z",
+        "amount": 9.41,
+        "status": "DONE"
+      },
+      {
+        "id": "9082",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:09:13.720Z",
+        "amount": 28.23,
+        "status": "DONE"
+      },
+      {
+        "id": "9083",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:09:13.719Z",
+        "amount": 9.41,
+        "status": "DONE"
+      },
+      {
+        "id": "9084",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:09:13.719Z",
+        "amount": 9.41,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 27,
+    "name": "Women Secret Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

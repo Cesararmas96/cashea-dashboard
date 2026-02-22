@@ -1,0 +1,69 @@
+{
+  "createdAt": "2025-03-27T16:33:32.894Z",
+  "updatedAt": "2025-03-31T17:31:22.707Z",
+  "id": 4881,
+  "name": "Todo en deportes Discogeis",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "81c64b1e-fdc8-4a92-bc9b-9ea17535e534",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ventasoksi@gmail.com",
+    "legalName": "Ricardo",
+    "phoneNumber": "04243035905"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-27T16:37:03.139Z",
+      "updatedAt": "2025-03-27T16:37:03.139Z",
+      "id": 12282,
+      "merchantId": 4881,
+      "name": "Todo en deportes Discogeis Mcy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6132,
+      "address": {
+        "name": "Todo en deportes Discogeis Mcy.",
+        "long": -67.4734375,
+        "lat": 10.227562500000005,
+        "location": "0101000020E6100000CDCCCCCC4CDE50C090976E1283742440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Deporte",
+  "shipmentOptionsAvailable": []
+}

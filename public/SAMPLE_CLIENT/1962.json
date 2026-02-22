@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-12T15:58:40.466Z",
+  "id": "1306",
+  "amount": 179.2,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1962,
+  "billingDate": "2022-12-12T15:58:40.466Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20743426",
+      "fullName": "EDGAR OSWALDO ALBARRAN CARACHE",
+      "phoneNumber": "+584146677085"
+    },
+    "installments": [
+      {
+        "id": "4216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T15:58:40.513Z",
+        "amount": 29.866666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T15:58:40.513Z",
+        "amount": 29.866666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T15:58:40.514Z",
+        "amount": 89.6,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T15:58:40.513Z",
+        "amount": 29.866666666666664,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 51,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

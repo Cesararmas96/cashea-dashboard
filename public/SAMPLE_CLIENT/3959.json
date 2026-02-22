@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:44:23.784Z",
+  "id": "3548",
+  "amount": 58,
+  "invoiceId": "3462",
+  "paidToMerchant": false,
+  "identifierNumber": 3959,
+  "billingDate": "2022-12-22T20:44:23.784Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15518365",
+      "fullName": "WILFREDO GERMAN DUQUE UTRERA",
+      "phoneNumber": "+584143721787"
+    },
+    "installments": [
+      {
+        "id": "11882",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:45:18.877Z",
+        "amount": 29,
+        "status": "DONE"
+      },
+      {
+        "id": "11885",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:45:18.876Z",
+        "amount": 9.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11884",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:45:18.876Z",
+        "amount": 9.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11883",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:45:18.876Z",
+        "amount": 9.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

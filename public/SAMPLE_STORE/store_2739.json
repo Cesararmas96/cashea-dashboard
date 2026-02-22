@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1379,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J309382357",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "internalBankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "account": "01910151722100164859",
+    "accountType": "Corriente",
+    "phoneNumber": "4129493992",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1377,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J309382357",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "internalBankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "account": "01910151722100164859",
+    "accountType": "Corriente",
+    "phoneNumber": "4129493992",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1378,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J309382357",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "internalBankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "account": "01910151722100164859",
+    "accountType": "Corriente",
+    "phoneNumber": "4129493992",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1380,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J309382357",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "internalBankHolder": "MATERIALES PROCORA MONAGAS, C.A",
+    "account": "01910151752300052580",
+    "accountType": "Custodia",
+    "phoneNumber": "4129493992",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

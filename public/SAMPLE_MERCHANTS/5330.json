@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-23T13:10:49.622Z",
+  "updatedAt": "2025-04-30T18:27:30.335Z",
+  "id": 5330,
+  "name": "Autospeed Mcbo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "73aabc9d-88ad-4d88-aae5-824b6c87c7ea",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "franklintiniacos1979@gmail.com",
+    "legalName": "Franklin Tiniacos",
+    "phoneNumber": "4246414334"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T15:04:04.846Z",
+      "updatedAt": "2025-04-23T15:04:04.846Z",
+      "id": 13180,
+      "merchantId": 5330,
+      "name": "Autospeed Mcbo Av 10",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3731,
+      "address": {
+        "name": "av. 10 c/c 63 sector la estrella",
+        "long": -71.6139375,
+        "lat": 10.682562500000003,
+        "location": "0101000020E61000006F1283C04AE751C0B8F3FDD4785D2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-04T01:41:08.035Z",
+      "updatedAt": "2025-06-04T01:41:08.035Z",
+      "id": 15196,
+      "merchantId": 5330,
+      "name": "VR_Autospeed Mcbo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3731,
+      "address": {
+        "name": "av. 10 c/c 63 sector la estrella",
+        "long": -71.6139375,
+        "lat": 10.682562500000003,
+        "location": "0101000020E61000006F1283C04AE751C0B8F3FDD4785D2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

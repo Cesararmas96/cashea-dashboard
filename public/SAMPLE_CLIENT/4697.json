@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:25:14.737Z",
+  "id": "2146",
+  "amount": 89.8,
+  "invoiceId": "9039",
+  "paidToMerchant": false,
+  "identifierNumber": 4697,
+  "billingDate": "2022-12-18T00:25:14.737Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15930437",
+      "fullName": "ISABEL CRISTINA ANSELMI ROJAS",
+      "phoneNumber": "+584143289044"
+    },
+    "installments": [
+      {
+        "id": "6999",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:25:45.452Z",
+        "amount": 14.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7001",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:25:45.452Z",
+        "amount": 14.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7000",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:25:45.452Z",
+        "amount": 14.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6998",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:25:45.453Z",
+        "amount": 44.9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

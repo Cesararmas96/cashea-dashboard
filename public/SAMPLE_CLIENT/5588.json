@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T22:19:19.282Z",
+  "id": "5286",
+  "amount": 48.99,
+  "invoiceId": "00048485",
+  "paidToMerchant": false,
+  "identifierNumber": 5588,
+  "billingDate": "2022-12-27T22:19:19.282Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14690151",
+      "fullName": "YESENIA ELSA FUENTES QUIROZ",
+      "phoneNumber": "+584242082983"
+    },
+    "installments": [
+      {
+        "id": "18150",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T22:19:57.824Z",
+        "amount": 24.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18153",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T22:19:57.823Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18152",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T22:19:57.823Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18151",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T22:19:57.823Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

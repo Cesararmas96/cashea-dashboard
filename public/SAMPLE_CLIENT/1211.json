@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-13T22:45:25.403Z",
+  "id": "107",
+  "amount": 131,
+  "invoiceId": "1222",
+  "paidToMerchant": false,
+  "identifierNumber": 1211,
+  "billingDate": "2022-10-13T22:45:25.403Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17755608",
+      "fullName": "GREISY DOUBRASKA FERREIRA MERCADO",
+      "phoneNumber": "+584122408058"
+    },
+    "installments": [
+      {
+        "id": "338",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-27T22:46:36.692Z",
+        "amount": 21.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "337",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-13T22:46:36.693Z",
+        "amount": 65.5,
+        "status": "DONE"
+      },
+      {
+        "id": "340",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-24T22:46:36.692Z",
+        "amount": 21.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "339",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-10T22:46:36.692Z",
+        "amount": 21.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

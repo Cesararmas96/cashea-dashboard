@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:23:45.748Z",
+  "id": "4329",
+  "amount": 118,
+  "invoiceId": "10651",
+  "paidToMerchant": false,
+  "identifierNumber": 4728,
+  "billingDate": "2022-12-23T23:23:45.748Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24407192",
+      "fullName": "PATRICIA MESA RACIOPPI",
+      "phoneNumber": "+584142244477"
+    },
+    "installments": [
+      {
+        "id": "14693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:23:58.064Z",
+        "amount": 19.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:23:58.064Z",
+        "amount": 59,
+        "status": "DONE"
+      },
+      {
+        "id": "14692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:23:58.064Z",
+        "amount": 19.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:23:58.064Z",
+        "amount": 19.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

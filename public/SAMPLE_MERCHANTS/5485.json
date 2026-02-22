@@ -1,0 +1,70 @@
+{
+  "createdAt": "2025-05-01T16:09:39.350Z",
+  "updatedAt": "2025-08-04T20:10:00.679Z",
+  "id": 5485,
+  "name": "Auto Sanz Colores",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "23d3f30f-e717-47b4-b458-a79bc06118e3",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "autosanzcolores@gmail.comv",
+    "legalName": "JOSE CARLOS",
+    "phoneNumber": "4245253326"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-01T16:11:48.866Z",
+      "updatedAt": "2025-05-01T16:11:48.866Z",
+      "id": 13503,
+      "merchantId": 5485,
+      "name": "Auto Sanz Colores Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11284,
+      "address": {
+        "name": "CALLE 17 ENTRE CARRERAS 21 Y 22, BQTO. CENTRO",
+        "long": -69.30868749999999,
+        "lat": 10.06893749999999,
+        "location": "0101000020E6100000C64B3789C15351C098EFA7C64B232440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

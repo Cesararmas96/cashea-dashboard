@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T19:19:07.515Z",
+  "id": "610",
+  "amount": 107,
+  "invoiceId": "10289",
+  "paidToMerchant": false,
+  "identifierNumber": 1378,
+  "billingDate": "2022-12-03T19:19:07.515Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19711806",
+      "fullName": "GLEYBER JOSE ZERPA ROJAS",
+      "phoneNumber": "+584142709900"
+    },
+    "installments": [
+      {
+        "id": "1946",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T19:21:24.272Z",
+        "amount": 53.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1948",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T19:21:24.271Z",
+        "amount": 17.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "1949",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T19:21:24.271Z",
+        "amount": 17.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "1947",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T19:21:24.271Z",
+        "amount": 17.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T00:19:14.425Z",
+  "id": "1857",
+  "amount": 79.56,
+  "invoiceId": "13286",
+  "paidToMerchant": false,
+  "identifierNumber": 2463,
+  "billingDate": "2022-12-17T00:19:14.425Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-16T04:00:01.014+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "6024",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19821287",
+      "fullName": "JESUS ALBERTO D LEON GUZMAN",
+      "phoneNumber": "+584126333695"
+    },
+    "installments": [
+      {
+        "id": "6024",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T00:25:23.674Z",
+        "amount": 11.666666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "6025",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T00:25:23.674Z",
+        "amount": 11.666666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "6022",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T00:25:23.674Z",
+        "amount": 44.56,
+        "status": "DONE"
+      },
+      {
+        "id": "6023",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T00:25:23.674Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

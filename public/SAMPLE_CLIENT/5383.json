@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-15T22:22:44.528Z",
+  "id": "1597",
+  "amount": 34.93,
+  "invoiceId": "44388",
+  "paidToMerchant": false,
+  "identifierNumber": 5383,
+  "billingDate": "2022-12-15T22:22:44.528Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "75",
+    "buyDebtDate": "2023-01-01T04:00:00.154+00:00",
+    "lastStoreId": 62,
+    "boughtForInstallmentId": "5171",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16097327",
+      "fullName": "BEADIN JOSSE BRACAMONTE RODRIGUEZ",
+      "phoneNumber": "+584120865555"
+    },
+    "installments": [
+      {
+        "id": "5173",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T22:22:57.445Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5172",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T22:22:57.445Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5170",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T22:22:57.445Z",
+        "amount": 17.46,
+        "status": "DONE"
+      },
+      {
+        "id": "5171",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T22:22:57.445Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

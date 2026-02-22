@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T13:02:55.463Z",
+  "id": "4520",
+  "amount": 42.5,
+  "invoiceId": "0434",
+  "paidToMerchant": false,
+  "identifierNumber": 4875,
+  "billingDate": "2022-12-24T13:02:55.463Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12295280",
+      "fullName": "MIGUEL ALFREDO MARTINEZ MARINO",
+      "phoneNumber": "+584122048284"
+    },
+    "installments": [
+      {
+        "id": "15414",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T13:03:07.359Z",
+        "amount": 21.25,
+        "status": "DONE"
+      },
+      {
+        "id": "15417",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T13:03:07.358Z",
+        "amount": 7.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15416",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T13:03:07.358Z",
+        "amount": 7.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15415",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T13:03:07.358Z",
+        "amount": 7.083333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

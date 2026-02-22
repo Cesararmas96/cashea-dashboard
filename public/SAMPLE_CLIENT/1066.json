@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-10T16:04:27.287Z",
+  "id": "330",
+  "amount": 99,
+  "invoiceId": "10065",
+  "paidToMerchant": false,
+  "identifierNumber": 1066,
+  "billingDate": "2022-11-10T16:04:27.287Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27408813",
+      "fullName": "YAILIN YAIRILIT MARQUEZ SALAZAR",
+      "phoneNumber": "+584241743469"
+    },
+    "installments": [
+      {
+        "id": "1020",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-22T16:05:26.349Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1019",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-08T16:05:26.349Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1018",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-24T16:05:26.349Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1017",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-10T16:05:26.351Z",
+        "amount": 49.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

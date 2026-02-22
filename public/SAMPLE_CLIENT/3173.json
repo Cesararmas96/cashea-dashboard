@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T15:41:59.017Z",
+  "id": "11572",
+  "amount": 45.49,
+  "invoiceId": "48852",
+  "paidToMerchant": false,
+  "identifierNumber": 3173,
+  "billingDate": "2023-01-31T15:41:59.017Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23851952",
+      "fullName": "ALEXSON DAVID GIMENEZ CASTILLO",
+      "phoneNumber": "+584121740567"
+    },
+    "installments": [
+      {
+        "id": "35501",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T15:42:11.369Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "35498",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T15:42:11.370Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "35500",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T15:42:11.369Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "35499",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T15:42:11.369Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T19:49:29.902Z",
+  "id": "4832",
+  "amount": 87.27,
+  "invoiceId": "9137",
+  "paidToMerchant": false,
+  "identifierNumber": 5062,
+  "billingDate": "2022-12-24T19:49:29.902Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-02-07T04:00:01.235+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "16569",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26253028",
+      "fullName": "KUINBY ROXANA DA SILVA MARQUEZ",
+      "phoneNumber": "+584149198507"
+    },
+    "installments": [
+      {
+        "id": "16569",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:51:47.835Z",
+        "amount": 14.546666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "16568",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:51:47.835Z",
+        "amount": 14.546666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "16566",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:51:47.835Z",
+        "amount": 43.63,
+        "status": "DONE"
+      },
+      {
+        "id": "16567",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:51:47.835Z",
+        "amount": 14.546666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

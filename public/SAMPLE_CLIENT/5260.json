@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T20:39:19.867Z",
+  "id": "5935",
+  "amount": 38.36,
+  "invoiceId": "49549",
+  "paidToMerchant": false,
+  "identifierNumber": 5260,
+  "billingDate": "2022-12-29T20:39:19.867Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-15T04:00:00.977+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "20471",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27812152",
+      "fullName": "DAYANNI MAYERLIN HERNANDEZ ALDANA",
+      "phoneNumber": "+584124086565"
+    },
+    "installments": [
+      {
+        "id": "20471",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:39:35.478Z",
+        "amount": 6.3933333333333335,
+        "status": "DELAYED"
+      },
+      {
+        "id": "20473",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:39:35.478Z",
+        "amount": 6.3933333333333335,
+        "status": "DELAYED"
+      },
+      {
+        "id": "20472",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:39:35.478Z",
+        "amount": 6.3933333333333335,
+        "status": "DELAYED"
+      },
+      {
+        "id": "20470",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:39:35.478Z",
+        "amount": 19.18,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

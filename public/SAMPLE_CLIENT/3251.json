@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:29:54.756Z",
+  "id": "2770",
+  "amount": 49.86,
+  "invoiceId": "12561",
+  "paidToMerchant": false,
+  "identifierNumber": 3251,
+  "billingDate": "2022-12-20T18:29:54.756Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20301982",
+      "fullName": "GENESIS CAROLAY ARMAS",
+      "phoneNumber": "+584125413788"
+    },
+    "installments": [
+      {
+        "id": "9129",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:30:19.752Z",
+        "amount": 8.31,
+        "status": "DONE"
+      },
+      {
+        "id": "9127",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:30:19.752Z",
+        "amount": 8.31,
+        "status": "DONE"
+      },
+      {
+        "id": "9128",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:30:19.752Z",
+        "amount": 8.31,
+        "status": "DONE"
+      },
+      {
+        "id": "9126",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:30:19.752Z",
+        "amount": 24.93,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

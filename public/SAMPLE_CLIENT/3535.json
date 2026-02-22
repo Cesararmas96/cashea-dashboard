@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-31T15:48:06.940Z",
+  "id": "11575",
+  "amount": 134.096,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3535,
+  "billingDate": "2023-01-31T15:48:06.940Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18493883",
+      "fullName": "RUBBY ALEXANDER OLIVARES MENESES",
+      "phoneNumber": "+584149034025"
+    },
+    "installments": [
+      {
+        "id": "35510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T15:48:06.981Z",
+        "amount": 67.05,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T15:48:06.981Z",
+        "amount": 22.34866666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T15:48:06.981Z",
+        "amount": 22.34866666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T15:48:06.981Z",
+        "amount": 22.34866666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 105,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2595,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

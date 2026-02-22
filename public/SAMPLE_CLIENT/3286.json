@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:52:52.253Z",
+  "id": "2843",
+  "amount": 98,
+  "invoiceId": "739",
+  "paidToMerchant": false,
+  "identifierNumber": 3286,
+  "billingDate": "2022-12-20T20:52:52.253Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14594457",
+      "fullName": "YONMEL ENRIQUE MARRERO SEIJAS",
+      "phoneNumber": "+584143325767"
+    },
+    "installments": [
+      {
+        "id": "9370",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:53:36.903Z",
+        "amount": 49,
+        "status": "DONE"
+      },
+      {
+        "id": "9373",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:53:36.902Z",
+        "amount": 16.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9372",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:53:36.902Z",
+        "amount": 16.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9371",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:53:36.902Z",
+        "amount": 16.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:25:58.068Z",
+  "id": "3213",
+  "amount": 45.13,
+  "invoiceId": "44266",
+  "paidToMerchant": false,
+  "identifierNumber": 3629,
+  "billingDate": "2022-12-21T21:25:58.068Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13292756",
+      "fullName": "JULIBETH MAGALY PEREZ MONTANO",
+      "phoneNumber": "+584241258713"
+    },
+    "installments": [
+      {
+        "id": "10672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:32:44.087Z",
+        "amount": 7.5200000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "10670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:32:44.087Z",
+        "amount": 22.57,
+        "status": "DONE"
+      },
+      {
+        "id": "10673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:32:44.087Z",
+        "amount": 7.5200000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "10671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:32:44.087Z",
+        "amount": 7.5200000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

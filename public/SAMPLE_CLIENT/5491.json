@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T14:27:56.771Z",
+  "id": "5188",
+  "amount": 34.99,
+  "invoiceId": "7560",
+  "paidToMerchant": false,
+  "identifierNumber": 5491,
+  "billingDate": "2022-12-27T14:27:56.771Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17531905",
+      "fullName": "VILLY MANUEL HERRERA GUEVARA",
+      "phoneNumber": "+584141547590"
+    },
+    "installments": [
+      {
+        "id": "17782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T14:28:56.941Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T14:28:56.940Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "17784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T14:28:56.940Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "17783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T14:28:56.940Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

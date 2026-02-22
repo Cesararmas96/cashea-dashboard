@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-28T15:45:31.337Z",
+  "updatedAt": "2025-05-22T21:30:35.890Z",
+  "id": 5429,
+  "name": "Pinturas Oriente",
+  "ecommerceUrl": null,
+  "changePolicy": "NO ACEPTAMOS DEVOLUCIONES",
+  "email": "gabo_t24@hotmail.com",
+  "phoneNumber": "+58412096758",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9eca7c5e-da2d-461d-9f42-c4f15ff44f12",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "pinturasorientecumana@gmail.com",
+    "legalName": "Gabriel",
+    "phoneNumber": "04120966758"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-04T22:53:28.513Z",
+      "updatedAt": "2025-09-04T22:53:28.513Z",
+      "id": 20677,
+      "merchantId": 5429,
+      "name": "VR_Pinturas Oriente, AV. LAS INDUSTRIAS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5769,
+      "address": {
+        "name": "AV. LAS INDUSTRIAS LOCAL Nº 2B ZONA INDUSTRIAL SAN LUIS",
+        "long": -64.1860625,
+        "lat": 10.441937500000009,
+        "location": "0101000020E6100000C520B072E80B50C088C0CAA145E22440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T16:24:02.402Z",
+      "updatedAt": "2025-05-08T16:24:02.402Z",
+      "id": 13824,
+      "merchantId": 5429,
+      "name": "Pinturas Oriente Marketplace",
+      "statusId": 1,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5769,
+      "address": {
+        "name": "gabo_t24@hotmail.com",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T15:47:39.043Z",
+      "updatedAt": "2025-04-28T15:47:39.043Z",
+      "id": 13347,
+      "merchantId": 5429,
+      "name": "Pinturas Oriente Cumana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5769,
+      "address": {
+        "name": "AV. LAS INDUSTRIAS LOCAL Nº 2B ZONA INDUSTRIAL SAN LUIS",
+        "long": -64.1860625,
+        "lat": 10.441937500000009,
+        "location": "0101000020E6100000C520B072E80B50C088C0CAA145E22440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

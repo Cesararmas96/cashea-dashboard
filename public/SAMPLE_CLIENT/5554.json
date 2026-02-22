@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T18:39:14.450Z",
+  "id": "5229",
+  "amount": 102.25,
+  "invoiceId": "00018714",
+  "paidToMerchant": false,
+  "identifierNumber": 5554,
+  "billingDate": "2022-12-27T18:39:14.450Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-27T04:00:00.256+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "17924",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23717404",
+      "fullName": "JOSUE NATANAEL GARCIA ZAMBRANO",
+      "phoneNumber": "+584142205940"
+    },
+    "installments": [
+      {
+        "id": "17925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T18:39:45.573Z",
+        "amount": 17.04,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T18:39:45.573Z",
+        "amount": 17.04,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T18:39:45.574Z",
+        "amount": 51.13,
+        "status": "DONE"
+      },
+      {
+        "id": "17923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T18:39:45.573Z",
+        "amount": 17.04,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

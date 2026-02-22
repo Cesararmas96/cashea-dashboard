@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:40:32.533Z",
+  "id": "5433",
+  "amount": 54.48,
+  "invoiceId": "00930",
+  "paidToMerchant": false,
+  "identifierNumber": 5743,
+  "billingDate": "2022-12-28T17:40:32.533Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14142840",
+      "fullName": "HARLING JAVIER PALACIOS MENDOZA",
+      "phoneNumber": "+584123224496"
+    },
+    "installments": [
+      {
+        "id": "18666",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:40:52.824Z",
+        "amount": 27.24,
+        "status": "DONE"
+      },
+      {
+        "id": "18669",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:40:52.822Z",
+        "amount": 9.08,
+        "status": "DONE"
+      },
+      {
+        "id": "18667",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:40:52.822Z",
+        "amount": 9.08,
+        "status": "DONE"
+      },
+      {
+        "id": "18668",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:40:52.822Z",
+        "amount": 9.08,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

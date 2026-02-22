@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:56:41.025Z",
+  "id": "3236",
+  "amount": 244,
+  "invoiceId": "7350",
+  "paidToMerchant": false,
+  "identifierNumber": 3680,
+  "billingDate": "2022-12-21T21:56:41.025Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18403611",
+      "fullName": "LARIN LEONARDO BOLIVAR SORET",
+      "phoneNumber": "+584242242928"
+    },
+    "installments": [
+      {
+        "id": "10742",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:56:58.758Z",
+        "amount": 122,
+        "status": "DONE"
+      },
+      {
+        "id": "10744",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:56:58.758Z",
+        "amount": 40.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "10745",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:56:58.758Z",
+        "amount": 40.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "10743",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:56:58.758Z",
+        "amount": 40.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

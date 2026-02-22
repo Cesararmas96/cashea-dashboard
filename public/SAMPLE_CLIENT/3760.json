@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:59:59.229Z",
+  "id": "3360",
+  "amount": 51.63,
+  "invoiceId": "12724",
+  "paidToMerchant": false,
+  "identifierNumber": 3760,
+  "billingDate": "2022-12-22T00:59:59.229Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25510612",
+      "fullName": "KAREN FABIANA PERDIGON GUTIERREZ",
+      "phoneNumber": "+584126268546"
+    },
+    "installments": [
+      {
+        "id": "11194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:00:08.289Z",
+        "amount": 25.82,
+        "status": "DONE"
+      },
+      {
+        "id": "11196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:00:08.288Z",
+        "amount": 8.603333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:00:08.288Z",
+        "amount": 8.603333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:00:08.288Z",
+        "amount": 8.603333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

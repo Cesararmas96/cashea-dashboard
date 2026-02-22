@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-01T22:12:13.867Z",
+  "id": "228",
+  "amount": 139,
+  "invoiceId": "40001423",
+  "paidToMerchant": false,
+  "identifierNumber": 1294,
+  "billingDate": "2022-11-01T22:12:13.867Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13161812",
+      "fullName": "WILMER ALEXANDER GUAURA VERA",
+      "phoneNumber": "+584120238270"
+    },
+    "installments": [
+      {
+        "id": "693",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-01T22:12:27.250Z",
+        "amount": 69.5,
+        "status": "DONE"
+      },
+      {
+        "id": "696",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-13T22:12:27.247Z",
+        "amount": 23.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "695",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-29T22:12:27.247Z",
+        "amount": 23.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "694",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-15T22:12:27.247Z",
+        "amount": 23.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

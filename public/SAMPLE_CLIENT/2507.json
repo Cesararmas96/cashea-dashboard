@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T19:51:23.368Z",
+  "id": "1994",
+  "amount": 36.99,
+  "invoiceId": "6361",
+  "paidToMerchant": false,
+  "identifierNumber": 2507,
+  "billingDate": "2022-12-17T19:51:23.368Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29537905",
+      "fullName": "JOHN EVEREST RESTREPO VEROES",
+      "phoneNumber": "+584241559332"
+    },
+    "installments": [
+      {
+        "id": "6475",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T19:53:33.222Z",
+        "amount": 6.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6476",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T19:53:33.222Z",
+        "amount": 6.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6477",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T19:53:33.222Z",
+        "amount": 6.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6474",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T19:53:33.222Z",
+        "amount": 18.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

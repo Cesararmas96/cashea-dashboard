@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T23:55:02.397Z",
+  "id": "4376",
+  "amount": 165.16,
+  "invoiceId": "12977",
+  "paidToMerchant": false,
+  "identifierNumber": 4746,
+  "billingDate": "2022-12-23T23:55:02.397Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-09T04:00:01.546+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "14851",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16264817",
+      "fullName": "LISBETH YSABEL CORONIL RIOS",
+      "phoneNumber": "+584143181724"
+    },
+    "installments": [
+      {
+        "id": "14853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:55:12.908Z",
+        "amount": 27.526666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:55:12.908Z",
+        "amount": 27.526666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:55:12.908Z",
+        "amount": 27.526666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:55:12.909Z",
+        "amount": 82.58,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

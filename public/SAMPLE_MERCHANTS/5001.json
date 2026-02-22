@@ -1,0 +1,38 @@
+{
+  "createdAt": "2025-04-02T20:02:26.198Z",
+  "updatedAt": "2026-01-16T02:20:16.115Z",
+  "id": 5001,
+  "name": "Junko Express La Guaira/DEPRECAR",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "78c2d43b-92b3-4263-90ae-c9cefd7a2a97",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "junkoxpress@gmail.com",
+    "legalName": "(424)271-5561",
+    "phoneNumber": "+584242715561"
+  },
+  "stores": [],
+  "installmentPlansAvailable": [],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

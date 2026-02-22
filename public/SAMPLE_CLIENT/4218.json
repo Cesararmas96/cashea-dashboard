@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:38:15.472Z",
+  "id": "4752",
+  "amount": 58.83,
+  "invoiceId": "50549",
+  "paidToMerchant": false,
+  "identifierNumber": 4218,
+  "billingDate": "2022-12-24T18:38:15.472Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20132102",
+      "fullName": "CINDY GABRIELA MONTILLA BETANCOURT",
+      "phoneNumber": "+584242576611"
+    },
+    "installments": [
+      {
+        "id": "16268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:39:03.771Z",
+        "amount": 9.806666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:39:03.772Z",
+        "amount": 29.41,
+        "status": "DONE"
+      },
+      {
+        "id": "16269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:39:03.771Z",
+        "amount": 9.806666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:39:03.771Z",
+        "amount": 9.806666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

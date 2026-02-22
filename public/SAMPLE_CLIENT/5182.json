@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:27:56.465Z",
+  "id": "4921",
+  "amount": 49.99,
+  "invoiceId": "00018521",
+  "paidToMerchant": false,
+  "identifierNumber": 5182,
+  "billingDate": "2022-12-24T21:27:56.465Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19649111",
+      "fullName": "YUSLEIDIS AYARIS RODRIGUEZ VARGAS",
+      "phoneNumber": "+584241682335"
+    },
+    "installments": [
+      {
+        "id": "16869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:29:05.415Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "16868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:29:05.415Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "16866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:29:05.415Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "16867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:29:05.415Z",
+        "amount": 8.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

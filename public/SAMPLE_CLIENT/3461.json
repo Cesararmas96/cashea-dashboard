@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T16:35:20.239Z",
+  "id": "3105",
+  "amount": 84.05,
+  "invoiceId": "44228",
+  "paidToMerchant": false,
+  "identifierNumber": 3461,
+  "billingDate": "2022-12-21T16:35:20.239Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26989132",
+      "fullName": "ADRIANA MARIA CARRENO ANGARITA",
+      "phoneNumber": "+584142168891"
+    },
+    "installments": [
+      {
+        "id": "10266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T16:35:46.470Z",
+        "amount": 42.02,
+        "status": "DONE"
+      },
+      {
+        "id": "10267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T16:35:46.469Z",
+        "amount": 14.009999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "10268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T16:35:46.469Z",
+        "amount": 14.009999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "10269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T16:35:46.469Z",
+        "amount": 14.009999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

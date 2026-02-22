@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T17:44:00.602Z",
+  "id": "3450",
+  "amount": 62.99,
+  "invoiceId": "14824",
+  "paidToMerchant": false,
+  "identifierNumber": 3863,
+  "billingDate": "2022-12-22T17:44:00.602Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14274214",
+      "fullName": "EDGARDO JESUS JURADO MAVAREZ",
+      "phoneNumber": "+584142021221"
+    },
+    "installments": [
+      {
+        "id": "11526",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T17:44:21.155Z",
+        "amount": 31.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11529",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T17:44:21.155Z",
+        "amount": 10.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11528",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T17:44:21.155Z",
+        "amount": 10.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11527",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T17:44:21.155Z",
+        "amount": 10.496666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

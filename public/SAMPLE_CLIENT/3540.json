@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T16:22:37.381Z",
+  "id": "3104",
+  "amount": 188.21,
+  "invoiceId": "13635",
+  "paidToMerchant": false,
+  "identifierNumber": 3540,
+  "billingDate": "2022-12-21T16:22:37.381Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16924917",
+      "fullName": "NELSON GONCALVES PITA",
+      "phoneNumber": "+584265209440"
+    },
+    "installments": [
+      {
+        "id": "10262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T16:23:19.729Z",
+        "amount": 94.11,
+        "status": "DONE"
+      },
+      {
+        "id": "10265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T16:23:19.728Z",
+        "amount": 31.36666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T16:23:19.728Z",
+        "amount": 31.36666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T16:23:19.728Z",
+        "amount": 31.36666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

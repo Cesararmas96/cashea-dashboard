@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-21T01:11:53.429Z",
+  "id": "10403",
+  "amount": 319.99760000000003,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5031,
+  "billingDate": "2023-01-21T01:11:53.429Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22447223",
+      "fullName": "YUBRESKA YOILYSMAR CORCHO HERNANDEZ",
+      "phoneNumber": "+584241900489"
+    },
+    "installments": [
+      {
+        "id": "31335",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-04T01:11:53.509Z",
+        "amount": 43.332533333333345,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "31334",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-21T01:11:53.510Z",
+        "amount": 190,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "31337",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-04T01:11:53.509Z",
+        "amount": 43.332533333333345,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "31336",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-18T01:11:53.509Z",
+        "amount": 43.332533333333345,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 165,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

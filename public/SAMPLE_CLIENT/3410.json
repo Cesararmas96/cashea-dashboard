@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-20T23:09:42.896Z",
+  "id": "2950",
+  "amount": 65.8,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3410,
+  "billingDate": "2022-12-20T23:09:42.896Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:00:08.701Z",
+  "id": "2939",
+  "amount": 60.36,
+  "invoiceId": "12606",
+  "paidToMerchant": false,
+  "identifierNumber": 3369,
+  "billingDate": "2022-12-20T23:00:08.701Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17709583",
+      "fullName": "JOBEIDI JOLIBETH LEDOS MEZA",
+      "phoneNumber": "+584128945579"
+    },
+    "installments": [
+      {
+        "id": "9698",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:00:31.559Z",
+        "amount": 30.18,
+        "status": "DONE"
+      },
+      {
+        "id": "9699",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:00:31.558Z",
+        "amount": 10.06,
+        "status": "DONE"
+      },
+      {
+        "id": "9700",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:00:31.558Z",
+        "amount": 10.06,
+        "status": "DONE"
+      },
+      {
+        "id": "9701",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:00:31.558Z",
+        "amount": 10.06,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

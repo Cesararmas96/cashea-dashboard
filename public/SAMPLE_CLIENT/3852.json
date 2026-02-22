@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T17:54:43.090Z",
+  "id": "3456",
+  "amount": 62.73,
+  "invoiceId": "12787",
+  "paidToMerchant": false,
+  "identifierNumber": 3852,
+  "billingDate": "2022-12-22T17:54:43.090Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16411725",
+      "fullName": "DESIREE FABIOLA CATENACCI GARAICOECHEA",
+      "phoneNumber": "+584125616123"
+    },
+    "installments": [
+      {
+        "id": "11546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T17:55:09.855Z",
+        "amount": 31.36,
+        "status": "DONE"
+      },
+      {
+        "id": "11547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T17:55:09.854Z",
+        "amount": 10.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "11549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T17:55:09.854Z",
+        "amount": 10.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "11548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T17:55:09.854Z",
+        "amount": 10.456666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

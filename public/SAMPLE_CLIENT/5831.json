@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:49:39.229Z",
+  "id": "5538",
+  "amount": 38.36,
+  "invoiceId": "18858",
+  "paidToMerchant": false,
+  "identifierNumber": 5831,
+  "billingDate": "2022-12-28T20:49:39.229Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13382759",
+      "fullName": "FELICIA KATIUSKA PENA AGUILERA",
+      "phoneNumber": "+584241120361"
+    },
+    "installments": [
+      {
+        "id": "19026",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:50:12.962Z",
+        "amount": 19.18,
+        "status": "DONE"
+      },
+      {
+        "id": "19029",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:50:12.962Z",
+        "amount": 6.3933333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "19028",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:50:12.962Z",
+        "amount": 6.3933333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "19027",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:50:12.962Z",
+        "amount": 6.3933333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

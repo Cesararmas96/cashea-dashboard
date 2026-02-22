@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:33:34.729Z",
+  "id": "4742",
+  "amount": 34.99,
+  "invoiceId": "15103",
+  "paidToMerchant": false,
+  "identifierNumber": 4215,
+  "billingDate": "2022-12-24T18:33:34.729Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25385075",
+      "fullName": "ANGEL ABNER LOPEZ CARIPA",
+      "phoneNumber": "+584123635136"
+    },
+    "installments": [
+      {
+        "id": "16241",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:33:56.712Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16238",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:33:56.712Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16240",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:33:56.712Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16239",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:33:56.712Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

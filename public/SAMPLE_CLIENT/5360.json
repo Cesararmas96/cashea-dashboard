@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T20:46:33.596Z",
+  "id": "5067",
+  "amount": 30.59,
+  "invoiceId": "44665",
+  "paidToMerchant": false,
+  "identifierNumber": 5360,
+  "billingDate": "2022-12-26T20:46:33.596Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20524153",
+      "fullName": "DANIELLA NICOLE LOBO ALLAS",
+      "phoneNumber": "+584242657024"
+    },
+    "installments": [
+      {
+        "id": "17377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T20:47:04.287Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "17374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T20:47:04.287Z",
+        "amount": 15.29,
+        "status": "DONE"
+      },
+      {
+        "id": "17375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T20:47:04.287Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "17376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T20:47:04.287Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

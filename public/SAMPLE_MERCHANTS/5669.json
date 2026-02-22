@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-09T15:28:51.650Z",
+  "updatedAt": "2025-05-26T14:05:09.319Z",
+  "id": 5669,
+  "name": "Bahibo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5ce93763-b85e-428e-a274-481425e0f0cb",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tramontemarco27@gmail.com",
+    "legalName": "MARCO",
+    "phoneNumber": "4142391131"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T16:44:50.765Z",
+      "updatedAt": "2025-06-18T16:44:50.765Z",
+      "id": 15913,
+      "merchantId": 5669,
+      "name": "VR_Bahibo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4465,
+      "address": {
+        "name": "calle Colombia local 26 urbanizable nueva caracas Caracas vzla",
+        "long": -66.94606250000001,
+        "lat": 10.512687499999998,
+        "location": "0101000020E6100000365EBA498CBC50C0D022DBF97E062540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T15:30:08.940Z",
+      "updatedAt": "2025-05-09T15:30:08.940Z",
+      "id": 13879,
+      "merchantId": 5669,
+      "name": "Bahibo Catia CCS Pt",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4465,
+      "address": {
+        "name": "calle Colombia local 26 urbanizable nueva caracas Caracas vzla",
+        "long": -66.94606250000001,
+        "lat": 10.512687499999998,
+        "location": "0101000020E6100000365EBA498CBC50C0D022DBF97E062540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

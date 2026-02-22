@@ -1,0 +1,90 @@
+{
+  "createdAt": "2025-04-22T13:14:34.868Z",
+  "updatedAt": "2025-04-28T17:06:09.774Z",
+  "id": 5315,
+  "name": "Super market rincón",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "6cd29096-83b0-4e39-8ed5-800669354c0f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "qihanwu12369@gmail.com",
+    "legalName": "Qihan",
+    "phoneNumber": "4120885062"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-22T13:22:44.571Z",
+      "updatedAt": "2025-04-22T13:22:44.571Z",
+      "id": 13130,
+      "merchantId": 5315,
+      "name": "Super market rincón CC Los Chaguaramos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7783,
+      "address": {
+        "name": "CTRA PUTUCUAL VIA EL RINCON CC LOS CHAGUARAMOS II NIVEL PB LOCAL P-B-1 Y P-B-2 SECTOR PUTUCUAL BARCELONA",
+        "long": -63.5,
+        "lat": 8.5,
+        "location": "0101000020E61000000000000000C04FC00000000000002140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T21:41:36.711Z",
+  "id": "876",
+  "amount": 80,
+  "invoiceId": "7138",
+  "paidToMerchant": false,
+  "identifierNumber": 1527,
+  "billingDate": "2022-12-07T21:41:36.711Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17531262",
+      "fullName": "MANUEL JESUS HARRINGTHON GUIA",
+      "phoneNumber": "+584242836257"
+    },
+    "installments": [
+      {
+        "id": "2784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T21:42:47.327Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T21:42:47.327Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T21:42:47.327Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T21:42:47.329Z",
+        "amount": 40,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

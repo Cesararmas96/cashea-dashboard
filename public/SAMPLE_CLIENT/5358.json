@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T20:34:44.562Z",
+  "id": "5062",
+  "amount": 33.58,
+  "invoiceId": "4165",
+  "paidToMerchant": false,
+  "identifierNumber": 5358,
+  "billingDate": "2022-12-26T20:34:44.562Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-26T04:00:00.315+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "17352",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11306523",
+      "fullName": "LUIS GUILLERMO JOSE UBIEDA CAMPAGNA",
+      "phoneNumber": "+584241380166"
+    },
+    "installments": [
+      {
+        "id": "17353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T20:35:02.016Z",
+        "amount": 5.596666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T20:35:02.016Z",
+        "amount": 5.596666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T20:35:02.017Z",
+        "amount": 16.79,
+        "status": "DONE"
+      },
+      {
+        "id": "17351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T20:35:02.016Z",
+        "amount": 5.596666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

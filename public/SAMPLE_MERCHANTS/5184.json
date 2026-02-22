@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-11T15:23:30.025Z",
+  "updatedAt": "2025-04-14T14:22:01.857Z",
+  "id": 5184,
+  "name": "Il Barrante",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0e0e2803-6235-47f7-b0eb-4114c42f72c9",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "elbaghdadya@hotmail.com",
+    "legalName": "AHMED ELBAGHDADY",
+    "phoneNumber": "4248280755"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T21:14:41.636Z",
+      "updatedAt": "2025-05-15T21:14:41.636Z",
+      "id": 14208,
+      "merchantId": 5184,
+      "name": "VR_Il Barrante",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5678,
+      "address": {
+        "name": "Il Barrante Av. Bermudez",
+        "long": -64.67668750000001,
+        "lat": 10.146937499999993,
+        "location": "0101000020E61000002C8716D94E2B50C0A81C5A643B4B2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-11T15:25:40.341Z",
+      "updatedAt": "2025-04-11T15:25:40.341Z",
+      "id": 12846,
+      "merchantId": 5184,
+      "name": "Il Barrante Av. Bermudez",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5678,
+      "address": {
+        "name": "Il Barrante Av. Bermudez",
+        "long": -64.67668750000001,
+        "lat": 10.146937499999993,
+        "location": "0101000020E61000002C8716D94E2B50C0A81C5A643B4B2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

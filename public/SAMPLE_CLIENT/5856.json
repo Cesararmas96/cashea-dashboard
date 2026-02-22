@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T21:29:51.096Z",
+  "id": "5562",
+  "amount": 108.92,
+  "invoiceId": "00002382",
+  "paidToMerchant": false,
+  "identifierNumber": 5856,
+  "billingDate": "2022-12-28T21:29:51.096Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-02-11T04:00:01.206+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "19121",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16556089",
+      "fullName": "DANIELA NATALY TOVAR VERA",
+      "phoneNumber": "+584241878186"
+    },
+    "installments": [
+      {
+        "id": "19121",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:32:57.560Z",
+        "amount": 18.153333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19118",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:32:57.560Z",
+        "amount": 54.46,
+        "status": "DONE"
+      },
+      {
+        "id": "19119",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:32:57.560Z",
+        "amount": 18.153333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19120",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:32:57.560Z",
+        "amount": 18.153333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:16:57.005Z",
+  "id": "4855",
+  "amount": 78.16,
+  "invoiceId": "00002218",
+  "paidToMerchant": false,
+  "identifierNumber": 5060,
+  "billingDate": "2022-12-24T20:16:57.005Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17971689",
+      "fullName": "LISSETTE ADRIANA ZAMBRANO SANTELIZ",
+      "phoneNumber": "+584122561654"
+    },
+    "installments": [
+      {
+        "id": "16630",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:17:56.702Z",
+        "amount": 39.08,
+        "status": "DONE"
+      },
+      {
+        "id": "16631",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:17:56.701Z",
+        "amount": 13.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16633",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:17:56.701Z",
+        "amount": 13.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16632",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:17:56.701Z",
+        "amount": 13.026666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

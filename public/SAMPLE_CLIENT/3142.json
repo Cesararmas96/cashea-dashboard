@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T02:13:02.353Z",
+  "id": "2708",
+  "amount": 46.19,
+  "invoiceId": "6275",
+  "paidToMerchant": false,
+  "identifierNumber": 3142,
+  "billingDate": "2022-12-20T02:13:02.353Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20793666",
+      "fullName": "GERSON DANIEL RONDON DIAZ",
+      "phoneNumber": "+584141273493"
+    },
+    "installments": [
+      {
+        "id": "8917",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T02:13:17.659Z",
+        "amount": 7.699999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8914",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T02:13:17.659Z",
+        "amount": 23.09,
+        "status": "DONE"
+      },
+      {
+        "id": "8916",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T02:13:17.659Z",
+        "amount": 7.699999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8915",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T02:13:17.659Z",
+        "amount": 7.699999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

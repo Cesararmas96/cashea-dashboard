@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T17:25:44.568Z",
+  "id": "5428",
+  "amount": 85.26,
+  "invoiceId": "13921",
+  "paidToMerchant": false,
+  "identifierNumber": 5745,
+  "billingDate": "2022-12-28T17:25:44.568Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-28T04:00:00.592+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "18648",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24901259",
+      "fullName": "JOHANDERSON RUBEN LEAL MALDONADO",
+      "phoneNumber": "+584121485715"
+    },
+    "installments": [
+      {
+        "id": "18649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:27:50.230Z",
+        "amount": 14.21,
+        "status": "DONE"
+      },
+      {
+        "id": "18648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:27:50.230Z",
+        "amount": 14.21,
+        "status": "DONE"
+      },
+      {
+        "id": "18646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:27:50.230Z",
+        "amount": 42.63,
+        "status": "DONE"
+      },
+      {
+        "id": "18647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:27:50.230Z",
+        "amount": 14.21,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

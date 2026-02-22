@@ -1,0 +1,128 @@
+[
+  {
+    "id": 37031,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J504518581",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "internalBankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "account": "01910073172173081875",
+    "accountType": "Corriente",
+    "phoneNumber": "4145184062",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 37029,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J504518581",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "internalBankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "account": "01910073172173081875",
+    "accountType": "Corriente",
+    "phoneNumber": "4145184062",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 37030,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J504518581",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "internalBankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "account": "01910073172173081875",
+    "accountType": "Corriente",
+    "phoneNumber": "4145184062",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 37032,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J504518581",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "internalBankHolder": "COMERCIALIZADORA WIN GLOBAL 23, C.A",
+    "account": "01910073142373033989",
+    "accountType": "Custodia",
+    "phoneNumber": "4145184062",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

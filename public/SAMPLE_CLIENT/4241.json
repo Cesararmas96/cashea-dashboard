@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:43:56.787Z",
+  "id": "4758",
+  "amount": 98.96,
+  "invoiceId": "15105",
+  "paidToMerchant": false,
+  "identifierNumber": 4241,
+  "billingDate": "2022-12-24T18:43:56.787Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26737996",
+      "fullName": "WILNELLYS DEL CARMEN MORENO GARCIA",
+      "phoneNumber": "+584125878378"
+    },
+    "installments": [
+      {
+        "id": "16293",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:44:19.204Z",
+        "amount": 16.493333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "16290",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:44:19.204Z",
+        "amount": 49.48,
+        "status": "DONE"
+      },
+      {
+        "id": "16292",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:44:19.204Z",
+        "amount": 16.493333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "16291",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:44:19.204Z",
+        "amount": 16.493333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

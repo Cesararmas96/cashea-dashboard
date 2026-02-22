@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T00:11:30.891Z",
+  "id": "4392",
+  "amount": 110,
+  "invoiceId": "3025",
+  "paidToMerchant": false,
+  "identifierNumber": 4782,
+  "billingDate": "2022-12-24T00:11:30.891Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "46",
+    "buyDebtDate": "2023-01-23T04:00:00.660+00:00",
+    "lastStoreId": 32,
+    "boughtForInstallmentId": "14924",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19086409",
+      "fullName": "FRANKLIN EMILIO GARCIA BLANCO",
+      "phoneNumber": "+584241358642"
+    },
+    "installments": [
+      {
+        "id": "14923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:12:57.138Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:12:57.138Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:12:57.138Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:12:57.139Z",
+        "amount": 55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

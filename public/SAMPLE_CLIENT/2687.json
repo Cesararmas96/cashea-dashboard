@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:32:07.151Z",
+  "id": "2151",
+  "amount": 40,
+  "invoiceId": "3522",
+  "paidToMerchant": false,
+  "identifierNumber": 2687,
+  "billingDate": "2022-12-18T00:32:07.151Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13844705",
+      "fullName": "JULIO CESAR APELACUNA VELIZ",
+      "phoneNumber": "+584242087529"
+    },
+    "installments": [
+      {
+        "id": "7021",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:32:22.287Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7020",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:32:22.287Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7019",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:32:22.287Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7018",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:32:22.287Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-14T15:54:03.691Z",
+  "updatedAt": "2025-05-22T00:05:45.737Z",
+  "id": 5765,
+  "name": "Zapatería bajo costo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 885,
+  "tags": [],
+  "uuid": "e2f36ce3-69f7-4adc-90a8-1e987135a602",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "inversionesfiras84ca@gmail.com",
+    "legalName": "Zapatería bajo costo - guatire",
+    "phoneNumber": "04142848685"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T16:34:30.121Z",
+      "updatedAt": "2025-05-14T16:34:30.121Z",
+      "id": 14122,
+      "merchantId": 5765,
+      "name": "Zapatería bajo costo Guarenas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 885,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8238,
+      "address": {
+        "name": "Calle Paez local lidosol NRO 01-02 sector guarenas centro guarenas Miranda zona postal 1220",
+        "long": -66.61625000000001,
+        "lat": 10.471249999999998,
+        "location": "0101000020E61000003E0AD7A370A750C0E07A14AE47F12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T16:21:32.193Z",
+      "updatedAt": "2025-05-14T16:21:32.193Z",
+      "id": 14120,
+      "merchantId": 5765,
+      "name": "Zapatería bajo costo Guatire",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 885,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8238,
+      "address": {
+        "name": "Av Bermúdez local NRO 42 zona centro de guatire Miranda zona postal 1221",
+        "long": -66.5411875,
+        "lat": 10.469437499999998,
+        "location": "0101000020E61000004260E5D0A2A250C03008AC1C5AF02440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

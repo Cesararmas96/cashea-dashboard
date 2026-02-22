@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:41:06.941Z",
+  "id": "4271",
+  "amount": 30.36,
+  "invoiceId": "12966",
+  "paidToMerchant": false,
+  "identifierNumber": 4626,
+  "billingDate": "2022-12-23T22:41:06.941Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27309038",
+      "fullName": "PAOLA NATACHA USECHE JIMENEZ",
+      "phoneNumber": "+584140382722"
+    },
+    "installments": [
+      {
+        "id": "14486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:41:34.648Z",
+        "amount": 15.18,
+        "status": "DONE"
+      },
+      {
+        "id": "14488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:41:34.648Z",
+        "amount": 5.06,
+        "status": "DONE"
+      },
+      {
+        "id": "14489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:41:34.648Z",
+        "amount": 5.06,
+        "status": "DONE"
+      },
+      {
+        "id": "14487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:41:34.648Z",
+        "amount": 5.06,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

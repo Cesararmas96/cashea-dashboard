@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:04:28.298Z",
+  "id": "3621",
+  "amount": 68.58,
+  "invoiceId": "12459",
+  "paidToMerchant": false,
+  "identifierNumber": 4057,
+  "billingDate": "2022-12-22T22:04:28.298Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16341014",
+      "fullName": "YURIMAR DEL CARMEN VERA PELLEGRINO",
+      "phoneNumber": "+584142896360"
+    },
+    "installments": [
+      {
+        "id": "12133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:04:43.844Z",
+        "amount": 11.43,
+        "status": "DONE"
+      },
+      {
+        "id": "12130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:04:43.844Z",
+        "amount": 34.29,
+        "status": "DONE"
+      },
+      {
+        "id": "12132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:04:43.844Z",
+        "amount": 11.43,
+        "status": "DONE"
+      },
+      {
+        "id": "12131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:04:43.844Z",
+        "amount": 11.43,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

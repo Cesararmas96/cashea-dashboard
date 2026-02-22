@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-15T14:27:04.410Z",
+  "updatedAt": "2025-05-28T13:15:47.831Z",
+  "id": 5237,
+  "name": "MELMACA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9e4810c7-8da4-4bdc-bda8-36a902d86019",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jesussolarte21@gmail.com",
+    "legalName": "JESUS",
+    "phoneNumber": "04121630285"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T14:29:23.164Z",
+      "updatedAt": "2025-04-15T14:29:23.164Z",
+      "id": 12991,
+      "merchantId": 5237,
+      "name": "MELMACA CC Amparo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6648,
+      "address": {
+        "name": "AV. 58 CON CIRCUNV. NO. 2 CC AMPARO NIVEL PB LOCAL 9",
+        "long": -71.6548125,
+        "lat": 10.660437500000015,
+        "location": "0101000020E6100000C520B072E8E951C0A81A2FDD24522540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

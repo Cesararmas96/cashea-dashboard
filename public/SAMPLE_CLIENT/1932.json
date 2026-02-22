@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T23:08:21.257Z",
+  "id": "1280",
+  "amount": 228.99,
+  "invoiceId": "62636",
+  "paidToMerchant": false,
+  "identifierNumber": 1932,
+  "billingDate": "2022-12-11T23:08:21.257Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-14T04:00:00.265+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": 4128,
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16525259",
+      "fullName": "LEOAM ENRIQUE CEDENO PIMIENTA",
+      "phoneNumber": "+584143138273"
+    },
+    "installments": [
+      {
+        "id": "4129",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:10:49.877Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "4128",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:10:49.877Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "4127",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:10:49.877Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "4126",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:10:49.878Z",
+        "amount": 128.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

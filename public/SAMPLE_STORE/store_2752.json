@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1242,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J410069449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "internalBankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "account": "01910142812100085600",
+    "accountType": "Corriente",
+    "phoneNumber": "4128023137",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1240,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J410069449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "internalBankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "account": "01910142812100085600",
+    "accountType": "Corriente",
+    "phoneNumber": "4128023137",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1241,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J410069449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "internalBankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "account": "01910142812100085600",
+    "accountType": "Corriente",
+    "phoneNumber": "4128023137",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1243,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J410069449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "internalBankHolder": "COMERCIALIZADORA JAB 2050, C.A",
+    "account": "01910142862300028344",
+    "accountType": "Custodia",
+    "phoneNumber": "4128023137",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

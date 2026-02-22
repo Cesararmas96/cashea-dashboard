@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T14:28:56.315Z",
+  "id": "2492",
+  "amount": 92.7,
+  "invoiceId": "307286",
+  "paidToMerchant": false,
+  "identifierNumber": 2962,
+  "billingDate": "2022-12-19T14:28:56.315Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11234612",
+      "fullName": "ALBERTO CARLOS SONNESSA CALABRESE",
+      "phoneNumber": "+584141406507"
+    },
+    "installments": [
+      {
+        "id": "8218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T14:31:02.616Z",
+        "amount": 46.35,
+        "status": "DONE"
+      },
+      {
+        "id": "8221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T14:31:02.615Z",
+        "amount": 15.450000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "8220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T14:31:02.615Z",
+        "amount": 15.450000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "8219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T14:31:02.615Z",
+        "amount": 15.450000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

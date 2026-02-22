@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:04:27.191Z",
+  "id": "3969",
+  "amount": 220.09,
+  "invoiceId": "14138",
+  "paidToMerchant": false,
+  "identifierNumber": 4423,
+  "billingDate": "2022-12-23T18:04:27.191Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14667243",
+      "fullName": "RAMEDLY DEL VALLE RODRIGUEZ MORENO",
+      "phoneNumber": "+584142277945"
+    },
+    "installments": [
+      {
+        "id": "13382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:05:16.689Z",
+        "amount": 110.05,
+        "status": "DONE"
+      },
+      {
+        "id": "13385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:05:16.689Z",
+        "amount": 36.68,
+        "status": "DONE"
+      },
+      {
+        "id": "13384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:05:16.689Z",
+        "amount": 36.68,
+        "status": "DONE"
+      },
+      {
+        "id": "13383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:05:16.689Z",
+        "amount": 36.68,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

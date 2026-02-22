@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-01T16:46:50.861Z",
+  "updatedAt": "2025-05-06T14:27:11.950Z",
+  "id": 5486,
+  "name": "Vitadent Care Center",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4055821f-0d5a-4929-b63b-7f3da450098d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jmbv1985@gmail.com",
+    "legalName": "Jose",
+    "phoneNumber": "04121000233"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-01T16:49:38.441Z",
+      "updatedAt": "2025-05-01T16:49:38.441Z",
+      "id": 13504,
+      "merchantId": 5486,
+      "name": "Vitadent Care Center Maracaibo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8181,
+      "address": {
+        "name": "Avenida 4 Bella Vista, entre calle 69 y 70, Edificio Lisa Maria, Piso 1 Oficina 2, Sector Bella Vista",
+        "long": -71.6088125,
+        "lat": 10.673437499999991,
+        "location": "0101000020E61000005839B4C8F6E651C0C8CCCCCCCC582540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-12T15:21:40.769Z",
+  "updatedAt": "2025-05-20T14:58:07.972Z",
+  "id": 5708,
+  "name": "La Fiesta Soñada Express",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "bb9f1d6c-7390-4ea7-98e6-84e8c95e7dd6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "africadelgado157@gmail.com",
+    "legalName": "África Delgado",
+    "phoneNumber": "4128962282"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T15:23:47.260Z",
+      "updatedAt": "2025-05-12T15:23:47.260Z",
+      "id": 13967,
+      "merchantId": 5708,
+      "name": "La Fiesta Soñada Express Av Soco Aragua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6463,
+      "address": {
+        "name": "Av Soco cruce con Av loreto local  37-2 La victoria Edo aragua",
+        "long": -67.32625,
+        "lat": 10.21875,
+        "location": "0101000020E61000007B14AE47E1D450C00000000000702440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

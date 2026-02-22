@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-12T16:28:56.561Z",
+  "updatedAt": "2025-05-16T17:57:56.362Z",
+  "id": 5710,
+  "name": "Universal Papeleria",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e753981e-4702-4ee7-86e7-78749f6c2882",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "taniabayeh0810@gmail.com",
+    "legalName": "Tania",
+    "phoneNumber": "4121873836"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T16:30:54.686Z",
+      "updatedAt": "2025-05-12T16:30:54.686Z",
+      "id": 13982,
+      "merchantId": 5710,
+      "name": "Universal Papeleria Lecheria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6290,
+      "address": {
+        "name": "Calle 4 con carrera 4, C.C. oasis Center PB #5, Lecheria Anzoategui",
+        "long": -64.6950625,
+        "lat": 10.200062500000001,
+        "location": "0101000020E6100000448B6CE77B2C50C0E04F8D976E662440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:37:31.170Z",
+  "id": "4421",
+  "amount": 40.33,
+  "invoiceId": "1077",
+  "paidToMerchant": false,
+  "identifierNumber": 4756,
+  "billingDate": "2022-12-24T00:37:31.170Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25345212",
+      "fullName": "JEISON JAVIER PULGAR COBO",
+      "phoneNumber": "+584242082765"
+    },
+    "installments": [
+      {
+        "id": "15038",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:39:10.943Z",
+        "amount": 20.16,
+        "status": "DONE"
+      },
+      {
+        "id": "15041",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:39:10.942Z",
+        "amount": 6.723333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15040",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:39:10.942Z",
+        "amount": 6.723333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15039",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:39:10.942Z",
+        "amount": 6.723333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

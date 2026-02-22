@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-23T21:02:41.820Z",
+  "updatedAt": "2025-05-12T19:35:07.343Z",
+  "id": 5352,
+  "name": "MOKA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cbe4a1e9-6bea-4ade-b8cb-9376521e0f0a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "leode8273@gmail.com",
+    "legalName": "Leodenys Henriquez",
+    "phoneNumber": "4249188021"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T21:04:39.641Z",
+      "updatedAt": "2025-04-23T21:04:39.641Z",
+      "id": 13213,
+      "merchantId": 5352,
+      "name": "MOKA Av Upata",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11590,
+      "address": {
+        "name": "Av. Upata con Av. Maracay.Centro Comercial Phenicia.Local 7. Ciudad Bolivar.",
+        "long": -63.53375,
+        "lat": 8.128749999999997,
+        "location": "0101000020E6100000B81E85EB51C44FC050B81E85EB412040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-18T17:17:50.527Z",
+  "id": "2200",
+  "amount": 55.83,
+  "invoiceId": "6680",
+  "paidToMerchant": false,
+  "identifierNumber": 2725,
+  "billingDate": "2022-12-18T17:17:50.527Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-01T04:00:00.561+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "7201",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20303550",
+      "fullName": "CINDY LA ROSHY MOLINA PARADA",
+      "phoneNumber": "+584145487855"
+    },
+    "installments": [
+      {
+        "id": "7198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T17:18:16.553Z",
+        "amount": 27.91,
+        "status": "DONE"
+      },
+      {
+        "id": "7201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T17:18:16.553Z",
+        "amount": 9.306666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T17:18:16.553Z",
+        "amount": 9.306666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T17:18:16.553Z",
+        "amount": 9.306666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

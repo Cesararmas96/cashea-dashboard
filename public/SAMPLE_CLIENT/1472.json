@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T16:10:09.618Z",
+  "id": "725",
+  "amount": 42,
+  "invoiceId": "40001500",
+  "paidToMerchant": false,
+  "identifierNumber": 1472,
+  "billingDate": "2022-12-05T16:10:09.618Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19514116",
+      "fullName": "ENDERSON ALEXANDER PORRAS PANACUAL",
+      "phoneNumber": "+584241228321"
+    },
+    "installments": [
+      {
+        "id": "2350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T16:11:40.655Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "2352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T16:11:40.654Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "2351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T16:11:40.654Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "2353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T16:11:40.654Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

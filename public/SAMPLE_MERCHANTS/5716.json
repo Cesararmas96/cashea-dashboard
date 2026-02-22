@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-12T19:39:16.585Z",
+  "updatedAt": "2025-05-14T19:25:57.311Z",
+  "id": 5716,
+  "name": "Piso y Pared Outlet",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 865,
+  "tags": [],
+  "uuid": "ac3359e7-6076-4f3f-9fe1-0064dc6d9905",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "enzoyfabio@gmail.com",
+    "legalName": "Fabrizio",
+    "phoneNumber": "04243690278"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T19:42:53.243Z",
+      "updatedAt": "2025-05-12T19:42:53.243Z",
+      "id": 14002,
+      "merchantId": 5716,
+      "name": "Piso y Pared Outlet Turmero",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 865,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4171,
+      "address": {
+        "name": "Av. Intercomunal Turmero - Maracay, Local NRO. 26, Sector La Providencia, Turmero, Edo. Aragua.",
+        "long": -67.275,
+        "lat": 10.074999999999996,
+        "location": "0101000020E61000009A99999999D150C06466666666262440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

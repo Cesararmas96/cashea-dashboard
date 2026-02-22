@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T19:29:41.401Z",
+  "id": "4041",
+  "amount": 32.67,
+  "invoiceId": "9048",
+  "paidToMerchant": false,
+  "identifierNumber": 4438,
+  "billingDate": "2022-12-23T19:29:41.401Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-09T04:00:01.076+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "13651",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28434854",
+      "fullName": "MIGUEL ALEXANDER ARTIGAS GIL",
+      "phoneNumber": "+584129506198"
+    },
+    "installments": [
+      {
+        "id": "13653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:31:05.292Z",
+        "amount": 5.443333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:31:05.292Z",
+        "amount": 5.443333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:31:05.292Z",
+        "amount": 5.443333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:31:05.292Z",
+        "amount": 16.34,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:56:39.717Z",
+  "id": "3748",
+  "amount": 45.98,
+  "invoiceId": "14881",
+  "paidToMerchant": false,
+  "identifierNumber": 4154,
+  "billingDate": "2022-12-22T23:56:39.717Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16856792",
+      "fullName": "YANINE DEL CARMEN DECAN RUIZ",
+      "phoneNumber": "+584241329665"
+    },
+    "installments": [
+      {
+        "id": "12577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:56:54.524Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:56:54.524Z",
+        "amount": 22.99,
+        "status": "DONE"
+      },
+      {
+        "id": "12576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:56:54.524Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:56:54.524Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

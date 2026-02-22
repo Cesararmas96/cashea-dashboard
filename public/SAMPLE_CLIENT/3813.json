@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:45:06.649Z",
+  "id": "3380",
+  "amount": 48.02,
+  "invoiceId": "12732",
+  "paidToMerchant": false,
+  "identifierNumber": 3813,
+  "billingDate": "2022-12-22T01:45:06.649Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19380290",
+      "fullName": "EUSKARY OSMERY MORENO MORON",
+      "phoneNumber": "+584242540414"
+    },
+    "installments": [
+      {
+        "id": "11281",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:45:21.410Z",
+        "amount": 8.003333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11278",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:45:21.410Z",
+        "amount": 24.01,
+        "status": "DONE"
+      },
+      {
+        "id": "11279",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:45:21.410Z",
+        "amount": 8.003333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11280",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:45:21.410Z",
+        "amount": 8.003333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

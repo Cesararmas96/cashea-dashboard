@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T00:43:06.684Z",
+  "id": "2441",
+  "amount": 69.8,
+  "invoiceId": "6721",
+  "paidToMerchant": false,
+  "identifierNumber": 2920,
+  "billingDate": "2022-12-19T00:43:06.684Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18185174",
+      "fullName": "GUSTAVO ANTONIO RODRIGUEZ MURILLO",
+      "phoneNumber": "+584141273936"
+    },
+    "installments": [
+      {
+        "id": "8034",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T00:44:05.549Z",
+        "amount": 34.9,
+        "status": "DONE"
+      },
+      {
+        "id": "8035",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T00:44:05.548Z",
+        "amount": 11.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8036",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T00:44:05.548Z",
+        "amount": 11.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8037",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T00:44:05.548Z",
+        "amount": 11.633333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

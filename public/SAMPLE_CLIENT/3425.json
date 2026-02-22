@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:57:12.652Z",
+  "id": "2990",
+  "amount": 57.98,
+  "invoiceId": "14665",
+  "paidToMerchant": false,
+  "identifierNumber": 3425,
+  "billingDate": "2022-12-20T23:57:12.652Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26104720",
+      "fullName": "JUAN AGUSTIN PESTANA HERRERA",
+      "phoneNumber": "+584122100828"
+    },
+    "installments": [
+      {
+        "id": "9862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:57:37.992Z",
+        "amount": 28.99,
+        "status": "DONE"
+      },
+      {
+        "id": "9863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:57:37.992Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:57:37.992Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:57:37.992Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

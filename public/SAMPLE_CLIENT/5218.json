@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T18:48:14.371Z",
+  "id": "5858",
+  "amount": 71.72,
+  "invoiceId": "14704",
+  "paidToMerchant": false,
+  "identifierNumber": 5218,
+  "billingDate": "2022-12-29T18:48:14.371Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20802975",
+      "fullName": "ILAN JOSE CORRO MUNZON",
+      "phoneNumber": "+584242949875"
+    },
+    "installments": [
+      {
+        "id": "20206",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T18:49:21.000Z",
+        "amount": 35.86,
+        "status": "DONE"
+      },
+      {
+        "id": "20209",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T18:49:21.000Z",
+        "amount": 11.953333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20208",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T18:49:21.000Z",
+        "amount": 11.953333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20207",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T18:49:21.000Z",
+        "amount": 11.953333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

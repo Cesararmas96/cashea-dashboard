@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:17:43.461Z",
+  "id": "3980",
+  "amount": 54.98,
+  "invoiceId": "14635",
+  "paidToMerchant": false,
+  "identifierNumber": 4424,
+  "billingDate": "2022-12-23T18:17:43.461Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19328938",
+      "fullName": "MAYIRET DEL VALLE BRACHO RANGEL",
+      "phoneNumber": "+584246891627"
+    },
+    "installments": [
+      {
+        "id": "13422",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:18:42.843Z",
+        "amount": 27.49,
+        "status": "DONE"
+      },
+      {
+        "id": "13424",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:18:42.842Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "13425",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:18:42.842Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "13423",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:18:42.842Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

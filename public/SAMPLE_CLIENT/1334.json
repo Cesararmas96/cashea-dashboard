@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-16T20:28:37.442Z",
+  "id": "404",
+  "amount": 99,
+  "invoiceId": "10144",
+  "paidToMerchant": false,
+  "identifierNumber": 1334,
+  "billingDate": "2022-11-16T20:28:37.442Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15929159",
+      "fullName": "FRANK ENRIQUE PERNIA NATERA",
+      "phoneNumber": "+584242554540"
+    },
+    "installments": [
+      {
+        "id": "1238",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-16T20:29:18.213Z",
+        "amount": 50,
+        "status": "DONE"
+      },
+      {
+        "id": "1240",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-14T20:29:18.212Z",
+        "amount": 16.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1239",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-30T20:29:18.212Z",
+        "amount": 16.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1241",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-28T20:29:18.212Z",
+        "amount": 16.3333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

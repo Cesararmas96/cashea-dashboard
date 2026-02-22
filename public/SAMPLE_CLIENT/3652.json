@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T21:31:04.886Z",
+  "id": "7130",
+  "amount": 39.4,
+  "invoiceId": "2789",
+  "paidToMerchant": false,
+  "identifierNumber": 3652,
+  "billingDate": "2022-12-31T21:31:04.886Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "44",
+    "buyDebtDate": "2023-01-17T04:00:01.366+00:00",
+    "lastStoreId": 30,
+    "boughtForInstallmentId": "24707",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28175786",
+      "fullName": "YORLE JESUS ACEVEDO VILLANUEVA",
+      "phoneNumber": "+584142688875"
+    },
+    "installments": [
+      {
+        "id": "24708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T21:31:41.318Z",
+        "amount": 6.566666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "24709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T21:31:41.318Z",
+        "amount": 6.566666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "24706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T21:31:41.318Z",
+        "amount": 19.7,
+        "status": "DONE"
+      },
+      {
+        "id": "24707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T21:31:41.318Z",
+        "amount": 6.566666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

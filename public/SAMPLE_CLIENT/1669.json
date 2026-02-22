@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T19:19:44.340Z",
+  "id": "989",
+  "amount": 120,
+  "invoiceId": "000990",
+  "paidToMerchant": false,
+  "identifierNumber": 1669,
+  "billingDate": "2022-12-09T19:19:44.340Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24316786",
+      "fullName": "SIGIFREDO GEOVANNY RIPOLL PELUFO",
+      "phoneNumber": "+584143388362"
+    },
+    "installments": [
+      {
+        "id": "3124",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T19:20:31.767Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "3122",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T19:20:31.767Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "3125",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T19:20:31.767Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "3123",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T19:20:31.767Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 14,
+    "name": "Pintacasa Boleita Sur"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

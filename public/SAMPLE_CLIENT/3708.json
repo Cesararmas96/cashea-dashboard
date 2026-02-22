@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:00:20.384Z",
+  "id": "3311",
+  "amount": 55,
+  "invoiceId": "784959",
+  "paidToMerchant": false,
+  "identifierNumber": 3708,
+  "billingDate": "2022-12-22T00:00:20.384Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26911074",
+      "fullName": "LUIS ESTEBAN GOITTE BALDIVIEZO",
+      "phoneNumber": "+584125595870"
+    },
+    "installments": [
+      {
+        "id": "11018",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:01:00.306Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11020",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:01:00.305Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11021",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:01:00.305Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11019",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:01:00.305Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:29:29.272Z",
+  "id": "5014",
+  "amount": 112,
+  "invoiceId": "7434",
+  "paidToMerchant": false,
+  "identifierNumber": 5330,
+  "billingDate": "2022-12-26T17:29:29.272Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18369157",
+      "fullName": "MARIA DE LOS ANGELES MONTES GODOY",
+      "phoneNumber": "+584142462917"
+    },
+    "installments": [
+      {
+        "id": "17190",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:29:53.349Z",
+        "amount": 56,
+        "status": "DONE"
+      },
+      {
+        "id": "17193",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:29:53.348Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "17192",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:29:53.348Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "17191",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:29:53.348Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

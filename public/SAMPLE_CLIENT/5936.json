@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:03:09.973Z",
+  "id": "5632",
+  "amount": 35,
+  "invoiceId": "00002306",
+  "paidToMerchant": false,
+  "identifierNumber": 5936,
+  "billingDate": "2022-12-28T23:03:09.973Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15711928",
+      "fullName": "JOSE GABRIEL GUEVARA GIL",
+      "phoneNumber": "+584242516429"
+    },
+    "installments": [
+      {
+        "id": "19402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:07:52.056Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:07:52.056Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:07:52.056Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:07:52.056Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

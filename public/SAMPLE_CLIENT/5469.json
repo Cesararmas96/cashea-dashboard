@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T23:49:42.064Z",
+  "id": "5156",
+  "amount": 39.99,
+  "invoiceId": "14878",
+  "paidToMerchant": false,
+  "identifierNumber": 5469,
+  "billingDate": "2022-12-26T23:49:42.064Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19333456",
+      "fullName": "MIGUEL ANGEL FIGUERA CORO",
+      "phoneNumber": "+584129927706"
+    },
+    "installments": [
+      {
+        "id": "17672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:55:18.737Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:55:18.737Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "17673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:55:18.737Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:55:18.737Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

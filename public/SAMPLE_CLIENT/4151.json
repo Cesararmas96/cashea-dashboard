@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:00:17.687Z",
+  "id": "3752",
+  "amount": 142.14,
+  "invoiceId": "14593",
+  "paidToMerchant": false,
+  "identifierNumber": 4151,
+  "billingDate": "2022-12-23T00:00:17.687Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10382426",
+      "fullName": "JOSE DOMINGO PEREIRA ROJAS",
+      "phoneNumber": "+584122365287"
+    },
+    "installments": [
+      {
+        "id": "12598",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:01:58.917Z",
+        "amount": 71.07,
+        "status": "DONE"
+      },
+      {
+        "id": "12601",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:01:58.916Z",
+        "amount": 23.689999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "12600",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:01:58.916Z",
+        "amount": 23.689999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "12599",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:01:58.916Z",
+        "amount": 23.689999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

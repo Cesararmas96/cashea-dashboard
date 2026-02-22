@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:43:38.345Z",
+  "id": "3796",
+  "amount": 41.74,
+  "invoiceId": "14081",
+  "paidToMerchant": false,
+  "identifierNumber": 3798,
+  "billingDate": "2022-12-23T00:43:38.345Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17758504",
+      "fullName": "YELITZA KATHERINE SUASNAVAS GONZALEZ",
+      "phoneNumber": "+584242025388"
+    },
+    "installments": [
+      {
+        "id": "12746",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:43:51.028Z",
+        "amount": 20.87,
+        "status": "DONE"
+      },
+      {
+        "id": "12749",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:43:51.028Z",
+        "amount": 6.956666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12748",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:43:51.028Z",
+        "amount": 6.956666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12747",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:43:51.028Z",
+        "amount": 6.956666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

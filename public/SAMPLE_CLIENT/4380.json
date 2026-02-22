@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T17:20:38.990Z",
+  "id": "1179",
+  "amount": 69.99,
+  "invoiceId": "00017556",
+  "paidToMerchant": false,
+  "identifierNumber": 4380,
+  "billingDate": "2022-12-11T17:20:38.990Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26873420",
+      "fullName": "RAFAEL EDUARDO OROZCO APONTE",
+      "phoneNumber": "+584145883705"
+    },
+    "installments": [
+      {
+        "id": "3758",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T17:20:57.093Z",
+        "amount": 34.99,
+        "status": "DONE"
+      },
+      {
+        "id": "3759",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T17:20:57.092Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "3761",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T17:20:57.092Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "3760",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T17:20:57.092Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

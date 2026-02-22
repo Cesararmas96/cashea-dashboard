@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-25T12:20:46.193Z",
+  "updatedAt": "2025-04-25T12:20:46.193Z",
+  "id": 5376,
+  "name": "Optica Medellin",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 746,
+  "tags": [],
+  "uuid": "93bc7f45-2724-44bc-9630-21f48d5bcc71",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "krociop85@gmail.com",
+    "legalName": "Carmen Rocio Perez Romero",
+    "phoneNumber": "4145936923"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T12:24:35.177Z",
+      "updatedAt": "2025-04-25T12:24:35.177Z",
+      "id": 13265,
+      "merchantId": 5376,
+      "name": "Optica Medellin Av. Luis del Valle Garcia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7120,
+      "address": {
+        "name": "Optica Medellin Av. Luis del Valle Garcia",
+        "long": -63.1743125,
+        "lat": 9.743687500000007,
+        "location": "0101000020E61000005A643BDF4F964FC058E3A59BC47C2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

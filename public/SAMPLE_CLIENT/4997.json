@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:45:03.500Z",
+  "id": "4683",
+  "amount": 30.49,
+  "invoiceId": "15094",
+  "paidToMerchant": false,
+  "identifierNumber": 4997,
+  "billingDate": "2022-12-24T17:45:03.500Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30692668",
+      "fullName": "RESARIANNYS MARIANA GUEVARA HURTADO",
+      "phoneNumber": "+584129930838"
+    },
+    "installments": [
+      {
+        "id": "16010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:45:30.467Z",
+        "amount": 15.24,
+        "status": "DONE"
+      },
+      {
+        "id": "16011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:45:30.466Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "16013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:45:30.466Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "16012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:45:30.466Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

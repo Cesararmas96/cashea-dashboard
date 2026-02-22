@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-29T23:21:52.681Z",
+  "id": "11461",
+  "amount": 34.48,
+  "invoiceId": "15286",
+  "paidToMerchant": false,
+  "identifierNumber": 1340,
+  "billingDate": "2023-01-29T23:21:52.681Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16999363",
+      "fullName": "JANETH CAROLINA YANEZ HERNANDEZ",
+      "phoneNumber": "+584242100110"
+    },
+    "installments": [
+      {
+        "id": "35096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-26T23:22:38.219Z",
+        "amount": 5.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-12T23:22:38.219Z",
+        "amount": 5.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-29T23:22:38.220Z",
+        "amount": 17.24,
+        "status": "DONE"
+      },
+      {
+        "id": "35097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-12T23:22:38.219Z",
+        "amount": 5.746666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

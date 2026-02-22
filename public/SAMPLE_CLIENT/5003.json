@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:21:45.020Z",
+  "id": "4661",
+  "amount": 146,
+  "invoiceId": "15504",
+  "paidToMerchant": false,
+  "identifierNumber": 5003,
+  "billingDate": "2022-12-24T17:21:45.020Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16474980",
+      "fullName": "KRISTELL ARISMAR CARTAYA GONZALEZ",
+      "phoneNumber": "+584129532106"
+    },
+    "installments": [
+      {
+        "id": "15936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:23:15.091Z",
+        "amount": 24.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:23:15.091Z",
+        "amount": 73,
+        "status": "DONE"
+      },
+      {
+        "id": "15937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:23:15.091Z",
+        "amount": 24.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:23:15.091Z",
+        "amount": 24.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

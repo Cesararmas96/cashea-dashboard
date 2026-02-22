@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-04T19:30:57.131Z",
+  "updatedAt": "2025-04-10T16:29:46.625Z",
+  "id": 5067,
+  "name": "TIUNA INN HOTEL",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "6db9eeaf-29a2-47b3-aaf7-fb81792cb9be",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tiunainnhotel@gmail.com",
+    "legalName": "SALOMON",
+    "phoneNumber": "4147770080"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T19:34:53.472Z",
+      "updatedAt": "2025-04-04T19:34:53.472Z",
+      "id": 12644,
+      "merchantId": 5067,
+      "name": "TIUNA INN HOTEL CUMANA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7960,
+      "address": {
+        "name": "AV GRAN MARISCAL NRO 84 CUMANA EDO SUCRE",
+        "long": -64.1645625,
+        "lat": 10.471687500000002,
+        "location": "0101000020E610000079E92631880A50C030DD240681F12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T19:38:50.833Z",
+      "updatedAt": "2025-05-15T19:38:50.833Z",
+      "id": 14203,
+      "merchantId": 5067,
+      "name": "VR_TIUNA INN HOTEL",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7960,
+      "address": {
+        "name": "AV GRAN MARISCAL NRO 84 CUMANA EDO SUCRE",
+        "long": -64.1645625,
+        "lat": 10.471687500000002,
+        "location": "0101000020E610000079E92631880A50C030DD240681F12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hoteles",
+  "shipmentOptionsAvailable": []
+}

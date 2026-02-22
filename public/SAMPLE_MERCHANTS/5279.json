@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-17T12:40:31.830Z",
+  "updatedAt": "2025-04-29T13:21:07.250Z",
+  "id": 5279,
+  "name": "Suspensión Monster",
+  "ecommerceUrl": null,
+  "changePolicy": "PRODUCTOS DE OFERTAS O DESCUENTOS",
+  "email": "SUSPENSIONMONSTER2@GMAIL.CCOM",
+  "phoneNumber": "+584248320752",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d0a68f05-daf0-4bcf-be52-4ac48d3ae351",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "suspensionmonster2@gmail.com",
+    "legalName": "Dionimar del valle",
+    "phoneNumber": "04248320752"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T23:01:06.753Z",
+      "updatedAt": "2025-04-28T23:01:06.753Z",
+      "id": 13401,
+      "merchantId": 5279,
+      "name": "Suspensión Monster Marketplace",
+      "statusId": 1,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "SUSPENSIONMONSTER2@GMAIL.CCOM",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-17T12:43:25.745Z",
+      "updatedAt": "2025-04-17T12:43:25.745Z",
+      "id": 13064,
+      "merchantId": 5279,
+      "name": "Suspensión Monster Barcelona",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7853,
+      "address": {
+        "name": "calle sucre con calle la linea, sector barrio sucre -barcelona",
+        "long": -64.6708125,
+        "lat": 10.148937499999988,
+        "location": "0101000020E6100000DF4F8D97EE2A50C0C04B3789414C2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-18T01:16:20.606Z",
+      "updatedAt": "2025-06-18T01:16:20.606Z",
+      "id": 15865,
+      "merchantId": 5279,
+      "name": "VR_Suspensión Monster",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7853,
+      "address": {
+        "name": "calle sucre con calle la linea, sector barrio sucre -barcelona",
+        "long": -64.6708125,
+        "lat": 10.148937499999988,
+        "location": "0101000020E6100000DF4F8D97EE2A50C0C04B3789414C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

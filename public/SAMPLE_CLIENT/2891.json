@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-18T23:22:26.186Z",
+  "id": "2384",
+  "amount": 120,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2891,
+  "billingDate": "2022-12-18T23:22:26.186Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

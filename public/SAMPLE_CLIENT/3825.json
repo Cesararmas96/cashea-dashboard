@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-02T03:45:02.585Z",
+  "id": "11805",
+  "amount": 37.12,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3825,
+  "billingDate": "2023-02-02T03:45:02.585Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22788299",
+      "fullName": "DAMELIS MARIAM MORENO",
+      "phoneNumber": "+584241515823"
+    },
+    "installments": [
+      {
+        "id": "36338",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-02T03:45:02.640Z",
+        "amount": 18.56,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36339",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-16T03:45:02.639Z",
+        "amount": 6.1866666666666665,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36340",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-02T03:45:02.639Z",
+        "amount": 6.1866666666666665,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36341",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-16T03:45:02.639Z",
+        "amount": 6.1866666666666665,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 103,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2558,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

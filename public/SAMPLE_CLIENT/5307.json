@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:02:42.488Z",
+  "id": "5911",
+  "amount": 38.47,
+  "invoiceId": "17923",
+  "paidToMerchant": false,
+  "identifierNumber": 5307,
+  "billingDate": "2022-12-29T20:02:42.488Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14583058",
+      "fullName": "JOHNNY AARON LINARES SEQUERA",
+      "phoneNumber": "+584129635136"
+    },
+    "installments": [
+      {
+        "id": "20386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:04:16.485Z",
+        "amount": 19.23,
+        "status": "DONE"
+      },
+      {
+        "id": "20389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:04:16.485Z",
+        "amount": 6.413333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:04:16.485Z",
+        "amount": 6.413333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:04:16.485Z",
+        "amount": 6.413333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

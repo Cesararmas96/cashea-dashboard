@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:34:08.785Z",
+  "id": "4745",
+  "amount": 270,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4237,
+  "billingDate": "2022-12-24T18:34:08.785Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17090867",
+      "fullName": "VICTOR MIGUEL CAÑAS VILLARROEL",
+      "phoneNumber": "+584129844777"
+    },
+    "installments": [
+      {
+        "id": "16248",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:34:25.566Z",
+        "amount": 12.50333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16246",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:34:25.566Z",
+        "amount": 232.49,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16247",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:34:25.566Z",
+        "amount": 12.50333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16249",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:34:25.566Z",
+        "amount": 12.50333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

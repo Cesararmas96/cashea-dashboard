@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T19:32:22.157Z",
+  "id": "730",
+  "amount": 53.77,
+  "invoiceId": "7830",
+  "paidToMerchant": false,
+  "identifierNumber": 1489,
+  "billingDate": "2022-12-05T19:32:22.157Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24440449",
+      "fullName": "VERALUCIA LEMUS MARIN",
+      "phoneNumber": "+584241439325"
+    },
+    "installments": [
+      {
+        "id": "2370",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T19:36:36.971Z",
+        "amount": 26.89,
+        "status": "DONE"
+      },
+      {
+        "id": "2372",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T19:36:36.970Z",
+        "amount": 8.96,
+        "status": "DONE"
+      },
+      {
+        "id": "2371",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T19:36:36.970Z",
+        "amount": 8.96,
+        "status": "DONE"
+      },
+      {
+        "id": "2373",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T19:36:36.970Z",
+        "amount": 8.96,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

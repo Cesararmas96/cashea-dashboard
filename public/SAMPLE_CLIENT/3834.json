@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T16:36:06.281Z",
+  "id": "3425",
+  "amount": 136.75,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3834,
+  "billingDate": "2022-12-22T16:36:06.281Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17076168",
+      "fullName": "MARYURI VANESSA ABREU DE QUINTAL",
+      "phoneNumber": "+584242282328"
+    },
+    "installments": [
+      {
+        "id": "11435",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T16:36:45.115Z",
+        "amount": 22.790000000000003,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11434",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T16:36:45.116Z",
+        "amount": 68.38,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11437",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T16:36:45.115Z",
+        "amount": 22.790000000000003,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11436",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T16:36:45.115Z",
+        "amount": 22.790000000000003,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

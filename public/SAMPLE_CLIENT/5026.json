@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:13:31.524Z",
+  "id": "4801",
+  "amount": 60,
+  "invoiceId": "9508",
+  "paidToMerchant": false,
+  "identifierNumber": 5026,
+  "billingDate": "2022-12-24T19:13:31.524Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26435588",
+      "fullName": "FRANYEISY MIREYA MEDINA MORALES",
+      "phoneNumber": "+584126121481"
+    },
+    "installments": [
+      {
+        "id": "16442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:16:29.875Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "16445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:16:29.875Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "16444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:16:29.875Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "16443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:16:29.875Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

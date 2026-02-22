@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-09T15:09:52.253Z",
+  "updatedAt": "2025-05-21T20:00:43.062Z",
+  "id": 5667,
+  "name": "Centro Clinico bienestar Shalom",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "187c37cb-d61d-4d0c-80b4-efe81ed0f737",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "boruzka@hotmail.com",
+    "legalName": "Kimberly boruzka Briceño martinez",
+    "phoneNumber": "4243793259"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T16:38:08.095Z",
+      "updatedAt": "2025-06-18T16:38:08.095Z",
+      "id": 15911,
+      "merchantId": 5667,
+      "name": "VR_Centro Clinico bienestar Shalom",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3995,
+      "address": {
+        "name": "Calle libertad entre santos michelena y boyaca, residencia Alicia, local número 29",
+        "long": -67.6068125,
+        "lat": 10.254937499999997,
+        "location": "0101000020E610000075931804D6E650C0480C022B87822440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T15:11:55.210Z",
+      "updatedAt": "2025-05-09T15:11:55.210Z",
+      "id": 13876,
+      "merchantId": 5667,
+      "name": "Centro Clinico bienestar Shalom Aragua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3995,
+      "address": {
+        "name": "Calle libertad entre santos michelena y boyaca, residencia Alicia, local número 29",
+        "long": -67.6068125,
+        "lat": 10.254937499999997,
+        "location": "0101000020E610000075931804D6E650C0480C022B87822440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

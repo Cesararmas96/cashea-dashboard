@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T23:15:26.128Z",
+  "id": "740",
+  "amount": 122.3,
+  "invoiceId": "00016823",
+  "paidToMerchant": false,
+  "identifierNumber": 1487,
+  "billingDate": "2022-12-05T23:15:26.128Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16682812",
+      "fullName": "JOSE GREGORIO YANES IBARRA",
+      "phoneNumber": "+584242866260"
+    },
+    "installments": [
+      {
+        "id": "2412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T23:15:48.671Z",
+        "amount": 20.383333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T23:15:48.671Z",
+        "amount": 61.15,
+        "status": "DONE"
+      },
+      {
+        "id": "2413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T23:15:48.671Z",
+        "amount": 20.383333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T23:15:48.671Z",
+        "amount": 20.383333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

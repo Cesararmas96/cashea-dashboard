@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T17:18:53.797Z",
+  "id": "2201",
+  "amount": 50,
+  "invoiceId": "784648",
+  "paidToMerchant": false,
+  "identifierNumber": 2741,
+  "billingDate": "2022-12-18T17:18:53.797Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30805927",
+      "fullName": "OLIVER DANIEL DIAZ RAMOS",
+      "phoneNumber": "+584120153374"
+    },
+    "installments": [
+      {
+        "id": "7205",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T17:19:25.438Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7202",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T17:19:25.438Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "7203",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T17:19:25.438Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7204",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T17:19:25.438Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

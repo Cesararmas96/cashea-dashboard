@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T19:06:28.180Z",
+  "id": "3143",
+  "amount": 123.84,
+  "invoiceId": "13642",
+  "paidToMerchant": false,
+  "identifierNumber": 3592,
+  "billingDate": "2022-12-21T19:06:28.180Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-04T04:00:00.377+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "10405",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14322144",
+      "fullName": "HENNER JOAAN FREITES MARTINEZ",
+      "phoneNumber": "+584126129312"
+    },
+    "installments": [
+      {
+        "id": "10405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T19:09:16.955Z",
+        "amount": 19.046666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T19:09:16.955Z",
+        "amount": 66.7,
+        "status": "DONE"
+      },
+      {
+        "id": "10404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T19:09:16.955Z",
+        "amount": 19.046666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T19:09:16.955Z",
+        "amount": 19.046666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

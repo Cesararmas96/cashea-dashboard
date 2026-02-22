@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:42:47.569Z",
+  "id": "3355",
+  "amount": 45.5,
+  "invoiceId": "3229",
+  "paidToMerchant": false,
+  "identifierNumber": 3766,
+  "billingDate": "2022-12-22T00:42:47.569Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29933831",
+      "fullName": "JENNIFER PAOLA VALDERRAMA SANCHEZ",
+      "phoneNumber": "+584149277239"
+    },
+    "installments": [
+      {
+        "id": "11181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:43:33.929Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:43:33.930Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "11179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:43:33.929Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:43:33.929Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

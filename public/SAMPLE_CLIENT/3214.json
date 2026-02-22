@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T15:05:08.770Z",
+  "id": "2719",
+  "amount": 90.93,
+  "invoiceId": "13728",
+  "paidToMerchant": false,
+  "identifierNumber": 3214,
+  "billingDate": "2022-12-20T15:05:08.770Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19548716",
+      "fullName": "NAURIS EMPERATRIZ SILVA PATINO",
+      "phoneNumber": "+584149083666"
+    },
+    "installments": [
+      {
+        "id": "8958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T15:06:43.870Z",
+        "amount": 45.47,
+        "status": "DONE"
+      },
+      {
+        "id": "8960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T15:06:43.869Z",
+        "amount": 15.153333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "8959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T15:06:43.869Z",
+        "amount": 15.153333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "8961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T15:06:43.869Z",
+        "amount": 15.153333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

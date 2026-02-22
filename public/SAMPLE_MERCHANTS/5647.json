@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-09T00:07:15.825Z",
+  "updatedAt": "2026-01-24T04:57:30.428Z",
+  "id": 5647,
+  "name": "Cencomun de Venezuela",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "775500ca-7752-49cc-81d8-6564ae975fba",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Cencomun.ventas@gmail.com",
+    "legalName": "Mikail mhanna",
+    "phoneNumber": "+584120553047"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-12-18T15:09:54.968Z",
+      "updatedAt": "2024-12-18T15:09:54.968Z",
+      "id": 9152,
+      "merchantId": 5647,
+      "name": "Cencomun De Venezuela Av 30 Entre Calle 32 Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3981,
+      "address": {
+        "name": "Cencomun De Venezuela Av 30 Entre Calle 32 Acarigua",
+        "long": -69.2050625,
+        "lat": 9.556812499999992,
+        "location": "0101000020E6100000B4C876BE1F4D51C008022B87161D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-25T19:34:29.858Z",
+      "updatedAt": "2025-06-25T19:34:29.858Z",
+      "id": 16308,
+      "merchantId": 5647,
+      "name": "VR_Cencomun De Venezuela Av 30 Entre Calle 32 Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3981,
+      "address": {
+        "name": "Cencomun De Venezuela Av 30 Entre Calle 32 Acarigua",
+        "long": -69.2050625,
+        "lat": 9.556812499999992,
+        "location": "0101000020E6100000B4C876BE1F4D51C008022B87161D2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:07:27.239Z",
+  "id": "4899",
+  "amount": 56.33,
+  "invoiceId": "50566",
+  "paidToMerchant": false,
+  "identifierNumber": 5123,
+  "billingDate": "2022-12-24T21:07:27.239Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21072540",
+      "fullName": "ROSMAR STEPHANIE PADRON VIVAS",
+      "phoneNumber": "+584242835308"
+    },
+    "installments": [
+      {
+        "id": "16796",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:10:11.793Z",
+        "amount": 9.389999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "16797",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:10:11.793Z",
+        "amount": 9.389999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "16794",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:10:11.793Z",
+        "amount": 28.16,
+        "status": "DONE"
+      },
+      {
+        "id": "16795",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:10:11.793Z",
+        "amount": 9.389999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

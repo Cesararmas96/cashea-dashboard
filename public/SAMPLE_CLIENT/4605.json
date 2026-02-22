@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:04:07.694Z",
+  "id": "4219",
+  "amount": 171.41,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4605,
+  "billingDate": "2022-12-23T22:04:07.694Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29577685",
+      "fullName": "GENESIS ANDREA GONZALEZ CONTRERAS",
+      "phoneNumber": "+584241981898"
+    },
+    "installments": [
+      {
+        "id": "14296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:04:24.408Z",
+        "amount": 28.569999999999997,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "14295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:04:24.408Z",
+        "amount": 28.569999999999997,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "14297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:04:24.408Z",
+        "amount": 28.569999999999997,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "14294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:04:24.408Z",
+        "amount": 85.7,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

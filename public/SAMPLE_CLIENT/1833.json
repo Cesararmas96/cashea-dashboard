@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T17:14:47.056Z",
+  "id": "5797",
+  "amount": 145,
+  "invoiceId": "000412",
+  "paidToMerchant": false,
+  "identifierNumber": 1833,
+  "billingDate": "2022-12-29T17:14:47.056Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "83",
+    "buyDebtDate": "2023-01-16T04:00:01.008+00:00",
+    "lastStoreId": 68,
+    "boughtForInstallmentId": 19975,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15160474",
+      "fullName": "KAREN JOSEFINA GUILLEN GARCIA",
+      "phoneNumber": "+584142233222"
+    },
+    "installments": [
+      {
+        "id": "19974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:15:09.651Z",
+        "amount": 72.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:15:09.651Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:15:09.651Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:15:09.651Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

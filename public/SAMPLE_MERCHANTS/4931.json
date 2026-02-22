@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-03-31T18:53:19.722Z",
+  "updatedAt": "2025-04-01T19:07:27.442Z",
+  "id": 4931,
+  "name": "Teka",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "af4284a3-6331-4b15-9d4a-de2213182168",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Comercializadorateka@gmail.com",
+    "legalName": "Naji Aslan",
+    "phoneNumber": "04121485588"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-27T12:34:09.926Z",
+      "updatedAt": "2025-08-27T12:34:09.926Z",
+      "id": 19930,
+      "merchantId": 4931,
+      "name": "Vr_Teka",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4314,
+      "address": {
+        "name": "Teka Centro de Valencia.",
+        "long": -68.0024375,
+        "lat": 10.180562500000008,
+        "location": "0101000020E61000002DB29DEF270051C0A0C420B0725C2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T18:55:06.346Z",
+      "updatedAt": "2025-03-31T18:55:06.346Z",
+      "id": 12426,
+      "merchantId": 4931,
+      "name": "Teka Centro de Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4314,
+      "address": {
+        "name": "Teka Centro de Valencia.",
+        "long": -68.0024375,
+        "lat": 10.180562500000008,
+        "location": "0101000020E61000002DB29DEF270051C0A0C420B0725C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

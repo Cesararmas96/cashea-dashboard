@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-16T20:37:55.919Z",
+  "id": "405",
+  "amount": 198,
+  "invoiceId": "10145",
+  "paidToMerchant": false,
+  "identifierNumber": 1030,
+  "billingDate": "2022-11-16T20:37:55.919Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14954544",
+      "fullName": "DANNY GREGORIO OLMOS CARRION",
+      "phoneNumber": "+584142232844"
+    },
+    "installments": [
+      {
+        "id": "1245",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-28T20:38:16.872Z",
+        "amount": 32.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1242",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-16T20:38:16.872Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "1244",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-14T20:38:16.872Z",
+        "amount": 32.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1243",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-30T20:38:16.872Z",
+        "amount": 32.6666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

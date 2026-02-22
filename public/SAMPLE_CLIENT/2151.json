@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T00:57:22.675Z",
+  "id": "1517",
+  "amount": 38.06,
+  "invoiceId": "12066",
+  "paidToMerchant": false,
+  "identifierNumber": 2151,
+  "billingDate": "2022-12-15T00:57:22.675Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21346645",
+      "fullName": "PETER RAPHAEL RANGEL BRICENO",
+      "phoneNumber": "+584243135075"
+    },
+    "installments": [
+      {
+        "id": "4905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T00:57:40.517Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T00:57:40.517Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T00:57:40.517Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T00:57:40.518Z",
+        "amount": 19.03,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T22:34:12.397Z",
+  "id": "1261",
+  "amount": 110.97,
+  "invoiceId": "2354",
+  "paidToMerchant": false,
+  "identifierNumber": 1925,
+  "billingDate": "2022-12-11T22:34:12.397Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15369146",
+      "fullName": "ALEXANDRA DESIREE PEREZ D IGNAZI",
+      "phoneNumber": "+584144669068"
+    },
+    "installments": [
+      {
+        "id": "4055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T22:34:46.085Z",
+        "amount": 18.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T22:34:46.085Z",
+        "amount": 19.0340772975,
+        "status": "DONE"
+      },
+      {
+        "id": "4056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T22:34:46.085Z",
+        "amount": 17.959256035844373,
+        "status": "DONE"
+      },
+      {
+        "id": "4054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T22:34:46.085Z",
+        "amount": 55.48,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

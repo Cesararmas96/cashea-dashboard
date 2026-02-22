@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:45:57.655Z",
+  "id": "4002",
+  "amount": 32.83,
+  "invoiceId": "50469",
+  "paidToMerchant": false,
+  "identifierNumber": 4412,
+  "billingDate": "2022-12-23T18:45:57.655Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11561583",
+      "fullName": "ALEXANDRA ROJAS CACERES",
+      "phoneNumber": "+584242235083"
+    },
+    "installments": [
+      {
+        "id": "13509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:47:31.677Z",
+        "amount": 5.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:47:31.677Z",
+        "amount": 16.41,
+        "status": "DONE"
+      },
+      {
+        "id": "13508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:47:31.677Z",
+        "amount": 5.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:47:31.677Z",
+        "amount": 5.473333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

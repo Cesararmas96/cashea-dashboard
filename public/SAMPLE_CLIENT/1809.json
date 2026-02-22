@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T00:23:37.625Z",
+  "id": "1160",
+  "amount": 91.99,
+  "invoiceId": "4609",
+  "paidToMerchant": false,
+  "identifierNumber": 1809,
+  "billingDate": "2022-12-11T00:23:37.625Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-03T04:00:00.126+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": 3696,
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27588786",
+      "fullName": "YORWIL ALEJANDRO RIVERO YEPEZ",
+      "phoneNumber": "+584124790252"
+    },
+    "installments": [
+      {
+        "id": "3696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T00:24:48.473Z",
+        "amount": 15.33333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "3697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T00:24:48.473Z",
+        "amount": 15.33333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "3695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T00:24:48.473Z",
+        "amount": 15.33333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T00:24:48.474Z",
+        "amount": 45.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

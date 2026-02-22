@@ -1,0 +1,90 @@
+{
+  "createdAt": "2025-05-14T16:14:19.130Z",
+  "updatedAt": "2025-05-22T14:33:10.364Z",
+  "id": 5768,
+  "name": "K-MARKET",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a579a9eb-300c-4438-a944-b6456a39b448",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "kmarketca@yahoo.com",
+    "legalName": "Miguel",
+    "phoneNumber": "04265801001"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T16:41:50.829Z",
+      "updatedAt": "2025-05-14T16:41:50.829Z",
+      "id": 14123,
+      "merchantId": 5768,
+      "name": "K-MARKET Puerto La Cruz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6376,
+      "address": {
+        "name": "CALLE BUENOS AIRES LOCAL #15. SECTOR CENTRO. PUNTO DE REFERENCIA FRENTE LA MODISTA. PUERTO LA CRUZ EDO. ANZOATEGUI",
+        "long": -64.63125000000001,
+        "lat": 10.21875,
+        "location": "0101000020E610000067666666662850C00000000000702440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

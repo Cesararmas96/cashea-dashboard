@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-28T13:33:28.174Z",
+  "updatedAt": "2025-04-29T19:31:49.773Z",
+  "id": 5414,
+  "name": "licoreria rosmarilin",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d475ff79-113b-4f11-acab-42fadf65be17",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "licoreriarosmarilinca@gmail.com",
+    "legalName": "jose gregorio",
+    "phoneNumber": "4242739515"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T21:29:58.294Z",
+      "updatedAt": "2025-04-28T21:29:58.294Z",
+      "id": 13396,
+      "merchantId": 5414,
+      "name": "VR_Licoreria Rosmarilin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6527,
+      "address": {
+        "name": "calle av ppal entre vereda 7y6 edif sta barbara piso pb local licoreria 2 urb paez catia la mar la guaira",
+        "long": -67.02456249999999,
+        "lat": 10.60081249999999,
+        "location": "0101000020E61000004F8D976E92C150C0500E2DB29D332540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T13:53:06.050Z",
+      "updatedAt": "2025-04-28T13:53:06.050Z",
+      "id": 13333,
+      "merchantId": 5414,
+      "name": "licoreria rosmarilin Catia La Mar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6527,
+      "address": {
+        "name": "calle av ppal entre vereda 7y6 edif sta barbara piso pb local licoreria 2 urb paez catia la mar la guaira",
+        "long": -67.02456249999999,
+        "lat": 10.60081249999999,
+        "location": "0101000020E61000004F8D976E92C150C0500E2DB29D332540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

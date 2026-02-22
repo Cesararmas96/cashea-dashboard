@@ -1,0 +1,266 @@
+{
+  "createdAt": "2025-05-16T15:17:38.870Z",
+  "updatedAt": "2025-09-13T15:01:14.415Z",
+  "id": 5809,
+  "name": "TIRE VALCAR",
+  "ecommerceUrl": null,
+  "changePolicy": "No se hacen cambios ni devoluciones",
+  "email": "tirevalcar03@gmail.com",
+  "phoneNumber": "+584126245174",
+  "logoUrl": null,
+  "data": {
+    "rif": "J311455817"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7155ca4f-86f2-40d1-9b03-da488975e2fd",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tire.valcar@gmail.com",
+    "legalName": "Maria",
+    "phoneNumber": "04124415050"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-23T12:08:48.098Z",
+      "updatedAt": "2025-09-13T15:01:14.389Z",
+      "id": 16125,
+      "merchantId": 5809,
+      "name": "TIRE VALCAR Markeplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7956,
+      "address": {
+        "name": "Municipio Valencia, 2001, Valencia, Carabobo",
+        "long": -68.0184375,
+        "lat": 10.195437500000011,
+        "location": "0101000020E610000048E17A142E0151C0F8D24D6210642440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-09-19T14:15:54.155Z",
+      "updatedAt": "2025-09-19T14:15:54.155Z",
+      "id": 21934,
+      "merchantId": 5809,
+      "name": "VR_TIRE VALCAR Los Nisperos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7956,
+      "address": {
+        "name": "AV CUATRICENTENARIA, VIA GUATAPARO, AL LADO DE BOMBA PDV DE LOS NISPEROS, VALENCIA, CARABOBOB",
+        "long": -68.0184375,
+        "lat": 10.197062500000001,
+        "location": "0101000020E610000048E17A142E0151C038894160E5642440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T15:19:11.306Z",
+      "updatedAt": "2025-05-16T15:19:11.306Z",
+      "id": 14227,
+      "merchantId": 5809,
+      "name": "TIRE VALCAR CC Sur",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 889,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7956,
+      "address": {
+        "name": "AV LISANDRO ALVARADO CRUCE CON MICHELNA DIAGONAL AL BANCO BNC, CC SUR LOCAL 3",
+        "long": -68.0143125,
+        "lat": 10.172312500000004,
+        "location": "0101000020E610000023DBF97EEA0051C05062105839582440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T15:49:56.787Z",
+      "updatedAt": "2025-05-16T15:49:56.787Z",
+      "id": 14232,
+      "merchantId": 5809,
+      "name": "TIRE VALCAR Tarapio",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 889,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7956,
+      "address": {
+        "name": "AV UNIVERSIDAD, AV 102, URB TARAPIO,CASA NRO.187-65.",
+        "long": -68.0154375,
+        "lat": 10.257437499999995,
+        "location": "0101000020E6100000736891EDFC0051C0288716D9CE832440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T15:36:07.692Z",
+      "updatedAt": "2025-05-16T15:36:07.692Z",
+      "id": 14230,
+      "merchantId": 5809,
+      "name": "TIRE VALCAR Los Nisperos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 889,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7956,
+      "address": {
+        "name": "AV CUATRICENTENARIA, VIA GUATAPARO, AL LADO DE BOMBA PDV DE LOS NISPEROS, VALENCIA, CARABOBOB",
+        "long": -68.0184375,
+        "lat": 10.197062500000001,
+        "location": "0101000020E610000048E17A142E0151C038894160E5642440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-11T12:41:04.075Z",
+      "updatedAt": "2025-06-11T12:41:04.075Z",
+      "id": 15496,
+      "merchantId": 5809,
+      "name": "VR_Tire Valcar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7956,
+      "address": {
+        "name": "AV LISANDRO ALVARADO CRUCE CON MICHELNA DIAGONAL AL BANCO BNC, CC SUR LOCAL 3",
+        "long": -68.0143125,
+        "lat": 10.172312500000004,
+        "location": "0101000020E610000023DBF97EEA0051C05062105839582440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

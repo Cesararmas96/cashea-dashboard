@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T19:09:25.699Z",
+  "id": "5875",
+  "amount": 162.65,
+  "invoiceId": "18947",
+  "paidToMerchant": false,
+  "identifierNumber": 5320,
+  "billingDate": "2022-12-29T19:09:25.699Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10999921",
+      "fullName": "DANY DEL VALLE RONDON",
+      "phoneNumber": "+584142583461"
+    },
+    "installments": [
+      {
+        "id": "20254",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T19:10:11.720Z",
+        "amount": 81.33,
+        "status": "DONE"
+      },
+      {
+        "id": "20257",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T19:10:11.720Z",
+        "amount": 27.10666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20256",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T19:10:11.720Z",
+        "amount": 27.10666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20255",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T19:10:11.720Z",
+        "amount": 27.10666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

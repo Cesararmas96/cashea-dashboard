@@ -1,0 +1,298 @@
+{
+  "createdAt": "2025-03-31T20:25:18.628Z",
+  "updatedAt": "2025-11-04T20:55:48.842Z",
+  "id": 4933,
+  "name": "Q Ganga",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 6634,
+  "tags": [],
+  "uuid": "8c0fc5b5-7521-4e36-9106-0bd91ce526ca",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tiendasmccs@gmail.com",
+    "legalName": "Inacari Gonzalez ",
+    "phoneNumber": "+584246092031"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-11-19T22:07:34.295Z",
+      "updatedAt": "2025-11-19T22:07:34.295Z",
+      "id": 26141,
+      "merchantId": 4933,
+      "name": "Q Ganga La Michelena Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Calle 92 Rangel, sector La Michelena, Valencia, Carabobo 2001",
+        "long": -67.99293750000001,
+        "lat": 10.176562500000003,
+        "location": "0101000020E6100000365EBA498CFF50C068666666665A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-03T20:25:14.296Z",
+      "updatedAt": "2025-09-03T20:25:14.296Z",
+      "id": 20581,
+      "merchantId": 4933,
+      "name": "Q Ganga San Juan De Los Morros",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Calle Sucre, San Juan De Los Morros Guarico 2301",
+        "long": -67.36181250000001,
+        "lat": 9.908937499999993,
+        "location": "0101000020E61000002EB29DEF27D750C04837894160D12340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-03T20:31:47.009Z",
+      "updatedAt": "2025-09-03T20:31:47.009Z",
+      "id": 20583,
+      "merchantId": 4933,
+      "name": "VR_Q Ganga San Juan De Los Morros",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Calle Sucre, San Juan De Los Morros Guarico 2301",
+        "long": -67.36181250000001,
+        "lat": 9.908937499999993,
+        "location": "0101000020E61000002EB29DEF27D750C04837894160D12340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-11-13T18:19:38.280Z",
+      "updatedAt": "2025-11-13T18:19:38.280Z",
+      "id": 25665,
+      "merchantId": 4933,
+      "name": "Q Ganga Calle Retumbo Vldp",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Calle Retumbo, Valle de la Pascua, Guarico 2350",
+        "long": -66.0031875,
+        "lat": 9.2109375,
+        "location": "0101000020E610000062105839348050C000000000006C2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2024-09-27T18:34:30.336Z",
+      "updatedAt": "2024-09-27T18:34:30.336Z",
+      "id": 4581,
+      "merchantId": 4933,
+      "name": "Q Ganga Av. Falcon Moron",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Av Falcón, sector Centro, Morón, Carabobo 2051",
+        "long": -68.19918750000001,
+        "lat": 10.491437500000004,
+        "location": "0101000020E61000006991ED7CBF0C51C0580E2DB29DFB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T20:29:51.318Z",
+      "updatedAt": "2025-03-31T20:29:51.318Z",
+      "id": 12431,
+      "merchantId": 4933,
+      "name": "Q Ganga Bejuma",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Q Ganga Bejuma.",
+        "long": -68.2508125,
+        "lat": 10.175437500000015,
+        "location": "0101000020E6100000643BDF4F0D1051C0F0FBA9F1D2592440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-22T16:04:05.736Z",
+      "updatedAt": "2025-04-22T16:04:05.736Z",
+      "id": 13145,
+      "merchantId": 4933,
+      "name": "VR_Q Ganga",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Q Ganga Bejuma.",
+        "long": -68.2508125,
+        "lat": 10.175437500000015,
+        "location": "0101000020E6100000643BDF4F0D1051C0F0FBA9F1D2592440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-08T16:26:53.590Z",
+      "updatedAt": "2025-04-08T16:26:53.590Z",
+      "id": 12708,
+      "merchantId": 4933,
+      "name": "Q Ganga Tucacas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7938,
+      "address": {
+        "name": "Q Ganga Tucacas.",
+        "long": -68.33031249999999,
+        "lat": 10.788937499999989,
+        "location": "0101000020E6100000703D0AD7231551C0082DB29DEF932540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

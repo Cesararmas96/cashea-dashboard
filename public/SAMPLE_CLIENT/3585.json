@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T18:24:59.266Z",
+  "id": "3130",
+  "amount": 49.45,
+  "invoiceId": "00001844",
+  "paidToMerchant": false,
+  "identifierNumber": 3585,
+  "billingDate": "2022-12-21T18:24:59.266Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26012196",
+      "fullName": "YOHANNA FABIOLA FIGUEROA GOMEZ",
+      "phoneNumber": "+584120208794"
+    },
+    "installments": [
+      {
+        "id": "10350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T18:26:22.602Z",
+        "amount": 24.73,
+        "status": "DONE"
+      },
+      {
+        "id": "10353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T18:26:22.602Z",
+        "amount": 8.24,
+        "status": "DONE"
+      },
+      {
+        "id": "10352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T18:26:22.602Z",
+        "amount": 8.24,
+        "status": "DONE"
+      },
+      {
+        "id": "10351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T18:26:22.602Z",
+        "amount": 8.24,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

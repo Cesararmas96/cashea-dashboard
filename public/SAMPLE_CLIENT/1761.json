@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T21:48:02.165Z",
+  "id": "1109",
+  "amount": 30.4,
+  "invoiceId": "11707",
+  "paidToMerchant": false,
+  "identifierNumber": 1761,
+  "billingDate": "2022-12-10T21:48:02.165Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25990973",
+      "fullName": "MAIKEL JHONATHAN DIAZ BORGES",
+      "phoneNumber": "+584241390841"
+    },
+    "installments": [
+      {
+        "id": "3528",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T21:49:05.594Z",
+        "amount": 5.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3527",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T21:49:05.594Z",
+        "amount": 5.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3529",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T21:49:05.594Z",
+        "amount": 5.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3526",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T21:49:05.594Z",
+        "amount": 15.2,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

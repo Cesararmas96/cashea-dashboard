@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:44:48.392Z",
+  "id": "4121",
+  "amount": 62.38,
+  "invoiceId": "154896",
+  "paidToMerchant": false,
+  "identifierNumber": 4489,
+  "billingDate": "2022-12-23T20:44:48.392Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19693157",
+      "fullName": "MORELLA CAROLINA ALVARADO PAEZ",
+      "phoneNumber": "+584127030304"
+    },
+    "installments": [
+      {
+        "id": "13938",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:45:06.661Z",
+        "amount": 31.19,
+        "status": "DONE"
+      },
+      {
+        "id": "13940",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:45:06.661Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13941",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:45:06.661Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13939",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:45:06.661Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

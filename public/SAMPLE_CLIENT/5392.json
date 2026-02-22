@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T21:29:09.165Z",
+  "id": "8657",
+  "amount": 162.35,
+  "invoiceId": "15685",
+  "paidToMerchant": false,
+  "identifierNumber": 5392,
+  "billingDate": "2023-01-16T21:29:09.165Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16431501",
+      "fullName": "AILYN CAROLINA DIAZ MORA",
+      "phoneNumber": "+584141141224"
+    },
+    "installments": [
+      {
+        "id": "29921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T21:29:31.560Z",
+        "amount": 27.06,
+        "status": "DONE"
+      },
+      {
+        "id": "29918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T21:29:31.560Z",
+        "amount": 81.17,
+        "status": "DONE"
+      },
+      {
+        "id": "29920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T21:29:31.560Z",
+        "amount": 27.06,
+        "status": "DONE"
+      },
+      {
+        "id": "29919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T21:29:31.560Z",
+        "amount": 27.06,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

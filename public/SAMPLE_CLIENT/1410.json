@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T20:27:17.725Z",
+  "id": "689",
+  "amount": 96.43,
+  "invoiceId": "3934",
+  "paidToMerchant": false,
+  "identifierNumber": 1410,
+  "billingDate": "2022-12-04T20:27:17.725Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13622299",
+      "fullName": "LENNY AYARI GONZALEZ DE PEREZ",
+      "phoneNumber": "+584241638059"
+    },
+    "installments": [
+      {
+        "id": "2216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T20:31:12.918Z",
+        "amount": 16.070000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "2214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T20:31:12.920Z",
+        "amount": 48.22,
+        "status": "DONE"
+      },
+      {
+        "id": "2215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T20:31:12.918Z",
+        "amount": 16.070000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "2217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T20:31:12.918Z",
+        "amount": 16.070000000000004,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

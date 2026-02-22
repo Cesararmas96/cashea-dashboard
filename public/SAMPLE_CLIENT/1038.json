@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-02T20:05:39.458Z",
+  "id": "596",
+  "amount": 174,
+  "invoiceId": "1F3290-0005",
+  "paidToMerchant": false,
+  "identifierNumber": 1038,
+  "billingDate": "2022-12-02T20:05:39.458Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15145761",
+      "fullName": "CARMEN YELITZA GONZALEZ MONTILLA",
+      "phoneNumber": "+584142146672"
+    },
+    "installments": [
+      {
+        "id": "1897",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-13T20:07:47.305Z",
+        "amount": 29,
+        "status": "DONE"
+      },
+      {
+        "id": "1894",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-02T20:07:47.307Z",
+        "amount": 87,
+        "status": "DONE"
+      },
+      {
+        "id": "1896",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-30T20:07:47.305Z",
+        "amount": 29,
+        "status": "DONE"
+      },
+      {
+        "id": "1895",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-16T20:07:47.305Z",
+        "amount": 29,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 35,
+    "name": "A1WIN Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

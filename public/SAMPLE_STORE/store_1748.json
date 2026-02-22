@@ -1,0 +1,74 @@
+[
+  {
+    "id": 658,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J412510550",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES DAMASCO J.I.,C.A.",
+    "internalBankHolder": "INVERSIONES DAMASCO J.I. C.A",
+    "account": "01910098722198417427",
+    "accountType": "Corriente",
+    "phoneNumber": "4242717293",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 650,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J412510550",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES DAMASCO J.I.,C.A.",
+    "internalBankHolder": "INVERSIONES DAMASCO J.I. C.A",
+    "account": "01910098722198417427",
+    "accountType": "Corriente",
+    "phoneNumber": "4242717293",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 651,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J412510550",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES DAMASCO J.I.,C.A.",
+    "internalBankHolder": "INVERSIONES DAMASCO J.I. C.A",
+    "account": "01910098722198417427",
+    "accountType": "Corriente",
+    "phoneNumber": "4242717293",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 652,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J412510550",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES DAMASCO J.I.,C.A.",
+    "internalBankHolder": "INVERSIONES DAMASCO J.I. C.A",
+    "account": "01910098712398325222",
+    "accountType": "Custodia",
+    "phoneNumber": "4242717293",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

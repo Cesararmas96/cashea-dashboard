@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:27:56.192Z",
+  "id": "2743",
+  "amount": 70.02,
+  "invoiceId": "18034",
+  "paidToMerchant": false,
+  "identifierNumber": 3223,
+  "billingDate": "2022-12-20T17:27:56.192Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10628014",
+      "fullName": "GREISY JOSEFINA YEPEZ TREJO",
+      "phoneNumber": "+584142542396"
+    },
+    "installments": [
+      {
+        "id": "9038",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:28:15.502Z",
+        "amount": 35.01,
+        "status": "DONE"
+      },
+      {
+        "id": "9041",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:28:15.501Z",
+        "amount": 11.67,
+        "status": "DONE"
+      },
+      {
+        "id": "9039",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:28:15.501Z",
+        "amount": 11.67,
+        "status": "DONE"
+      },
+      {
+        "id": "9040",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:28:15.501Z",
+        "amount": 11.67,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

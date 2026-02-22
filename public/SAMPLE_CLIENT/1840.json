@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T19:17:35.655Z",
+  "id": "1196",
+  "amount": 89.33,
+  "invoiceId": "62597",
+  "paidToMerchant": false,
+  "identifierNumber": 1840,
+  "billingDate": "2022-12-11T19:17:35.655Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-11T06:00:00.627+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "3832",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "160288347 .",
+      "fullName": "ALEXANDER ALFONSO RODRIGUEZ BECERRA",
+      "phoneNumber": "+584242421050"
+    },
+    "installments": [
+      {
+        "id": "3833",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:21:02.648Z",
+        "amount": 14.89,
+        "status": "DONE"
+      },
+      {
+        "id": "3832",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:21:02.648Z",
+        "amount": 14.89,
+        "status": "DONE"
+      },
+      {
+        "id": "3831",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:21:02.648Z",
+        "amount": 14.89,
+        "status": "DONE"
+      },
+      {
+        "id": "3830",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:21:02.649Z",
+        "amount": 44.66,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

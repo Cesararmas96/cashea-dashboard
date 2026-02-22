@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T16:44:59.831Z",
+  "id": "3428",
+  "amount": 47.7,
+  "invoiceId": "9555",
+  "paidToMerchant": false,
+  "identifierNumber": 3847,
+  "billingDate": "2022-12-22T16:44:59.831Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18493351",
+      "fullName": "YOHAN SNEYDER ARENAS MEJIA",
+      "phoneNumber": "+584142441268"
+    },
+    "installments": [
+      {
+        "id": "11470",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T16:53:50.066Z",
+        "amount": 23.85,
+        "status": "DONE"
+      },
+      {
+        "id": "11473",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T16:53:50.065Z",
+        "amount": 7.95,
+        "status": "DONE"
+      },
+      {
+        "id": "11472",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T16:53:50.065Z",
+        "amount": 7.95,
+        "status": "DONE"
+      },
+      {
+        "id": "11471",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T16:53:50.065Z",
+        "amount": 7.95,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 63,
+    "name": "Timberland CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

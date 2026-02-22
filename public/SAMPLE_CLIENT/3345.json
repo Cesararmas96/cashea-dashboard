@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T21:00:46.233Z",
+  "id": "2851",
+  "amount": 63.38,
+  "invoiceId": "14401",
+  "paidToMerchant": false,
+  "identifierNumber": 3345,
+  "billingDate": "2022-12-20T21:00:46.233Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17498839",
+      "fullName": "DIANA CAROLINA YABRUDE GARAICOECHEA",
+      "phoneNumber": "+584143040080"
+    },
+    "installments": [
+      {
+        "id": "9402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:01:10.811Z",
+        "amount": 31.69,
+        "status": "DONE"
+      },
+      {
+        "id": "9403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:01:10.810Z",
+        "amount": 10.563333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:01:10.810Z",
+        "amount": 10.563333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:01:10.810Z",
+        "amount": 10.563333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

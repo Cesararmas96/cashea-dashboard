@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-16T15:42:16.778Z",
+  "updatedAt": "2025-05-30T22:54:43.865Z",
+  "id": 5812,
+  "name": "MIS IMAGENES ONLINE",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a7fa6c81-953c-4cb6-8145-672761bf952c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "pagos@misimagenes.online",
+    "legalName": "LUDWIG MORENO",
+    "phoneNumber": "4249729329"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T15:43:43.311Z",
+      "updatedAt": "2025-05-16T15:43:43.311Z",
+      "id": 14231,
+      "merchantId": 5812,
+      "name": "MIS IMAGENES ONLINE Monagas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8075,
+      "address": {
+        "name": "Avenida Fuerzas Armadas, Edificio Grupo Médico Tierra Santa, PB, entrada por la emergencia, Sector las Avenidas, Edo Monagas",
+        "long": -63.16668750000001,
+        "lat": 9.742187500000014,
+        "location": "0101000020E61000007693180456954FC008000000007C2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

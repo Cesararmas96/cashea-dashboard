@@ -1,0 +1,132 @@
+{
+  "createdAt": "2025-04-29T14:18:57.737Z",
+  "updatedAt": "2025-08-27T14:20:43.779Z",
+  "id": 5452,
+  "name": "Rolos Pizza",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "213d943a-f601-4b81-8215-ec9f609869f3",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "juanemancin@gmail.com",
+    "legalName": "Juan Mancin",
+    "phoneNumber": "04126785859"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-25T17:11:13.547Z",
+      "updatedAt": "2025-06-25T17:11:13.547Z",
+      "id": 16302,
+      "merchantId": 5452,
+      "name": "Wink Rolos Pizza Sabana Grande",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_APP",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5969,
+      "address": {
+        "name": "Sabana Grande, bajando por el Gran Café. Calle San Antonio, entre la Solano y Casanova",
+        "long": -66.8803125,
+        "lat": 10.494812500000009,
+        "location": "0101000020E6100000A4703D0A57B850C0D84D621058FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T14:25:13.785Z",
+      "updatedAt": "2025-04-29T14:25:13.785Z",
+      "id": 13414,
+      "merchantId": 5452,
+      "name": "Rolos Pizza Sabana Grande",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_APP",
+        "IN_STORE",
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5969,
+      "address": {
+        "name": "Sabana Grande, bajando por el Gran Café. Calle San Antonio, entre la Solano y Casanova",
+        "long": -66.8803125,
+        "lat": 10.494812500000009,
+        "location": "0101000020E6100000A4703D0A57B850C0D84D621058FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T21:03:59.878Z",
+      "updatedAt": "2025-05-14T21:03:59.878Z",
+      "id": 14134,
+      "merchantId": 5452,
+      "name": "Web Rolos Pizza Sabana Grande",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5969,
+      "address": {
+        "name": "Sabana Grande, bajando por el Gran Café. Calle San Antonio, entre la Solano y Casanova",
+        "long": -66.8803125,
+        "lat": 10.494812500000009,
+        "location": "0101000020E6100000A4703D0A57B850C0D84D621058FD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

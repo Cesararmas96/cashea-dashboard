@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-23T20:17:00.234Z",
+  "updatedAt": "2025-07-08T14:48:51.087Z",
+  "id": 5346,
+  "name": "Laboratorio Sigma ",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "01c7cbbe-78eb-4fca-80ef-6e2cdfa72e00",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "henrysnchz2@gmail.com",
+    "legalName": "HENRY JOSE",
+    "phoneNumber": "04126618583"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T20:19:23.296Z",
+      "updatedAt": "2025-04-23T20:19:23.296Z",
+      "id": 13204,
+      "merchantId": 5346,
+      "name": "Laboratorio Sigma",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6434,
+      "address": {
+        "name": "CLL ARISMENDI, CENTRO COMERCIAL NICOLAS YANES LOCAL D Y F, LOS TEQUES",
+        "long": -67.04106250000001,
+        "lat": 10.339812499999994,
+        "location": "0101000020E6100000E4A59BC4A0C250C0408B6CE7FBAD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-20T15:01:26.896Z",
+      "updatedAt": "2025-05-20T15:01:26.896Z",
+      "id": 14358,
+      "merchantId": 5346,
+      "name": "VR_Laboratorio Sigma",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6434,
+      "address": {
+        "name": "CLL ARISMENDI, CENTRO COMERCIAL NICOLAS YANES LOCAL D Y F, LOS TEQUES",
+        "long": -67.04106250000001,
+        "lat": 10.339812499999994,
+        "location": "0101000020E6100000E4A59BC4A0C250C0408B6CE7FBAD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

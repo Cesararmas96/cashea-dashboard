@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:35:27.639Z",
+  "id": "3784",
+  "amount": 89.98,
+  "invoiceId": "7123",
+  "paidToMerchant": false,
+  "identifierNumber": 1832,
+  "billingDate": "2022-12-23T00:35:27.639Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14196699",
+      "fullName": "WILSON JESUS GOITE PADILLA",
+      "phoneNumber": "+584142300097"
+    },
+    "installments": [
+      {
+        "id": "12710",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:36:48.278Z",
+        "amount": 44.99,
+        "status": "DONE"
+      },
+      {
+        "id": "12712",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:36:48.277Z",
+        "amount": 14.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12713",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:36:48.277Z",
+        "amount": 14.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12711",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:36:48.277Z",
+        "amount": 14.996666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

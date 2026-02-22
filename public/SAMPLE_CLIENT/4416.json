@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:10:49.164Z",
+  "id": "3973",
+  "amount": 55.86,
+  "invoiceId": "14140",
+  "paidToMerchant": false,
+  "identifierNumber": 4416,
+  "billingDate": "2022-12-23T18:10:49.164Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12686816",
+      "fullName": "WILMER ALEXANDER MEDRANO ARGUELLO",
+      "phoneNumber": "+584127009492"
+    },
+    "installments": [
+      {
+        "id": "13406",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:13:50.040Z",
+        "amount": 27.93,
+        "status": "DONE"
+      },
+      {
+        "id": "13409",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:13:50.040Z",
+        "amount": 9.31,
+        "status": "DONE"
+      },
+      {
+        "id": "13407",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:13:50.040Z",
+        "amount": 9.31,
+        "status": "DONE"
+      },
+      {
+        "id": "13408",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:13:50.040Z",
+        "amount": 9.31,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

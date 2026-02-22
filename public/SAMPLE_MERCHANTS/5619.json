@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-08T13:44:35.538Z",
+  "updatedAt": "2025-05-15T12:13:06.222Z",
+  "id": 5619,
+  "name": "TOYOTITO",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "78553ff6-b006-4f1b-8e44-3bcc3d0cac0d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "reinaldo031277@hotmail.com",
+    "legalName": "Reinaldo Salazar",
+    "phoneNumber": "04147635524"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T13:46:08.360Z",
+      "updatedAt": "2025-05-08T13:46:08.360Z",
+      "id": 13782,
+      "merchantId": 5619,
+      "name": "TOYOTITO Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8024,
+      "address": {
+        "name": "Calle Rivas. Local s/n, sector la manga. Maturin",
+        "long": -63.175000000000004,
+        "lat": 9.725000000000001,
+        "location": "0101000020E61000006766666666964FC03433333333732340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

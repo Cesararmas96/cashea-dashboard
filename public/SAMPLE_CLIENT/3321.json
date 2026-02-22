@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T21:52:24.535Z",
+  "id": "2877",
+  "amount": 123.95,
+  "invoiceId": "6794",
+  "paidToMerchant": false,
+  "identifierNumber": 3321,
+  "billingDate": "2022-12-20T21:52:24.535Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-06T04:00:00.541+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "9483",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18043070",
+      "fullName": "JOSE GREGORIO RODRIGUEZ LOPEZ",
+      "phoneNumber": "+584142937638"
+    },
+    "installments": [
+      {
+        "id": "9485",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:53:10.321Z",
+        "amount": 20.65666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9484",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:53:10.321Z",
+        "amount": 20.65666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9482",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:53:10.323Z",
+        "amount": 61.98,
+        "status": "DONE"
+      },
+      {
+        "id": "9483",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:53:10.321Z",
+        "amount": 20.65666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

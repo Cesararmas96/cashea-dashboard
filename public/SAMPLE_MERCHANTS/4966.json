@@ -1,0 +1,178 @@
+{
+  "createdAt": "2025-04-02T13:23:38.011Z",
+  "updatedAt": "2025-04-10T13:52:00.588Z",
+  "id": 4966,
+  "name": "Elite Bikes",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 618,
+  "tags": [],
+  "uuid": "fc57e5ec-f44d-4dd1-ad1b-4e2c64a7126b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "rifaat@elitebikestore.com",
+    "legalName": "Refaat",
+    "phoneNumber": "04244551615"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T14:01:32.333Z",
+      "updatedAt": "2025-04-02T14:01:32.333Z",
+      "id": 12501,
+      "merchantId": 4966,
+      "name": "Elite Bikes Centro Empresarial",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 618,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4859,
+      "address": {
+        "name": "Autopista del este centro empresarial del norte  galpón 8 Valencia",
+        "long": -68.0038125,
+        "lat": 10.262562500000001,
+        "location": "0101000020E610000039B4C8763E0051C0E04F8D976E862440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T14:18:06.899Z",
+      "updatedAt": "2025-04-02T14:18:06.899Z",
+      "id": 12505,
+      "merchantId": 4966,
+      "name": "Elite Bikes las Mercedes",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 618,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4859,
+      "address": {
+        "name": "Calle Paris las Mercedes ccs",
+        "long": -66.85843750000001,
+        "lat": 10.481562499999995,
+        "location": "0101000020E61000003E0AD7A3F0B650C0C0F5285C8FF62440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T13:26:19.768Z",
+      "updatedAt": "2025-04-02T13:26:19.768Z",
+      "id": 12492,
+      "merchantId": 4966,
+      "name": "Elite Bikes Pto Ordaz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 618,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4859,
+      "address": {
+        "name": "Calle Paris las Mercedes ccs",
+        "long": -66.85843750000001,
+        "lat": 10.481562499999995,
+        "location": "0101000020E61000003E0AD7A3F0B650C0C0F5285C8FF62440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-18T01:04:28.948Z",
+      "updatedAt": "2025-06-18T01:04:28.948Z",
+      "id": 15864,
+      "merchantId": 4966,
+      "name": "VR_ Elite Bikes",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4859,
+      "address": {
+        "name": "Calle Paris las Mercedes ccs",
+        "long": -66.85843750000001,
+        "lat": 10.481562499999995,
+        "location": "0101000020E61000003E0AD7A3F0B650C0C0F5285C8FF62440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Deporte",
+  "shipmentOptionsAvailable": []
+}

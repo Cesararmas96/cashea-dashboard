@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:24:48.913Z",
+  "id": "4093",
+  "amount": 60.63,
+  "invoiceId": "1025",
+  "paidToMerchant": false,
+  "identifierNumber": 4499,
+  "billingDate": "2022-12-23T20:24:48.913Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-09T04:00:01.177+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "13827",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15872166",
+      "fullName": "MARCEL ALEJANDRO ECHEVERRIA FLORES",
+      "phoneNumber": "+584241644672"
+    },
+    "installments": [
+      {
+        "id": "13829",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:25:03.055Z",
+        "amount": 10.103333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13826",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:25:03.056Z",
+        "amount": 30.32,
+        "status": "DONE"
+      },
+      {
+        "id": "13828",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:25:03.055Z",
+        "amount": 10.103333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13827",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:25:03.055Z",
+        "amount": 10.103333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

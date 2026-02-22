@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T01:55:17.706Z",
+  "id": "3848",
+  "amount": 159.43,
+  "invoiceId": "12865",
+  "paidToMerchant": false,
+  "identifierNumber": 4204,
+  "billingDate": "2022-12-23T01:55:17.706Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-08T04:00:00.921+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "12963",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24655107",
+      "fullName": "VERONICA ALEJANDRA RIVERO CASTRO",
+      "phoneNumber": "+584128020095"
+    },
+    "installments": [
+      {
+        "id": "12965",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:55:38.336Z",
+        "amount": 26.570000000000004,
+        "status": "DELAYED"
+      },
+      {
+        "id": "12964",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:55:38.336Z",
+        "amount": 26.570000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "12963",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:55:38.336Z",
+        "amount": 26.570000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "12962",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:55:38.336Z",
+        "amount": 79.72,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

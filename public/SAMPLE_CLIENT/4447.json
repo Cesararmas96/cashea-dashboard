@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:33:45.715Z",
+  "id": "4045",
+  "amount": 55.66,
+  "invoiceId": "50472",
+  "paidToMerchant": false,
+  "identifierNumber": 4447,
+  "billingDate": "2022-12-23T19:33:45.715Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10811459",
+      "fullName": "JOHN D'ALESSANDRIA SANCHEZ",
+      "phoneNumber": "+584141882492"
+    },
+    "installments": [
+      {
+        "id": "13666",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:36:22.534Z",
+        "amount": 27.83,
+        "status": "DONE"
+      },
+      {
+        "id": "13669",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:36:22.533Z",
+        "amount": 9.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13668",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:36:22.533Z",
+        "amount": 9.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13667",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:36:22.533Z",
+        "amount": 9.276666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

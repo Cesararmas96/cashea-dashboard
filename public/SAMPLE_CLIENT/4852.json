@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T15:56:29.057Z",
+  "id": "11580",
+  "amount": 46,
+  "invoiceId": "006277",
+  "paidToMerchant": false,
+  "identifierNumber": 4852,
+  "billingDate": "2023-01-31T15:56:29.057Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18190585",
+      "fullName": "ASTRID JOSEFINA VILLAVICENCIO CAMPOS",
+      "phoneNumber": "+584242803537"
+    },
+    "installments": [
+      {
+        "id": "35529",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T15:56:51.694Z",
+        "amount": 7.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "35528",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T15:56:51.694Z",
+        "amount": 7.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "35527",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T15:56:51.694Z",
+        "amount": 7.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "35526",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T15:56:51.695Z",
+        "amount": 23,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 138,
+    "name": "Shoebox C.C. Sambil Nivel Acuario"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

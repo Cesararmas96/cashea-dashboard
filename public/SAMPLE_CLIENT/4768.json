@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:01:26.693Z",
+  "id": "4381",
+  "amount": 74.16,
+  "invoiceId": "13814",
+  "paidToMerchant": false,
+  "identifierNumber": 4768,
+  "billingDate": "2022-12-24T00:01:26.693Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16523069",
+      "fullName": "IRIS MARIANA JIMENEZ GONZALEZ",
+      "phoneNumber": "+584129316364"
+    },
+    "installments": [
+      {
+        "id": "14892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:03:41.484Z",
+        "amount": 12.36,
+        "status": "DONE"
+      },
+      {
+        "id": "14890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:03:41.484Z",
+        "amount": 37.08,
+        "status": "DONE"
+      },
+      {
+        "id": "14893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:03:41.484Z",
+        "amount": 12.36,
+        "status": "DONE"
+      },
+      {
+        "id": "14891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:03:41.484Z",
+        "amount": 12.36,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

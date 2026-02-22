@@ -1,0 +1,73 @@
+{
+  "createdAt": "2022-12-23T01:52:51.377Z",
+  "id": "3845",
+  "amount": 64.9948,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4304,
+  "billingDate": "2022-12-23T01:52:51.377Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": null,
+    "buyDebtDate": "2023-01-08T04:00:00.917+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "12951",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17981404",
+      "fullName": "ANYELO MONASTERIO",
+      "phoneNumber": "+584241474210"
+    },
+    "installments": [
+      {
+        "id": "12953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:52:51.423Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "12952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:52:51.423Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "12950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:52:51.423Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "12951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:52:51.423Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 152,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

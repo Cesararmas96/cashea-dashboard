@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-01T22:07:04.197Z",
+  "id": "570",
+  "amount": 72,
+  "invoiceId": "783943",
+  "paidToMerchant": false,
+  "identifierNumber": 1142,
+  "billingDate": "2022-12-01T22:07:04.197Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18994077",
+      "fullName": "YENNY KATHERINE RAMOS BUITRAGO",
+      "phoneNumber": "+584125363621"
+    },
+    "installments": [
+      {
+        "id": "1802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-01T22:07:15.274Z",
+        "amount": 36,
+        "status": "DONE"
+      },
+      {
+        "id": "1804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-29T22:07:15.274Z",
+        "amount": 12,
+        "status": "DONE"
+      },
+      {
+        "id": "1803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-15T22:07:15.274Z",
+        "amount": 12,
+        "status": "DONE"
+      },
+      {
+        "id": "1805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-12T22:07:15.274Z",
+        "amount": 12,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

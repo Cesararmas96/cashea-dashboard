@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-18T18:09:24.207Z",
+  "id": "10143",
+  "amount": 31.49,
+  "invoiceId": "00048745",
+  "paidToMerchant": false,
+  "identifierNumber": 3302,
+  "billingDate": "2023-01-18T18:09:24.207Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16894961",
+      "fullName": "HECTOR MANUEL CORREA CORDERO",
+      "phoneNumber": "+584242714711"
+    },
+    "installments": [
+      {
+        "id": "30377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-01T18:10:20.599Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-15T18:10:20.599Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-18T18:10:20.600Z",
+        "amount": 15.74,
+        "status": "DONE"
+      },
+      {
+        "id": "30375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-01T18:10:20.599Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

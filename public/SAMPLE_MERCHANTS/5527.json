@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-05T16:30:56.095Z",
+  "updatedAt": "2025-05-09T14:59:14.145Z",
+  "id": 5527,
+  "name": "G. TOTAL SALUD",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "67b74092-5c81-44ae-acc2-3b33c455541b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gtotalsalud@gmail.com",
+    "legalName": "Maria Alexandra",
+    "phoneNumber": "04244539679"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T16:36:05.626Z",
+      "updatedAt": "2025-05-05T16:36:05.626Z",
+      "id": 13580,
+      "merchantId": 5527,
+      "name": "G. TOTAL SALUD CC Plaza Del Sol",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 794,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5586,
+      "address": {
+        "name": "C.C. PLAZA DEL SOL, LOCAL 20. SAN JOAQUIN, EDO. CARABOBO",
+        "long": -67.78875,
+        "lat": 10.261250000000004,
+        "location": "0101000020E610000014AE47E17AF250C0F8285C8FC2852440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T16:47:30.779Z",
+      "updatedAt": "2025-05-05T16:47:30.779Z",
+      "id": 13584,
+      "merchantId": 5527,
+      "name": "G. TOTAL SALUD CC Save",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 794,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5586,
+      "address": {
+        "name": "AV. INDUSTRIAS CENTRO COMERCIAL SAVE, LOCAL NRO 09, URB. INDUSTRIAL LA ISABELICA, VALENCIA, EDO. CARABOBO",
+        "long": -67.97456249999999,
+        "lat": 10.164562500000002,
+        "location": "0101000020E61000001C5A643B5FFE50C0C84B378941542440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T18:26:37.736Z",
+  "id": "8550",
+  "amount": 30.54,
+  "invoiceId": "16334",
+  "paidToMerchant": false,
+  "identifierNumber": 3230,
+  "billingDate": "2023-01-16T18:26:37.736Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27325239",
+      "fullName": "ALEXANDRA VALERIA PENA TOVAR",
+      "phoneNumber": "+584242472625"
+    },
+    "installments": [
+      {
+        "id": "29852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T18:27:06.887Z",
+        "amount": 5.09,
+        "status": "DONE"
+      },
+      {
+        "id": "29850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T18:27:06.890Z",
+        "amount": 15.27,
+        "status": "DONE"
+      },
+      {
+        "id": "29853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T18:27:06.887Z",
+        "amount": 5.09,
+        "status": "DONE"
+      },
+      {
+        "id": "29851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T18:27:06.887Z",
+        "amount": 5.09,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:29:37.155Z",
+  "id": "4922",
+  "amount": 82.33,
+  "invoiceId": "13870",
+  "paidToMerchant": false,
+  "identifierNumber": 5171,
+  "billingDate": "2022-12-24T21:29:37.155Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17637064",
+      "fullName": "LEANNIS CAROLINA FLORIAN PINEDA",
+      "phoneNumber": "+584141806078"
+    },
+    "installments": [
+      {
+        "id": "16873",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:30:40.407Z",
+        "amount": 13.723333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16870",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:30:40.408Z",
+        "amount": 41.16,
+        "status": "DONE"
+      },
+      {
+        "id": "16871",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:30:40.407Z",
+        "amount": 13.723333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16872",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:30:40.407Z",
+        "amount": 13.723333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

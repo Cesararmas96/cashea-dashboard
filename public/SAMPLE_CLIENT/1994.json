@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T22:33:31.413Z",
+  "id": "1383",
+  "amount": 46.14,
+  "invoiceId": "00001480",
+  "paidToMerchant": false,
+  "identifierNumber": 1994,
+  "billingDate": "2022-12-13T22:33:31.413Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19584272",
+      "fullName": "DIEGO ARMANDO MARVAL MARVAL",
+      "phoneNumber": "+584123584215"
+    },
+    "installments": [
+      {
+        "id": "4459",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T22:35:16.063Z",
+        "amount": 7.69,
+        "status": "DONE"
+      },
+      {
+        "id": "4461",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T22:35:16.063Z",
+        "amount": 7.69,
+        "status": "DONE"
+      },
+      {
+        "id": "4460",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T22:35:16.063Z",
+        "amount": 7.69,
+        "status": "DONE"
+      },
+      {
+        "id": "4458",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T22:35:16.064Z",
+        "amount": 23.07,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

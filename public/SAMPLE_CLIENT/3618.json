@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:31:45.105Z",
+  "id": "3777",
+  "amount": 30,
+  "invoiceId": "00001880",
+  "paidToMerchant": false,
+  "identifierNumber": 3618,
+  "billingDate": "2022-12-23T00:31:45.105Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20342609",
+      "fullName": "ALCIDES RAFAEL FIGUEREDO PINDER",
+      "phoneNumber": "+584143846414"
+    },
+    "installments": [
+      {
+        "id": "12698",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:32:11.288Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "12700",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:32:11.288Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "12701",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:32:11.288Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "12699",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:32:11.288Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T19:35:43.615Z",
+  "id": "3500",
+  "amount": 117.97,
+  "invoiceId": "14846",
+  "paidToMerchant": false,
+  "identifierNumber": 3907,
+  "billingDate": "2022-12-22T19:35:43.615Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-22T04:00:00.900+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "11708",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27283396",
+      "fullName": "DILAN EDUARDO RODRIGUEZ BARRIOS",
+      "phoneNumber": "+584149177903"
+    },
+    "installments": [
+      {
+        "id": "11709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T19:36:26.541Z",
+        "amount": 19.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T19:36:26.541Z",
+        "amount": 21.9066666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T19:36:26.542Z",
+        "amount": 58.98,
+        "status": "DONE"
+      },
+      {
+        "id": "11707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T19:36:26.541Z",
+        "amount": 17.42,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

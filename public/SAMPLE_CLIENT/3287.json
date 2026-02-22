@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T20:27:01.362Z",
+  "id": "2827",
+  "amount": 40.33,
+  "invoiceId": "12584",
+  "paidToMerchant": false,
+  "identifierNumber": 3287,
+  "billingDate": "2022-12-20T20:27:01.362Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-06T04:00:00.712+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "9311",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11060100",
+      "fullName": "ROGELIO HERRERA CASTILLO",
+      "phoneNumber": "+584161302660"
+    },
+    "installments": [
+      {
+        "id": "9313",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:28:30.489Z",
+        "amount": 6.723333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9312",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:28:30.489Z",
+        "amount": 6.723333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9311",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:28:30.489Z",
+        "amount": 6.723333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9310",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:28:30.489Z",
+        "amount": 20.16,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

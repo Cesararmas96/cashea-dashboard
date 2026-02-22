@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:44:10.742Z",
+  "id": "3379",
+  "amount": 34.85,
+  "invoiceId": "1974",
+  "paidToMerchant": false,
+  "identifierNumber": 3796,
+  "billingDate": "2022-12-22T01:44:10.742Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19998016",
+      "fullName": "NAZARETH DEL CARMEN FERNANDEZ SOLORZANO",
+      "phoneNumber": "+584242648939"
+    },
+    "installments": [
+      {
+        "id": "11274",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:44:51.893Z",
+        "amount": 17.43,
+        "status": "DONE"
+      },
+      {
+        "id": "11277",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:44:51.892Z",
+        "amount": 5.8066666666666675,
+        "status": "DONE"
+      },
+      {
+        "id": "11276",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:44:51.892Z",
+        "amount": 5.8066666666666675,
+        "status": "DONE"
+      },
+      {
+        "id": "11275",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:44:51.892Z",
+        "amount": 5.8066666666666675,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 30,
+    "name": "Korotos Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

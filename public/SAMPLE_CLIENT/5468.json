@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T00:04:55.226Z",
+  "id": "5161",
+  "amount": 134.18,
+  "invoiceId": "44686",
+  "paidToMerchant": false,
+  "identifierNumber": 5468,
+  "billingDate": "2022-12-27T00:04:55.226Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-09T04:00:00.453+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "17685",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26473108",
+      "fullName": "GENESYS YOSELIN LUGO BOLANOS",
+      "phoneNumber": "+584241706286"
+    },
+    "installments": [
+      {
+        "id": "17685",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T00:05:31.396Z",
+        "amount": 22.363333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17682",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T00:05:31.397Z",
+        "amount": 67.09,
+        "status": "DONE"
+      },
+      {
+        "id": "17684",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T00:05:31.396Z",
+        "amount": 22.363333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17683",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T00:05:31.396Z",
+        "amount": 22.363333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

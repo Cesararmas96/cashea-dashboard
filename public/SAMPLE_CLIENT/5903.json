@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:24:15.526Z",
+  "id": "5609",
+  "amount": 67.22,
+  "invoiceId": "17539",
+  "paidToMerchant": false,
+  "identifierNumber": 5903,
+  "billingDate": "2022-12-28T22:24:15.526Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14445370",
+      "fullName": "JACKSON EZTHEYLIN BULLONES TOVAR",
+      "phoneNumber": "+584129020964"
+    },
+    "installments": [
+      {
+        "id": "19282",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:24:42.077Z",
+        "amount": 33.61,
+        "status": "DONE"
+      },
+      {
+        "id": "19285",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:24:42.077Z",
+        "amount": 11.203333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19283",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:24:42.077Z",
+        "amount": 11.203333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19284",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:24:42.077Z",
+        "amount": 11.203333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

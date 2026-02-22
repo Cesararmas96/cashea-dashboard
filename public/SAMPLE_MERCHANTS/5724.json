@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-13T14:57:46.933Z",
+  "updatedAt": "2025-05-19T12:14:20.044Z",
+  "id": 5724,
+  "name": "Farmacia Helen",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "8b0398e0-d0fc-44c8-bb71-3b9f02d9fc03",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "joanfletcher22@hotmail.com",
+    "legalName": "Joan",
+    "phoneNumber": "04149759670"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T14:59:06.383Z",
+      "updatedAt": "2025-05-13T14:59:06.383Z",
+      "id": 14030,
+      "merchantId": 5724,
+      "name": "Farmacia Helen Caja Seca",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5068,
+      "address": {
+        "name": "Av El terminal Edificio Feliz Motors piso pb local 1 sector el terminal Caja seca Zulia",
+        "long": -71.0796875,
+        "lat": 9.141687500000003,
+        "location": "0101000020E61000009A99999919C551C0088195438B482240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

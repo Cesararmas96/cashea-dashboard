@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T00:26:02.802Z",
+  "id": "5705",
+  "amount": 51.5,
+  "invoiceId": "307812",
+  "paidToMerchant": false,
+  "identifierNumber": 5997,
+  "billingDate": "2022-12-29T00:26:02.802Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21412620",
+      "fullName": "YSAMAR CAROLINA REYES",
+      "phoneNumber": "+584241456831"
+    },
+    "installments": [
+      {
+        "id": "19646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T00:26:18.598Z",
+        "amount": 25.75,
+        "status": "DONE"
+      },
+      {
+        "id": "19649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T00:26:18.598Z",
+        "amount": 8.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T00:26:18.598Z",
+        "amount": 8.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T00:26:18.598Z",
+        "amount": 8.583333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T18:09:23.309Z",
+  "id": "666",
+  "amount": 41.98,
+  "invoiceId": "5043",
+  "paidToMerchant": false,
+  "identifierNumber": 1431,
+  "billingDate": "2022-12-04T18:09:23.309Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21343983",
+      "fullName": "YESENIA MERCEDES GRATEROL ROJAS",
+      "phoneNumber": "+584149021234"
+    },
+    "installments": [
+      {
+        "id": "2141",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T18:11:37.974Z",
+        "amount": 6.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2138",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T18:11:37.974Z",
+        "amount": 20.99,
+        "status": "DONE"
+      },
+      {
+        "id": "2140",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T18:11:37.974Z",
+        "amount": 6.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2139",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T18:11:37.974Z",
+        "amount": 6.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

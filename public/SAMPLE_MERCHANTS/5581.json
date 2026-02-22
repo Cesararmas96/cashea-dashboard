@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-07T13:29:11.291Z",
+  "updatedAt": "2025-05-13T13:33:04.809Z",
+  "id": 5581,
+  "name": "Mancini Glass",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "dfd37336-cdb2-4c1d-b539-48517f974f2c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "manciniglassca@gmail.com",
+    "legalName": "Paola",
+    "phoneNumber": "4121563411"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T13:30:17.298Z",
+      "updatedAt": "2025-05-07T13:30:17.298Z",
+      "id": 13702,
+      "merchantId": 5581,
+      "name": "Mancini Glass San Felipe",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6607,
+      "address": {
+        "name": "AV. 7 ENTRE CALLE 12 Y 13 EDIF. 12-12 PB SAN FELIPE-YARACUY",
+        "long": -68.73768749999999,
+        "lat": 10.339312499999991,
+        "location": "0101000020E6100000C0CAA145362F51C0783F355EBAAD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

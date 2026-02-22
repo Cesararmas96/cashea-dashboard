@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T00:01:27.292Z",
+  "id": "11557",
+  "amount": 31.44,
+  "invoiceId": "0819",
+  "paidToMerchant": false,
+  "identifierNumber": 4901,
+  "billingDate": "2023-01-31T00:01:27.292Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25718026",
+      "fullName": "HECTOR GERARDO ROMERO RODRIGUEZ",
+      "phoneNumber": "+584242102411"
+    },
+    "installments": [
+      {
+        "id": "35449",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T00:01:46.547Z",
+        "amount": 5.24,
+        "status": "DONE"
+      },
+      {
+        "id": "35448",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T00:01:46.547Z",
+        "amount": 5.24,
+        "status": "DONE"
+      },
+      {
+        "id": "35447",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T00:01:46.547Z",
+        "amount": 5.24,
+        "status": "DONE"
+      },
+      {
+        "id": "35446",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T00:01:46.549Z",
+        "amount": 15.72,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

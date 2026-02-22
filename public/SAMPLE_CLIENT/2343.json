@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T19:43:04.519Z",
+  "id": "1726",
+  "amount": 32.85,
+  "invoiceId": "00001540",
+  "paidToMerchant": false,
+  "identifierNumber": 2343,
+  "billingDate": "2022-12-16T19:43:04.519Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22413045",
+      "fullName": "TOMAS MANUEL SAEZ MORENO",
+      "phoneNumber": "+584244263104"
+    },
+    "installments": [
+      {
+        "id": "5553",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T19:43:17.467Z",
+        "amount": 5.473333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5552",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T19:43:17.467Z",
+        "amount": 5.473333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5551",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T19:43:17.467Z",
+        "amount": 5.473333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5550",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T19:43:17.468Z",
+        "amount": 16.43,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T13:56:20.685Z",
+  "id": "3882",
+  "amount": 45.6,
+  "invoiceId": "14901",
+  "paidToMerchant": false,
+  "identifierNumber": 4316,
+  "billingDate": "2022-12-23T13:56:20.685Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-23T04:00:01.377+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "13088",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30906494",
+      "fullName": "ASLY SOFIA AGUILERA TINEDO",
+      "phoneNumber": "+584242489719"
+    },
+    "installments": [
+      {
+        "id": "13086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T13:58:09.137Z",
+        "amount": 22.8,
+        "status": "DONE"
+      },
+      {
+        "id": "13088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T13:58:09.136Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "13089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T13:58:09.136Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "13087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T13:58:09.136Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

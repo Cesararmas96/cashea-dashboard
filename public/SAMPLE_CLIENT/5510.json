@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T18:09:03.797Z",
+  "id": "1543",
+  "amount": 60,
+  "invoiceId": "00001256",
+  "paidToMerchant": false,
+  "identifierNumber": 5510,
+  "billingDate": "2022-12-15T18:09:03.797Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25641408",
+      "fullName": "KEVIN ALEXANDER STAVRIDIS MORFE",
+      "phoneNumber": "+584141195776"
+    },
+    "installments": [
+      {
+        "id": "4988",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T18:09:56.370Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "4989",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T18:09:56.370Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "4987",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T18:09:56.370Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "4986",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T18:09:56.371Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

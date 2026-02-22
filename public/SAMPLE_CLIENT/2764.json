@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T20:35:58.863Z",
+  "id": "2267",
+  "amount": 41.2,
+  "invoiceId": "307266",
+  "paidToMerchant": false,
+  "identifierNumber": 2764,
+  "billingDate": "2022-12-18T20:35:58.863Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20629360",
+      "fullName": "OSIRIS ALEJANDRA ARIAS OJEDA",
+      "phoneNumber": "+584129054121"
+    },
+    "installments": [
+      {
+        "id": "7430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T20:36:25.580Z",
+        "amount": 20.6,
+        "status": "DONE"
+      },
+      {
+        "id": "7431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T20:36:25.579Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T20:36:25.579Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T20:36:25.579Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

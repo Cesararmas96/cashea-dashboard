@@ -1,0 +1,110 @@
+[
+  {
+    "id": 22880,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J506439395",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES SPF 24, C.A",
+    "internalBankHolder": "INVERSIONES SPF 24, C.A",
+    "account": "01910098742198512902",
+    "accountType": "Corriente",
+    "phoneNumber": "4127917460",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 22878,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J506439395",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES SPF 24, C.A",
+    "internalBankHolder": "INVERSIONES SPF 24, C.A",
+    "account": "01910098742198512902",
+    "accountType": "Corriente",
+    "phoneNumber": "4127917460",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 22879,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J506439395",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES SPF 24, C.A",
+    "internalBankHolder": "INVERSIONES SPF 24, C.A",
+    "account": "01910098742198512902",
+    "accountType": "Corriente",
+    "phoneNumber": "4127917460",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

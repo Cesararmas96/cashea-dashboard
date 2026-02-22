@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T16:37:08.473Z",
+  "id": "1307",
+  "amount": 38,
+  "invoiceId": "10451",
+  "paidToMerchant": false,
+  "identifierNumber": 1632,
+  "billingDate": "2022-12-12T16:37:08.473Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14728075",
+      "fullName": "PEDYMAR GARCIA RODRIGUEZ",
+      "phoneNumber": "+584142603901"
+    },
+    "installments": [
+      {
+        "id": "4219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T16:37:27.671Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T16:37:27.671Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T16:37:27.671Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T16:37:27.672Z",
+        "amount": 19,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

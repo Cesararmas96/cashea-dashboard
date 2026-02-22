@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-25T13:56:44.225Z",
+  "updatedAt": "2025-04-30T18:51:58.116Z",
+  "id": 5382,
+  "name": "Clinica Los Sauces Las Mercedes",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "20f1f38c-3ef3-48ae-a2a8-1cfa1ed071f0",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gerenciamercadeocls@gmail.com",
+    "legalName": "Urbana",
+    "phoneNumber": "04241266492"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T13:57:53.602Z",
+      "updatedAt": "2025-04-25T13:57:53.602Z",
+      "id": 13272,
+      "merchantId": 5382,
+      "name": "Clinica Los Sauces Las Mercedes",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11329,
+      "address": {
+        "name": "EDIF LA VENEZOLANA DE SEGUROS Y VIDA, PISO PB, LAS MERCEDES, CARACAS, MIRANDA",
+        "long": -66.860544,
+        "lat": 10.4790039,
+        "location": "0101000020E6100000C0CCCCCCCCCC0DC06866666666364440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

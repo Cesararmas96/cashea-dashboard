@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T22:04:56.051Z",
+  "id": "4952",
+  "amount": 31.95,
+  "invoiceId": "15142",
+  "paidToMerchant": false,
+  "identifierNumber": 5159,
+  "billingDate": "2022-12-24T22:04:56.051Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17123418",
+      "fullName": "CARLOS EDUARDO QUINTERO QUINTERO",
+      "phoneNumber": "+584241397042"
+    },
+    "installments": [
+      {
+        "id": "16966",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:05:14.450Z",
+        "amount": 15.97,
+        "status": "DONE"
+      },
+      {
+        "id": "16969",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:05:14.450Z",
+        "amount": 5.326666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16968",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:05:14.450Z",
+        "amount": 5.326666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16967",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:05:14.450Z",
+        "amount": 5.326666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

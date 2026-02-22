@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:36:22.396Z",
+  "id": "5566",
+  "amount": 67.39,
+  "invoiceId": "6230",
+  "paidToMerchant": false,
+  "identifierNumber": 5846,
+  "billingDate": "2022-12-28T21:36:22.396Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22030265",
+      "fullName": "ROSELY SARAY CARTAYA CARBALLO",
+      "phoneNumber": "+584142599640"
+    },
+    "installments": [
+      {
+        "id": "19133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:37:17.630Z",
+        "amount": 11.229999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "19130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:37:17.630Z",
+        "amount": 33.7,
+        "status": "DONE"
+      },
+      {
+        "id": "19132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:37:17.630Z",
+        "amount": 11.229999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "19131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:37:17.630Z",
+        "amount": 11.229999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

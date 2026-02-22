@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-05T15:39:45.250Z",
+  "id": "267",
+  "amount": 185,
+  "invoiceId": "015357",
+  "paidToMerchant": false,
+  "identifierNumber": 1226,
+  "billingDate": "2022-11-05T15:39:45.250Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28434725",
+      "fullName": "LUIS MANUEL HERNANDEZ CARRANZA",
+      "phoneNumber": "+584241306897"
+    },
+    "installments": [
+      {
+        "id": "837",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-05T15:40:41.048Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "839",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-03T15:40:41.047Z",
+        "amount": 28.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "840",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-17T15:40:41.047Z",
+        "amount": 28.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "838",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-19T15:40:41.047Z",
+        "amount": 28.3333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 13,
+    "name": "Pintacasa La Trinidad"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

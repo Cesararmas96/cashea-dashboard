@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-23T21:21:12.936Z",
+  "updatedAt": "2025-04-28T15:51:03.026Z",
+  "id": 5359,
+  "name": "Odontovida",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "1b950e2c-0989-4d24-b166-2121816f24b1",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "odontovida.mildred@gmail.com",
+    "legalName": "Alexander",
+    "phoneNumber": "4243000483"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T15:31:05.502Z",
+      "updatedAt": "2025-05-13T15:31:05.502Z",
+      "id": 14038,
+      "merchantId": 5359,
+      "name": "VR_Odontovida",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4955,
+      "address": {
+        "name": "C.C.Paseo las delicias 1, local AV-65. Maracay, Estado Aragua",
+        "long": -67.5918125,
+        "lat": 10.255937499999987,
+        "location": "0101000020E61000004C378941E0E550C0D0A3703D0A832440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-23T21:22:38.786Z",
+      "updatedAt": "2025-04-23T21:22:38.786Z",
+      "id": 13219,
+      "merchantId": 5359,
+      "name": "Odontovida CC Paseo Las Delicias",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4955,
+      "address": {
+        "name": "C.C.Paseo las delicias 1, local AV-65. Maracay, Estado Aragua",
+        "long": -67.5918125,
+        "lat": 10.255937499999987,
+        "location": "0101000020E61000004C378941E0E550C0D0A3703D0A832440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

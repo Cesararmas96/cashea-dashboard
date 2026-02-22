@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-23T15:52:55.038Z",
+  "id": "461",
+  "amount": 155,
+  "invoiceId": "783562",
+  "paidToMerchant": false,
+  "identifierNumber": 1036,
+  "billingDate": "2022-11-23T15:52:55.038Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18094377",
+      "fullName": "MARIA TERESA MARQUES PASCOAL",
+      "phoneNumber": "+584242172479"
+    },
+    "installments": [
+      {
+        "id": "1422",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-23T15:53:07.172Z",
+        "amount": 77.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1424",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-21T15:53:07.171Z",
+        "amount": 25.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "1423",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-07T15:53:07.171Z",
+        "amount": 25.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "1425",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-04T15:53:07.171Z",
+        "amount": 25.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

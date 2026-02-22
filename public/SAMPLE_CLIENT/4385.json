@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T19:51:13.494Z",
+  "id": "8576",
+  "amount": 46.85,
+  "invoiceId": "14605",
+  "paidToMerchant": false,
+  "identifierNumber": 4385,
+  "billingDate": "2023-01-16T19:51:13.494Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16821973",
+      "fullName": "CINTHIA YESSELEINA VILLALBA GUTIERREZ",
+      "phoneNumber": "+584121907457"
+    },
+    "installments": [
+      {
+        "id": "29889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T19:52:09.417Z",
+        "amount": 7.8066666666666675,
+        "status": "DONE"
+      },
+      {
+        "id": "29886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T19:52:09.418Z",
+        "amount": 23.43,
+        "status": "DONE"
+      },
+      {
+        "id": "29888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T19:52:09.417Z",
+        "amount": 7.8066666666666675,
+        "status": "DONE"
+      },
+      {
+        "id": "29887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T19:52:09.417Z",
+        "amount": 7.8066666666666675,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

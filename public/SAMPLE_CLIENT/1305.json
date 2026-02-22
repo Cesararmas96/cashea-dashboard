@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-27T16:59:37.320Z",
+  "id": "198",
+  "amount": 56,
+  "invoiceId": "1282",
+  "paidToMerchant": false,
+  "identifierNumber": 1305,
+  "billingDate": "2022-10-27T16:59:37.320Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25787303",
+      "fullName": "LAURA PATRICIA ANGARITA ZAMBRANO",
+      "phoneNumber": "+584142990147"
+    },
+    "installments": [
+      {
+        "id": "605",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-27T16:59:49.205Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "606",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-10T16:59:49.203Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "607",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-24T16:59:49.203Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "608",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-08T16:59:49.203Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

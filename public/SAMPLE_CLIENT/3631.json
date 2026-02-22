@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:40:12.775Z",
+  "id": "3185",
+  "amount": 87.86,
+  "invoiceId": "44259",
+  "paidToMerchant": false,
+  "identifierNumber": 3631,
+  "billingDate": "2022-12-21T20:40:12.775Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23654927",
+      "fullName": "MARINO ENERGIO GARCIA SANCHEZ",
+      "phoneNumber": "+584123690421"
+    },
+    "installments": [
+      {
+        "id": "10574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:47:32.262Z",
+        "amount": 43.93,
+        "status": "DONE"
+      },
+      {
+        "id": "10575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:47:32.261Z",
+        "amount": 14.643333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:47:32.261Z",
+        "amount": 14.643333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:47:32.261Z",
+        "amount": 14.643333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

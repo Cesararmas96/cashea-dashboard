@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T23:28:40.086Z",
+  "id": "2645",
+  "amount": 33.13,
+  "invoiceId": "12502",
+  "paidToMerchant": false,
+  "identifierNumber": 3109,
+  "billingDate": "2022-12-19T23:28:40.086Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-19T04:00:00.432+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "8684",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18182060",
+      "fullName": "ANAMILA BARONA PINO",
+      "phoneNumber": "+584241525664"
+    },
+    "installments": [
+      {
+        "id": "8685",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:30:04.556Z",
+        "amount": 5.5200000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "8682",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:30:04.557Z",
+        "amount": 16.57,
+        "status": "DONE"
+      },
+      {
+        "id": "8683",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:30:04.556Z",
+        "amount": 5.5200000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "8684",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:30:04.556Z",
+        "amount": 5.5200000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

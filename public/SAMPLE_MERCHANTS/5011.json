@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-02T21:04:58.738Z",
+  "updatedAt": "2025-04-10T19:12:41.272Z",
+  "id": 5011,
+  "name": "Taller integral Nascar Maracay",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE",
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4e251a84-482d-465c-a8b1-8a1c7bf90304",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gianpagliarini@gmail.com",
+    "legalName": "Gian carlos",
+    "phoneNumber": "04143453515"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T21:06:35.746Z",
+      "updatedAt": "2025-04-02T21:06:35.746Z",
+      "id": 12556,
+      "merchantId": 5011,
+      "name": "Taller integral Nascar Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7866,
+      "address": {
+        "name": "AV 10 DE DICIEMBRE LOCAL 110 BARRIO EL CARMEN MARACAY EDO ARAGUA",
+        "long": -67.5940625,
+        "lat": 10.246562499999996,
+        "location": "0101000020E6100000EC51B81E05E650C008D7A3703D7E2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 42058,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500307250",
+    "bankName": "Banesco",
+    "bankHolder": "FARMACIA FARMA LARA, C.A",
+    "internalBankHolder": "FARMACIA FARMA LARA, C.A",
+    "account": "01341089510001011736",
+    "accountType": "Corriente",
+    "phoneNumber": "4244157308",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 42056,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500307250",
+    "bankName": "Banesco",
+    "bankHolder": "FARMACIA FARMA LARA, C.A",
+    "internalBankHolder": "FARMACIA FARMA LARA, C.A",
+    "account": "01341089510001011736",
+    "accountType": "Corriente",
+    "phoneNumber": "4244157308",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 42057,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500307250",
+    "bankName": "Banesco",
+    "bankHolder": "FARMACIA FARMA LARA, C.A",
+    "internalBankHolder": "FARMACIA FARMA LARA, C.A",
+    "account": "01341089510001011736",
+    "accountType": "Corriente",
+    "phoneNumber": "4244157308",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

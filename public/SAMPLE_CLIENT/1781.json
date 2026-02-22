@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T20:47:55.292Z",
+  "id": "1096",
+  "amount": 39.09,
+  "invoiceId": "13975",
+  "paidToMerchant": false,
+  "identifierNumber": 1781,
+  "billingDate": "2022-12-10T20:47:55.292Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23947806",
+      "fullName": "EDWIN JOSE BASTIDAS HERRERA",
+      "phoneNumber": "+584120247020"
+    },
+    "installments": [
+      {
+        "id": "3478",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T20:48:11.350Z",
+        "amount": 19.55,
+        "status": "DONE"
+      },
+      {
+        "id": "3481",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T20:48:11.350Z",
+        "amount": 6.5133333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "3479",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T20:48:11.350Z",
+        "amount": 6.5133333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "3480",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T20:48:11.350Z",
+        "amount": 6.5133333333333345,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

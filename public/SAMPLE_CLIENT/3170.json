@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:38:43.560Z",
+  "id": "2701",
+  "amount": 37.49,
+  "invoiceId": "6719",
+  "paidToMerchant": false,
+  "identifierNumber": 3170,
+  "billingDate": "2022-12-20T01:38:43.560Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25625914",
+      "fullName": "ORIANA ISABEL LAYA RAMIREZ",
+      "phoneNumber": "+584242303163"
+    },
+    "installments": [
+      {
+        "id": "8886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:39:33.631Z",
+        "amount": 18.75,
+        "status": "DONE"
+      },
+      {
+        "id": "8887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:39:33.630Z",
+        "amount": 6.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:39:33.630Z",
+        "amount": 6.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:39:33.630Z",
+        "amount": 6.246666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

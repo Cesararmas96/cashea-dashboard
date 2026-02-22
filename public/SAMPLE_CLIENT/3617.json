@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:29:36.974Z",
+  "id": "3178",
+  "amount": 32.5,
+  "invoiceId": "1018",
+  "paidToMerchant": false,
+  "identifierNumber": 3617,
+  "billingDate": "2022-12-21T20:29:36.974Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11039622",
+      "fullName": "ERGLYS DEL VALLE PEREZ CONTRERAS",
+      "phoneNumber": "+584242752662"
+    },
+    "installments": [
+      {
+        "id": "10528",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:30:20.207Z",
+        "amount": 5.416666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10526",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:30:20.207Z",
+        "amount": 16.25,
+        "status": "DONE"
+      },
+      {
+        "id": "10529",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:30:20.207Z",
+        "amount": 5.416666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10527",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:30:20.207Z",
+        "amount": 5.416666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 27,
+    "name": "Women Secret Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

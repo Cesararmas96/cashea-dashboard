@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:38:16.263Z",
+  "id": "2700",
+  "amount": 79.99,
+  "invoiceId": "00001581",
+  "paidToMerchant": false,
+  "identifierNumber": 3146,
+  "billingDate": "2022-12-20T01:38:16.263Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19045434",
+      "fullName": "RUBEN DARIO BRICENO MARCANO",
+      "phoneNumber": "+584241684642"
+    },
+    "installments": [
+      {
+        "id": "8882",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:38:55.365Z",
+        "amount": 39.99,
+        "status": "DONE"
+      },
+      {
+        "id": "8885",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:38:55.364Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8883",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:38:55.364Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8884",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:38:55.364Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

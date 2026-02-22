@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T18:57:32.964Z",
+  "id": "5866",
+  "amount": 34.93,
+  "invoiceId": "11768",
+  "paidToMerchant": false,
+  "identifierNumber": 5311,
+  "billingDate": "2022-12-29T18:57:32.964Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16179526",
+      "fullName": "NELIDA DE JESUS ESTARITA APONTE",
+      "phoneNumber": "+584141365777"
+    },
+    "installments": [
+      {
+        "id": "20230",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T18:58:26.030Z",
+        "amount": 17.46,
+        "status": "DONE"
+      },
+      {
+        "id": "20231",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T18:58:26.029Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20233",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T18:58:26.029Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20232",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T18:58:26.029Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

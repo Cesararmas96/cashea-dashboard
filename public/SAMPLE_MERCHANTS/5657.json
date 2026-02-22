@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-05-09T04:06:17.692Z",
+  "updatedAt": "2025-05-13T14:35:28.872Z",
+  "id": 5657,
+  "name": "Ferreteria Dimaco",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cb81e99e-0423-4c49-b480-9e4f0a2a1cc7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jdcolinabracho@gmail.com",
+    "legalName": "José Colina",
+    "phoneNumber": "04122582520"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T15:06:34.446Z",
+      "updatedAt": "2025-05-14T15:06:34.446Z",
+      "id": 14103,
+      "merchantId": 5657,
+      "name": "VR_Ferreteria Dimaco",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4612,
+      "address": {
+        "name": "Ferreteria Dimaco I Av. Los Medanos.",
+        "long": -69.66625,
+        "lat": 11.413750000000007,
+        "location": "0101000020E6100000713D0AD7A36A51C0A8703D0AD7D32640",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T04:10:39.144Z",
+      "updatedAt": "2025-05-09T04:10:39.144Z",
+      "id": 13865,
+      "merchantId": 5657,
+      "name": "Ferreteria Dimaco I Av. Los Medanos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4612,
+      "address": {
+        "name": "Ferreteria Dimaco I Av. Los Medanos.",
+        "long": -69.66625,
+        "lat": 11.413750000000007,
+        "location": "0101000020E6100000713D0AD7A36A51C0A8703D0AD7D32640",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T04:15:48.238Z",
+      "updatedAt": "2025-05-09T04:15:48.238Z",
+      "id": 13866,
+      "merchantId": 5657,
+      "name": "Ferreteria Dimaco II Av. Manaure",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4612,
+      "address": {
+        "name": "Ferreteria Dimaco II Av. Manaure.",
+        "long": -69.6721875,
+        "lat": 11.4014375,
+        "location": "0101000020E6100000EC51B81E056B51C0A8C64B3789CD2640",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

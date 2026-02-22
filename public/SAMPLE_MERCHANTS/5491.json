@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-01T18:21:09.825Z",
+  "updatedAt": "2025-05-08T13:25:14.106Z",
+  "id": 5491,
+  "name": "CENTRO DE SALUD Y LABORATORIO VIRGEN DE GUADALUPE",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9a234581-52ac-4675-8357-58174696a861",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "centrosaludguadalupe@gmail.com",
+    "legalName": "YEFERSON ZAPEAIN",
+    "phoneNumber": "4129271340"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-01T18:29:41.736Z",
+      "updatedAt": "2025-05-01T18:29:41.736Z",
+      "id": 13507,
+      "merchantId": 5491,
+      "name": "CENTRO DE SALUD Y LABORATORIO VIRGEN DE GUADALUPE PETARE",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4041,
+      "address": {
+        "name": "CALLE SUCRE CASA N° 12, FRENTE A LA PLAZA SUCRE DE LA ZONA COLONIAL, CARACAS MIRANDA",
+        "long": -66.8085625,
+        "lat": 10.477687500000002,
+        "location": "0101000020E61000006891ED7CBFB350C0806ABC7493F42440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T20:59:46.572Z",
+  "id": "5948",
+  "amount": 320,
+  "invoiceId": "10810",
+  "paidToMerchant": false,
+  "identifierNumber": 5316,
+  "billingDate": "2022-12-29T20:59:46.572Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-02-01T04:00:00.727+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": 20515,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12453702",
+      "fullName": "YAJAIRA MARIA RODRIGUEZ ALTAMAR",
+      "phoneNumber": "+584268192089"
+    },
+    "installments": [
+      {
+        "id": "20517",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T21:00:05.841Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "20515",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T21:00:05.841Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "20514",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T21:00:05.842Z",
+        "amount": 190,
+        "status": "DONE"
+      },
+      {
+        "id": "20516",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T21:00:05.841Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

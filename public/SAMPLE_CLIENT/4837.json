@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T01:39:05.456Z",
+  "id": "4480",
+  "amount": 60.88,
+  "invoiceId": "15038",
+  "paidToMerchant": false,
+  "identifierNumber": 4837,
+  "billingDate": "2022-12-24T01:39:05.456Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-09T04:00:01.332+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "15267",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20911589",
+      "fullName": "YURREIMY CRISTINA ROJAS DE BARRETO",
+      "phoneNumber": "+4242998700"
+    },
+    "installments": [
+      {
+        "id": "15268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:40:33.511Z",
+        "amount": 10.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:40:33.511Z",
+        "amount": 30.44,
+        "status": "DONE"
+      },
+      {
+        "id": "15267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:40:33.511Z",
+        "amount": 10.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:40:33.511Z",
+        "amount": 10.146666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

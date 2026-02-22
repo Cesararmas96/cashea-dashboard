@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:54:48.482Z",
+  "id": "2848",
+  "amount": 30,
+  "invoiceId": "00001663",
+  "paidToMerchant": false,
+  "identifierNumber": 3298,
+  "billingDate": "2022-12-20T20:54:48.482Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29532862",
+      "fullName": "GABRIELA DE LOS SANTOS FERNANDEZ ROSERO",
+      "phoneNumber": "+584242473467"
+    },
+    "installments": [
+      {
+        "id": "9390",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:55:48.107Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "9392",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:55:48.106Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "9391",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:55:48.106Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "9393",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:55:48.106Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

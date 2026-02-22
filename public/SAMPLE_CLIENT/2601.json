@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:11:31.695Z",
+  "id": "2073",
+  "amount": 45.8,
+  "invoiceId": "6655",
+  "paidToMerchant": false,
+  "identifierNumber": 2601,
+  "billingDate": "2022-12-17T22:11:31.695Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13993424",
+      "fullName": "CELESTE DEL VALLE MEDINA SANCHEZ",
+      "phoneNumber": "+584241801425"
+    },
+    "installments": [
+      {
+        "id": "6737",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:12:49.039Z",
+        "amount": 7.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6736",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:12:49.039Z",
+        "amount": 7.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6734",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:12:49.039Z",
+        "amount": 22.9,
+        "status": "DONE"
+      },
+      {
+        "id": "6735",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:12:49.039Z",
+        "amount": 7.633333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

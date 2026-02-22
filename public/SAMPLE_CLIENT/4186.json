@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T01:17:02.240Z",
+  "id": "3826",
+  "amount": 80,
+  "invoiceId": "00010154",
+  "paidToMerchant": false,
+  "identifierNumber": 4186,
+  "billingDate": "2022-12-23T01:17:02.240Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11827992",
+      "fullName": "NAHIROBY BEATRIZ GARCIA",
+      "phoneNumber": "+584149174268"
+    },
+    "installments": [
+      {
+        "id": "12869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:17:30.379Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:17:30.379Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "12868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:17:30.379Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:17:30.379Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

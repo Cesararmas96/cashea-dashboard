@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:07:33.711Z",
+  "id": "4449",
+  "amount": 84.43,
+  "invoiceId": "00002159",
+  "paidToMerchant": false,
+  "identifierNumber": 4825,
+  "billingDate": "2022-12-24T01:07:33.711Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27425244",
+      "fullName": "VERONICA DE LAS NIEVES ALVARADO RUIZ",
+      "phoneNumber": "+584144455678"
+    },
+    "installments": [
+      {
+        "id": "15148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:08:00.474Z",
+        "amount": 14.070000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:08:00.474Z",
+        "amount": 42.22,
+        "status": "DONE"
+      },
+      {
+        "id": "15149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:08:00.474Z",
+        "amount": 14.070000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:08:00.474Z",
+        "amount": 14.070000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

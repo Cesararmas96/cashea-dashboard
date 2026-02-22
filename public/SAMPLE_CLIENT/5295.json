@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:18:39.337Z",
+  "id": "5922",
+  "amount": 36.98,
+  "invoiceId": "4328",
+  "paidToMerchant": false,
+  "identifierNumber": 5295,
+  "billingDate": "2022-12-29T20:18:39.337Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20914808",
+      "fullName": "BERENICE ISABEL DE LA RIVAS VILLARREAL",
+      "phoneNumber": "+584169228531"
+    },
+    "installments": [
+      {
+        "id": "20429",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:19:07.176Z",
+        "amount": 6.163333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20426",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:19:07.176Z",
+        "amount": 18.49,
+        "status": "DONE"
+      },
+      {
+        "id": "20428",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:19:07.176Z",
+        "amount": 6.163333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20427",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:19:07.176Z",
+        "amount": 6.163333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

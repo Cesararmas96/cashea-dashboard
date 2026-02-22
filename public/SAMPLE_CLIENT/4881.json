@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:22:47.052Z",
+  "id": "4551",
+  "amount": 87.55,
+  "invoiceId": "1374",
+  "paidToMerchant": false,
+  "identifierNumber": 4881,
+  "billingDate": "2022-12-24T15:22:47.052Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14598725",
+      "fullName": "DEYANIRA ELIZABETH SARTI ANDARA",
+      "phoneNumber": "+584142775577"
+    },
+    "installments": [
+      {
+        "id": "15518",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:23:32.018Z",
+        "amount": 43.77,
+        "status": "DONE"
+      },
+      {
+        "id": "15519",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:23:32.018Z",
+        "amount": 14.593333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15521",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:23:32.018Z",
+        "amount": 14.593333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15520",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:23:32.018Z",
+        "amount": 14.593333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 31,
+    "name": "Swarovski Sambil / IN"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

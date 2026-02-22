@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:10:02.529Z",
+  "id": "2894",
+  "amount": 112,
+  "invoiceId": "40001684",
+  "paidToMerchant": false,
+  "identifierNumber": 3392,
+  "billingDate": "2022-12-20T22:10:02.529Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23340237",
+      "fullName": "ODALYS ELIANNYS DIAZ BRACAMONTE",
+      "phoneNumber": "+584141271336"
+    },
+    "installments": [
+      {
+        "id": "9533",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:10:44.460Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "9530",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:10:44.460Z",
+        "amount": 56,
+        "status": "DONE"
+      },
+      {
+        "id": "9531",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:10:44.460Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "9532",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:10:44.460Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

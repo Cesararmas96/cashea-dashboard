@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:13:09.963Z",
+  "id": "3003",
+  "amount": 72.49,
+  "invoiceId": "00001817",
+  "paidToMerchant": false,
+  "identifierNumber": 3473,
+  "billingDate": "2022-12-21T00:13:09.963Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14165878",
+      "fullName": "YELITZA MAYERLIN GUERRA MENDEZ",
+      "phoneNumber": "+584149030726"
+    },
+    "installments": [
+      {
+        "id": "9914",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:13:21.907Z",
+        "amount": 36.24,
+        "status": "DONE"
+      },
+      {
+        "id": "9917",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:13:21.906Z",
+        "amount": 12.08333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9916",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:13:21.906Z",
+        "amount": 12.08333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9915",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:13:21.906Z",
+        "amount": 12.08333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

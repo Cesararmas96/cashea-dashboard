@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-24T17:43:32.430Z",
+  "id": "4680",
+  "amount": 45.48,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3645,
+  "billingDate": "2022-12-24T17:43:32.430Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:14:04.872Z",
+  "id": "5651",
+  "amount": 172,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5947,
+  "billingDate": "2022-12-28T23:14:04.872Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22225259",
+      "fullName": "ANGELO RAFAEL FARINAS CARRERO",
+      "phoneNumber": "+584244079162"
+    },
+    "installments": [
+      {
+        "id": "19443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:14:23.862Z",
+        "amount": 28.666666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "19444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:14:23.862Z",
+        "amount": 28.666666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "19442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:14:23.862Z",
+        "amount": 86,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "19445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:14:23.862Z",
+        "amount": 28.666666666666668,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

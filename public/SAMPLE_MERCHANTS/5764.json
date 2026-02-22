@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-05-14T15:52:57.668Z",
+  "updatedAt": "2025-08-08T17:01:09.474Z",
+  "id": 5764,
+  "name": "Zaperoko",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0cd36f1b-05d3-4daa-a032-041af2b080af",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "carlosguillenm@gmail.com",
+    "legalName": "Carlos",
+    "phoneNumber": "4148676757"
+  },
+  "stores": [
+    {
+      "createdAt": "2026-02-04T21:25:36.912Z",
+      "updatedAt": "2026-02-04T21:25:36.912Z",
+      "id": 30173,
+      "merchantId": 5764,
+      "name": "Zaperoko Av Leofling Puerto Ordaz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6362,
+      "address": {
+        "name": "Av Leofling Centro Italo Venezolano de Guayana. PUERTO ORDAZ",
+        "long": -62.7096875,
+        "lat": 8.282187500000006,
+        "location": "0101000020E6100000A4703D0AD75A4FC018AE47E17A902040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T16:44:32.153Z",
+      "updatedAt": "2025-05-14T16:44:32.153Z",
+      "id": 14124,
+      "merchantId": 5764,
+      "name": "Zaperoko Puerto Ordaz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6362,
+      "address": {
+        "name": "Calle SN CC Orinokia Mall Mezzanina Local PB-J-185B Sector Feria de Cine. Altavista. Puerto Ordaz",
+        "long": -62.743812500000004,
+        "lat": 8.292187500000011,
+        "location": "0101000020E610000092ED7C3F355F4FC0A099999999952040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

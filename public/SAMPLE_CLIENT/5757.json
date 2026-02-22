@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:03:31.571Z",
+  "id": "5447",
+  "amount": 36.99,
+  "invoiceId": "4206",
+  "paidToMerchant": false,
+  "identifierNumber": 5757,
+  "billingDate": "2022-12-28T18:03:31.571Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26893572",
+      "fullName": "CARLOS ENRIQUE RODRIGUEZ GUAINA",
+      "phoneNumber": "+584123988905"
+    },
+    "installments": [
+      {
+        "id": "18718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:04:25.010Z",
+        "amount": 18.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:04:25.009Z",
+        "amount": 6.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:04:25.009Z",
+        "amount": 6.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:04:25.009Z",
+        "amount": 6.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

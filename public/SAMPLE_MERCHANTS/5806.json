@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-16T14:49:59.465Z",
+  "updatedAt": "2025-05-16T14:49:59.465Z",
+  "id": 5806,
+  "name": "Mega Servicios La H",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "03b5535b-2387-4e4e-98d4-e2610b458e9b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ven.parches@gmail.com",
+    "legalName": "Jaime Lameda",
+    "phoneNumber": "4126618006"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T14:53:23.193Z",
+      "updatedAt": "2025-05-16T14:53:23.193Z",
+      "id": 14224,
+      "merchantId": 5806,
+      "name": "Mega Servicios La H Cabimas",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Carretera H, Casa #280 Sector Delicias Viejas, Cabimas Zulia",
+        "long": -71.46375,
+        "lat": 10.39125,
+        "location": "0101000020E610000048E17A14AEDD51C0B81E85EB51C82440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

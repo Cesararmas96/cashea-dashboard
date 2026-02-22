@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-06T13:39:37.342Z",
+  "updatedAt": "2025-05-06T19:52:44.712Z",
+  "id": 5553,
+  "name": "Global Dent",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "3c65cf77-4edb-43c4-b78d-68aa9b0fc1f4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "joscarlyo@gmail.com",
+    "legalName": "Joscarly",
+    "phoneNumber": "4248280887"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T13:42:38.961Z",
+      "updatedAt": "2025-05-06T13:42:38.961Z",
+      "id": 13621,
+      "merchantId": 5553,
+      "name": "Global Dent Guarico",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4392,
+      "address": {
+        "name": "Av circunvalación centro de imagenologia helitac valle de la pascua",
+        "long": -65.97875,
+        "lat": 9.221249999999998,
+        "location": "0101000020E6100000713D0AD7A37E50C0E07A14AE47712240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

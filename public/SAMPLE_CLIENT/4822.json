@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:39:54.324Z",
+  "id": "4424",
+  "amount": 47.8,
+  "invoiceId": "12984",
+  "paidToMerchant": false,
+  "identifierNumber": 4822,
+  "billingDate": "2022-12-24T00:39:54.324Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19190641",
+      "fullName": "PAHOLA JOSELIN PINO FERMIN",
+      "phoneNumber": "+584121832250"
+    },
+    "installments": [
+      {
+        "id": "15046",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:40:50.109Z",
+        "amount": 29.56,
+        "status": "DONE"
+      },
+      {
+        "id": "15048",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:40:50.109Z",
+        "amount": 6.079999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15049",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:40:50.109Z",
+        "amount": 6.079999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15047",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:40:50.109Z",
+        "amount": 6.079999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

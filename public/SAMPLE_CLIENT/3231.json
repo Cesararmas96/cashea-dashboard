@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-20T18:03:08.515Z",
+  "id": "2755",
+  "amount": 69.78,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3231,
+  "billingDate": "2022-12-20T18:03:08.515Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

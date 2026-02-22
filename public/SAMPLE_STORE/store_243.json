@@ -1,0 +1,128 @@
+[
+  {
+    "id": 92,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J315714566",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "internalBankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "account": "01910325112100017386",
+    "accountType": "Corriente",
+    "phoneNumber": "4222742282",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J315714566",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "internalBankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "account": "01910325112100017386",
+    "accountType": "Corriente",
+    "phoneNumber": "4222742282",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J315714566",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "internalBankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "account": "01910325112100017386",
+    "accountType": "Corriente",
+    "phoneNumber": "4222742282",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J315714566",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "internalBankHolder": "AL `GIORNO CYBER CAFE, C.A.",
+    "account": "01910098722398240159",
+    "accountType": "Custodia",
+    "phoneNumber": "4222742282",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

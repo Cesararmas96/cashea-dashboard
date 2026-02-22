@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:52:58.945Z",
+  "id": "4010",
+  "amount": 44,
+  "invoiceId": "40001753",
+  "paidToMerchant": false,
+  "identifierNumber": 4398,
+  "billingDate": "2022-12-23T18:52:58.945Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18589817",
+      "fullName": "ANDRES LA SALVIA OCHOA",
+      "phoneNumber": "+584123649061"
+    },
+    "installments": [
+      {
+        "id": "13542",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:54:59.129Z",
+        "amount": 22,
+        "status": "DONE"
+      },
+      {
+        "id": "13544",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:54:59.129Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13545",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:54:59.129Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13543",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:54:59.129Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

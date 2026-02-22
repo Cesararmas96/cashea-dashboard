@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:21:22.223Z",
+  "id": "2764",
+  "amount": 87.5,
+  "invoiceId": "9078",
+  "paidToMerchant": false,
+  "identifierNumber": 3240,
+  "billingDate": "2022-12-20T18:21:22.223Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23657632",
+      "fullName": "ELIMAR DE JESUS GONZALEZ GUACARAN",
+      "phoneNumber": "+584143273901"
+    },
+    "installments": [
+      {
+        "id": "9110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:21:46.977Z",
+        "amount": 43.75,
+        "status": "DONE"
+      },
+      {
+        "id": "9113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:21:46.976Z",
+        "amount": 14.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:21:46.976Z",
+        "amount": 14.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:21:46.976Z",
+        "amount": 14.583333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 23,
+    "name": "Cortefiel C.C Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

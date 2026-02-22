@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-08T00:34:01.182Z",
+  "id": "895",
+  "amount": 40.3,
+  "invoiceId": "11461",
+  "paidToMerchant": false,
+  "identifierNumber": 1563,
+  "billingDate": "2022-12-08T00:34:01.182Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-07T04:00:00.322+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "2848",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17123979",
+      "fullName": "HENDERSON ENRIQUE ALVAREZ SANCHEZ",
+      "phoneNumber": "+584127264239"
+    },
+    "installments": [
+      {
+        "id": "2846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-08T00:35:19.253Z",
+        "amount": 20.15,
+        "status": "DONE"
+      },
+      {
+        "id": "2848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-05T00:35:19.252Z",
+        "amount": 6.716666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-19T00:35:19.252Z",
+        "amount": 6.716666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-22T00:35:19.252Z",
+        "amount": 6.716666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

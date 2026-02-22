@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-03-27T13:19:08.094Z",
+  "updatedAt": "2025-04-10T14:40:16.594Z",
+  "id": 4871,
+  "name": "Optica y Estilos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cf2f13d0-7baf-4d97-a91b-c7c502cab8e2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mireya_perez@yahoo.es",
+    "legalName": "Mireya Pérez",
+    "phoneNumber": "4245550966"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-27T13:28:15.213Z",
+      "updatedAt": "2025-03-27T13:28:15.213Z",
+      "id": 12262,
+      "merchantId": 4871,
+      "name": "Optica y Estilos Zulia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 593,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7135,
+      "address": {
+        "name": "Calle Pedro Hernadez  sector el centro  Caja Seca Edo Zulia",
+        "long": -71.0796875,
+        "lat": 9.144187500000001,
+        "location": "0101000020E61000009A99999919C551C0E8FBA9F1D2492240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-27T13:36:59.166Z",
+      "updatedAt": "2025-03-27T13:36:59.166Z",
+      "id": 12263,
+      "merchantId": 4871,
+      "name": "Optica y Estilos CC Hack Center",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 593,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7135,
+      "address": {
+        "name": "Calle 10 con av. 9 sector el centro centro comercial Hack Center 2do piso  local C2 Valera Edo Trujillo",
+        "long": -70.6078125,
+        "lat": 9.312812499999993,
+        "location": "0101000020E610000066666666E6A651C0588FC2F528A02240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T19:12:11.378Z",
+      "updatedAt": "2025-05-15T19:12:11.378Z",
+      "id": 14199,
+      "merchantId": 4871,
+      "name": "VR_Optica y Estilos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7135,
+      "address": {
+        "name": "Calle Pedro Hernadez  sector el centro  Caja Seca Edo Zulia",
+        "long": -71.0796875,
+        "lat": 9.144187500000001,
+        "location": "0101000020E61000009A99999919C551C0E8FBA9F1D2492240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

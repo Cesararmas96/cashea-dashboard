@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T02:17:41.931Z",
+  "id": "3067",
+  "amount": 31.5,
+  "invoiceId": "6848",
+  "paidToMerchant": false,
+  "identifierNumber": 3541,
+  "billingDate": "2022-12-21T02:17:41.931Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15540121",
+      "fullName": "MARYELIN YUBISAY HERNANDEZ CHAVARRI",
+      "phoneNumber": "+584129922286"
+    },
+    "installments": [
+      {
+        "id": "10153",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T02:18:49.269Z",
+        "amount": 5.25,
+        "status": "DONE"
+      },
+      {
+        "id": "10150",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T02:18:49.270Z",
+        "amount": 15.75,
+        "status": "DONE"
+      },
+      {
+        "id": "10152",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T02:18:49.269Z",
+        "amount": 5.25,
+        "status": "DONE"
+      },
+      {
+        "id": "10151",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T02:18:49.269Z",
+        "amount": 5.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

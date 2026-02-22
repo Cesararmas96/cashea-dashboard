@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T17:25:08.011Z",
+  "id": "3946",
+  "amount": 92.19,
+  "invoiceId": "00002055",
+  "paidToMerchant": false,
+  "identifierNumber": 4374,
+  "billingDate": "2022-12-23T17:25:08.011Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "8788333",
+      "fullName": "LILIAM COROMOTO MEJIAS RODRIGUEZ",
+      "phoneNumber": "+584241236356"
+    },
+    "installments": [
+      {
+        "id": "13301",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:26:28.038Z",
+        "amount": 15.366666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "13298",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:26:28.039Z",
+        "amount": 46.09,
+        "status": "DONE"
+      },
+      {
+        "id": "13300",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:26:28.038Z",
+        "amount": 15.366666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "13299",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:26:28.038Z",
+        "amount": 15.366666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

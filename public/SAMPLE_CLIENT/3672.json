@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:50:52.828Z",
+  "id": "3266",
+  "amount": 50.13,
+  "invoiceId": "12704",
+  "paidToMerchant": false,
+  "identifierNumber": 3672,
+  "billingDate": "2022-12-21T22:50:52.828Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25625910",
+      "fullName": "ANA PAULA PEREIRA CORREIA",
+      "phoneNumber": "+584142279679"
+    },
+    "installments": [
+      {
+        "id": "10846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:51:03.084Z",
+        "amount": 25.07,
+        "status": "DONE"
+      },
+      {
+        "id": "10847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:51:03.083Z",
+        "amount": 8.353333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:51:03.083Z",
+        "amount": 8.353333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:51:03.083Z",
+        "amount": 8.353333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-08T20:41:22.409Z",
+  "id": "928",
+  "amount": 63,
+  "invoiceId": "11420",
+  "paidToMerchant": false,
+  "identifierNumber": 1634,
+  "billingDate": "2022-12-08T20:41:22.409Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "62",
+    "buyDebtDate": "2023-01-22T04:00:00.920+00:00",
+    "lastStoreId": 48,
+    "boughtForInstallmentId": "2953",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23198807",
+      "fullName": "MOISES ALEXANDER VALECILLOS JUSTO",
+      "phoneNumber": "+584123622271"
+    },
+    "installments": [
+      {
+        "id": "2953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-19T20:41:31.286Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-08T20:41:31.286Z",
+        "amount": 31.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-05T20:41:31.286Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-22T20:41:31.286Z",
+        "amount": 10.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

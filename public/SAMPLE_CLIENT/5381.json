@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T21:07:43.689Z",
+  "id": "5073",
+  "amount": 35,
+  "invoiceId": "00002151",
+  "paidToMerchant": false,
+  "identifierNumber": 5381,
+  "billingDate": "2022-12-26T21:07:43.689Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "81",
+    "buyDebtDate": "2023-02-09T04:00:00.537+00:00",
+    "lastStoreId": 26,
+    "boughtForInstallmentId": "17401",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12501911",
+      "fullName": "ANGELICA NAYADET BRICENO SALCEDO",
+      "phoneNumber": "+584129505686"
+    },
+    "installments": [
+      {
+        "id": "17398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T21:09:15.635Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T21:09:15.635Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T21:09:15.635Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T21:09:15.635Z",
+        "amount": 6.6666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

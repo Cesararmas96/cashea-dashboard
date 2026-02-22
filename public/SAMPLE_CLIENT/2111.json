@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T22:41:32.084Z",
+  "id": "1485",
+  "amount": 75.48,
+  "invoiceId": "6057",
+  "paidToMerchant": false,
+  "identifierNumber": 2111,
+  "billingDate": "2022-12-14T22:41:32.084Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21116978",
+      "fullName": "SAIDMAR EUGENIA CONTRERAS BIGOTT",
+      "phoneNumber": "+584242422027"
+    },
+    "installments": [
+      {
+        "id": "4797",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T22:42:29.972Z",
+        "amount": 12.58,
+        "status": "DONE"
+      },
+      {
+        "id": "4795",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T22:42:29.972Z",
+        "amount": 12.58,
+        "status": "DONE"
+      },
+      {
+        "id": "4796",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T22:42:29.972Z",
+        "amount": 12.58,
+        "status": "DONE"
+      },
+      {
+        "id": "4794",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T22:42:29.972Z",
+        "amount": 37.74,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

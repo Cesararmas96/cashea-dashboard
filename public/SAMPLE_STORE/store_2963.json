@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1367,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J404218629",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "internalBankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "account": "01910273432100025656",
+    "accountType": "Corriente",
+    "phoneNumber": "4141600076",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1365,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J404218629",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "internalBankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "account": "01910273432100025656",
+    "accountType": "Corriente",
+    "phoneNumber": "4141600076",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1366,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J404218629",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "internalBankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "account": "01910273432100025656",
+    "accountType": "Corriente",
+    "phoneNumber": "4141600076",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1368,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J404218629",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "internalBankHolder": "INVERSIONES BLUE CAT, C.A. ",
+    "account": "01910273462300008081",
+    "accountType": "Custodia",
+    "phoneNumber": "4141600076",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

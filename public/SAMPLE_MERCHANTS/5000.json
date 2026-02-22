@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-02T19:54:36.655Z",
+  "updatedAt": "2025-04-08T18:14:04.895Z",
+  "id": 5000,
+  "name": "Ferrefloricolor",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "09b513b3-fccd-4728-ba37-68a7b4734918",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ferrefloricolor@hotmail.com",
+    "legalName": "Lucinda",
+    "phoneNumber": "04127611898"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T19:57:25.240Z",
+      "updatedAt": "2025-04-02T19:57:25.240Z",
+      "id": 12546,
+      "merchantId": 5000,
+      "name": "Ferrefloricolor CC CRISTAL",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5214,
+      "address": {
+        "name": "AV FLORENCIO JIMENEZ CALLE 1 SANTA ISABEL CENTRO COMERCIAL CRISTAL LOCALES 4 Y 5 BARQUISIMETO EDO-LARA",
+        "long": -69.3723125,
+        "lat": 10.058187499999988,
+        "location": "0101000020E610000017D9CEF7D35751C0681283C0CA1D2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

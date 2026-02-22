@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:39:55.785Z",
+  "id": "5569",
+  "amount": 63.12,
+  "invoiceId": "00002383",
+  "paidToMerchant": false,
+  "identifierNumber": 5832,
+  "billingDate": "2022-12-28T21:39:55.785Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6896156",
+      "fullName": "MEILYHG JOSEFINA SANTANA VEGAS",
+      "phoneNumber": "+584125862698"
+    },
+    "installments": [
+      {
+        "id": "19138",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:41:14.009Z",
+        "amount": 31.56,
+        "status": "DONE"
+      },
+      {
+        "id": "19141",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:41:14.009Z",
+        "amount": 10.52,
+        "status": "DONE"
+      },
+      {
+        "id": "19140",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:41:14.009Z",
+        "amount": 10.52,
+        "status": "DONE"
+      },
+      {
+        "id": "19139",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:41:14.009Z",
+        "amount": 10.52,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

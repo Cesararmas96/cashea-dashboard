@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-07T16:51:53.685Z",
+  "updatedAt": "2025-09-13T20:18:22.203Z",
+  "id": 5595,
+  "name": "Time by Gerais",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 802,
+  "tags": [],
+  "uuid": "d0915479-830b-4366-be6c-ac5aa7f48dc9",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "presidencia@gerais.com.ve",
+    "legalName": "Aura",
+    "phoneNumber": "04141732956"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T19:33:28.997Z",
+      "updatedAt": "2025-05-07T19:33:28.997Z",
+      "id": 13736,
+      "merchantId": 5595,
+      "name": "Time by Gerais  CC Sambil La Candelaria CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 802,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6984,
+      "address": {
+        "name": "C.C Sambil La Candelaria, Nivel Galeria, local G-02",
+        "long": -66.9019375,
+        "lat": 10.504937499999997,
+        "location": "0101000020E61000004E621058B9B950C0480C022B87022540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

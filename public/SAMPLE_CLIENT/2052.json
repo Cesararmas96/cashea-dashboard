@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T20:02:48.835Z",
+  "id": "1446",
+  "amount": 31.99,
+  "invoiceId": "6023",
+  "paidToMerchant": false,
+  "identifierNumber": 2052,
+  "billingDate": "2022-12-14T20:02:48.835Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17094064",
+      "fullName": "NINOSKA DEL VALLE ESCALONA MATHEUS",
+      "phoneNumber": "+584241745629"
+    },
+    "installments": [
+      {
+        "id": "4673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T20:05:15.870Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T20:05:15.870Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T20:05:15.870Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T20:05:15.870Z",
+        "amount": 15.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

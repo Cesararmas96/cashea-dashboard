@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-05T17:42:36.612Z",
+  "id": "270",
+  "amount": 110,
+  "invoiceId": "1344",
+  "paidToMerchant": false,
+  "identifierNumber": 1185,
+  "billingDate": "2022-11-05T17:42:36.612Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10332021",
+      "fullName": "PATRICIA MARIA ARWAS BEJAR",
+      "phoneNumber": "+584143363572"
+    },
+    "installments": [
+      {
+        "id": "849",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-05T17:45:11.286Z",
+        "amount": 55,
+        "status": "DONE"
+      },
+      {
+        "id": "851",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-03T17:45:11.285Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "850",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-19T17:45:11.285Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "852",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-17T17:45:11.285Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

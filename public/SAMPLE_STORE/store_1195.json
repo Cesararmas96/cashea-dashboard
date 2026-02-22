@@ -1,0 +1,128 @@
+[
+  {
+    "id": 589,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J294885381",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Exclusividades Carima, C.A.",
+    "internalBankHolder": "Exclusividades Carima, C.A.",
+    "account": "01910098752198411844",
+    "accountType": "Corriente",
+    "phoneNumber": "4125732064",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 570,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J294885381",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Exclusividades Carima, C.A.",
+    "internalBankHolder": "Exclusividades Carima, C.A.",
+    "account": "01910098752198411844",
+    "accountType": "Corriente",
+    "phoneNumber": "4125732064",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 571,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J294885381",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Exclusividades Carima, C.A.",
+    "internalBankHolder": "Exclusividades Carima, C.A.",
+    "account": "01910098752198411844",
+    "accountType": "Corriente",
+    "phoneNumber": "4125732064",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 572,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J294885381",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Exclusividades Carima, C.A.",
+    "internalBankHolder": "Exclusividades Carima, C.A.",
+    "account": "01910098752398315612",
+    "accountType": "Custodia",
+    "phoneNumber": "4125732064",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

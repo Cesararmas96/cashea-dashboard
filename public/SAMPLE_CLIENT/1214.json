@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-14T19:28:38.976Z",
+  "id": "110",
+  "amount": 31.55,
+  "invoiceId": "6166",
+  "paidToMerchant": false,
+  "identifierNumber": 1214,
+  "billingDate": "2022-10-14T19:28:38.976Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20880045",
+      "fullName": "ANDREA MILDREE SALAS LABRADOR",
+      "phoneNumber": "+584247206672"
+    },
+    "installments": [
+      {
+        "id": "345",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-14T19:29:00.437Z",
+        "amount": 15.775,
+        "status": "DONE"
+      },
+      {
+        "id": "347",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-11T19:29:00.436Z",
+        "amount": 5.258333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "348",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-25T19:29:00.436Z",
+        "amount": 5.258333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "346",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-28T19:29:00.436Z",
+        "amount": 5.258333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

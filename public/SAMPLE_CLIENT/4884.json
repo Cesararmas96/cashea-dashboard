@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T14:01:52.176Z",
+  "id": "4524",
+  "amount": 135.62,
+  "invoiceId": "18501",
+  "paidToMerchant": false,
+  "identifierNumber": 4884,
+  "billingDate": "2022-12-24T14:01:52.176Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-10T04:00:00.729+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "15427",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10335045",
+      "fullName": "GILBERTO ARMANDO DAVILA GALINDEZ",
+      "phoneNumber": "+584128241041"
+    },
+    "installments": [
+      {
+        "id": "15429",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T14:02:58.130Z",
+        "amount": 22.603333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "15426",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T14:02:58.131Z",
+        "amount": 67.81,
+        "status": "DONE"
+      },
+      {
+        "id": "15428",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T14:02:58.130Z",
+        "amount": 24.203333333333337,
+        "status": "DONE"
+      },
+      {
+        "id": "15427",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T14:02:58.130Z",
+        "amount": 21,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

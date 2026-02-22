@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T00:07:44.874Z",
+  "id": "1851",
+  "amount": 76.11,
+  "invoiceId": "0777",
+  "paidToMerchant": false,
+  "identifierNumber": 2423,
+  "billingDate": "2022-12-17T00:07:44.874Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25013673",
+      "fullName": "BARBARA MARIALEX PESTANA SOTO",
+      "phoneNumber": "+584142600301"
+    },
+    "installments": [
+      {
+        "id": "5999",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T00:08:41.466Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5998",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T00:08:41.467Z",
+        "amount": 41.11,
+        "status": "DONE"
+      },
+      {
+        "id": "6001",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T00:08:41.466Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6000",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T00:08:41.466Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 27,
+    "name": "Women Secret Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

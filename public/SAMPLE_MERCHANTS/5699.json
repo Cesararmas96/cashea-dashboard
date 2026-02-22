@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-12T14:01:24.519Z",
+  "updatedAt": "2025-05-15T18:02:28.139Z",
+  "id": 5699,
+  "name": "Motorepuestos R&J de RPFP",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "567997ee-d90d-4ae8-a76d-36a890dfe686",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "motorj2018@gmail.com",
+    "legalName": "Reinaldo",
+    "phoneNumber": "4123299604"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T14:17:59.649Z",
+      "updatedAt": "2025-05-12T14:17:59.649Z",
+      "id": 13960,
+      "merchantId": 5699,
+      "name": "Motorepuestos R&J de RPFP La Candelaria CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7396,
+      "address": {
+        "name": "Av. Norte 13 esquina esmeralda a mirafor edificio rostrol local C2 la candelaria caracas",
+        "long": -66.90468750000001,
+        "lat": 10.508562499999996,
+        "location": "0101000020E610000067666666E6B950C0A8F1D24D62042540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

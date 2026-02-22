@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:43:12.818Z",
+  "id": "3598",
+  "amount": 63.56,
+  "invoiceId": "14060",
+  "paidToMerchant": false,
+  "identifierNumber": 4009,
+  "billingDate": "2022-12-22T21:43:12.818Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6511632",
+      "fullName": "MEUDIS MARIA SANCHEZ BRITO",
+      "phoneNumber": "+584242563768"
+    },
+    "installments": [
+      {
+        "id": "12058",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:43:56.657Z",
+        "amount": 31.78,
+        "status": "DONE"
+      },
+      {
+        "id": "12061",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:43:56.656Z",
+        "amount": 10.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12060",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:43:56.656Z",
+        "amount": 10.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12059",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:43:56.656Z",
+        "amount": 10.593333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

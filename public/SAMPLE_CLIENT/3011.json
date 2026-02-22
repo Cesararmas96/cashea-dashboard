@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T18:17:29.020Z",
+  "id": "2515",
+  "amount": 70.7,
+  "invoiceId": "12461",
+  "paidToMerchant": false,
+  "identifierNumber": 3011,
+  "billingDate": "2022-12-19T18:17:29.020Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10788869",
+      "fullName": "JONATHAN JOSE FOSSI AGELVIS",
+      "phoneNumber": "+584125862978"
+    },
+    "installments": [
+      {
+        "id": "8282",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T18:17:48.699Z",
+        "amount": 35.35,
+        "status": "DONE"
+      },
+      {
+        "id": "8285",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T18:17:48.699Z",
+        "amount": 11.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8283",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T18:17:48.699Z",
+        "amount": 11.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8284",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T18:17:48.699Z",
+        "amount": 11.783333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

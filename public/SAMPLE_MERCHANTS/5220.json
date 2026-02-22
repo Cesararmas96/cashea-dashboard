@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-14T15:27:49.174Z",
+  "updatedAt": "2025-04-25T18:31:44.865Z",
+  "id": 5220,
+  "name": "Cevilara",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "24f9bf69-8f2d-48b0-81b1-3629089ddc07",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "alconlab2525@gmail.com",
+    "legalName": "Eliana Beltran",
+    "phoneNumber": "4245537360"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T15:30:04.400Z",
+      "updatedAt": "2025-04-14T15:30:04.400Z",
+      "id": 12943,
+      "merchantId": 5220,
+      "name": "Cevilara Av Los Leones Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11325,
+      "address": {
+        "name": "Av Los Leones Entre Av Lara y Av Madrid Barquisimeto",
+        "long": -69.2844375,
+        "lat": 10.065437500000002,
+        "location": "0101000020E610000062105839345251C030DD240681212440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-10T21:11:47.282Z",
+      "updatedAt": "2025-09-10T21:11:47.282Z",
+      "id": 21187,
+      "merchantId": 5220,
+      "name": "VR_Cevilara Av Los Leones Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11325,
+      "address": {
+        "name": "Av Los Leones Entre Av Lara y Av Madrid Barquisimeto",
+        "long": -69.2844375,
+        "lat": 10.065437500000002,
+        "location": "0101000020E610000062105839345251C030DD240681212440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

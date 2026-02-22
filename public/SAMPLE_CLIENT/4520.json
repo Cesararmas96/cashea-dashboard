@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:53:32.352Z",
+  "id": "4132",
+  "amount": 49.81,
+  "invoiceId": "50483",
+  "paidToMerchant": false,
+  "identifierNumber": 4520,
+  "billingDate": "2022-12-23T20:53:32.352Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-09T04:00:01.221+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "13975",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27741220",
+      "fullName": "MARIA DE LOS ANGELES GARCIA RODRIGUEZ",
+      "phoneNumber": "+584169023699"
+    },
+    "installments": [
+      {
+        "id": "13976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:54:13.927Z",
+        "amount": 8.3,
+        "status": "DONE"
+      },
+      {
+        "id": "13977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:54:13.927Z",
+        "amount": 8.3,
+        "status": "DONE"
+      },
+      {
+        "id": "13974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:54:13.927Z",
+        "amount": 24.91,
+        "status": "DONE"
+      },
+      {
+        "id": "13975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:54:13.927Z",
+        "amount": 8.3,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

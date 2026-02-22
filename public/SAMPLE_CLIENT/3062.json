@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:51:43.361Z",
+  "id": "2585",
+  "amount": 30,
+  "invoiceId": "9988",
+  "paidToMerchant": false,
+  "identifierNumber": 3062,
+  "billingDate": "2022-12-19T21:51:43.361Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "4771335",
+      "fullName": "LEONARDO ENRIQUE MORALES POLEO",
+      "phoneNumber": "+584242629288"
+    },
+    "installments": [
+      {
+        "id": "8501",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:52:54.258Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "8498",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:52:54.259Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "8499",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:52:54.258Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "8500",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:52:54.258Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

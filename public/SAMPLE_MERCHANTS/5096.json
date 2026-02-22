@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-07T15:23:46.815Z",
+  "updatedAt": "2025-06-18T17:28:52.247Z",
+  "id": 5096,
+  "name": "Centro diagnóstico salud petare",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4218860f-0f34-4e23-9a33-f636904efd5c",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Yl.saludpatare@gmail.com",
+    "legalName": "Laila",
+    "phoneNumber": "4242308850"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T15:25:48.259Z",
+      "updatedAt": "2025-04-07T15:25:48.259Z",
+      "id": 12672,
+      "merchantId": 5096,
+      "name": "Centro diagnóstico salud petare",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11313,
+      "address": {
+        "name": "Caracas 1073, Miranda, C. Federación, & Av. Principal Las Vegas de Petare, Caracas, Miranda",
+        "long": -66.80568749999999,
+        "lat": 10.477562500000005,
+        "location": "0101000020E6100000F1D24D6290B350C090976E1283F42440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

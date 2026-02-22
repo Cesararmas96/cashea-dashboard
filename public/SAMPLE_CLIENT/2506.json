@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:08:01.489Z",
+  "id": "3200",
+  "amount": 34.99,
+  "invoiceId": "15174",
+  "paidToMerchant": false,
+  "identifierNumber": 2506,
+  "billingDate": "2022-12-21T21:08:01.489Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10811484",
+      "fullName": "CORA ELISA URREA TORTOLERO",
+      "phoneNumber": "+584122361745"
+    },
+    "installments": [
+      {
+        "id": "10618",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:08:43.053Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "10619",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:08:43.053Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "10620",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:08:43.053Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "10621",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:08:43.053Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

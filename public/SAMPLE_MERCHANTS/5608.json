@@ -1,0 +1,121 @@
+{
+  "createdAt": "2025-05-07T23:36:12.056Z",
+  "updatedAt": "2025-05-07T23:44:22.942Z",
+  "id": 5608,
+  "name": "Pintugama (Comercializadora Ferrepintura 2024, C.A)",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE",
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c63fabe3-6d4a-42dd-9e93-8279c08a169a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "fepintura2023@gmail.com",
+    "legalName": "CARLOS MILLAN",
+    "phoneNumber": "4125966771"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T00:22:06.232Z",
+      "updatedAt": "2025-05-08T00:22:06.232Z",
+      "id": 13757,
+      "merchantId": 5608,
+      "name": "Pintugama Barcelona",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4282,
+      "address": {
+        "name": "Pintugama Barcelona",
+        "long": -64.6858125,
+        "lat": 10.12843749999999,
+        "location": "0101000020E610000008AC1C5AE42B50C0F0285C8FC2412440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T00:23:00.763Z",
+      "updatedAt": "2025-05-08T00:23:00.763Z",
+      "id": 13758,
+      "merchantId": 5608,
+      "name": "Pintugama Puerto La Cruz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4282,
+      "address": {
+        "name": "Pintugama Puerto La Cruz",
+        "long": -64.6370625,
+        "lat": 10.218937499999996,
+        "location": "0101000020E610000083C0CAA1C52850C068BC749318702440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

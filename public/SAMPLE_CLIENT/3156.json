@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:59:22.218Z",
+  "id": "2661",
+  "amount": 30.9,
+  "invoiceId": "17167",
+  "paidToMerchant": false,
+  "identifierNumber": 3156,
+  "billingDate": "2022-12-19T23:59:22.218Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17908434",
+      "fullName": "ANGIE MARGARITA VILLAZANA ALGARA",
+      "phoneNumber": "+584142080726"
+    },
+    "installments": [
+      {
+        "id": "8734",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:59:49.821Z",
+        "amount": 15.45,
+        "status": "DONE"
+      },
+      {
+        "id": "8737",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:59:49.820Z",
+        "amount": 5.1499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "8735",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:59:49.820Z",
+        "amount": 5.1499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "8736",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:59:49.820Z",
+        "amount": 5.1499999999999995,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

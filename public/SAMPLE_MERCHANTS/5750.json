@@ -1,0 +1,133 @@
+{
+  "createdAt": "2025-05-13T20:35:30.087Z",
+  "updatedAt": "2025-06-02T13:35:51.984Z",
+  "id": 5750,
+  "name": "Mi Jardin Restaurante",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "452b316c-b675-40e3-bfd0-4930be605ede",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "rest.bahiaplaza@gmail.com",
+    "legalName": "Marielys Guzman",
+    "phoneNumber": "04248336538"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-16T13:04:58.183Z",
+      "updatedAt": "2025-06-16T13:04:58.183Z",
+      "id": 15700,
+      "merchantId": 5750,
+      "name": "VR Mi Jardin Restaurante",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5809,
+      "address": {
+        "name": "Mi Jardin Restaurante Cumaná",
+        "long": -64.17756250000001,
+        "lat": 10.468687500000001,
+        "location": "0101000020E6100000BF9F1A2F5D0B50C08816D9CEF7EF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:38:38.570Z",
+      "updatedAt": "2025-05-13T20:38:38.570Z",
+      "id": 14075,
+      "merchantId": 5750,
+      "name": "Mi Jardin Restaurante Cumaná",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5809,
+      "address": {
+        "name": "Mi Jardin Restaurante Cumaná",
+        "long": -64.17756250000001,
+        "lat": 10.468687500000001,
+        "location": "0101000020E6100000BF9F1A2F5D0B50C08816D9CEF7EF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

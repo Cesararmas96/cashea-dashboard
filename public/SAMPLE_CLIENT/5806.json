@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T19:59:28.585Z",
+  "id": "5517",
+  "amount": 69.86,
+  "invoiceId": "560",
+  "paidToMerchant": false,
+  "identifierNumber": 5806,
+  "billingDate": "2022-12-28T19:59:28.585Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18701377",
+      "fullName": "AMERICA MARGOT ESTUPINAN RIVAS",
+      "phoneNumber": "+584243686548"
+    },
+    "installments": [
+      {
+        "id": "18957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:02:36.588Z",
+        "amount": 11.643333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:02:36.589Z",
+        "amount": 34.93,
+        "status": "DONE"
+      },
+      {
+        "id": "18956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:02:36.588Z",
+        "amount": 11.643333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:02:36.588Z",
+        "amount": 11.643333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

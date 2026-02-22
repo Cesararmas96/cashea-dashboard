@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:08:03.355Z",
+  "id": "5641",
+  "amount": 32.9,
+  "invoiceId": "13392",
+  "paidToMerchant": false,
+  "identifierNumber": 5921,
+  "billingDate": "2022-12-28T23:08:03.355Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20490806",
+      "fullName": "YRANIA YURIMAR GIL BELLO",
+      "phoneNumber": "+584129361030"
+    },
+    "installments": [
+      {
+        "id": "19410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:08:17.595Z",
+        "amount": 16.45,
+        "status": "DONE"
+      },
+      {
+        "id": "19412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:08:17.595Z",
+        "amount": 5.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:08:17.595Z",
+        "amount": 5.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:08:17.595Z",
+        "amount": 5.483333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

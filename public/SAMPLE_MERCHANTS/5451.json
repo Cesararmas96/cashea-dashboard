@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-29T13:32:20.996Z",
+  "updatedAt": "2025-05-12T12:54:30.361Z",
+  "id": 5451,
+  "name": "Repuestos Future's Cars",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "605f26ac-214b-42e9-8897-72ca1c23a972",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "inversionesfuturescars@gmail.com",
+    "legalName": "Johan",
+    "phoneNumber": "04241450832"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-29T13:37:20.615Z",
+      "updatedAt": "2025-04-29T13:37:20.615Z",
+      "id": 13413,
+      "merchantId": 5451,
+      "name": "Repuestos Future's Cars Maiquetia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5953,
+      "address": {
+        "name": "Calle Primera, Edif Antillano II Urb Miramar – sector Pariata – Maiquetia, Estado La Guaira",
+        "long": -66.9620625,
+        "lat": 10.598062499999997,
+        "location": "0101000020E6100000508D976E92BD50C090ED7C3F35322540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

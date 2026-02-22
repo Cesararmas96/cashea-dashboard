@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-02T21:03:12.209Z",
+  "updatedAt": "2025-06-17T14:27:38.972Z",
+  "id": 5009,
+  "name": "Óptica Hidal Lente",
+  "ecommerceUrl": null,
+  "changePolicy": "1) Cambio o devolución solo para productos defectuoso.\n\n2) Plazo estimado de cambio de producto defectuoso de una semana una vez obtenido el producto.\n\n3) En caso de cambio y devolución de productos defectuosos, acercarse a la sede donde se realizó la compra del producto para ser evaluado por los encargados.\n\n",
+  "email": "opticahidallente@gmail.com",
+  "phoneNumber": "+584142548883",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "25bbf921-5463-4e41-a43b-da58b5857e25",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jesush1103@gmail.com",
+    "legalName": "Jesus",
+    "phoneNumber": "4149030015"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T19:26:18.585Z",
+      "updatedAt": "2025-05-22T19:26:18.585Z",
+      "id": 14550,
+      "merchantId": 5009,
+      "name": "VR_Óptica Hidal Lente",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7087,
+      "address": {
+        "name": "CC centro profesional Miranda. Nivel plata baja local A-20 Guarenas",
+        "long": -66.6069375,
+        "lat": 10.471812499999999,
+        "location": "0101000020E6100000D34D6210D8A650C020B0726891F12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T21:05:35.554Z",
+      "updatedAt": "2025-04-02T21:05:35.554Z",
+      "id": 12555,
+      "merchantId": 5009,
+      "name": "Óptica Hidal Lente CC Centro Profesional",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7087,
+      "address": {
+        "name": "CC centro profesional Miranda. Nivel plata baja local A-20 Guarenas",
+        "long": -66.6069375,
+        "lat": 10.471812499999999,
+        "location": "0101000020E6100000D34D6210D8A650C020B0726891F12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-12T14:09:55.262Z",
+      "updatedAt": "2025-06-12T14:09:55.262Z",
+      "id": 15583,
+      "merchantId": 5009,
+      "name": "Óptica Hidal Lente Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7087,
+      "address": {
+        "name": "CC centro profesional Miranda. Nivel plata baja local A-20 Guarenas",
+        "long": -66.6069375,
+        "lat": 10.471812499999999,
+        "location": "0101000020E6100000D34D6210D8A650C020B0726891F12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T19:42:30.563Z",
+  "id": "1358",
+  "amount": 50,
+  "invoiceId": "5911",
+  "paidToMerchant": false,
+  "identifierNumber": 1974,
+  "billingDate": "2022-12-13T19:42:30.563Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23693068",
+      "fullName": "CARLOS JAVIER GONZALEZ ESCOBAR",
+      "phoneNumber": "+584142027075"
+    },
+    "installments": [
+      {
+        "id": "4386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T19:42:56.545Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "4389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T19:42:56.544Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T19:42:56.544Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T19:42:56.544Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-31T22:46:29.560Z",
+  "id": "7170",
+  "amount": 30.57,
+  "invoiceId": "00019241",
+  "paidToMerchant": false,
+  "identifierNumber": 2530,
+  "billingDate": "2022-12-31T22:46:29.560Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24843110",
+      "fullName": "CESAR ALEJANDRO RUIZ BELLO",
+      "phoneNumber": "+584129399948"
+    },
+    "installments": [
+      {
+        "id": "24853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T22:46:35.931Z",
+        "amount": 5.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "24850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T22:46:35.931Z",
+        "amount": 15.29,
+        "status": "DONE"
+      },
+      {
+        "id": "24851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T22:46:35.931Z",
+        "amount": 5.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "24852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T22:46:35.931Z",
+        "amount": 5.093333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

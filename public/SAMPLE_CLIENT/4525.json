@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T15:31:43.447Z",
+  "id": "11477",
+  "amount": 33.48,
+  "invoiceId": "16129",
+  "paidToMerchant": false,
+  "identifierNumber": 4525,
+  "billingDate": "2023-01-30T15:31:43.447Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19371989",
+      "fullName": "JOSE DAVID BRICENO",
+      "phoneNumber": "+584123294595"
+    },
+    "installments": [
+      {
+        "id": "35157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T15:32:18.268Z",
+        "amount": 5.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "35155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T15:32:18.268Z",
+        "amount": 5.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "35156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T15:32:18.268Z",
+        "amount": 5.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "35154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T15:32:18.269Z",
+        "amount": 16.74,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

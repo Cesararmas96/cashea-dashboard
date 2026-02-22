@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-02T12:52:21.159Z",
+  "updatedAt": "2025-05-07T14:44:24.723Z",
+  "id": 5494,
+  "name": "Inversiones el profe",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c2a5f8b4-8862-48f7-8dde-f0672d6dbf8e",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "profesoroswaldomoya@gmail.com",
+    "legalName": "oswaldo",
+    "phoneNumber": "04248250715"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-17T11:37:12.409Z",
+      "updatedAt": "2025-09-17T11:37:12.409Z",
+      "id": 21663,
+      "merchantId": 5494,
+      "name": "VR_Inversiones el profe",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5914,
+      "address": {
+        "name": "Calle acosta #45  carupano estado sucre",
+        "long": -63.254437499999995,
+        "lat": 10.664687500000014,
+        "location": "0101000020E610000020B0726891A04FC0C01E85EB51542540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T12:54:21.311Z",
+      "updatedAt": "2025-05-02T12:54:21.311Z",
+      "id": 13517,
+      "merchantId": 5494,
+      "name": "Inversiones el profe Carupano",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5914,
+      "address": {
+        "name": "Calle acosta #45  carupano estado sucre",
+        "long": -63.254437499999995,
+        "lat": 10.664687500000014,
+        "location": "0101000020E610000020B0726891A04FC0C01E85EB51542540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

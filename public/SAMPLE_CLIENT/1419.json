@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T20:16:35.194Z",
+  "id": "685",
+  "amount": 37.48,
+  "invoiceId": "5062",
+  "paidToMerchant": false,
+  "identifierNumber": 1419,
+  "billingDate": "2022-12-04T20:16:35.194Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18911659",
+      "fullName": "ANGELA ALEJANDRA MENDOZA CARRILLO",
+      "phoneNumber": "+584166108954"
+    },
+    "installments": [
+      {
+        "id": "2201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T20:21:09.157Z",
+        "amount": 6.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T20:21:09.157Z",
+        "amount": 18.74,
+        "status": "DONE"
+      },
+      {
+        "id": "2200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T20:21:09.157Z",
+        "amount": 6.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T20:21:09.157Z",
+        "amount": 6.246666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

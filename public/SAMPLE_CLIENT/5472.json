@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T00:45:10.373Z",
+  "id": "5174",
+  "amount": 97.97,
+  "invoiceId": "00018552",
+  "paidToMerchant": false,
+  "identifierNumber": 5472,
+  "billingDate": "2022-12-27T00:45:10.373Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22668383",
+      "fullName": "ORANGELA ISMAYELLI COLMENARES CASTRO",
+      "phoneNumber": "+584241656250"
+    },
+    "installments": [
+      {
+        "id": "17726",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T00:45:37.049Z",
+        "amount": 48.98,
+        "status": "DONE"
+      },
+      {
+        "id": "17729",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T00:45:37.048Z",
+        "amount": 16.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17728",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T00:45:37.048Z",
+        "amount": 16.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17727",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T00:45:37.048Z",
+        "amount": 16.330000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

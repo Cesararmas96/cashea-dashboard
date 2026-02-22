@@ -1,0 +1,1452 @@
+{
+  "createdAt": "2025-04-22T16:01:42.609Z",
+  "updatedAt": "2025-06-21T16:54:49.080Z",
+  "id": 5319,
+  "name": "Tijerazo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0df8f2a9-7700-49fd-b0e4-4f364981320c",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "eyepez@tijerazo.com",
+    "legalName": "Efraín Yépez ",
+    "phoneNumber": "04122007206"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-25T17:08:22.395Z",
+      "updatedAt": "2025-07-25T17:08:22.395Z",
+      "id": 18045,
+      "merchantId": 5319,
+      "name": "Tijerazo Los Naranjos 2",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Avenida Principal Los Naranjos, & Av. El Paují, CC Galerias Los Naranjos Caracas 1083, Miranda",
+        "long": -66.8360625,
+        "lat": 10.4399375,
+        "location": "0101000020E61000005EBA490C82B550C06891ED7C3FE12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-24T16:02:36.235Z",
+      "updatedAt": "2025-07-24T16:02:36.235Z",
+      "id": 17922,
+      "merchantId": 5319,
+      "name": "Tijerazo CC Sambil Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo CC Sambil Margarita",
+        "long": -63.81156250000001,
+        "lat": 10.995687500000003,
+        "location": "0101000020E61000007C14AE47E1E74FC0701283C0CAFD2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-03T21:01:20.610Z",
+      "updatedAt": "2025-07-03T21:01:20.610Z",
+      "id": 16773,
+      "merchantId": 5319,
+      "name": "Tijerazo Maracay 2 (CC Parque Aragua)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CC Parque Aragua Nivel 3 Local Tijerazo Maracay",
+        "long": -67.5865625,
+        "lat": 10.249437499999999,
+        "location": "0101000020E6100000D7A3703D8AE550C0C0CAA145B67F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-03T19:55:29.766Z",
+      "updatedAt": "2025-07-03T19:55:29.766Z",
+      "id": 16765,
+      "merchantId": 5319,
+      "name": "Tijerazo Maracay 1 (CC Maracay)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CC Maracay A calle Miranda Boulevar zona centro Maracay",
+        "long": -67.6039375,
+        "lat": 10.250812499999995,
+        "location": "0101000020E6100000FED478E9A6E650C020DBF97E6A802440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-04T16:06:11.241Z",
+      "updatedAt": "2025-07-04T16:06:11.241Z",
+      "id": 16815,
+      "merchantId": 5319,
+      "name": "Tijerazo La Victoria (CC Palma Center)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "calle Andres Bello Sur, C.C. Palma Center, sector Centro, La Victoria, Aragua 2121",
+        "long": -67.33456249999999,
+        "lat": 10.2241875,
+        "location": "0101000020E6100000F3FDD47869D550C0105839B4C8722440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-22T16:04:56.521Z",
+      "updatedAt": "2025-04-22T16:04:56.521Z",
+      "id": 13146,
+      "merchantId": 5319,
+      "name": "Tijerazo La Hoyada 1 / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Esquina Dr Paul a Salvador De León, Edificio Lobato, Frente a la OPSU",
+        "long": -66.7974375,
+        "lat": 10.4206875,
+        "location": "0101000020E6100000A8C64B3709B350C008AC1C5A64D72440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:04:53.365Z",
+      "updatedAt": "2025-07-08T18:04:53.365Z",
+      "id": 16999,
+      "merchantId": 5319,
+      "name": "Tijerazo TMT - BQTO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av 20 Entre Calles 24 y 25 Barquisimeto",
+        "long": -69.3155625,
+        "lat": 10.066937499999995,
+        "location": "0101000020E610000004560E2D325451C080C0CAA145222440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-06T22:32:44.340Z",
+      "updatedAt": "2025-07-06T22:32:44.340Z",
+      "id": 16858,
+      "merchantId": 5319,
+      "name": "Tijerazo Valencia 2 (Av Bolivar)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av Bolivar norte con avenida 137 Edif Tijerazo sector Los Sauces Valencia 2001",
+        "long": -68.0074375,
+        "lat": 10.209062499999987,
+        "location": "0101000020E6100000E5D022DB790051C0D0A3703D0A6B2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:00:54.229Z",
+      "updatedAt": "2025-07-08T18:00:54.229Z",
+      "id": 16996,
+      "merchantId": 5319,
+      "name": "Tijerazo Arca - BQTO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CC Arca Local Tijerazo Barquisimeto",
+        "long": -69.3116875,
+        "lat": 10.079437499999997,
+        "location": "0101000020E61000009CC420B0F25351C0E8263108AC282440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-06T22:37:01.791Z",
+      "updatedAt": "2025-07-06T22:37:01.791Z",
+      "id": 16859,
+      "merchantId": 5319,
+      "name": "Tijerazo Valencia 1 (Calle Colombia)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Calle Colombia con Boyaca sector centro Local Tijerazo Valencia 2001",
+        "long": -68.0024375,
+        "lat": 10.182437500000006,
+        "location": "0101000020E61000002DB29DEF270051C0C820B072685D2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-06T22:42:10.430Z",
+      "updatedAt": "2025-07-06T22:42:10.430Z",
+      "id": 16860,
+      "merchantId": 5319,
+      "name": "Tijerazo Puerto Cabello (Calle Urdaneta)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Calle Urdaneta sector la alcantarilla local nro 60 centro Puerto Cabello 2050",
+        "long": -68.0143125,
+        "lat": 10.471312499999996,
+        "location": "0101000020E610000023DBF97EEA0051C058643BDF4FF12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-04T16:22:15.987Z",
+      "updatedAt": "2025-07-04T16:22:15.987Z",
+      "id": 16817,
+      "merchantId": 5319,
+      "name": "Tijerazo Guacara (Calle Marques del Toro)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "calle Marquez del Toro, sector Centro, Guacara, Carabobo 2015",
+        "long": -67.87681250000001,
+        "lat": 10.2265625,
+        "location": "0101000020E6100000570E2DB21DF850C00000000000742440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:09:30.123Z",
+      "updatedAt": "2025-06-24T23:09:30.123Z",
+      "id": 16255,
+      "merchantId": 5319,
+      "name": "Tijerazo CC La Cascada",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CC La Cascada, Carretera Panamericana, Km 21 Sector C. Corralito, Municipio Carrizal, Miranda",
+        "long": -67.0030625,
+        "lat": 10.354312499999992,
+        "location": "0101000020E610000004560E2D32C050C0C020B07268B52440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:06:48.314Z",
+      "updatedAt": "2025-06-24T23:06:48.314Z",
+      "id": 16254,
+      "merchantId": 5319,
+      "name": "Tijerazo Boleita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Calle Tiuna, Boleita Norte, Trans. 2, Caracas, Distrito Capital",
+        "long": -66.82193749999999,
+        "lat": 10.498937499999997,
+        "location": "0101000020E6100000C876BE9F9AB450C0F87E6ABC74FF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:16:30.294Z",
+      "updatedAt": "2025-06-24T23:16:30.294Z",
+      "id": 16257,
+      "merchantId": 5319,
+      "name": "Tijerazo CC Sambil Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Centro Sambil, Nivel Autopista, Av. Libertador, Caracas, Distrito Capital",
+        "long": -66.8538125,
+        "lat": 10.4898125,
+        "location": "0101000020E6100000A01A2FDDA4B650C0105839B4C8FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:24:47.094Z",
+      "updatedAt": "2025-06-24T23:24:47.094Z",
+      "id": 16258,
+      "merchantId": 5319,
+      "name": "Tijerazo Chacaito",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Centro Comercial Chacaito, Bulevar de Sabana Grande, Caracas 1060, Miranda",
+        "long": -66.86868750000001,
+        "lat": 10.492312500000011,
+        "location": "0101000020E61000006BBC749398B750C0F8D24D6210FC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:29:08.913Z",
+      "updatedAt": "2025-06-24T23:29:08.913Z",
+      "id": 16259,
+      "merchantId": 5319,
+      "name": "Tijerazo Las Mercedes",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CC Paseo Las Mercedes, Piso 2 P.º Enrique Eraso, Caracas, Miranda",
+        "long": -66.8585625,
+        "lat": 10.47731250000001,
+        "location": "0101000020E61000009CC420B0F2B650C0B0F1D24D62F42440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:44:54.056Z",
+      "updatedAt": "2025-06-24T23:44:54.056Z",
+      "id": 16260,
+      "merchantId": 5319,
+      "name": "Tijerazo La Hoyada 2 / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Catedral Cují Romualda, Casco Central",
+        "long": -66.91006250000001,
+        "lat": 10.505687499999993,
+        "location": "0101000020E61000003AB4C8763EBA50C0F0FDD478E9022540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:49:50.923Z",
+      "updatedAt": "2025-06-24T23:49:50.923Z",
+      "id": 16261,
+      "merchantId": 5319,
+      "name": "Tijerazo Los Naranjos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CC Galerías Los Naranjos, Piso 5, Nivel Cine",
+        "long": -66.8365625,
+        "lat": 10.4399375,
+        "location": "0101000020E6100000D7A3703D8AB550C06891ED7C3FE12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T23:54:01.070Z",
+      "updatedAt": "2025-06-24T23:54:01.070Z",
+      "id": 16262,
+      "merchantId": 5319,
+      "name": "Tijerazo El Hatillo",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CC Paseo El Hatillo, Piso 1",
+        "long": -66.8240625,
+        "lat": 10.423312499999994,
+        "location": "0101000020E61000000AD7A370BDB450C0D8F97E6ABCD82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:02:59.504Z",
+      "updatedAt": "2025-07-08T18:02:59.504Z",
+      "id": 16997,
+      "merchantId": 5319,
+      "name": "Tijerazo Lady - BQTO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av 20 Esquina Calle 25 Barquisimeto",
+        "long": -69.3161875,
+        "lat": 10.067062499999992,
+        "location": "0101000020E6100000DBF97E6A3C5451C07093180456222440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:10:02.207Z",
+      "updatedAt": "2025-07-08T18:10:02.207Z",
+      "id": 17001,
+      "merchantId": 5319,
+      "name": "Tijerazo Quemaito - BQTO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av 20 Entre Calles 25 y 26 Barquisimeto",
+        "long": -69.3166875,
+        "lat": 10.067062499999992,
+        "location": "0101000020E610000054E3A59B445451C07093180456222440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:11:36.923Z",
+      "updatedAt": "2025-07-08T18:11:36.923Z",
+      "id": 17002,
+      "merchantId": 5319,
+      "name": "Tijerazo Quibor",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av 6 Esquina Calle 13 Quibor",
+        "long": -69.6225625,
+        "lat": 9.922437500000001,
+        "location": "0101000020E6100000D34D6210D86751C040355EBA49D82340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:14:35.577Z",
+      "updatedAt": "2025-07-08T18:14:35.577Z",
+      "id": 17003,
+      "merchantId": 5319,
+      "name": "Tijerazo Tocuyo",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av Lisandro Alvarado Entre Calles 18 y 19 El Tocuyo",
+        "long": -69.79656250000001,
+        "lat": 9.782562499999997,
+        "location": "0101000020E610000015AE47E1FA7251C0E8263108AC902340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:17:21.803Z",
+      "updatedAt": "2025-07-08T18:17:21.803Z",
+      "id": 17006,
+      "merchantId": 5319,
+      "name": "Tijerazo Carora",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av Bolivar Carora",
+        "long": -70.0843125,
+        "lat": 10.178812500000006,
+        "location": "0101000020E610000037894160658551C0683BDF4F8D5B2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T18:23:02.985Z",
+      "updatedAt": "2025-07-08T18:23:02.985Z",
+      "id": 17008,
+      "merchantId": 5319,
+      "name": "Tijerazo Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av Libertador Con Calle 25 Acarigua",
+        "long": -69.2098125,
+        "lat": 9.558562499999994,
+        "location": "0101000020E6100000B07268916D4D51C0408B6CE7FB1D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-25T19:03:34.636Z",
+      "updatedAt": "2025-07-25T19:03:34.636Z",
+      "id": 18056,
+      "merchantId": 5319,
+      "name": "Tijerazo El Tigre (AV FCO MIRANDA)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "AV FRANCISCO DE MIRANDA AL LADO DE TRAKI SECTOR CENTRO EL TIGRE",
+        "long": -64.24625,
+        "lat": 8.89125,
+        "location": "0101000020E6100000F6285C8FC20F50C0B81E85EB51C82140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-06T18:22:49.937Z",
+      "updatedAt": "2025-08-06T18:22:49.937Z",
+      "id": 18718,
+      "merchantId": 5319,
+      "name": "Tijerazo Barinas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Calle Cedeño Barinas",
+        "long": -70.2030625,
+        "lat": 8.622312499999992,
+        "location": "0101000020E6100000D122DBF9FE8C51C0B0C876BE9F3E2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-25T19:06:46.339Z",
+      "updatedAt": "2025-07-25T19:06:46.339Z",
+      "id": 18057,
+      "merchantId": 5319,
+      "name": "Tijerazo Ciudad Bolivar (PASEO ORINOCO)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "PASEO ORINOCO AV LOS PROCERES SECTOR CENTRO CIUDAD BOLIVAR",
+        "long": -63.54375,
+        "lat": 8.146249999999995,
+        "location": "0101000020E61000009A99999999C54FC07814AE47E14A2040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-15T19:56:50.759Z",
+      "updatedAt": "2025-07-15T19:56:50.759Z",
+      "id": 17387,
+      "merchantId": 5319,
+      "name": "Tijerazo Ciudad Ojeda Ropa (Av Bolivar)",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo Ciudad Ojeda Ropa (Av Bolivar), AV BOLIVAR FRENTE A LA PLAZA BOLIVAR SECTOR CENTRO CIUDAD OJEDA",
+        "long": -71.3151875,
+        "lat": 10.196437500000002,
+        "location": "0101000020E6100000E92631082CD451C0806ABC7493642440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-19T12:05:04.683Z",
+      "updatedAt": "2025-07-19T12:05:04.683Z",
+      "id": 17661,
+      "merchantId": 5319,
+      "name": "Tijerazo Coro (Calle Buchivacoa)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Calle Buchivacoa, sector Centro de Coro, Coro, Falcon 4101",
+        "long": -69.6744375,
+        "lat": 11.406687500000004,
+        "location": "0101000020E61000008B6CE7FB296B51C05062105839D02640",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-15T19:29:39.064Z",
+      "updatedAt": "2025-07-15T19:29:39.064Z",
+      "id": 17383,
+      "merchantId": 5319,
+      "name": "Tijerazo Maracaibo 1 (CC SAMBIL)",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo Maracaibo 1 (CC SAMBIL), Avenida Guajira, Zona Industrial Norte, Maracaibo 4001, Zulia",
+        "long": -71.6326875,
+        "lat": 10.72281249999999,
+        "location": "0101000020E6100000A245B6F37DE851C0A847E17A14722540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-15T19:47:34.668Z",
+      "updatedAt": "2025-07-15T19:47:34.668Z",
+      "id": 17385,
+      "merchantId": 5319,
+      "name": "Tijerazo Maracaibo 2 (CC Galerias)",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo Maracaibo 2 (CC Galerias), CC GALERIAS MALL AV LA LIMPIA MARACAIBO",
+        "long": -71.6533125,
+        "lat": 10.672062499999996,
+        "location": "0101000020E61000005A643BDFCFE951C068BC749318582540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-25T19:10:51.204Z",
+      "updatedAt": "2025-07-25T19:10:51.204Z",
+      "id": 18060,
+      "merchantId": 5319,
+      "name": "Tijerazo Maturin 1 (CC MONAGAS PLAZA)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "AV ALIRIO UGARTE PELAYO CC MONAGAS PLAZA MATURIN",
+        "long": -63.20218750000001,
+        "lat": 9.7956875,
+        "location": "0101000020E61000007C14AE47E1994FC008AC1C5A64972340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-25T19:16:27.972Z",
+      "updatedAt": "2025-07-25T19:16:27.972Z",
+      "id": 18061,
+      "merchantId": 5319,
+      "name": "Tijerazo Maturin 2 (AV JUNCAL)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "AV JUNCAL CRUCE CON BERMUDEZ DIAGONAL AL BCO DE VENEZUELA MATURIN",
+        "long": -63.1828125,
+        "lat": 9.748312499999997,
+        "location": "0101000020E61000006666666666974FC04060E5D0227F2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-03T18:09:18.083Z",
+      "updatedAt": "2025-08-03T18:09:18.083Z",
+      "id": 18543,
+      "merchantId": 5319,
+      "name": "Tijerazo Merida",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo Mérida",
+        "long": -71.1458125,
+        "lat": 8.597062499999993,
+        "location": "0101000020E610000046B6F3FD54C951C000560E2DB2312140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-19T11:22:36.813Z",
+      "updatedAt": "2025-07-19T11:22:36.813Z",
+      "id": 17660,
+      "merchantId": 5319,
+      "name": "Tijerazo Pto Fijo 1 (C.C. Mall de las Américas)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av. Bolívar con Av. Ramón Ruíz Polanco, C.C. Mall de las Americas, sector Centro de Pto Fijo, Pto Fijo, Falcón 4102",
+        "long": -70.2088125,
+        "lat": 11.682937500000008,
+        "location": "0101000020E6100000BE9F1A2F5D8D51C0906CE7FBA95D2740",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-19T10:59:24.916Z",
+      "updatedAt": "2025-07-19T10:59:24.916Z",
+      "id": 17659,
+      "merchantId": 5319,
+      "name": "Tijerazo Pto Fijo 2 (C.C. Sambil)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Av. Intercomunal Ali Primera, C.C. Sambil Paraguaná, sector Hato Nuevo, Pto Fijo, Falcón 4102",
+        "long": -70.1725625,
+        "lat": 11.685312499999995,
+        "location": "0101000020E6100000068195430B8B51C07814AE47E15E2740",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-03T17:57:04.708Z",
+      "updatedAt": "2025-08-03T17:57:04.708Z",
+      "id": 18540,
+      "merchantId": 5319,
+      "name": "Tijerazo San Cristobal",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo San Cristobal",
+        "long": -72.2351875,
+        "lat": 7.793812500000001,
+        "location": "0101000020E6100000643BDF4F0D0F52C0C09F1A2FDD2C1F40",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-03T18:32:56.901Z",
+      "updatedAt": "2025-08-03T18:32:56.901Z",
+      "id": 18544,
+      "merchantId": 5319,
+      "name": "Tijerazo STA BARBARA 1",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo STA BARBARA 1",
+        "long": -71.9194375,
+        "lat": 8.999812500000004,
+        "location": "0101000020E6100000D34D6210D8FA51C098438B6CE7FF2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-03T18:36:53.431Z",
+      "updatedAt": "2025-08-03T18:36:53.431Z",
+      "id": 18545,
+      "merchantId": 5319,
+      "name": "Tijerazo STA BARBARA 2",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo STA BARBARA 2",
+        "long": -71.9194375,
+        "lat": 8.999812500000004,
+        "location": "0101000020E6100000D34D6210D8FA51C098438B6CE7FF2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-25T19:02:26.908Z",
+      "updatedAt": "2025-07-25T19:02:26.908Z",
+      "id": 18055,
+      "merchantId": 5319,
+      "name": "Tijerazo Pto La Cruz (AV 5 DE JULIO)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "AV 5 DE JULIO SECTOR CENTO PUERTO LA CRUZ",
+        "long": -64.63375,
+        "lat": 10.221249999999998,
+        "location": "0101000020E6100000C3F5285C8F2850C0E07A14AE47712440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-25T19:08:42.498Z",
+      "updatedAt": "2025-07-25T19:08:42.498Z",
+      "id": 18058,
+      "merchantId": 5319,
+      "name": "Tijerazo San Felix (CALLE MARIÑO)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "CALLE MARIÑO DIAGONAL A CANTV SECTOR CENTRO SAN FELIX",
+        "long": -62.66231250000001,
+        "lat": 8.369187499999995,
+        "location": "0101000020E6100000B49DEFA7C6544FC0182FDD2406BD2040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-03T18:07:02.056Z",
+      "updatedAt": "2025-08-03T18:07:02.056Z",
+      "id": 18542,
+      "merchantId": 5319,
+      "name": "Tijerazo Trujillo",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo Trujillo",
+        "long": -70.43406250000001,
+        "lat": 9.366062499999998,
+        "location": "0101000020E6100000E27A14AEC79B51C08095438B6CBB2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-03T18:03:11.227Z",
+      "updatedAt": "2025-08-03T18:03:11.227Z",
+      "id": 18541,
+      "merchantId": 5319,
+      "name": "Tijerazo Valera",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 1562,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8638,
+      "address": {
+        "name": "Tijerazo Valera",
+        "long": -70.61018750000001,
+        "lat": 9.313312499999995,
+        "location": "0101000020E6100000653BDF4F0DA751C020DBF97E6AA02240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

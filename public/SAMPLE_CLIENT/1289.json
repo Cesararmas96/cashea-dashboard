@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-01T22:23:42.868Z",
+  "id": "229",
+  "amount": 272,
+  "invoiceId": "40001424",
+  "paidToMerchant": false,
+  "identifierNumber": 1289,
+  "billingDate": "2022-11-01T22:23:42.868Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14894533",
+      "fullName": "KALIANA CAROLINA ORTIZ CORONIL",
+      "phoneNumber": "+584123391994"
+    },
+    "installments": [
+      {
+        "id": "700",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-13T22:29:35.389Z",
+        "amount": 45.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "699",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-29T22:29:35.389Z",
+        "amount": 45.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "697",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-01T22:29:35.390Z",
+        "amount": 136,
+        "status": "DONE"
+      },
+      {
+        "id": "698",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-15T22:29:35.389Z",
+        "amount": 45.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

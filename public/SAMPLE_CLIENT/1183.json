@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-04T20:47:19.447Z",
+  "id": "261",
+  "amount": 40,
+  "invoiceId": "006",
+  "paidToMerchant": false,
+  "identifierNumber": 1183,
+  "billingDate": "2022-11-04T20:47:19.447Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17775669",
+      "fullName": "MARIA GABRIELA LARA GONZALEZ",
+      "phoneNumber": "+584122008705"
+    },
+    "installments": [
+      {
+        "id": "820",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-16T20:47:41.672Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "819",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-02T20:47:41.672Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "818",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-18T20:47:41.672Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "817",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-04T20:47:41.673Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-05-15T18:31:37.319Z",
+  "updatedAt": "2025-07-30T17:27:17.267Z",
+  "id": 5800,
+  "name": "Mil Ceramicas - Cumana",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "6ce3b5b5-4450-4e81-add5-0c08b5ea8ca4",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ceramikoz@hotmail.com",
+    "legalName": "Juan Pablo Ozonian",
+    "phoneNumber": "4143930295"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-12T15:02:32.986Z",
+      "updatedAt": "2025-09-12T15:02:32.986Z",
+      "id": 21330,
+      "merchantId": 5800,
+      "name": "VR_Mil Ceramicas Cumaná",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4140,
+      "address": {
+        "name": "Mil Ceramicas Cumaná",
+        "long": -64.1851875,
+        "lat": 10.442562500000008,
+        "location": "0101000020E61000003108AC1CDA0B50C040DF4F8D97E22440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T18:51:51.111Z",
+      "updatedAt": "2025-05-15T18:51:51.111Z",
+      "id": 14196,
+      "merchantId": 5800,
+      "name": "Mil Ceramicas Cumaná",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4140,
+      "address": {
+        "name": "Mil Ceramicas Cumaná",
+        "long": -64.1851875,
+        "lat": 10.442562500000008,
+        "location": "0101000020E61000003108AC1CDA0B50C040DF4F8D97E22440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

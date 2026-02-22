@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T21:47:56.501Z",
+  "id": "2317",
+  "amount": 190,
+  "invoiceId": "694",
+  "paidToMerchant": false,
+  "identifierNumber": 2821,
+  "billingDate": "2022-12-18T21:47:56.501Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25382436",
+      "fullName": "ANDREA CAROLINA AMADO GONCALVES",
+      "phoneNumber": "+584128303857"
+    },
+    "installments": [
+      {
+        "id": "7674",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:13:28.894Z",
+        "amount": 108.6,
+        "status": "DONE"
+      },
+      {
+        "id": "7677",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:13:28.894Z",
+        "amount": 27.133333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "7676",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:13:28.894Z",
+        "amount": 27.133333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "7675",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:13:28.894Z",
+        "amount": 27.133333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

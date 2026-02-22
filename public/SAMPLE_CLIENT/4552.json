@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:12:35.917Z",
+  "id": "4158",
+  "amount": 64.93,
+  "invoiceId": "9061",
+  "paidToMerchant": false,
+  "identifierNumber": 4552,
+  "billingDate": "2022-12-23T21:12:35.917Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24635201",
+      "fullName": "ADONAY JESUS CISNEROS ALVAREZ",
+      "phoneNumber": "+584242043164"
+    },
+    "installments": [
+      {
+        "id": "14081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:14:25.095Z",
+        "amount": 10.820000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "14078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:14:25.095Z",
+        "amount": 32.47,
+        "status": "DONE"
+      },
+      {
+        "id": "14080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:14:25.095Z",
+        "amount": 10.820000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "14079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:14:25.095Z",
+        "amount": 10.820000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

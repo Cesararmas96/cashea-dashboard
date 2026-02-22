@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:14:40.561Z",
+  "id": "4802",
+  "amount": 42.99,
+  "invoiceId": "9981",
+  "paidToMerchant": false,
+  "identifierNumber": 5024,
+  "billingDate": "2022-12-24T19:14:40.561Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24802081",
+      "fullName": "LUIS ARTURO CARRENO BAUTE",
+      "phoneNumber": "+584129643091"
+    },
+    "installments": [
+      {
+        "id": "16438",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:14:54.317Z",
+        "amount": 21.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16441",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:14:54.316Z",
+        "amount": 7.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16440",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:14:54.316Z",
+        "amount": 7.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16439",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:14:54.316Z",
+        "amount": 7.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 59,
+    "name": "Mango Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

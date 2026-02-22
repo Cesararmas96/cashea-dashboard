@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:52:04.722Z",
+  "id": "4885",
+  "amount": 90.57,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5144,
+  "billingDate": "2022-12-24T20:52:04.722Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22965210",
+      "fullName": "YVIS ROSARIO MENDOZA PAEZ",
+      "phoneNumber": "+584241239855"
+    },
+    "installments": [
+      {
+        "id": "16739",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:52:13.441Z",
+        "amount": 15.096666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16741",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:52:13.441Z",
+        "amount": 15.096666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16740",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:52:13.441Z",
+        "amount": 15.096666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16738",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:52:13.442Z",
+        "amount": 45.28,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

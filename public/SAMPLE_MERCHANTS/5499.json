@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-02T14:13:14.523Z",
+  "updatedAt": "2025-05-09T03:44:29.994Z",
+  "id": 5499,
+  "name": "LA TARTA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "325fbf40-07c6-497f-96aa-815c1b5ea8c3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "latartaadmon2023@gmail.com",
+    "legalName": "Rosa Coronado",
+    "phoneNumber": "4123394103"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T14:14:55.406Z",
+      "updatedAt": "2025-05-02T14:14:55.406Z",
+      "id": 13523,
+      "merchantId": 5499,
+      "name": "LA TARTA El Hatillo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6492,
+      "address": {
+        "name": "AV. PRINCIPAL DEL HATILLO, AL LADO DE LA PLAZA BOLIVAR DE EL HATILLO, LOCAL QUINTA LA CASONA, NRO 26 URB. EL HATILLO",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-23T12:11:20.238Z",
+      "updatedAt": "2025-05-23T12:11:20.238Z",
+      "id": 14574,
+      "merchantId": 5499,
+      "name": "VR_LA TARTA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6492,
+      "address": {
+        "name": "AV. PRINCIPAL DEL HATILLO, AL LADO DE LA PLAZA BOLIVAR DE EL HATILLO, LOCAL QUINTA LA CASONA, NRO 26 URB. EL HATILLO",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

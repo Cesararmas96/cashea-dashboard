@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:34:56.224Z",
+  "id": "2583",
+  "amount": 42.22,
+  "invoiceId": "00001340",
+  "paidToMerchant": false,
+  "identifierNumber": 3043,
+  "billingDate": "2022-12-19T21:34:56.224Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18445674",
+      "fullName": "REBECA JOHANNA BETANCOURT MAITA",
+      "phoneNumber": "+584129811018"
+    },
+    "installments": [
+      {
+        "id": "8494",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:36:02.335Z",
+        "amount": 21.11,
+        "status": "DONE"
+      },
+      {
+        "id": "8497",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:36:02.334Z",
+        "amount": 7.036666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8495",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:36:02.334Z",
+        "amount": 7.036666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8496",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:36:02.334Z",
+        "amount": 7.036666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

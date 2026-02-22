@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-30T23:38:18.320Z",
+  "id": "6670",
+  "amount": 44.97,
+  "invoiceId": "6502",
+  "paidToMerchant": false,
+  "identifierNumber": 2074,
+  "billingDate": "2022-12-30T23:38:18.320Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-30T04:00:01.091+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "22996",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "5579618",
+      "fullName": "RANIER ALFREDO ROMAN MONTANEZ",
+      "phoneNumber": "+584242805485"
+    },
+    "installments": [
+      {
+        "id": "22997",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-10T23:38:38.238Z",
+        "amount": 7.496666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "22996",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-27T23:38:38.238Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "22994",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-30T23:38:38.238Z",
+        "amount": 22.48,
+        "status": "DONE"
+      },
+      {
+        "id": "22995",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-13T23:38:38.238Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

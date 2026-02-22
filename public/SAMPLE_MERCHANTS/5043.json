@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-04T16:37:42.928Z",
+  "updatedAt": "2025-04-08T14:49:16.751Z",
+  "id": 5043,
+  "name": "Farmacia Hnos Sabú",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 632,
+  "tags": [],
+  "uuid": "a79b5339-4bfa-4d60-8fe4-96a2c93dbdd5",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sehaliah.m@gmail.com",
+    "legalName": "Novedades Yanet Fashion",
+    "phoneNumber": "4167254471"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-29T15:47:50.863Z",
+      "updatedAt": "2025-04-29T15:47:50.863Z",
+      "id": 13425,
+      "merchantId": 5043,
+      "name": "VR_Farmacia Hnos Sabú",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5069,
+      "address": {
+        "name": "Calle nueva Ent. Av. Soublette y Dos cerritos, Local Nro S/N Barrio Aquí Está Maiquetía - La guaira Zona postal 1160",
+        "long": -66.9680625,
+        "lat": 10.598937499999991,
+        "location": "0101000020E6100000FA7E6ABCF4BD50C028B29DEFA7322540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T16:53:30.815Z",
+      "updatedAt": "2025-04-04T16:53:30.815Z",
+      "id": 12609,
+      "merchantId": 5043,
+      "name": "Farmacia Hnos Sabú Maiquetia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 632,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5069,
+      "address": {
+        "name": "Calle nueva Ent. Av. Soublette y Dos cerritos, Local Nro S/N Barrio Aquí Está Maiquetía - La guaira Zona postal 1160",
+        "long": -66.9680625,
+        "lat": 10.598937499999991,
+        "location": "0101000020E6100000FA7E6ABCF4BD50C028B29DEFA7322540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

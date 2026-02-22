@@ -1,0 +1,120 @@
+{
+  "createdAt": "2025-04-16T16:27:56.347Z",
+  "updatedAt": "2026-01-16T17:31:02.760Z",
+  "id": 5269,
+  "name": "Vizzone Optica",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "39ea8542-e218-4893-a441-10dcef7a00c9",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "queralesnarcelys@gmail.com",
+    "legalName": "Yoselyn",
+    "phoneNumber": "+584245697226"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-24T22:39:52.234Z",
+      "updatedAt": "2025-07-24T22:39:52.234Z",
+      "id": 17986,
+      "merchantId": 5269,
+      "name": "Vizzone Optica CC Sambil Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 553,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8192,
+      "address": {
+        "name": "CC Sambil Barquisimeto ",
+        "long": -69.2933125,
+        "lat": 10.071812499999993,
+        "location": "0101000020E610000083C0CAA1C55251C050E3A59BC4242440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2024-11-25T14:45:58.263Z",
+      "updatedAt": "2024-11-25T14:45:58.263Z",
+      "id": 7670,
+      "merchantId": 5269,
+      "name": "Vizzone Optica Carrera 19 Con Calle 29  CC Carolla Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 553,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8192,
+      "address": {
+        "name": "Vizzone Optica Carrera 19 Con Calle 29  CC Carolla Barquisimeto",
+        "long": -72.2181875,
+        "lat": 7.772937499999998,
+        "location": "0101000020E61000005839B4C8F60D52C0706891ED7C171F40",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

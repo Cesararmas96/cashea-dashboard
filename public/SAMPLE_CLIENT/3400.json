@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:07:04.969Z",
+  "id": "2945",
+  "amount": 134.99,
+  "invoiceId": "00001682",
+  "paidToMerchant": false,
+  "identifierNumber": 3400,
+  "billingDate": "2022-12-20T23:07:04.969Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26210114",
+      "fullName": "Areimar Paola Hurtado Martínez",
+      "phoneNumber": "+584143163404"
+    },
+    "installments": [
+      {
+        "id": "9718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:07:25.846Z",
+        "amount": 67.5,
+        "status": "DONE"
+      },
+      {
+        "id": "9721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:07:25.846Z",
+        "amount": 22.49666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:07:25.846Z",
+        "amount": 22.49666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:07:25.846Z",
+        "amount": 22.49666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

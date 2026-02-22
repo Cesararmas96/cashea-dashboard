@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:36:49.362Z",
+  "id": "4871",
+  "amount": 39.06,
+  "invoiceId": "9144",
+  "paidToMerchant": false,
+  "identifierNumber": 5140,
+  "billingDate": "2022-12-24T20:36:49.362Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28244268",
+      "fullName": "CARYELIS FABIOLA GARCIA MARCANO",
+      "phoneNumber": "+584120943620"
+    },
+    "installments": [
+      {
+        "id": "16690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:38:35.411Z",
+        "amount": 19.53,
+        "status": "DONE"
+      },
+      {
+        "id": "16691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:38:35.411Z",
+        "amount": 6.510000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:38:35.411Z",
+        "amount": 6.510000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:38:35.411Z",
+        "amount": 6.510000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

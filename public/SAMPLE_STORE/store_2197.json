@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1004,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J502504575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "internalBankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "account": "01910153312100041829",
+    "accountType": "Corriente",
+    "phoneNumber": "4241347164",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1002,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502504575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "internalBankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "account": "01910153312100041829",
+    "accountType": "Corriente",
+    "phoneNumber": "4241347164",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1003,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502504575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "internalBankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "account": "01910153312100041829",
+    "accountType": "Corriente",
+    "phoneNumber": "4241347164",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1005,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502504575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "internalBankHolder": "SERVICIOS Y MANTENIMIENTO SPACARS, C.A. ",
+    "account": "01910153382300028972",
+    "accountType": "Custodia",
+    "phoneNumber": "4241347164",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

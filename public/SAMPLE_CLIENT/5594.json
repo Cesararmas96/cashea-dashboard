@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T23:03:56.957Z",
+  "id": "5305",
+  "amount": 181.43,
+  "invoiceId": "00002330",
+  "paidToMerchant": false,
+  "identifierNumber": 5594,
+  "billingDate": "2022-12-27T23:03:56.957Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25510457",
+      "fullName": "KEVIN JOSE PAMAYA RINCON",
+      "phoneNumber": "+584242530572"
+    },
+    "installments": [
+      {
+        "id": "18218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T23:04:24.658Z",
+        "amount": 90.72,
+        "status": "DONE"
+      },
+      {
+        "id": "18219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T23:04:24.658Z",
+        "amount": 30.236666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T23:04:24.658Z",
+        "amount": 30.236666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T23:04:24.658Z",
+        "amount": 30.236666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

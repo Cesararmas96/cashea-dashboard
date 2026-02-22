@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-29T12:17:59.048Z",
+  "updatedAt": "2025-05-16T15:55:31.038Z",
+  "id": 5441,
+  "name": "Sunshine",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "44b00de7-fc3a-4897-96bb-158bda244e21",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "emilybang996@gmail.com",
+    "legalName": "Zui Ying",
+    "phoneNumber": "4243441301"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-29T12:20:06.820Z",
+      "updatedAt": "2025-04-29T12:20:06.820Z",
+      "id": 13403,
+      "merchantId": 5441,
+      "name": "Sunshine CC San Sebastian Aragua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7758,
+      "address": {
+        "name": "Avenida Pricipal de Coropo Cruce con Calle Ezequiel Zamora CC san Sebastián Local N 14 Santa Rita Estado Aragua",
+        "long": -67.5455625,
+        "lat": 10.207687499999992,
+        "location": "0101000020E610000023DBF97EEAE250C070931804566A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-18T13:23:21.728Z",
+      "updatedAt": "2025-06-18T13:23:21.728Z",
+      "id": 15868,
+      "merchantId": 5441,
+      "name": "VR_Sunshine",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7758,
+      "address": {
+        "name": "Avenida Pricipal de Coropo Cruce con Calle Ezequiel Zamora CC san Sebastián Local N 14 Santa Rita Estado Aragua",
+        "long": -67.5455625,
+        "lat": 10.207687499999992,
+        "location": "0101000020E610000023DBF97EEAE250C070931804566A2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T17:41:03.560Z",
+  "id": "3955",
+  "amount": 124,
+  "invoiceId": "0395",
+  "paidToMerchant": false,
+  "identifierNumber": 4383,
+  "billingDate": "2022-12-23T17:41:03.560Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-02-06T04:00:01.381+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "13333",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19581958",
+      "fullName": "VICTOR JOSE POSADA CORTEZ",
+      "phoneNumber": "+584241895879"
+    },
+    "installments": [
+      {
+        "id": "13333",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:41:15.871Z",
+        "amount": 20.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13330",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:41:15.871Z",
+        "amount": 62,
+        "status": "DONE"
+      },
+      {
+        "id": "13332",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:41:15.871Z",
+        "amount": 20.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13331",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:41:15.871Z",
+        "amount": 20.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

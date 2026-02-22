@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:48:09.725Z",
+  "id": "3735",
+  "amount": 126.36,
+  "invoiceId": "00002007",
+  "paidToMerchant": false,
+  "identifierNumber": 4143,
+  "billingDate": "2022-12-22T23:48:09.725Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14870770",
+      "fullName": "JOSE ANGEL FIGUEROA PULIDO",
+      "phoneNumber": "+584265442756"
+    },
+    "installments": [
+      {
+        "id": "12518",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:48:26.856Z",
+        "amount": 63.18,
+        "status": "DONE"
+      },
+      {
+        "id": "12519",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:48:26.856Z",
+        "amount": 21.06,
+        "status": "DONE"
+      },
+      {
+        "id": "12521",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:48:26.856Z",
+        "amount": 21.06,
+        "status": "DONE"
+      },
+      {
+        "id": "12520",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:48:26.856Z",
+        "amount": 21.06,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

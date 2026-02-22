@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-17T23:26:59.034Z",
+  "id": "10112",
+  "amount": 49.47,
+  "invoiceId": "8946",
+  "paidToMerchant": false,
+  "identifierNumber": 3336,
+  "billingDate": "2023-01-17T23:26:59.034Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-02-17T04:00:00.438+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "30272",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24462479",
+      "fullName": "MAYERLIN JOHANA ALVAREZ ZAMORA",
+      "phoneNumber": "+584120138517"
+    },
+    "installments": [
+      {
+        "id": "30273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T23:27:40.395Z",
+        "amount": 8.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "30272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T23:27:40.395Z",
+        "amount": 8.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "30271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T23:27:40.395Z",
+        "amount": 8.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "30270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T23:27:40.396Z",
+        "amount": 24.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:08:22.103Z",
+  "id": "2816",
+  "amount": 32.4,
+  "invoiceId": "14392",
+  "paidToMerchant": false,
+  "identifierNumber": 3292,
+  "billingDate": "2022-12-20T20:08:22.103Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21016107",
+      "fullName": "DUNIA ANDREA RAMOS GARCIA",
+      "phoneNumber": "+584143032862"
+    },
+    "installments": [
+      {
+        "id": "9270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:09:15.829Z",
+        "amount": 16.2,
+        "status": "DONE"
+      },
+      {
+        "id": "9273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:09:15.828Z",
+        "amount": 5.3999999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "9272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:09:15.828Z",
+        "amount": 5.3999999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "9271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:09:15.828Z",
+        "amount": 5.3999999999999995,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

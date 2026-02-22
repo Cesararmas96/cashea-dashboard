@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T00:08:43.418Z",
+  "id": "1156",
+  "amount": 140,
+  "invoiceId": "13945",
+  "paidToMerchant": false,
+  "identifierNumber": 1825,
+  "billingDate": "2022-12-11T00:08:43.418Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11604632",
+      "fullName": "GREYS LYLLEIRA PAEZ MARIN",
+      "phoneNumber": "+584127179226"
+    },
+    "installments": [
+      {
+        "id": "3682",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T00:09:07.632Z",
+        "amount": 70,
+        "status": "DONE"
+      },
+      {
+        "id": "3685",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T00:09:07.632Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3683",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T00:09:07.632Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3684",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T00:09:07.632Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

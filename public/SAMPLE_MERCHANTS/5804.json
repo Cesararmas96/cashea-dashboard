@@ -1,0 +1,152 @@
+{
+  "createdAt": "2025-05-15T21:13:59.909Z",
+  "updatedAt": "2025-08-14T15:32:14.897Z",
+  "id": 5804,
+  "name": "Todo Cars Multiservicio",
+  "ecommerceUrl": null,
+  "changePolicy": "El cliente debe poder visualizar claramente las fotos de los productos antes de comprar.",
+  "email": "todocarsmultiservicio@gmail.com",
+  "phoneNumber": "+584244233387",
+  "logoUrl": null,
+  "data": {
+    "rif": "J502390626"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "22ce6adb-8852-4c3e-88ed-fd0ca763df1a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "todocarsmultisevicio@gmail.com",
+    "legalName": "Diego Armando Rojas Montilla ",
+    "phoneNumber": "4244233387"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-12T13:56:59.843Z",
+      "updatedAt": "2025-08-14T15:33:50.890Z",
+      "id": 19015,
+      "merchantId": 5804,
+      "name": "Todo Cars Multiservicio Valencia Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7964,
+      "address": {
+        "name": "Todo Cars Multiservicio Sector los Taladros Val.",
+        "long": -67.9906875,
+        "lat": 10.1694375,
+        "location": "0101000020E610000096438B6C67FF50C0986E1283C0562440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T21:18:19.666Z",
+      "updatedAt": "2025-05-15T21:18:19.666Z",
+      "id": 14209,
+      "merchantId": 5804,
+      "name": "Todo Cars Multiservicio Sector los Taladros Val",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7964,
+      "address": {
+        "name": "Todo Cars Multiservicio Sector los Taladros Val.",
+        "long": -67.9906875,
+        "lat": 10.1694375,
+        "location": "0101000020E610000096438B6C67FF50C0986E1283C0562440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-29T18:15:43.150Z",
+      "updatedAt": "2025-05-29T18:15:43.150Z",
+      "id": 14950,
+      "merchantId": 5804,
+      "name": "VR_Todo Cars Multiservicio",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7964,
+      "address": {
+        "name": "Todo Cars Multiservicio Sector los Taladros Val.",
+        "long": -67.9906875,
+        "lat": 10.1694375,
+        "location": "0101000020E610000096438B6C67FF50C0986E1283C0562440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

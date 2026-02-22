@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:32:28.135Z",
+  "id": "1291",
+  "amount": 103.1,
+  "invoiceId": "17292",
+  "paidToMerchant": false,
+  "identifierNumber": 1830,
+  "billingDate": "2022-12-11T23:32:28.135Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19707437",
+      "fullName": "LUIS ANTONIO LAREZ MARCANO",
+      "phoneNumber": "+584147972650"
+    },
+    "installments": [
+      {
+        "id": "4154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:34:08.320Z",
+        "amount": 51.55,
+        "status": "DONE"
+      },
+      {
+        "id": "4155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:34:08.320Z",
+        "amount": 17.183333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:34:08.320Z",
+        "amount": 17.183333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:34:08.320Z",
+        "amount": 17.183333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:53:22.956Z",
+  "id": "5683",
+  "amount": 103,
+  "invoiceId": "0501",
+  "paidToMerchant": false,
+  "identifierNumber": 5987,
+  "billingDate": "2022-12-28T23:53:22.956Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17438391",
+      "fullName": "CRISTINA NAZARETH CORONA NIETO",
+      "phoneNumber": "+584241744553"
+    },
+    "installments": [
+      {
+        "id": "19566",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:53:41.786Z",
+        "amount": 51.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19569",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:53:41.786Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19568",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:53:41.786Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19567",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:53:41.786Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

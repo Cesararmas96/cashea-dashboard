@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-18T00:10:40.248Z",
+  "id": "2136",
+  "amount": 64.9948,
+  "invoiceId": "10550",
+  "paidToMerchant": false,
+  "identifierNumber": 1062,
+  "billingDate": "2022-12-18T00:10:40.248Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19455697",
+      "fullName": "EDUARD ALBEDIS VARGAS VARGAS",
+      "phoneNumber": "+584125644171"
+    },
+    "installments": [
+      {
+        "id": "6969",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:10:40.285Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "6968",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:10:40.285Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "6967",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:10:40.285Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "6966",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:10:40.285Z",
+        "amount": 32.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 56,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

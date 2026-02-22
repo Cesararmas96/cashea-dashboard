@@ -1,0 +1,110 @@
+[
+  {
+    "id": 9198,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J317543203",
+    "bankName": "Banesco",
+    "bankHolder": "LONDON SHOP, C.A",
+    "internalBankHolder": "LONDON SHOP, C.A",
+    "account": "01340411914111077324",
+    "accountType": "Corriente",
+    "phoneNumber": "4128032248",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 9196,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J317543203",
+    "bankName": "Banesco",
+    "bankHolder": "LONDON SHOP, C.A",
+    "internalBankHolder": "LONDON SHOP, C.A",
+    "account": "01340411914111077324",
+    "accountType": "Corriente",
+    "phoneNumber": "4128032248",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 9197,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J317543203",
+    "bankName": "Banesco",
+    "bankHolder": "LONDON SHOP, C.A",
+    "internalBankHolder": "LONDON SHOP, C.A",
+    "account": "01340411914111077324",
+    "accountType": "Corriente",
+    "phoneNumber": "4128032248",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

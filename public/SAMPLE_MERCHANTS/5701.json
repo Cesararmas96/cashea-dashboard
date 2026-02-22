@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-12T14:31:56.579Z",
+  "updatedAt": "2025-05-23T02:59:49.222Z",
+  "id": 5701,
+  "name": "Centro Clínico La Isabelica",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "54766a00-5f6f-4b43-b19e-c8f58743224a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ccitesoreria@gmail.com",
+    "legalName": "BORIS",
+    "phoneNumber": "04244216816"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T14:36:25.891Z",
+      "updatedAt": "2025-05-12T14:36:25.891Z",
+      "id": 13962,
+      "merchantId": 5701,
+      "name": "Centro Clínico La Isabelica Av 02",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3999,
+      "address": {
+        "name": "AV 02 ESTE OESTE URB LA ISABELICA VALENCIA ESTADO CARABOBO",
+        "long": -67.9724375,
+        "lat": 10.163312500000004,
+        "location": "0101000020E6100000DBF97E6A3CFE50C0580E2DB29D532440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-17T13:43:38.190Z",
+      "updatedAt": "2025-06-17T13:43:38.190Z",
+      "id": 15765,
+      "merchantId": 5701,
+      "name": "VR_Centro Clínico La Isabelica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3999,
+      "address": {
+        "name": "AV 02 ESTE OESTE URB LA ISABELICA VALENCIA ESTADO CARABOBO",
+        "long": -67.9724375,
+        "lat": 10.163312500000004,
+        "location": "0101000020E6100000DBF97E6A3CFE50C0580E2DB29D532440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

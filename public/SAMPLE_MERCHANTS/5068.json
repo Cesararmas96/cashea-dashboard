@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-04T19:37:13.608Z",
+  "updatedAt": "2025-05-26T14:58:04.545Z",
+  "id": 5068,
+  "name": "HOMEDICA 24/7",
+  "ecommerceUrl": null,
+  "changePolicy": "No realizamos cambios ni devoluciones de dinero",
+  "email": "info.homedica247@gmail.com",
+  "phoneNumber": "+584123966011",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e646c804-7200-4024-9005-d87d79e8bef5",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "info.homedica247@gmail.com",
+    "legalName": "LORETT HOMSI",
+    "phoneNumber": "4248905015"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T19:39:33.097Z",
+      "updatedAt": "2025-04-04T19:39:33.097Z",
+      "id": 12645,
+      "merchantId": 5068,
+      "name": "HOMEDICA 24/7 Barcelona",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5642,
+      "address": {
+        "name": "via alterna n223 sector barrio sucre barcelona anzoategui",
+        "long": -64.67500000000001,
+        "lat": 9.975000000000001,
+        "location": "0101000020E610000034333333332B50C03433333333F32340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-22T15:09:52.750Z",
+      "updatedAt": "2025-05-22T15:09:52.750Z",
+      "id": 14514,
+      "merchantId": 5068,
+      "name": "VR_HOMEDICA 24/7",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5642,
+      "address": {
+        "name": "via alterna n223 sector barrio sucre barcelona anzoategui",
+        "long": -64.67500000000001,
+        "lat": 9.975000000000001,
+        "location": "0101000020E610000034333333332B50C03433333333F32340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-19T21:20:57.891Z",
+      "updatedAt": "2025-05-26T14:57:56.533Z",
+      "id": 14339,
+      "merchantId": 5068,
+      "name": "HOMEDICA 24/7 Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5642,
+      "address": {
+        "name": "via alterna n223 sector barrio sucre barcelona anzoategui",
+        "long": -64.67500000000001,
+        "lat": 9.975000000000001,
+        "location": "0101000020E610000034333333332B50C03433333333F32340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

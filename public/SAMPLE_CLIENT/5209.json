@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T21:01:23.050Z",
+  "id": "5950",
+  "amount": 106.07,
+  "invoiceId": "650",
+  "paidToMerchant": false,
+  "identifierNumber": 5209,
+  "billingDate": "2022-12-29T21:01:23.050Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-15T04:00:00.994+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "20527",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19873433",
+      "fullName": "FREDDY ALEXANDER FRANQUIZ MONASTERIOS",
+      "phoneNumber": "+584241080338"
+    },
+    "installments": [
+      {
+        "id": "20529",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T21:01:55.956Z",
+        "amount": 17.679999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "20526",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T21:01:55.956Z",
+        "amount": 53.03,
+        "status": "DONE"
+      },
+      {
+        "id": "20528",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T21:01:55.956Z",
+        "amount": 17.679999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "20527",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T21:01:55.956Z",
+        "amount": 17.679999999999996,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

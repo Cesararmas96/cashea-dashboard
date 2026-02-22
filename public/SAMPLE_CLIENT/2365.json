@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T00:45:01.835Z",
+  "id": "3023",
+  "amount": 124.56,
+  "invoiceId": "50229",
+  "paidToMerchant": false,
+  "identifierNumber": 2365,
+  "billingDate": "2022-12-21T00:45:01.835Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-06T04:00:00.642+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "9991",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24314739",
+      "fullName": "DHAVIDSON XAVIER VALENCIA MORILLO",
+      "phoneNumber": "+584123667125"
+    },
+    "installments": [
+      {
+        "id": "9990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:45:23.832Z",
+        "amount": 62.28,
+        "status": "DONE"
+      },
+      {
+        "id": "9992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:45:23.831Z",
+        "amount": 20.76,
+        "status": "DONE"
+      },
+      {
+        "id": "9991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:45:23.831Z",
+        "amount": 20.76,
+        "status": "DONE"
+      },
+      {
+        "id": "9993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:45:23.831Z",
+        "amount": 20.76,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

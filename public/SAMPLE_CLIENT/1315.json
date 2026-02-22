@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-28T16:54:04.506Z",
+  "id": "206",
+  "amount": 100,
+  "invoiceId": "0001",
+  "paidToMerchant": false,
+  "identifierNumber": 1315,
+  "billingDate": "2022-10-28T16:54:04.506Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11032757",
+      "fullName": "JUAN FREDDY FERNANDEZ DA SILVA",
+      "phoneNumber": "+584269213594"
+    },
+    "installments": [
+      {
+        "id": "629",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-28T16:54:42.858Z",
+        "amount": 50,
+        "status": "DONE"
+      },
+      {
+        "id": "632",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-09T16:54:42.857Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "631",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-25T16:54:42.857Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "630",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-11T16:54:42.857Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 10,
+    "name": "Universidad Monteavila"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

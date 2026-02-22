@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-09T20:11:17.078Z",
+  "updatedAt": "2025-04-14T14:53:36.427Z",
+  "id": 5154,
+  "name": "En3cajas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "262dcbde-43b9-42aa-ac3b-a47da4ac684d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "andredemey@gmail.com",
+    "legalName": "Andreina Demey",
+    "phoneNumber": "04244142082"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-09T20:13:07.631Z",
+      "updatedAt": "2025-04-09T20:13:07.631Z",
+      "id": 12781,
+      "merchantId": 5154,
+      "name": "En3cajas Periferico",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4935,
+      "address": {
+        "name": "Entrecajas Periferico.",
+        "long": -68.00881249999999,
+        "lat": 10.169812500000006,
+        "location": "0101000020E6100000F1D24D62900051C070E7FBA9F1562440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T17:46:28.852Z",
+  "id": "3123",
+  "amount": 65.6,
+  "invoiceId": "13916",
+  "paidToMerchant": false,
+  "identifierNumber": 4126,
+  "billingDate": "2022-12-21T17:46:28.852Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18676738",
+      "fullName": "MARIA ALEJANDRA VERA VILLARREAL",
+      "phoneNumber": "+584261883716"
+    },
+    "installments": [
+      {
+        "id": "10318",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T17:49:08.153Z",
+        "amount": 32.8,
+        "status": "DONE"
+      },
+      {
+        "id": "10319",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T17:49:08.152Z",
+        "amount": 10.933333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10321",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T17:49:08.152Z",
+        "amount": 10.933333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10320",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T17:49:08.152Z",
+        "amount": 10.933333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

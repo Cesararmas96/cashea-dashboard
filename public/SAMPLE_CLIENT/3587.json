@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T19:47:18.950Z",
+  "id": "3156",
+  "amount": 148.3,
+  "invoiceId": "00018170",
+  "paidToMerchant": false,
+  "identifierNumber": 3587,
+  "billingDate": "2022-12-21T19:47:18.950Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11670192",
+      "fullName": "ARELYS COROMOTO VIELMA MONTILLA",
+      "phoneNumber": "+584143290368"
+    },
+    "installments": [
+      {
+        "id": "10442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T19:47:37.186Z",
+        "amount": 74.15,
+        "status": "DONE"
+      },
+      {
+        "id": "10444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T19:47:37.186Z",
+        "amount": 24.71666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T19:47:37.186Z",
+        "amount": 24.71666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T19:47:37.186Z",
+        "amount": 24.71666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

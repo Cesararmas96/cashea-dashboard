@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:21:40.623Z",
+  "id": "5557",
+  "amount": 55,
+  "invoiceId": "000386",
+  "paidToMerchant": false,
+  "identifierNumber": 5849,
+  "billingDate": "2022-12-28T21:21:40.623Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6128156",
+      "fullName": "INGRID NOEMI MATA",
+      "phoneNumber": "+584242128906"
+    },
+    "installments": [
+      {
+        "id": "19094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:22:01.999Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:22:01.999Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "19095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:22:01.999Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "19097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:22:01.999Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 68,
+    "name": "ProPlayer Sambil - Nivel Libertador"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

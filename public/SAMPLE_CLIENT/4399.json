@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:12:51.953Z",
+  "id": "3976",
+  "amount": 49.34,
+  "invoiceId": "44869",
+  "paidToMerchant": false,
+  "identifierNumber": 4399,
+  "billingDate": "2022-12-23T18:12:51.953Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12957949",
+      "fullName": "EDIXON ALEXANDER TORREALBA VALLE",
+      "phoneNumber": "+584149005632"
+    },
+    "installments": [
+      {
+        "id": "13402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:13:22.219Z",
+        "amount": 24.67,
+        "status": "DONE"
+      },
+      {
+        "id": "13405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:13:22.219Z",
+        "amount": 8.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:13:22.219Z",
+        "amount": 8.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:13:22.219Z",
+        "amount": 8.223333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

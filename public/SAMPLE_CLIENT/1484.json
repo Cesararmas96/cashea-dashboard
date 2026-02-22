@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T20:59:29.623Z",
+  "id": "731",
+  "amount": 61.8,
+  "invoiceId": "784120",
+  "paidToMerchant": false,
+  "identifierNumber": 1484,
+  "billingDate": "2022-12-05T20:59:29.623Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14915689",
+      "fullName": "LETICIA CAROLINA JIMENEZ GONZALEZ",
+      "phoneNumber": "+584125003262"
+    },
+    "installments": [
+      {
+        "id": "2374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T21:00:49.786Z",
+        "amount": 30.9,
+        "status": "DONE"
+      },
+      {
+        "id": "2376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T21:00:49.786Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "2375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T21:00:49.786Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "2377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T21:00:49.786Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T19:12:35.600Z",
+  "id": "988",
+  "amount": 57.68,
+  "invoiceId": "3554",
+  "paidToMerchant": false,
+  "identifierNumber": 1641,
+  "billingDate": "2022-12-09T19:12:35.600Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24275592",
+      "fullName": "TONY JAVIER LEDEZMA REYES",
+      "phoneNumber": "+584241586924"
+    },
+    "installments": [
+      {
+        "id": "3129",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T19:21:04.799Z",
+        "amount": 9.613333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3128",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T19:21:04.799Z",
+        "amount": 9.613333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3127",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T19:21:04.799Z",
+        "amount": 9.613333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3126",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T19:21:04.800Z",
+        "amount": 28.84,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 58,
+    "name": "Opera Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

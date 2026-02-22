@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:35:21.477Z",
+  "id": "4105",
+  "amount": 79.19,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4507,
+  "billingDate": "2022-12-23T20:35:21.477Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20221438",
+      "fullName": "LILIBETH AVILA MORILLO",
+      "phoneNumber": "+584142362031"
+    },
+    "installments": [
+      {
+        "id": "13881",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:36:11.599Z",
+        "amount": 13.199999999999998,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13880",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:36:11.599Z",
+        "amount": 13.199999999999998,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13879",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:36:11.599Z",
+        "amount": 13.199999999999998,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13878",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:36:11.599Z",
+        "amount": 39.59,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

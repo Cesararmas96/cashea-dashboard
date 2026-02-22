@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:29:31.489Z",
+  "id": "3988",
+  "amount": 80.97,
+  "invoiceId": "14636",
+  "paidToMerchant": false,
+  "identifierNumber": 4426,
+  "billingDate": "2022-12-23T18:29:31.489Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17720295",
+      "fullName": "LISBETH YOSELIN COLMENARES PEREZ",
+      "phoneNumber": "+584241389668"
+    },
+    "installments": [
+      {
+        "id": "13454",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:31:33.786Z",
+        "amount": 40.48,
+        "status": "DONE"
+      },
+      {
+        "id": "13457",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:31:33.786Z",
+        "amount": 13.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13456",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:31:33.786Z",
+        "amount": 13.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13455",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:31:33.786Z",
+        "amount": 13.496666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

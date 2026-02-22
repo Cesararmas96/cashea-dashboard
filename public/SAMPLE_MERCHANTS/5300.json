@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-20T19:06:06.660Z",
+  "updatedAt": "2025-04-20T19:06:06.660Z",
+  "id": 5300,
+  "name": "Visionlook",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "82e5b3d6-5525-4718-b380-8da97e55918e",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "visionlookvenezuela@gmail.com",
+    "legalName": "Jesus Rodriguez",
+    "phoneNumber": "04124485099"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-05T15:29:36.142Z",
+      "updatedAt": "2025-03-05T15:29:36.142Z",
+      "id": 11307,
+      "merchantId": 5300,
+      "name": "Visionlook CC Llano Mall Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8175,
+      "address": {
+        "name": "Visionlook CC Llano Mall Acarigua",
+        "long": -69.1976875,
+        "lat": 9.572312499999995,
+        "location": "0101000020E6100000FED478E9A64C51C0182FDD2406252340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

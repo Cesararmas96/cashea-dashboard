@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:45:00.739Z",
+  "id": "5571",
+  "amount": 104.85,
+  "invoiceId": "14613",
+  "paidToMerchant": false,
+  "identifierNumber": 5853,
+  "billingDate": "2022-12-28T21:45:00.739Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26731420",
+      "fullName": "MERY VALENTINA MONTALVO URDANETA",
+      "phoneNumber": "+584149104694"
+    },
+    "installments": [
+      {
+        "id": "19148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:45:49.946Z",
+        "amount": 17.476666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "19146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:45:49.946Z",
+        "amount": 52.42,
+        "status": "DONE"
+      },
+      {
+        "id": "19149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:45:49.946Z",
+        "amount": 17.476666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "19147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:45:49.946Z",
+        "amount": 17.476666666666663,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

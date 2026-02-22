@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T19:32:45.800Z",
+  "id": "1560",
+  "amount": 113,
+  "invoiceId": "10488",
+  "paidToMerchant": false,
+  "identifierNumber": 1878,
+  "billingDate": "2022-12-15T19:32:45.800Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28015372",
+      "fullName": "BRAYAN ALEXANDER MORENO GONCALVES",
+      "phoneNumber": "+584129170052"
+    },
+    "installments": [
+      {
+        "id": "5045",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T19:33:06.656Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5044",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T19:33:06.656Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5043",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T19:33:06.656Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5042",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T19:33:06.656Z",
+        "amount": 63,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

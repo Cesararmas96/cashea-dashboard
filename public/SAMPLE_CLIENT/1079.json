@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T21:49:51.626Z",
+  "id": "433",
+  "amount": 348,
+  "invoiceId": "10180",
+  "paidToMerchant": false,
+  "identifierNumber": 1079,
+  "billingDate": "2022-11-19T21:49:51.626Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24208882",
+      "fullName": "RICARDO ANGEL CERVANTES MOVILLA",
+      "phoneNumber": "+584126113045"
+    },
+    "installments": [
+      {
+        "id": "1337",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T21:50:36.564Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1334",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T21:50:36.564Z",
+        "amount": 248,
+        "status": "DONE"
+      },
+      {
+        "id": "1336",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T21:50:36.564Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1335",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T21:50:36.564Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

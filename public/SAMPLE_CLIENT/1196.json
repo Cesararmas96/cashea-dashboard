@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T20:39:40.370Z",
+  "id": "1577",
+  "amount": 45.5,
+  "invoiceId": "3091",
+  "paidToMerchant": false,
+  "identifierNumber": 1196,
+  "billingDate": "2022-12-15T20:39:40.370Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27686234",
+      "fullName": "MICHELL CAROLINA PALACIOS QUILIMACO",
+      "phoneNumber": "+584149158431"
+    },
+    "installments": [
+      {
+        "id": "5097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T20:40:41.927Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T20:40:41.927Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T20:40:41.927Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T20:40:41.928Z",
+        "amount": 22.75,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

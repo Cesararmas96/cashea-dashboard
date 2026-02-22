@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T00:24:03.749Z",
+  "id": "1511",
+  "amount": 97.47,
+  "invoiceId": "14237",
+  "paidToMerchant": false,
+  "identifierNumber": 2103,
+  "billingDate": "2022-12-15T00:24:03.749Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25236678",
+      "fullName": "ORIANA ANDREINA VARGAS CASTELLANO",
+      "phoneNumber": "+584121319130"
+    },
+    "installments": [
+      {
+        "id": "4893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T00:24:45.348Z",
+        "amount": 16.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T00:24:45.348Z",
+        "amount": 16.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T00:24:45.348Z",
+        "amount": 16.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T00:24:45.348Z",
+        "amount": 48.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

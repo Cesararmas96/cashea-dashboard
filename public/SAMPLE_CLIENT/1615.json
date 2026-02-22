@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-08T22:03:29.520Z",
+  "id": "940",
+  "amount": 84.98,
+  "invoiceId": "13842",
+  "paidToMerchant": false,
+  "identifierNumber": 1615,
+  "billingDate": "2022-12-08T22:03:29.520Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22020235",
+      "fullName": "JOSMER JOSE PERNIA LEON",
+      "phoneNumber": "+584125550473"
+    },
+    "installments": [
+      {
+        "id": "2977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-19T22:12:11.497Z",
+        "amount": 14.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-22T22:12:11.497Z",
+        "amount": 14.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-05T22:12:11.497Z",
+        "amount": 14.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-08T22:12:11.498Z",
+        "amount": 42.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

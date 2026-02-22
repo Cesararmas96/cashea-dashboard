@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T18:41:07.685Z",
+  "id": "8554",
+  "amount": 60,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3457,
+  "billingDate": "2023-01-16T18:41:07.685Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27127397",
+      "fullName": "MANUEL ANTONIO BRITO YANEZ",
+      "phoneNumber": "+584129504464"
+    },
+    "installments": [
+      {
+        "id": "29857",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T18:41:28.156Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "29854",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T18:41:28.157Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "29855",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T18:41:28.156Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "29856",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T18:41:28.156Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

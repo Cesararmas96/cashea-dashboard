@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-30T23:29:09.407Z",
+  "id": "11551",
+  "amount": 41.49,
+  "invoiceId": "16153",
+  "paidToMerchant": false,
+  "identifierNumber": 4000,
+  "billingDate": "2023-01-30T23:29:09.407Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-03-16T04:00:00.372+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "35429",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27913569",
+      "fullName": "LIZ PAOLA DANIEL ORTUNO",
+      "phoneNumber": "+584261872947"
+    },
+    "installments": [
+      {
+        "id": "35429",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T23:29:37.334Z",
+        "amount": 6.913333333333334,
+        "status": "DELAYED"
+      },
+      {
+        "id": "35427",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T23:29:37.334Z",
+        "amount": 6.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35428",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T23:29:37.334Z",
+        "amount": 6.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35426",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T23:29:37.335Z",
+        "amount": 20.75,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

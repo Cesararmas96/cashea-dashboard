@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:26:46.091Z",
+  "id": "1216",
+  "amount": 56.33,
+  "invoiceId": "62608",
+  "paidToMerchant": false,
+  "identifierNumber": 1874,
+  "billingDate": "2022-12-11T20:26:46.091Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11564476",
+      "fullName": "JAVIER ANTONIO MARIN CASTANEDA",
+      "phoneNumber": "+584123136587"
+    },
+    "installments": [
+      {
+        "id": "3893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:27:10.173Z",
+        "amount": 9.389999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "3891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:27:10.173Z",
+        "amount": 9.389999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "3892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:27:10.173Z",
+        "amount": 9.389999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "3890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:27:10.174Z",
+        "amount": 28.16,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

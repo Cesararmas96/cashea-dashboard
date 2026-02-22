@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-17T21:45:32.682Z",
+  "id": "410",
+  "amount": 52,
+  "invoiceId": "6685",
+  "paidToMerchant": false,
+  "identifierNumber": 1046,
+  "billingDate": "2022-11-17T21:45:32.682Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-01-01T04:00:00.126+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "1261",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17498245",
+      "fullName": "RAMON IGNACIO LANGE FERNANDEZ DE CALEYA",
+      "phoneNumber": "+525584447002"
+    },
+    "installments": [
+      {
+        "id": "1260",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-15T21:45:53.493Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1259",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-01T21:45:53.493Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1261",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-29T21:45:53.493Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1258",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-17T21:45:53.494Z",
+        "amount": 26,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

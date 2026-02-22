@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T23:52:06.580Z",
+  "id": "2653",
+  "amount": 140.64,
+  "invoiceId": "8646",
+  "paidToMerchant": false,
+  "identifierNumber": 3128,
+  "billingDate": "2022-12-19T23:52:06.580Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-02-02T04:00:00.465+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "8725",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10116999",
+      "fullName": "AMANDA INES DE LA SANTISIMA HERRERA URRIOLA",
+      "phoneNumber": "+584241948614"
+    },
+    "installments": [
+      {
+        "id": "8725",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:55:46.197Z",
+        "amount": 23.439999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "8722",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:55:46.198Z",
+        "amount": 70.32,
+        "status": "DONE"
+      },
+      {
+        "id": "8723",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:55:46.197Z",
+        "amount": 23.439999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "8724",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:55:46.197Z",
+        "amount": 23.439999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

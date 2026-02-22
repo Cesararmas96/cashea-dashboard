@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T17:15:58.601Z",
+  "id": "3114",
+  "amount": 55.2,
+  "invoiceId": "13636",
+  "paidToMerchant": false,
+  "identifierNumber": 3577,
+  "billingDate": "2022-12-21T17:15:58.601Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21445247",
+      "fullName": "YOSELYN MAITHE TOVAR RASMAN",
+      "phoneNumber": "+584145638140"
+    },
+    "installments": [
+      {
+        "id": "10298",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T17:22:36.457Z",
+        "amount": 27.6,
+        "status": "DONE"
+      },
+      {
+        "id": "10301",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T17:22:36.456Z",
+        "amount": 9.200000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "10299",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T17:22:36.456Z",
+        "amount": 9.200000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "10300",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T17:22:36.456Z",
+        "amount": 9.200000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

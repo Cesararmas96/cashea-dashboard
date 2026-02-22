@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-14T21:44:16.826Z",
+  "id": "1470",
+  "amount": 195.7,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2085,
+  "billingDate": "2022-12-14T21:44:16.826Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 63,
+    "name": "Timberland CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

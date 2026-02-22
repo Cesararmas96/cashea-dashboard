@@ -1,0 +1,178 @@
+{
+  "createdAt": "2025-04-17T12:35:37.459Z",
+  "updatedAt": "2025-05-06T14:55:22.877Z",
+  "id": 5278,
+  "name": "Faxiones",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 711,
+  "tags": [],
+  "uuid": "41cae367-04e6-4a71-8c7c-a8cdca397fef",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "faxionesstudio@gmail.com",
+    "legalName": "Michel",
+    "phoneNumber": "584149836114"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-17T12:39:07.246Z",
+      "updatedAt": "2025-04-17T12:39:07.246Z",
+      "id": 13063,
+      "merchantId": 5278,
+      "name": "Faxiones CC AB Isla de Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 711,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6772,
+      "address": {
+        "name": "Faxiones CC AB Isla de Margarita",
+        "long": -63.817562499999994,
+        "lat": 10.987062499999993,
+        "location": "0101000020E6100000CEF753E3A5E84FC04837894160F92540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-17T12:51:56.247Z",
+      "updatedAt": "2025-04-17T12:51:56.247Z",
+      "id": 13065,
+      "merchantId": 5278,
+      "name": "Faxiones CC Roxy Center  Isla de Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 711,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6772,
+      "address": {
+        "name": "Faxiones CC Roxy Center Juan Griego Margarita",
+        "long": -63.970937500000005,
+        "lat": 11.081312499999996,
+        "location": "0101000020E6100000E27A14AE47FC4FC01083C0CAA1292640",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-03T21:03:46.882Z",
+      "updatedAt": "2025-06-03T21:03:46.882Z",
+      "id": 15165,
+      "merchantId": 5278,
+      "name": "VR_Faxiones CC AB",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 711,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6772,
+      "address": {
+        "name": "Faxiones CC AB Isla de Margarita",
+        "long": -63.817562499999994,
+        "lat": 10.987062499999993,
+        "location": "0101000020E6100000CEF753E3A5E84FC04837894160F92540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-03T21:11:39.129Z",
+      "updatedAt": "2025-06-03T21:11:39.129Z",
+      "id": 15168,
+      "merchantId": 5278,
+      "name": "VR_Faxiones",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 711,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6772,
+      "address": {
+        "name": "Faxiones CC Roxy Center Juan Griego Margarita",
+        "long": -63.970937500000005,
+        "lat": 11.081312499999996,
+        "location": "0101000020E6100000E27A14AE47FC4FC01083C0CAA1292640",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

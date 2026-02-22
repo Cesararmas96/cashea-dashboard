@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T23:18:00.945Z",
+  "id": "2106",
+  "amount": 77.98,
+  "invoiceId": "6392",
+  "paidToMerchant": false,
+  "identifierNumber": 2650,
+  "billingDate": "2022-12-17T23:18:00.945Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22908547",
+      "fullName": "VIVIANA SOFIA HIDALGO",
+      "phoneNumber": "+584241813909"
+    },
+    "installments": [
+      {
+        "id": "6858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T23:19:14.653Z",
+        "amount": 38.99,
+        "status": "DONE"
+      },
+      {
+        "id": "6861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T23:19:14.653Z",
+        "amount": 12.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "6859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T23:19:14.653Z",
+        "amount": 12.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "6860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T23:19:14.653Z",
+        "amount": 12.996666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

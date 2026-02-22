@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T14:32:41.745Z",
+  "id": "4983",
+  "amount": 38,
+  "invoiceId": "10694",
+  "paidToMerchant": false,
+  "identifierNumber": 5201,
+  "billingDate": "2022-12-26T14:32:41.745Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20211988",
+      "fullName": "ROBERT MOISES CORRALES MALDONADO",
+      "phoneNumber": "+584126042972"
+    },
+    "installments": [
+      {
+        "id": "17090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T14:33:14.081Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "17093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T14:33:14.080Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T14:33:14.080Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T14:33:14.080Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

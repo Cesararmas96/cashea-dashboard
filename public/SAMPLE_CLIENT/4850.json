@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T02:41:28.478Z",
+  "id": "4513",
+  "amount": 59.91,
+  "invoiceId": "1092",
+  "paidToMerchant": false,
+  "identifierNumber": 4850,
+  "billingDate": "2022-12-24T02:41:28.478Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22393057",
+      "fullName": "GENESIS ANAIS HERNANDEZ NUÑEZ",
+      "phoneNumber": "+584241632416"
+    },
+    "installments": [
+      {
+        "id": "15390",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T02:44:01.847Z",
+        "amount": 29.95,
+        "status": "DONE"
+      },
+      {
+        "id": "15393",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T02:44:01.847Z",
+        "amount": 9.986666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15392",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T02:44:01.847Z",
+        "amount": 9.986666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15391",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T02:44:01.847Z",
+        "amount": 9.986666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-03-28T13:55:49.446Z",
+  "updatedAt": "2025-03-28T13:55:49.446Z",
+  "id": 4896,
+  "name": "Multitienda Bello Hogar",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e9095e50-b37b-42fb-ba63-3ce8fa1a8d40",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "basselezzi@gmail.com",
+    "legalName": "Bassel Ezzi Ezzi",
+    "phoneNumber": "4124269835"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T19:53:45.803Z",
+      "updatedAt": "2025-03-28T19:53:45.803Z",
+      "id": 12349,
+      "merchantId": 4896,
+      "name": "Multitienda Bello Hogar Av Las Flores",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6908,
+      "address": {
+        "name": "Av Las Flores, esquina con calle Piar. Sector centro, municipio Sucre, parroquia Sabana de Mendoza. Estado Trujillo",
+        "long": -70.77331249999999,
+        "lat": 9.434937500000004,
+        "location": "0101000020E6100000A145B6F37DB151C0A89BC420B0DE2240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

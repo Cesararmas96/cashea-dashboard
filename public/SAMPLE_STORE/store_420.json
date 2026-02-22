@@ -1,0 +1,128 @@
+[
+  {
+    "id": 284,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J408737507",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAPITIENDAS CA",
+    "internalBankHolder": "CAPITIENDAS CA",
+    "account": "01910171192100055469",
+    "accountType": "Corriente",
+    "phoneNumber": "4143248707",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 282,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J408737507",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAPITIENDAS CA",
+    "internalBankHolder": "CAPITIENDAS CA",
+    "account": "01910171192100055469",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 283,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J408737507",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAPITIENDAS CA",
+    "internalBankHolder": "CAPITIENDAS CA",
+    "account": "01910171192100055469",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 285,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J408737507",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAPITIENDAS CA",
+    "internalBankHolder": "CAPITIENDAS CA",
+    "account": "01910171142300005953",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

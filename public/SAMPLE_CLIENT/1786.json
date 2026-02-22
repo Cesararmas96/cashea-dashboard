@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T21:39:11.596Z",
+  "id": "11632",
+  "amount": 44.9,
+  "invoiceId": "15583",
+  "paidToMerchant": false,
+  "identifierNumber": 1786,
+  "billingDate": "2023-01-31T21:39:11.596Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25286076",
+      "fullName": "KEVYNN JOSE URBINA ROSAL",
+      "phoneNumber": "+584128429874"
+    },
+    "installments": [
+      {
+        "id": "35721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T21:40:30.764Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T21:40:30.764Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T21:40:30.764Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T21:40:30.765Z",
+        "amount": 22.45,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

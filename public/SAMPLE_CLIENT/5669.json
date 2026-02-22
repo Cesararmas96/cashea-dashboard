@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T23:52:35.974Z",
+  "id": "5327",
+  "amount": 210.69,
+  "invoiceId": "14541",
+  "paidToMerchant": false,
+  "identifierNumber": 5669,
+  "billingDate": "2022-12-27T23:52:35.974Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12384284",
+      "fullName": "OSCAR RAMILO TRONCOSO",
+      "phoneNumber": "+584141254450"
+    },
+    "installments": [
+      {
+        "id": "18290",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T23:54:08.204Z",
+        "amount": 105.34,
+        "status": "DONE"
+      },
+      {
+        "id": "18293",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T23:54:08.203Z",
+        "amount": 35.11666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18292",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T23:54:08.203Z",
+        "amount": 35.11666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18291",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T23:54:08.203Z",
+        "amount": 35.11666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

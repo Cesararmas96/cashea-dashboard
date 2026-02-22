@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:01:37.398Z",
+  "id": "3753",
+  "amount": 30.1,
+  "invoiceId": "12851",
+  "paidToMerchant": false,
+  "identifierNumber": 4133,
+  "billingDate": "2022-12-23T00:01:37.398Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30665507",
+      "fullName": "YRMARY NOELITH CASTILLO MARTINEZ",
+      "phoneNumber": "+584122941291"
+    },
+    "installments": [
+      {
+        "id": "12594",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:01:49.100Z",
+        "amount": 15.05,
+        "status": "DONE"
+      },
+      {
+        "id": "12596",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:01:49.100Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12597",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:01:49.100Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12595",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:01:49.100Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

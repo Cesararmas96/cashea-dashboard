@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T02:13:11.023Z",
+  "id": "3066",
+  "amount": 59.46,
+  "invoiceId": "50233",
+  "paidToMerchant": false,
+  "identifierNumber": 3481,
+  "billingDate": "2022-12-21T02:13:11.023Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29861784",
+      "fullName": "GABRIELA JUGIN ARNAUDEZ ALVARADO",
+      "phoneNumber": "+584127587146"
+    },
+    "installments": [
+      {
+        "id": "10149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T02:13:47.494Z",
+        "amount": 9.91,
+        "status": "DONE"
+      },
+      {
+        "id": "10146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T02:13:47.495Z",
+        "amount": 29.73,
+        "status": "DONE"
+      },
+      {
+        "id": "10147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T02:13:47.494Z",
+        "amount": 9.91,
+        "status": "DONE"
+      },
+      {
+        "id": "10148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T02:13:47.494Z",
+        "amount": 9.91,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

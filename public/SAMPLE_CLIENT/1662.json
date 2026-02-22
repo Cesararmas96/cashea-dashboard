@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T21:48:18.368Z",
+  "id": "1004",
+  "amount": 102,
+  "invoiceId": "10407",
+  "paidToMerchant": false,
+  "identifierNumber": 1662,
+  "billingDate": "2022-12-09T21:48:18.368Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26924456",
+      "fullName": "BEATRIZ MARIANA ADAMES SOLEDAD",
+      "phoneNumber": "+584241278228"
+    },
+    "installments": [
+      {
+        "id": "3184",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T21:49:05.968Z",
+        "amount": 17,
+        "status": "DONE"
+      },
+      {
+        "id": "3182",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T21:49:05.969Z",
+        "amount": 51,
+        "status": "DONE"
+      },
+      {
+        "id": "3185",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T21:49:05.968Z",
+        "amount": 17,
+        "status": "DONE"
+      },
+      {
+        "id": "3183",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T21:49:05.968Z",
+        "amount": 17,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

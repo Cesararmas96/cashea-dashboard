@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T21:24:12.759Z",
+  "id": "7212",
+  "amount": 30.8,
+  "invoiceId": "2832",
+  "paidToMerchant": false,
+  "identifierNumber": 4993,
+  "billingDate": "2023-01-02T21:24:12.759Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26747628",
+      "fullName": "ENIF ALTAIR VELASQUEZ RAMOS",
+      "phoneNumber": "+584122005139"
+    },
+    "installments": [
+      {
+        "id": "24990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T21:24:19.039Z",
+        "amount": 15.4,
+        "status": "DONE"
+      },
+      {
+        "id": "24993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T21:24:19.038Z",
+        "amount": 5.133333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "24992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T21:24:19.038Z",
+        "amount": 5.133333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "24991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T21:24:19.038Z",
+        "amount": 5.133333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 30,
+    "name": "Korotos Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

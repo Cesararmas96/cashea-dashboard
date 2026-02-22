@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T19:46:22.328Z",
+  "id": "2240",
+  "amount": 109.91,
+  "invoiceId": "48679",
+  "paidToMerchant": false,
+  "identifierNumber": 2756,
+  "billingDate": "2022-12-18T19:46:22.328Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27044393",
+      "fullName": "MARIA LUISA RODRIGUEZ VEGAS",
+      "phoneNumber": "+584124596759"
+    },
+    "installments": [
+      {
+        "id": "7337",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T19:46:50.459Z",
+        "amount": 10.496666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "7334",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T19:46:50.460Z",
+        "amount": 78.42,
+        "status": "DONE"
+      },
+      {
+        "id": "7335",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T19:46:50.459Z",
+        "amount": 10.496666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "7336",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T19:46:50.459Z",
+        "amount": 10.496666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

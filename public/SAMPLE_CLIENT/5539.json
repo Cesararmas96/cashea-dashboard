@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T19:50:43.096Z",
+  "id": "5244",
+  "amount": 56.83,
+  "invoiceId": "15281",
+  "paidToMerchant": false,
+  "identifierNumber": 5539,
+  "billingDate": "2022-12-27T19:50:43.096Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24459472",
+      "fullName": "TONY JOSE LASTRA PENA",
+      "phoneNumber": "+584263226655"
+    },
+    "installments": [
+      {
+        "id": "17982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T19:51:50.996Z",
+        "amount": 28.41,
+        "status": "DONE"
+      },
+      {
+        "id": "17985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T19:51:50.995Z",
+        "amount": 9.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T19:51:50.995Z",
+        "amount": 9.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T19:51:50.995Z",
+        "amount": 9.473333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

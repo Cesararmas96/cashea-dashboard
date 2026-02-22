@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:54:22.284Z",
+  "id": "5134",
+  "amount": 34.16,
+  "invoiceId": "7259",
+  "paidToMerchant": false,
+  "identifierNumber": 5441,
+  "billingDate": "2022-12-26T22:54:22.284Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "33527378",
+      "fullName": "FERNANDA MICHELL ESCALONA GOMEZ",
+      "phoneNumber": "+584120411165"
+    },
+    "installments": [
+      {
+        "id": "17593",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:55:33.908Z",
+        "amount": 5.6933333333333325,
+        "status": "DONE"
+      },
+      {
+        "id": "17590",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:55:33.908Z",
+        "amount": 17.08,
+        "status": "DONE"
+      },
+      {
+        "id": "17592",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:55:33.908Z",
+        "amount": 5.6933333333333325,
+        "status": "DONE"
+      },
+      {
+        "id": "17591",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:55:33.908Z",
+        "amount": 5.6933333333333325,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

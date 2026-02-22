@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:54:53.128Z",
+  "id": "4134",
+  "amount": 57.51,
+  "invoiceId": "1031",
+  "paidToMerchant": false,
+  "identifierNumber": 4521,
+  "billingDate": "2022-12-23T20:54:53.128Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15662693",
+      "fullName": "MICHEL ALEJANDRA GUILLEN GRIMAN",
+      "phoneNumber": "+584166137080"
+    },
+    "installments": [
+      {
+        "id": "13982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:55:08.579Z",
+        "amount": 28.75,
+        "status": "DONE"
+      },
+      {
+        "id": "13984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:55:08.579Z",
+        "amount": 9.586666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:55:08.579Z",
+        "amount": 9.586666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:55:08.579Z",
+        "amount": 9.586666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

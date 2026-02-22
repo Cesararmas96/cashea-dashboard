@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:36:26.670Z",
+  "id": "2797",
+  "amount": 50.8,
+  "invoiceId": "00001788",
+  "paidToMerchant": false,
+  "identifierNumber": 3232,
+  "billingDate": "2022-12-20T19:36:26.670Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24553754",
+      "fullName": "ZAIDELIN YUBEIRI LOAIZA DUGARTE",
+      "phoneNumber": "+584127002904"
+    },
+    "installments": [
+      {
+        "id": "9218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:36:42.185Z",
+        "amount": 25.4,
+        "status": "DONE"
+      },
+      {
+        "id": "9221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:36:42.185Z",
+        "amount": 8.466666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:36:42.185Z",
+        "amount": 8.466666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:36:42.185Z",
+        "amount": 8.466666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

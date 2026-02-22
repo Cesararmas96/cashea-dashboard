@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:14:39.808Z",
+  "id": "4654",
+  "amount": 128.5,
+  "invoiceId": "13059",
+  "paidToMerchant": false,
+  "identifierNumber": 5011,
+  "billingDate": "2022-12-24T17:14:39.808Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6518256",
+      "fullName": "TITO JOSE DE GOUVEIA DA CORTE",
+      "phoneNumber": "+584142659127"
+    },
+    "installments": [
+      {
+        "id": "15900",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:14:47.752Z",
+        "amount": 21.416666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "15898",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:14:47.752Z",
+        "amount": 64.25,
+        "status": "DONE"
+      },
+      {
+        "id": "15901",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:14:47.752Z",
+        "amount": 21.416666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "15899",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:14:47.752Z",
+        "amount": 21.416666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

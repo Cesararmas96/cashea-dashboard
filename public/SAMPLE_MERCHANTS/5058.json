@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-04T17:48:02.626Z",
+  "updatedAt": "2025-04-09T20:20:51.855Z",
+  "id": 5058,
+  "name": "Clínica de Especialidades Shalom",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "35a77d78-4c86-45db-83ee-281c44d00713",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "dradanielaparedes@gmail.com",
+    "legalName": "María Daniela",
+    "phoneNumber": "04140478328"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T17:49:11.263Z",
+      "updatedAt": "2025-04-04T17:49:11.263Z",
+      "id": 12623,
+      "merchantId": 5058,
+      "name": "Clínica de Especialidades Shalom Cagua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4183,
+      "address": {
+        "name": "Calle Comercio CC El Palomar piso 1 Consultorio 3 Cagua Estado Aragua",
+        "long": -67.6068125,
+        "lat": 10.254937499999997,
+        "location": "0101000020E610000075931804D6E650C0480C022B87822440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

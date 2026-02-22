@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:20:30.762Z",
+  "id": "2960",
+  "amount": 31.47,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3426,
+  "billingDate": "2022-12-20T23:20:30.762Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17059759",
+      "fullName": "KEVIN YAVIER MONSALVE CISNEROS",
+      "phoneNumber": "+584122102916"
+    },
+    "installments": [
+      {
+        "id": "9769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:21:50.778Z",
+        "amount": 5.246666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:21:50.778Z",
+        "amount": 5.246666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:21:50.779Z",
+        "amount": 15.73,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:21:50.778Z",
+        "amount": 5.246666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

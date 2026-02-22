@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T22:45:01.923Z",
+  "id": "1486",
+  "amount": 40,
+  "invoiceId": "00001213",
+  "paidToMerchant": false,
+  "identifierNumber": 2094,
+  "billingDate": "2022-12-14T22:45:01.923Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26281419",
+      "fullName": "HECTOR ANDRES JACOBO GOMEZ",
+      "phoneNumber": "+584122457914"
+    },
+    "installments": [
+      {
+        "id": "4801",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T22:45:32.718Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4798",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T22:45:32.719Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "4799",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T22:45:32.718Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4800",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T22:45:32.718Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

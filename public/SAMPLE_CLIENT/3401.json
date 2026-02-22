@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:49:45.541Z",
+  "id": "2933",
+  "amount": 39.9,
+  "invoiceId": "9172",
+  "paidToMerchant": false,
+  "identifierNumber": 3401,
+  "billingDate": "2022-12-20T22:49:45.541Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24313834",
+      "fullName": "RICHARD DAVID OSUNA SANCHEZ",
+      "phoneNumber": "+584128188157"
+    },
+    "installments": [
+      {
+        "id": "9677",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:50:26.386Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "9674",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:50:26.386Z",
+        "amount": 19.95,
+        "status": "DONE"
+      },
+      {
+        "id": "9676",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:50:26.386Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "9675",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:50:26.386Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

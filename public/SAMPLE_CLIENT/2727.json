@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-18T17:37:01.170Z",
+  "id": "2206",
+  "amount": 110,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2727,
+  "billingDate": "2022-12-18T17:37:01.170Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

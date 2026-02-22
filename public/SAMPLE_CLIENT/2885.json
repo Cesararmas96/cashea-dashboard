@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-18T23:25:25.714Z",
+  "id": "2390",
+  "amount": 67.16,
+  "invoiceId": "17903",
+  "paidToMerchant": false,
+  "identifierNumber": 2885,
+  "billingDate": "2022-12-18T23:25:25.714Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-18T04:00:00.495+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "7860",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18002538",
+      "fullName": "MARIANGEL TORRES TROCONIS",
+      "phoneNumber": "+584141622141"
+    },
+    "installments": [
+      {
+        "id": "7859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:25:46.945Z",
+        "amount": 11.193333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:25:46.946Z",
+        "amount": 33.58,
+        "status": "DONE"
+      },
+      {
+        "id": "7861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:25:46.945Z",
+        "amount": 11.193333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:25:46.945Z",
+        "amount": 11.193333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

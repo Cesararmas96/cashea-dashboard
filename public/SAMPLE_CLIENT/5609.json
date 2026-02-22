@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T22:22:35.368Z",
+  "id": "5288",
+  "amount": 70.49,
+  "invoiceId": "15327",
+  "paidToMerchant": false,
+  "identifierNumber": 5609,
+  "billingDate": "2022-12-27T22:22:35.368Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22561822",
+      "fullName": "NIBSY GABRIELA PEREZ SANTAELLA",
+      "phoneNumber": "+584242184132"
+    },
+    "installments": [
+      {
+        "id": "18162",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T22:23:12.206Z",
+        "amount": 35.24,
+        "status": "DONE"
+      },
+      {
+        "id": "18165",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T22:23:12.206Z",
+        "amount": 11.749999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "18163",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T22:23:12.206Z",
+        "amount": 11.749999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "18164",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T22:23:12.206Z",
+        "amount": 11.749999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 12044,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J406185019",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "internalBankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "account": "01910098702198487777",
+    "accountType": "Corriente",
+    "phoneNumber": "4129290587",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 12042,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J406185019",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "internalBankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "account": "01910098702198487777",
+    "accountType": "Corriente",
+    "phoneNumber": "4129290587",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 12043,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J406185019",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "internalBankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "account": "01910098702198487777",
+    "accountType": "Corriente",
+    "phoneNumber": "4129290587",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 12045,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J406185019",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "internalBankHolder": "PASTEUR DE VENEZUELA, C.A.",
+    "account": "01910098782398423850",
+    "accountType": "Custodia",
+    "phoneNumber": "4129290587",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

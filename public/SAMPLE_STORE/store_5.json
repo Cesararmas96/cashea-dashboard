@@ -1,0 +1,164 @@
+[
+  {
+    "id": 18,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J313257095",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "internalBankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "account": "01910098742198330755",
+    "accountType": "Corriente",
+    "phoneNumber": "4142150644",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J313257095",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "internalBankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "account": "01910098742198330755",
+    "accountType": "Corriente",
+    "phoneNumber": "4142150644",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J313257095",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "internalBankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "account": "01910098742198330755",
+    "accountType": "Corriente",
+    "phoneNumber": "4142150644",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J313257095",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "internalBankHolder": "DOCTOR LENTE 20/20, C.A.",
+    "account": "01910098782398210106",
+    "accountType": "Custodia ",
+    "phoneNumber": "4142150644",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Pago móvil",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Transferencia",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

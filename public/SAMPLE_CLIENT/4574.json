@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-23T21:30:40.196Z",
+  "id": "4181",
+  "amount": 81.55,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4574,
+  "billingDate": "2022-12-23T21:30:40.196Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

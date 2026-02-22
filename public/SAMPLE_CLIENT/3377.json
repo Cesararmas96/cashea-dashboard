@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:33:50.510Z",
+  "id": "2922",
+  "amount": 54.98,
+  "invoiceId": "8721",
+  "paidToMerchant": false,
+  "identifierNumber": 3377,
+  "billingDate": "2022-12-20T22:33:50.510Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17700945",
+      "fullName": "WILMARTH COROMOTO OROPEZA DE BRICENO",
+      "phoneNumber": "+584149550055"
+    },
+    "installments": [
+      {
+        "id": "9630",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:34:36.911Z",
+        "amount": 27.49,
+        "status": "DONE"
+      },
+      {
+        "id": "9632",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:34:36.910Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9633",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:34:36.910Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9631",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:34:36.910Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

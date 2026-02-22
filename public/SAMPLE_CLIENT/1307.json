@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-25T22:04:57.330Z",
+  "id": "488",
+  "amount": 34,
+  "invoiceId": "6845",
+  "paidToMerchant": false,
+  "identifierNumber": 1307,
+  "billingDate": "2022-11-25T22:04:57.330Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21345027",
+      "fullName": "ANFERNEE JEFFREY FOUCOULT SUAREZ",
+      "phoneNumber": "+584141134450"
+    },
+    "installments": [
+      {
+        "id": "1518",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-25T22:05:45.267Z",
+        "amount": 17,
+        "status": "DONE"
+      },
+      {
+        "id": "1520",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-23T22:05:45.266Z",
+        "amount": 5.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1519",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-09T22:05:45.266Z",
+        "amount": 5.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1521",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-06T22:05:45.266Z",
+        "amount": 5.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

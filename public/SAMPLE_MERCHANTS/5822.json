@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-16T17:46:39.528Z",
+  "updatedAt": "2025-05-31T18:06:37.101Z",
+  "id": 5822,
+  "name": "Vilamoda",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "6f6b4536-cda2-478d-98f7-0c161151bd65",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "vilamoda2016fashionstore@gmail.com",
+    "legalName": "Gelis  Celideth",
+    "phoneNumber": "04166260408"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T17:48:25.530Z",
+      "updatedAt": "2025-05-16T17:48:25.530Z",
+      "id": 14246,
+      "merchantId": 5822,
+      "name": "Vilamoda Catia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8164,
+      "address": {
+        "name": "BOULEVARD DE CATIA",
+        "long": -67.275,
+        "lat": 10.374999999999993,
+        "location": "0101000020E61000009A99999999D150C0FCFFFFFFFFBF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

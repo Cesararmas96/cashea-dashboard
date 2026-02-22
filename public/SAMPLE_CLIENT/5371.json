@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T19:03:07.151Z",
+  "id": "5038",
+  "amount": 65.11,
+  "invoiceId": "45050",
+  "paidToMerchant": false,
+  "identifierNumber": 5371,
+  "billingDate": "2022-12-26T19:03:07.151Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13444724",
+      "fullName": "ROBERT JOSE OLAVARRIETA ECHENIQUE",
+      "phoneNumber": "+584241522259"
+    },
+    "installments": [
+      {
+        "id": "17278",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T19:03:27.333Z",
+        "amount": 32.55,
+        "status": "DONE"
+      },
+      {
+        "id": "17280",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T19:03:27.332Z",
+        "amount": 10.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17281",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T19:03:27.332Z",
+        "amount": 10.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17279",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T19:03:27.332Z",
+        "amount": 10.853333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T20:48:53.961Z",
+  "id": "7206",
+  "amount": 149.87,
+  "invoiceId": "45200",
+  "paidToMerchant": false,
+  "identifierNumber": 2033,
+  "billingDate": "2023-01-02T20:48:53.961Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19930325",
+      "fullName": "STEPHANIE TORRES BALLESTER",
+      "phoneNumber": "+584242025782"
+    },
+    "installments": [
+      {
+        "id": "24973",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T20:49:03.976Z",
+        "amount": 24.97666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24970",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T20:49:03.976Z",
+        "amount": 74.94,
+        "status": "DONE"
+      },
+      {
+        "id": "24972",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T20:49:03.976Z",
+        "amount": 24.97666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24971",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T20:49:03.976Z",
+        "amount": 24.97666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

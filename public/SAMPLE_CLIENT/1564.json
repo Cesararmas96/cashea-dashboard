@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T19:49:47.656Z",
+  "id": "854",
+  "amount": 97.02,
+  "invoiceId": "00001341",
+  "paidToMerchant": false,
+  "identifierNumber": 1564,
+  "billingDate": "2022-12-07T19:49:47.656Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18529577",
+      "fullName": "VICTOR ALEJANDRO CAMPOS CHINA",
+      "phoneNumber": "+584146002129"
+    },
+    "installments": [
+      {
+        "id": "2729",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T19:50:25.630Z",
+        "amount": 16.169999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "2728",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T19:50:25.630Z",
+        "amount": 16.169999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "2727",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T19:50:25.630Z",
+        "amount": 16.169999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "2726",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T19:50:25.633Z",
+        "amount": 48.51,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:35:09.699Z",
+  "id": "5531",
+  "amount": 49.5,
+  "invoiceId": "12872",
+  "paidToMerchant": false,
+  "identifierNumber": 5823,
+  "billingDate": "2022-12-28T20:35:09.699Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16821954",
+      "fullName": "MALYURI ROJAS SILVA",
+      "phoneNumber": "+584242273628"
+    },
+    "installments": [
+      {
+        "id": "19002",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:35:27.383Z",
+        "amount": 24.75,
+        "status": "DONE"
+      },
+      {
+        "id": "19005",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:35:27.382Z",
+        "amount": 8.25,
+        "status": "DONE"
+      },
+      {
+        "id": "19004",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:35:27.382Z",
+        "amount": 8.25,
+        "status": "DONE"
+      },
+      {
+        "id": "19003",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:35:27.382Z",
+        "amount": 8.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

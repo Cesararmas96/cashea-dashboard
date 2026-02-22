@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T15:29:08.222Z",
+  "id": "2723",
+  "amount": 150,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3221,
+  "billingDate": "2022-12-20T15:29:08.222Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13701829",
+      "fullName": "KARELIS ISABEL LUGO GIL",
+      "phoneNumber": "+584141476470"
+    },
+    "installments": [
+      {
+        "id": "8975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T15:30:31.737Z",
+        "amount": 25,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T15:30:31.737Z",
+        "amount": 25,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T15:30:31.738Z",
+        "amount": 75,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T15:30:31.737Z",
+        "amount": 25,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

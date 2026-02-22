@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T22:51:19.580Z",
+  "id": "5625",
+  "amount": 30.39,
+  "invoiceId": "13391",
+  "paidToMerchant": false,
+  "identifierNumber": 5895,
+  "billingDate": "2022-12-28T22:51:19.580Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-02-01T04:00:00.720+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": 19347,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11409770",
+      "fullName": "MANUEL ARMANDO SUAREZ GUILLEN",
+      "phoneNumber": "+584142882513"
+    },
+    "installments": [
+      {
+        "id": "19349",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:52:55.453Z",
+        "amount": 5.0633333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "19346",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:52:55.454Z",
+        "amount": 15.2,
+        "status": "DONE"
+      },
+      {
+        "id": "19347",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:52:55.453Z",
+        "amount": 5.0633333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "19348",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:52:55.453Z",
+        "amount": 5.0633333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

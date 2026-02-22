@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T22:34:50.515Z",
+  "id": "11544",
+  "amount": 91.35,
+  "invoiceId": "9796",
+  "paidToMerchant": false,
+  "identifierNumber": 2569,
+  "billingDate": "2023-01-30T22:34:50.515Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12453765",
+      "fullName": "HERNAN ANDRES RODRIGUEZ RAMIREZ",
+      "phoneNumber": "+584129264269"
+    },
+    "installments": [
+      {
+        "id": "35413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T22:35:32.715Z",
+        "amount": 15.226666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "35412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T22:35:32.715Z",
+        "amount": 15.226666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "35411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T22:35:32.715Z",
+        "amount": 15.226666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "35410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T22:35:32.716Z",
+        "amount": 45.67,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 63,
+    "name": "Timberland CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

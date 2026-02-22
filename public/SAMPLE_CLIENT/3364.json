@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T23:02:27.415Z",
+  "id": "2940",
+  "amount": 118.48,
+  "invoiceId": "6809",
+  "paidToMerchant": false,
+  "identifierNumber": 3364,
+  "billingDate": "2022-12-20T23:02:27.415Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-06T04:00:00.574+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "9715",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23777139",
+      "fullName": "MILAGROS DEL VALLE VILLAMIZAR VALIENTE",
+      "phoneNumber": "+584124260622"
+    },
+    "installments": [
+      {
+        "id": "9716",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:06:17.688Z",
+        "amount": 19.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9717",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:06:17.688Z",
+        "amount": 19.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9714",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:06:17.688Z",
+        "amount": 59.24,
+        "status": "DONE"
+      },
+      {
+        "id": "9715",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:06:17.688Z",
+        "amount": 19.746666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

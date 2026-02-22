@@ -1,0 +1,128 @@
+[
+  {
+    "id": 900,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J000704139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "internalBankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "account": "01910142832100085045",
+    "accountType": "Corriente",
+    "phoneNumber": "4142192834",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 898,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J000704139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "internalBankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "account": "01910142832100085045",
+    "accountType": "Corriente",
+    "phoneNumber": "4142192834",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 899,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J000704139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "internalBankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "account": "01910142832100085045",
+    "accountType": "Corriente",
+    "phoneNumber": "4142192834",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 901,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J000704139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "internalBankHolder": "ELECTROCABLE BOLEITA, C.A ELECABO",
+    "account": "01910142812300027439",
+    "accountType": "Custodia",
+    "phoneNumber": "4142192834",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

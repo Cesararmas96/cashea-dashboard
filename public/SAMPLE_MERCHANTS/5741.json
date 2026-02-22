@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-13T16:24:31.330Z",
+  "updatedAt": "2025-05-21T21:27:05.081Z",
+  "id": 5741,
+  "name": "kolor",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4cfb29d3-7017-476c-bf2b-e85bdc2eeed0",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jose_m_dlima@hotmail.com",
+    "legalName": "jose",
+    "phoneNumber": "04143429626"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-02T22:01:41.754Z",
+      "updatedAt": "2025-09-02T22:01:41.754Z",
+      "id": 20499,
+      "merchantId": 5741,
+      "name": "VR_kolor Av Morron",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4228,
+      "address": {
+        "name": "av principal moron edif s/n piso pb local s/n moron edo carabobo",
+        "long": -68.2020625,
+        "lat": 10.487687499999993,
+        "location": "0101000020E6100000DF4F8D97EE0C51C000560E2DB2F92440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T16:28:13.363Z",
+      "updatedAt": "2025-05-13T16:28:13.363Z",
+      "id": 14055,
+      "merchantId": 5741,
+      "name": "kolor Av Morron",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4228,
+      "address": {
+        "name": "av principal moron edif s/n piso pb local s/n moron edo carabobo",
+        "long": -68.2020625,
+        "lat": 10.487687499999993,
+        "location": "0101000020E6100000DF4F8D97EE0C51C000560E2DB2F92440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

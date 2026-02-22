@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:40:54.714Z",
+  "id": "4823",
+  "amount": 62.97,
+  "invoiceId": "7391",
+  "paidToMerchant": false,
+  "identifierNumber": 5068,
+  "billingDate": "2022-12-24T19:40:54.714Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25418925",
+      "fullName": "PABLO LUIS LOPEZ HERNANDEZ",
+      "phoneNumber": "+584164085513"
+    },
+    "installments": [
+      {
+        "id": "16521",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:41:21.797Z",
+        "amount": 10.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16518",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:41:21.798Z",
+        "amount": 31.48,
+        "status": "DONE"
+      },
+      {
+        "id": "16520",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:41:21.797Z",
+        "amount": 10.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16519",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:41:21.797Z",
+        "amount": 10.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

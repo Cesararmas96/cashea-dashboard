@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-09T15:11:10.161Z",
+  "updatedAt": "2025-05-13T15:37:58.887Z",
+  "id": 5668,
+  "name": "Corporacion Nanotec",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "67e6e9dc-b7f8-415e-817a-c924af7df61b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "corporacionnanotec@gmail.com",
+    "legalName": "Marcellys",
+    "phoneNumber": "04144605363"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T15:12:53.454Z",
+      "updatedAt": "2025-05-09T15:12:53.454Z",
+      "id": 13877,
+      "merchantId": 5668,
+      "name": "Corporacion Nanotec Urb Valle Abajo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4469,
+      "address": {
+        "name": "URB. VALLE ABAJO, AV CAPANAPARO, QUINTA KAYTUKO",
+        "long": -66.89243750000001,
+        "lat": 10.482937500000006,
+        "location": "0101000020E6100000570E2DB21DB950C02806819543F72440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

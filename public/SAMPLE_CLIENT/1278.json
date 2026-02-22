@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-24T20:37:51.957Z",
+  "id": "185",
+  "amount": 48,
+  "invoiceId": "00001272",
+  "paidToMerchant": false,
+  "identifierNumber": 1278,
+  "billingDate": "2022-10-24T20:37:51.957Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20754981",
+      "fullName": "GUSTAVO HENRIQUE GONZALEZ LARA",
+      "phoneNumber": "+584141310526"
+    },
+    "installments": [
+      {
+        "id": "565",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-24T20:38:20.006Z",
+        "amount": 24,
+        "status": "DONE"
+      },
+      {
+        "id": "568",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-05T20:38:20.005Z",
+        "amount": 8,
+        "status": "DONE"
+      },
+      {
+        "id": "566",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-07T20:38:20.005Z",
+        "amount": 8,
+        "status": "DONE"
+      },
+      {
+        "id": "567",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-21T20:38:20.005Z",
+        "amount": 8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

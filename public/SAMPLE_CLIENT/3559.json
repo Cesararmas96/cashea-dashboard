@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T17:49:13.060Z",
+  "id": "3124",
+  "amount": 56.01,
+  "invoiceId": "48889",
+  "paidToMerchant": false,
+  "identifierNumber": 3559,
+  "billingDate": "2022-12-21T17:49:13.060Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24460396",
+      "fullName": "YORVIN JOSE TERAN RIVERO",
+      "phoneNumber": "+584125450416"
+    },
+    "installments": [
+      {
+        "id": "10324",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T17:51:24.501Z",
+        "amount": 9.336666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10322",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T17:51:24.502Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "10325",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T17:51:24.501Z",
+        "amount": 9.336666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10323",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T17:51:24.501Z",
+        "amount": 9.336666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

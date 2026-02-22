@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:26:13.494Z",
+  "id": "2391",
+  "amount": 52.96,
+  "invoiceId": "12084",
+  "paidToMerchant": false,
+  "identifierNumber": 2854,
+  "billingDate": "2022-12-18T23:26:13.494Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12420047",
+      "fullName": "JOSE ADRIANA MEDINA LOPEZ",
+      "phoneNumber": "+584142784491"
+    },
+    "installments": [
+      {
+        "id": "7862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:27:12.885Z",
+        "amount": 26.48,
+        "status": "DONE"
+      },
+      {
+        "id": "7865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:27:12.884Z",
+        "amount": 8.826666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "7863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:27:12.884Z",
+        "amount": 8.826666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "7864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:27:12.884Z",
+        "amount": 8.826666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

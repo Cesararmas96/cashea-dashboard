@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:07:09.297Z",
+  "id": "4707",
+  "amount": 57,
+  "invoiceId": "7423",
+  "paidToMerchant": false,
+  "identifierNumber": 3374,
+  "billingDate": "2022-12-24T18:07:09.297Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6917998",
+      "fullName": "ISABEL MARIA CONTASTI PINANGO",
+      "phoneNumber": "+584166211541"
+    },
+    "installments": [
+      {
+        "id": "16106",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:07:35.540Z",
+        "amount": 28.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16109",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:07:35.540Z",
+        "amount": 9.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16108",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:07:35.540Z",
+        "amount": 9.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16107",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:07:35.540Z",
+        "amount": 9.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

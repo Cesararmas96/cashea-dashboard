@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T23:35:53.630Z",
+  "id": "5150",
+  "amount": 209.75,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5444,
+  "billingDate": "2022-12-26T23:35:53.630Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17561633",
+      "fullName": "ALEJANDRO JOSE GONZALEZ",
+      "phoneNumber": "+584142095075"
+    },
+    "installments": [
+      {
+        "id": "17648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:36:08.441Z",
+        "amount": 0,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:36:08.442Z",
+        "amount": 209.75,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:36:08.441Z",
+        "amount": 0,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:36:08.441Z",
+        "amount": 0,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

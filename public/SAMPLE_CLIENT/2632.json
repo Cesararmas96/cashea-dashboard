@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T23:07:32.074Z",
+  "id": "2097",
+  "amount": 75.97,
+  "invoiceId": "00017821",
+  "paidToMerchant": false,
+  "identifierNumber": 2632,
+  "billingDate": "2022-12-17T23:07:32.074Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17489863",
+      "fullName": "CHANDY IONACHY CARRENO CORDERO",
+      "phoneNumber": "+584123914211"
+    },
+    "installments": [
+      {
+        "id": "6822",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T23:08:24.418Z",
+        "amount": 37.98,
+        "status": "DONE"
+      },
+      {
+        "id": "6825",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T23:08:24.417Z",
+        "amount": 12.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6823",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T23:08:24.417Z",
+        "amount": 12.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6824",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T23:08:24.417Z",
+        "amount": 12.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

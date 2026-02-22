@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T23:43:55.656Z",
+  "id": "3298",
+  "amount": 86.3,
+  "invoiceId": "12713",
+  "paidToMerchant": false,
+  "identifierNumber": 3693,
+  "billingDate": "2022-12-21T23:43:55.656Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-07T04:00:00.478+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "10975",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16681450",
+      "fullName": "MILEIDY XIOMARA SUNIAGA NUNEZ",
+      "phoneNumber": "+584120100628"
+    },
+    "installments": [
+      {
+        "id": "10977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:44:08.793Z",
+        "amount": 14.383333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:44:08.793Z",
+        "amount": 14.383333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:44:08.793Z",
+        "amount": 14.383333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:44:08.793Z",
+        "amount": 43.15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

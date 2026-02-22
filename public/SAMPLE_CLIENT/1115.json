@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-21T00:03:01.144Z",
+  "id": "447",
+  "amount": 207,
+  "invoiceId": "783509",
+  "paidToMerchant": false,
+  "identifierNumber": 1115,
+  "billingDate": "2022-11-21T00:03:01.144Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11934136",
+      "fullName": "DAYANA JORGLIE RIVERA HERNANDEZ",
+      "phoneNumber": "+584142928204"
+    },
+    "installments": [
+      {
+        "id": "1382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-21T00:08:29.382Z",
+        "amount": 103.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-02T00:08:29.382Z",
+        "amount": 34.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-19T00:08:29.382Z",
+        "amount": 34.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-05T00:08:29.382Z",
+        "amount": 34.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

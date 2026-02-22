@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-20T21:58:20.202Z",
+  "id": "10354",
+  "amount": 319.99760000000003,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1762,
+  "billingDate": "2023-01-20T21:58:20.202Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22912665",
+      "fullName": "DERSON ARGENIS FERNANDEZ BRAZON",
+      "phoneNumber": "+584242277354"
+    },
+    "installments": [
+      {
+        "id": "31147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-03T21:58:20.258Z",
+        "amount": 43.332533333333345,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "31148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-17T21:58:20.258Z",
+        "amount": 43.332533333333345,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "31146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-20T21:58:20.258Z",
+        "amount": 190,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "31149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-03T21:58:20.258Z",
+        "amount": 43.332533333333345,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 165,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

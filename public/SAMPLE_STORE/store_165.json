@@ -1,0 +1,128 @@
+[
+  {
+    "id": 108,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J409398331",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SKY STYLE 20.17 C.A.",
+    "internalBankHolder": "SKY STYLE 20.17 C.A.",
+    "account": "01910098752198351838",
+    "accountType": "Corriente",
+    "phoneNumber": "4241542044",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J409398331",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SKY STYLE 20.17 C.A.",
+    "internalBankHolder": "SKY STYLE 20.17 C.A.",
+    "account": "01910098752198351838",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J409398331",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SKY STYLE 20.17 C.A.",
+    "internalBankHolder": "SKY STYLE 20.17 C.A.",
+    "account": "01910098752198351838",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J409398331",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SKY STYLE 20.17 C.A.",
+    "internalBankHolder": "SKY STYLE 20.17 C.A.",
+    "account": "01910098782398243056",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-27T19:17:56.395Z",
+  "id": "522",
+  "amount": 100.94,
+  "invoiceId": "783788",
+  "paidToMerchant": false,
+  "identifierNumber": 1132,
+  "billingDate": "2022-11-27T19:17:56.395Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "33",
+    "buyDebtDate": "2023-01-11T06:00:00.556+00:00",
+    "lastStoreId": 15,
+    "boughtForInstallmentId": "1645",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18910123",
+      "fullName": "ROBERTO ARMANDO DAVILA ARENAS",
+      "phoneNumber": "+584129308911"
+    },
+    "installments": [
+      {
+        "id": "1644",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T19:20:34.234Z",
+        "amount": 16.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "1642",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T19:20:34.234Z",
+        "amount": 50.47,
+        "status": "DONE"
+      },
+      {
+        "id": "1645",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T19:20:34.234Z",
+        "amount": 16.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "1643",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T19:20:34.234Z",
+        "amount": 16.823333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

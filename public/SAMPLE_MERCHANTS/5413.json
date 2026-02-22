@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-28T13:33:16.782Z",
+  "updatedAt": "2025-05-16T23:10:16.034Z",
+  "id": 5413,
+  "name": "Photos y puntos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4e4fd02a-30d6-4a58-af7b-437e92bb4dc5",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mary.krm@gmail.com",
+    "legalName": "Maria Karam",
+    "phoneNumber": "4242764012"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T13:35:02.407Z",
+      "updatedAt": "2025-04-28T13:35:02.407Z",
+      "id": 13327,
+      "merchantId": 5413,
+      "name": "Photos y puntos CC Galerias Los Naranjos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5339,
+      "address": {
+        "name": "Centro comercial galería los Naranjos  PB local 9 Av el pauji Caracas",
+        "long": -66.83624999999999,
+        "lat": 10.44125000000001,
+        "location": "0101000020E6100000EB51B81E85B550C058B81E85EBE12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-04-05T22:48:05.754Z",
+  "updatedAt": "2026-01-14T19:47:21.735Z",
+  "id": 5078,
+  "name": "Pintacasa",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": "",
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4e23ac0f-44ea-48be-a084-0cc7e9e6eabd",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "yacambubqto@gmail.com",
+    "legalName": "Luis Camacho ",
+    "phoneNumber": "+584140542949"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-09-25T02:01:33.968Z",
+      "updatedAt": "2024-09-25T02:01:33.968Z",
+      "id": 4453,
+      "merchantId": 5078,
+      "name": "Pintacasa Mérida",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 0,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Pintacasa Mérida",
+        "long": -71.1638125,
+        "lat": 8.590062500000002,
+        "location": "0101000020E6100000448B6CE77BCA51C0283108AC1C2E2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2024-11-21T13:34:10.029Z",
+      "updatedAt": "2024-11-21T13:34:10.029Z",
+      "id": 7433,
+      "merchantId": 5078,
+      "name": "Pintacasa Av Venezuela Esquina Calle 8 Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7275,
+      "address": {
+        "name": "Pintacasa Av Venezuela Esquina Calle 8 Barquisimeto ",
+        "long": -69.2991875,
+        "lat": 10.073937499999985,
+        "location": "0101000020E6100000CFF753E3255351C058E5D022DB252440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

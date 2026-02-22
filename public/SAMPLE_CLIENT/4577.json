@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:00:13.747Z",
+  "id": "4215",
+  "amount": 56,
+  "invoiceId": "00010210",
+  "paidToMerchant": false,
+  "identifierNumber": 4577,
+  "billingDate": "2022-12-23T22:00:13.747Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26277771",
+      "fullName": "MARIA LAURA DEL VALLE PACHECO RIVAS",
+      "phoneNumber": "+584242192817"
+    },
+    "installments": [
+      {
+        "id": "14405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:25:26.231Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:25:26.231Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:25:26.232Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "14403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:25:26.231Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

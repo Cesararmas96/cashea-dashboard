@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:34:28.188Z",
+  "id": "3539",
+  "amount": 149.32,
+  "invoiceId": "12821",
+  "paidToMerchant": false,
+  "identifierNumber": 3943,
+  "billingDate": "2022-12-22T20:34:28.188Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6811743",
+      "fullName": "ARIDEY DEL VALLE PEREZ RAMIREZ",
+      "phoneNumber": "+584143288433"
+    },
+    "installments": [
+      {
+        "id": "11850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:34:43.721Z",
+        "amount": 74.66,
+        "status": "DONE"
+      },
+      {
+        "id": "11853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:34:43.720Z",
+        "amount": 24.886666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:34:43.720Z",
+        "amount": 24.886666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:34:43.720Z",
+        "amount": 24.886666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

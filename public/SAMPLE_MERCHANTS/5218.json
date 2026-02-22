@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-14T15:08:57.632Z",
+  "updatedAt": "2025-04-21T18:13:56.621Z",
+  "id": 5218,
+  "name": "Charcuteria Cheese & Ham",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2baa4264-9608-415a-b8fc-8a1674d80662",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cheeseham2024@gmail.com",
+    "legalName": "LINA",
+    "phoneNumber": "04126328753"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T20:27:49.872Z",
+      "updatedAt": "2025-05-22T20:27:49.872Z",
+      "id": 14559,
+      "merchantId": 5218,
+      "name": "VR_Charcuteria Cheese & Ham",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4151,
+      "address": {
+        "name": "CALLE \"D\" EDIF ALBERTO PISO PB LOCAL 1 URB EL PINARCARACAS DISTRITO CAPITAL ZONA POSTAL 1020",
+        "long": -66.9396875,
+        "lat": 10.485812499999994,
+        "location": "0101000020E6100000713D0AD723BC50C0D8F97E6ABCF82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T15:20:48.880Z",
+      "updatedAt": "2025-04-14T15:20:48.880Z",
+      "id": 12939,
+      "merchantId": 5218,
+      "name": "Charcuteria Cheese & Ham",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4151,
+      "address": {
+        "name": "CALLE \"D\" EDIF ALBERTO PISO PB LOCAL 1 URB EL PINARCARACAS DISTRITO CAPITAL ZONA POSTAL 1020",
+        "long": -66.9396875,
+        "lat": 10.485812499999994,
+        "location": "0101000020E6100000713D0AD723BC50C0D8F97E6ABCF82440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

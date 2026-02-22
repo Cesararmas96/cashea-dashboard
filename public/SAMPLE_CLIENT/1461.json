@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T21:33:40.404Z",
+  "id": "875",
+  "amount": 81.7,
+  "invoiceId": "11425",
+  "paidToMerchant": false,
+  "identifierNumber": 1461,
+  "billingDate": "2022-12-07T21:33:40.404Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29571177",
+      "fullName": "JESUS MANUEL GARCIA GOMEZ",
+      "phoneNumber": "+584122498390"
+    },
+    "installments": [
+      {
+        "id": "2780",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T21:33:58.904Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2779",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T21:33:58.904Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2781",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T21:33:58.904Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2778",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T21:33:58.905Z",
+        "amount": 41.7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

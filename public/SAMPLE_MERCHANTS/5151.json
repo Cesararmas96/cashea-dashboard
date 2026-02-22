@@ -1,0 +1,212 @@
+{
+  "createdAt": "2025-04-09T17:02:59.723Z",
+  "updatedAt": "2025-09-12T18:43:55.520Z",
+  "id": 5151,
+  "name": "Aerotransfer",
+  "ecommerceUrl": null,
+  "changePolicy": "info@aerotransfer.com.ve",
+  "email": "info@aerotransfer.com.ve",
+  "phoneNumber": "+584123883195",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9823b660-6790-4388-b7ec-743eea4bf947",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gerencia@aerotransfer.com.ve",
+    "legalName": "Greisy",
+    "phoneNumber": "+584127655032"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-06T21:31:48.498Z",
+      "updatedAt": "2025-08-06T21:31:48.498Z",
+      "id": 18754,
+      "merchantId": 5151,
+      "name": "Aerotransfer Maiquetia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3488,
+      "address": {
+        "name": "Aeropuerto Nacional de Maiquetía, frente al Counter de Avior",
+        "long": -67.0015625,
+        "lat": 10.5991875,
+        "location": "0101000020E61000009A99999919C050C0105839B4C8322540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T20:58:02.764Z",
+      "updatedAt": "2025-05-06T20:58:02.764Z",
+      "id": 13672,
+      "merchantId": 5151,
+      "name": "VR_Aerotransfer",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3488,
+      "address": {
+        "name": "Aerotransfer Aeropuerto Alberto Carnevali",
+        "long": -71.16106250000001,
+        "lat": 8.584062499999987,
+        "location": "0101000020E61000002C8716D94ECA51C0D0A3703D0A2B2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T17:06:40.803Z",
+      "updatedAt": "2025-04-09T17:06:40.803Z",
+      "id": 12760,
+      "merchantId": 5151,
+      "name": "Aerotransfer Aeropuerto Alberto Carnevali",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3488,
+      "address": {
+        "name": "Aerotransfer Aeropuerto Alberto Carnevali",
+        "long": -71.16106250000001,
+        "lat": 8.584062499999987,
+        "location": "0101000020E61000002C8716D94ECA51C0D0A3703D0A2B2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T17:28:52.199Z",
+      "updatedAt": "2025-04-09T17:28:52.199Z",
+      "id": 12764,
+      "merchantId": 5151,
+      "name": "Aerotransfer Alto Chama",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3488,
+      "address": {
+        "name": "Aerotransfer Alto Chama",
+        "long": -71.2003125,
+        "lat": 8.556062499999996,
+        "location": "0101000020E6100000B81E85EBD1CC51C060105839B41C2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T21:46:45.533Z",
+      "updatedAt": "2025-09-12T18:57:46.045Z",
+      "id": 13553,
+      "merchantId": 5151,
+      "name": "Aerotransfer Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3488,
+      "address": {
+        "name": "info@aerotransfer.com.ve",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

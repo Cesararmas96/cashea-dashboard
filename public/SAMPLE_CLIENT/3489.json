@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:08:03.948Z",
+  "id": "2999",
+  "amount": 109.09,
+  "invoiceId": "00001816",
+  "paidToMerchant": false,
+  "identifierNumber": 3489,
+  "billingDate": "2022-12-21T00:08:03.948Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17907169",
+      "fullName": "YESSELYN YUDIT SCANDELA MORALES",
+      "phoneNumber": "+584242130082"
+    },
+    "installments": [
+      {
+        "id": "9894",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:08:28.674Z",
+        "amount": 54.55,
+        "status": "DONE"
+      },
+      {
+        "id": "9898",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:08:28.674Z",
+        "amount": 18.180000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "9897",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:08:28.674Z",
+        "amount": 18.180000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "9895",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:08:28.674Z",
+        "amount": 18.180000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

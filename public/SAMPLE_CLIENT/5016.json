@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-24T18:50:28.557Z",
+  "id": "4767",
+  "amount": 180.53,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5016,
+  "billingDate": "2022-12-24T18:50:28.557Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

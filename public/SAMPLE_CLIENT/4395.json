@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:05:49.605Z",
+  "id": "4020",
+  "amount": 30.3,
+  "invoiceId": "12933",
+  "paidToMerchant": false,
+  "identifierNumber": 4395,
+  "billingDate": "2022-12-23T19:05:49.605Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18024655",
+      "fullName": "CRISTHIAN DANIEL RODRIGUEZ DUARTE",
+      "phoneNumber": "+584122356312"
+    },
+    "installments": [
+      {
+        "id": "13570",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:06:50.696Z",
+        "amount": 15.15,
+        "status": "DONE"
+      },
+      {
+        "id": "13573",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:06:50.695Z",
+        "amount": 5.05,
+        "status": "DONE"
+      },
+      {
+        "id": "13572",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:06:50.695Z",
+        "amount": 5.05,
+        "status": "DONE"
+      },
+      {
+        "id": "13571",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:06:50.695Z",
+        "amount": 5.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

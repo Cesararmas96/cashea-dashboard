@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:29:35.937Z",
+  "id": "3256",
+  "amount": 157.97,
+  "invoiceId": "26670",
+  "paidToMerchant": false,
+  "identifierNumber": 3683,
+  "billingDate": "2022-12-21T22:29:35.937Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6661640",
+      "fullName": "ANGELICA COROMOTO MALDONADO IBARRA",
+      "phoneNumber": "+584141835416"
+    },
+    "installments": [
+      {
+        "id": "10805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:30:07.443Z",
+        "amount": 26.33,
+        "status": "DONE"
+      },
+      {
+        "id": "10802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:30:07.444Z",
+        "amount": 78.98,
+        "status": "DONE"
+      },
+      {
+        "id": "10804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:30:07.443Z",
+        "amount": 26.33,
+        "status": "DONE"
+      },
+      {
+        "id": "10803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:30:07.443Z",
+        "amount": 26.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

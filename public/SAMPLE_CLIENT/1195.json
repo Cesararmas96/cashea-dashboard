@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-18T17:42:42.703Z",
+  "id": "413",
+  "amount": 56.01,
+  "invoiceId": "6696",
+  "paidToMerchant": false,
+  "identifierNumber": 1195,
+  "billingDate": "2022-11-18T17:42:42.703Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-01-02T04:00:00.217+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "1269",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18221640",
+      "fullName": "GREGORI JOSE TORTOZA CASTELLANOS",
+      "phoneNumber": "+584126020921"
+    },
+    "installments": [
+      {
+        "id": "1266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-18T17:43:30.696Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "1269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-30T17:43:30.695Z",
+        "amount": 9.336666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-16T17:43:30.695Z",
+        "amount": 9.336666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-02T17:43:30.695Z",
+        "amount": 9.336666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

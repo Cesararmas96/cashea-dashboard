@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:57:32.005Z",
+  "id": "2937",
+  "amount": 93.53,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3407,
+  "billingDate": "2022-12-20T22:57:32.005Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15544315",
+      "fullName": "YACGLEHIZ KAROLIZ COLMENARES SALAZAR",
+      "phoneNumber": "+584265181941"
+    },
+    "installments": [
+      {
+        "id": "9693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:58:00.038Z",
+        "amount": 15.586666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:58:00.038Z",
+        "amount": 15.586666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:58:00.038Z",
+        "amount": 15.586666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:58:00.039Z",
+        "amount": 46.77,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

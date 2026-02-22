@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T23:56:11.243Z",
+  "id": "1647",
+  "amount": 139.99,
+  "invoiceId": "47941",
+  "paidToMerchant": false,
+  "identifierNumber": 2239,
+  "billingDate": "2022-12-15T23:56:11.243Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24759867",
+      "fullName": "MAURICIO GONZALEZ MALDONADO",
+      "phoneNumber": "+584142202969"
+    },
+    "installments": [
+      {
+        "id": "5298",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T23:56:29.302Z",
+        "amount": 70,
+        "status": "DONE"
+      },
+      {
+        "id": "5301",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T23:56:29.302Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "5299",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T23:56:29.302Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "5300",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T23:56:29.302Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

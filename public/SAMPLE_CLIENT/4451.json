@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:40:55.286Z",
+  "id": "4051",
+  "amount": 54.14,
+  "invoiceId": "50473",
+  "paidToMerchant": false,
+  "identifierNumber": 4451,
+  "billingDate": "2022-12-23T19:40:55.286Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15294974",
+      "fullName": "YELITZA CAROLINA PALACIOS DE ADAM",
+      "phoneNumber": "+584142207880"
+    },
+    "installments": [
+      {
+        "id": "13688",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:42:27.171Z",
+        "amount": 9.023333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13686",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:42:27.171Z",
+        "amount": 27.07,
+        "status": "DONE"
+      },
+      {
+        "id": "13689",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:42:27.171Z",
+        "amount": 9.023333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13687",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:42:27.171Z",
+        "amount": 9.023333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

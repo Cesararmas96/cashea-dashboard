@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-07T16:43:29.338Z",
+  "id": "825",
+  "amount": 309,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1552,
+  "billingDate": "2022-12-07T16:43:29.338Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 46,
+    "name": "Swarovski Tolón / IN"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

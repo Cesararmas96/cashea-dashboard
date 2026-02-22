@@ -1,0 +1,150 @@
+{
+  "createdAt": "2025-05-15T14:03:11.347Z",
+  "updatedAt": "2025-05-23T22:36:22.523Z",
+  "id": 5786,
+  "name": "Motorepuestos Racing",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "56cc0d96-03c9-4e8c-be97-bd53b31697bb",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "martinezperezjorge93@gmail.com",
+    "legalName": "Ana carolina",
+    "phoneNumber": "04121114050"
+  },
+  "stores": [
+    {
+      "createdAt": "2026-01-15T02:58:53.316Z",
+      "updatedAt": "2026-01-15T02:58:53.316Z",
+      "id": 29249,
+      "merchantId": 5786,
+      "name": "Motorepuestos Racing Calle Dionisio Antonio Lopez Mariguitar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6808,
+      "address": {
+        "name": "FISCAL CALLE DIONISIO ANTONIO LOPEZ LOCAL NRO S/N SECTOR MARIGUITAR MARIGUITAR SUCRE ZONA POSTAL 6107",
+        "long": -63.89981250000001,
+        "lat": 10.4453125,
+        "location": "0101000020E61000001A04560E2DF34FC00000000000E42440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2026-01-15T03:02:55.607Z",
+      "updatedAt": "2026-01-15T03:02:55.607Z",
+      "id": 29250,
+      "merchantId": 5786,
+      "name": "Motorepuestos Racing Calle Cancamure Cumana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6808,
+      "address": {
+        "name": "CALLE CANCAMURE LOCAL NRO 92 SECTOR BARRIO SUCRE CUMANA SUCRE ZONA POSTAL 6101",
+        "long": -64.17731250000001,
+        "lat": 10.4519375,
+        "location": "0101000020E6100000032B8716590B50C008AC1C5A64E72440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T14:04:39.798Z",
+      "updatedAt": "2025-05-15T14:04:39.798Z",
+      "id": 14164,
+      "merchantId": 5786,
+      "name": "Motorepuestos Racing Cumana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6808,
+      "address": {
+        "name": "calle blanco fombona sector centro local sin numero",
+        "long": -64.17500000000001,
+        "lat": 10.425000000000004,
+        "location": "0101000020E610000034333333330B50C09C99999999D92440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

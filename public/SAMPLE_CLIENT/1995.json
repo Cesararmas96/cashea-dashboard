@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T22:10:36.785Z",
+  "id": "1378",
+  "amount": 41.2,
+  "invoiceId": "00001479",
+  "paidToMerchant": false,
+  "identifierNumber": 1995,
+  "billingDate": "2022-12-13T22:10:36.785Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15202006",
+      "fullName": "LUIS ALFREDO MUJICA MOYA",
+      "phoneNumber": "+584248958307"
+    },
+    "installments": [
+      {
+        "id": "4442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T22:12:59.077Z",
+        "amount": 20.6,
+        "status": "DONE"
+      },
+      {
+        "id": "4444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T22:12:59.076Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T22:12:59.076Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T22:12:59.076Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

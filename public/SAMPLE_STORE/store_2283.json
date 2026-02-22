@@ -1,0 +1,128 @@
+[
+  {
+    "id": 924,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J315531151",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "internalBankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "account": "01910254842100098524",
+    "accountType": "Corriente",
+    "phoneNumber": "4242022095",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 922,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J315531151",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "internalBankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "account": "01910254842100098524",
+    "accountType": "Corriente",
+    "phoneNumber": "4242022095",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 923,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J315531151",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "internalBankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "account": "01910254842100098524",
+    "accountType": "Corriente",
+    "phoneNumber": "4242022095",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 925,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J315531151",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "internalBankHolder": "SEVEN`S CARONI. COMPAÑIA ANONIMA",
+    "account": "01910254852300006958",
+    "accountType": "Custodia",
+    "phoneNumber": "4242022095",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

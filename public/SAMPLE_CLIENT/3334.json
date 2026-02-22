@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T19:49:07.903Z",
+  "id": "10085",
+  "amount": 31.43,
+  "invoiceId": "8812",
+  "paidToMerchant": false,
+  "identifierNumber": 3334,
+  "billingDate": "2023-01-17T19:49:07.903Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11923243",
+      "fullName": "OSCAR JAVIER CASTILLO TAMOY",
+      "phoneNumber": "+584241440749"
+    },
+    "installments": [
+      {
+        "id": "30181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T19:50:37.568Z",
+        "amount": 5.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T19:50:37.568Z",
+        "amount": 5.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "30178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T19:50:37.568Z",
+        "amount": 15.71,
+        "status": "DONE"
+      },
+      {
+        "id": "30180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T19:50:37.568Z",
+        "amount": 5.239999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

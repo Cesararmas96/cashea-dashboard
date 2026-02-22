@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T21:13:09.709Z",
+  "id": "2289",
+  "amount": 114.6,
+  "invoiceId": "6700",
+  "paidToMerchant": false,
+  "identifierNumber": 2782,
+  "billingDate": "2022-12-18T21:13:09.709Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15843094",
+      "fullName": "MARYURY CAROLINA PARRA PINTO",
+      "phoneNumber": "+584141530949"
+    },
+    "installments": [
+      {
+        "id": "7522",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T21:13:53.881Z",
+        "amount": 57.3,
+        "status": "DONE"
+      },
+      {
+        "id": "7523",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T21:13:53.881Z",
+        "amount": 19.099999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "7525",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T21:13:53.881Z",
+        "amount": 19.099999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "7524",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T21:13:53.881Z",
+        "amount": 19.099999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

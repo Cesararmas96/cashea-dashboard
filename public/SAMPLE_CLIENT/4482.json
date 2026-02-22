@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:29:17.117Z",
+  "id": "4098",
+  "amount": 58.99,
+  "invoiceId": "9974",
+  "paidToMerchant": false,
+  "identifierNumber": 4482,
+  "billingDate": "2022-12-23T20:29:17.117Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27047837",
+      "fullName": "MARIA GABRIELA LAFEE VERGARA",
+      "phoneNumber": "+584241508173"
+    },
+    "installments": [
+      {
+        "id": "13850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:30:09.379Z",
+        "amount": 29.5,
+        "status": "DONE"
+      },
+      {
+        "id": "13853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:30:09.379Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "13851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:30:09.379Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "13852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:30:09.379Z",
+        "amount": 9.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 59,
+    "name": "Mango Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

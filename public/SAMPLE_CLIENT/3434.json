@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:11:09.884Z",
+  "id": "2954",
+  "amount": 65.8,
+  "invoiceId": "8415",
+  "paidToMerchant": false,
+  "identifierNumber": 3434,
+  "billingDate": "2022-12-20T23:11:09.884Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20128767",
+      "fullName": "GEORGINA JOSEFINA ASCANIO GARCIA",
+      "phoneNumber": "+584123091076"
+    },
+    "installments": [
+      {
+        "id": "9745",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:11:38.439Z",
+        "amount": 10.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9742",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:11:38.439Z",
+        "amount": 32.9,
+        "status": "DONE"
+      },
+      {
+        "id": "9743",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:11:38.439Z",
+        "amount": 10.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9744",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:11:38.439Z",
+        "amount": 10.966666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

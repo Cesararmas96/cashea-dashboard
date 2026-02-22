@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:59:03.326Z",
+  "id": "5138",
+  "amount": 72.76,
+  "invoiceId": "15230",
+  "paidToMerchant": false,
+  "identifierNumber": 5445,
+  "billingDate": "2022-12-26T22:59:03.326Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18039679",
+      "fullName": "DIANA YARITZA TORRES NIEVES",
+      "phoneNumber": "+584241096405"
+    },
+    "installments": [
+      {
+        "id": "17601",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:00:04.020Z",
+        "amount": 12.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17600",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:00:04.020Z",
+        "amount": 12.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17598",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:00:04.020Z",
+        "amount": 36.38,
+        "status": "DONE"
+      },
+      {
+        "id": "17599",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:00:04.020Z",
+        "amount": 12.126666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

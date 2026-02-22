@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:38:09.498Z",
+  "id": "5669",
+  "amount": 63,
+  "invoiceId": "00010466",
+  "paidToMerchant": false,
+  "identifierNumber": 5920,
+  "billingDate": "2022-12-28T23:38:09.498Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25319437",
+      "fullName": "JOSE MANUEL VELASQUEZ SALAZAR",
+      "phoneNumber": "+584248091948"
+    },
+    "installments": [
+      {
+        "id": "19505",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:38:31.622Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19504",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:38:31.622Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19503",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:38:31.622Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19502",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:38:31.623Z",
+        "amount": 31.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

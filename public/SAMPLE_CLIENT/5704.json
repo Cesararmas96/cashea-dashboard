@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:11:16.476Z",
+  "id": "5421",
+  "amount": 40,
+  "invoiceId": "00002350",
+  "paidToMerchant": false,
+  "identifierNumber": 5704,
+  "billingDate": "2022-12-28T17:11:16.476Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29593134",
+      "fullName": "CESAR LEANDRO GARCIA AULAR",
+      "phoneNumber": "+584242388485"
+    },
+    "installments": [
+      {
+        "id": "18622",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:11:43.749Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "18625",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:11:43.748Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18624",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:11:43.748Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18623",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:11:43.748Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

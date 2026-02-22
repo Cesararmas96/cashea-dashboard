@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:58:27.643Z",
+  "id": "2095",
+  "amount": 58.87,
+  "invoiceId": "4036",
+  "paidToMerchant": false,
+  "identifierNumber": 2608,
+  "billingDate": "2022-12-17T22:58:27.643Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13844705",
+      "fullName": "JULIO CESAR APELACUNA VELIZ",
+      "phoneNumber": "+584242087529"
+    },
+    "installments": [
+      {
+        "id": "6817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:58:55.419Z",
+        "amount": 9.813333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:58:55.419Z",
+        "amount": 9.813333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:58:55.419Z",
+        "amount": 9.813333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:58:55.419Z",
+        "amount": 29.43,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

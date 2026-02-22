@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:25:48.684Z",
+  "id": "3173",
+  "amount": 60,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3606,
+  "billingDate": "2022-12-21T20:25:48.684Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "4171049",
+      "fullName": "GUSTAVO ENRIQUE TORRES RAMOS",
+      "phoneNumber": "+584241981425"
+    },
+    "installments": [
+      {
+        "id": "10521",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:27:27.691Z",
+        "amount": 10,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "10518",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:27:27.692Z",
+        "amount": 30,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "10520",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:27:27.691Z",
+        "amount": 10,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "10519",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:27:27.691Z",
+        "amount": 10,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

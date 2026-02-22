@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-28T15:30:52.320Z",
+  "updatedAt": "2025-04-15T15:10:55.765Z",
+  "id": 4902,
+  "name": "El Titular",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a030064e-acd4-403c-bb4f-1c970b8cd086",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "dariangelagonzalezmorales@gmail.com",
+    "legalName": "Dariangela",
+    "phoneNumber": "04149655493"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T15:35:00.368Z",
+      "updatedAt": "2025-03-28T15:35:00.368Z",
+      "id": 12330,
+      "merchantId": 4902,
+      "name": "El Titular Av Circunvalación 2",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6910,
+      "address": {
+        "name": "Av circunvalacion 2, Maracaibo Zulia ",
+        "long": -71.66006250000001,
+        "lat": 10.6514375,
+        "location": "0101000020E61000003AB4C8763EEA51C0A8C64B37894D2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-21T16:57:09.195Z",
+      "updatedAt": "2025-04-21T16:57:09.195Z",
+      "id": 13107,
+      "merchantId": 4902,
+      "name": "VR_El Titular",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6910,
+      "address": {
+        "name": "Av circunvalacion 2, Maracaibo Zulia ",
+        "long": -71.66006250000001,
+        "lat": 10.6514375,
+        "location": "0101000020E61000003AB4C8763EEA51C0A8C64B37894D2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

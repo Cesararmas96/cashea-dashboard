@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:42:07.014Z",
+  "id": "5434",
+  "amount": 31.48,
+  "invoiceId": "00018632",
+  "paidToMerchant": false,
+  "identifierNumber": 5731,
+  "billingDate": "2022-12-28T17:42:07.014Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19721874",
+      "fullName": "ANDERSON REINELD MAYZ PADILLA",
+      "phoneNumber": "+584241567795"
+    },
+    "installments": [
+      {
+        "id": "18673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:42:22.864Z",
+        "amount": 5.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:42:22.865Z",
+        "amount": 15.74,
+        "status": "DONE"
+      },
+      {
+        "id": "18672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:42:22.864Z",
+        "amount": 5.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:42:22.864Z",
+        "amount": 5.246666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T01:10:22.581Z",
+  "id": "1524",
+  "amount": 55.09,
+  "invoiceId": "6086",
+  "paidToMerchant": false,
+  "identifierNumber": 2154,
+  "billingDate": "2022-12-15T01:10:22.581Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12917211",
+      "fullName": "DANIEL JOSE GALEANO MAESTRE",
+      "phoneNumber": "+584141046421"
+    },
+    "installments": [
+      {
+        "id": "4933",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T01:11:25.234Z",
+        "amount": 9.180000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4930",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T01:11:25.235Z",
+        "amount": 27.55,
+        "status": "DONE"
+      },
+      {
+        "id": "4931",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T01:11:25.234Z",
+        "amount": 9.180000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4932",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T01:11:25.234Z",
+        "amount": 9.180000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

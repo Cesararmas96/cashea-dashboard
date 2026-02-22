@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:27:56.119Z",
+  "id": "3012",
+  "amount": 80,
+  "invoiceId": "1770",
+  "paidToMerchant": false,
+  "identifierNumber": 3533,
+  "billingDate": "2022-12-21T00:27:56.119Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20192166",
+      "fullName": "ELIAS JOSE MAGALLANES ACOSTA",
+      "phoneNumber": "+584242826756"
+    },
+    "installments": [
+      {
+        "id": "9954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:29:22.203Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "9957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:29:22.203Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:29:22.203Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:29:22.203Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

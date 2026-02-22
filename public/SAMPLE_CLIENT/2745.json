@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T18:37:15.430Z",
+  "id": "2221",
+  "amount": 60.49,
+  "invoiceId": "6477",
+  "paidToMerchant": false,
+  "identifierNumber": 2745,
+  "billingDate": "2022-12-18T18:37:15.430Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "84585282",
+      "fullName": "GIOVANNI MARIO VILLAFAÑA MOLINA",
+      "phoneNumber": "+584126351222"
+    },
+    "installments": [
+      {
+        "id": "7265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T18:38:46.002Z",
+        "amount": 10.08,
+        "status": "DONE"
+      },
+      {
+        "id": "7262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T18:38:46.003Z",
+        "amount": 30.25,
+        "status": "DONE"
+      },
+      {
+        "id": "7264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T18:38:46.002Z",
+        "amount": 10.08,
+        "status": "DONE"
+      },
+      {
+        "id": "7263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T18:38:46.002Z",
+        "amount": 10.08,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

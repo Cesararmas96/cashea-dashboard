@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T21:57:30.174Z",
+  "id": "2879",
+  "amount": 47.51,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3354,
+  "billingDate": "2022-12-20T21:57:30.174Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17708476",
+      "fullName": "EDIXON JOSE ALCALA ROJAS",
+      "phoneNumber": "+584249455077"
+    },
+    "installments": [
+      {
+        "id": "9486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:58:00.908Z",
+        "amount": 23.75,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:58:00.907Z",
+        "amount": 7.919999999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:58:00.907Z",
+        "amount": 7.919999999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:58:00.907Z",
+        "amount": 7.919999999999999,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

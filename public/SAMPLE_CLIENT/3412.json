@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:13:29.088Z",
+  "id": "2955",
+  "amount": 99.36,
+  "invoiceId": "00001811",
+  "paidToMerchant": false,
+  "identifierNumber": 3412,
+  "billingDate": "2022-12-20T23:13:29.088Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9737466",
+      "fullName": "SOL MARIA DE SAN JUDAS STHORMES BOLIVAR",
+      "phoneNumber": "+584143617777"
+    },
+    "installments": [
+      {
+        "id": "9750",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:14:15.549Z",
+        "amount": 49.68,
+        "status": "DONE"
+      },
+      {
+        "id": "9751",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:14:15.549Z",
+        "amount": 16.56,
+        "status": "DONE"
+      },
+      {
+        "id": "9753",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:14:15.549Z",
+        "amount": 16.56,
+        "status": "DONE"
+      },
+      {
+        "id": "9752",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:14:15.549Z",
+        "amount": 16.56,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T19:39:21.517Z",
+  "id": "612",
+  "amount": 55.5,
+  "invoiceId": "4955",
+  "paidToMerchant": false,
+  "identifierNumber": 1360,
+  "billingDate": "2022-12-03T19:39:21.517Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15567483",
+      "fullName": "FRANCY CAROLINA GUERRERO HERNANDEZ",
+      "phoneNumber": "+584140773151"
+    },
+    "installments": [
+      {
+        "id": "1957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T19:40:20.117Z",
+        "amount": 9.25,
+        "status": "DONE"
+      },
+      {
+        "id": "1954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T19:40:20.118Z",
+        "amount": 27.75,
+        "status": "DONE"
+      },
+      {
+        "id": "1956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T19:40:20.117Z",
+        "amount": 9.25,
+        "status": "DONE"
+      },
+      {
+        "id": "1955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T19:40:20.117Z",
+        "amount": 9.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

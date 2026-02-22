@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T20:11:10.698Z",
+  "id": "2547",
+  "amount": 34.09,
+  "invoiceId": "17965",
+  "paidToMerchant": false,
+  "identifierNumber": 3036,
+  "billingDate": "2022-12-19T20:11:10.698Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-02-02T04:00:00.335+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "8361",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14451591",
+      "fullName": "DAYANA MARGARITA AYALA MACHADO",
+      "phoneNumber": "+584241533860"
+    },
+    "installments": [
+      {
+        "id": "8361",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T20:11:49.368Z",
+        "amount": 5.680000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "8359",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T20:11:49.368Z",
+        "amount": 5.680000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "8358",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T20:11:49.369Z",
+        "amount": 17.05,
+        "status": "DONE"
+      },
+      {
+        "id": "8360",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T20:11:49.368Z",
+        "amount": 5.680000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

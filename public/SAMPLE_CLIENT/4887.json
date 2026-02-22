@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T14:35:30.850Z",
+  "id": "4533",
+  "amount": 38.49,
+  "invoiceId": "7323",
+  "paidToMerchant": false,
+  "identifierNumber": 4887,
+  "billingDate": "2022-12-24T14:35:30.850Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17158447",
+      "fullName": "ANGEL IVAN CARDENAS VERA",
+      "phoneNumber": "+584126030329"
+    },
+    "installments": [
+      {
+        "id": "15465",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T14:35:55.015Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15462",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T14:35:55.016Z",
+        "amount": 19.25,
+        "status": "DONE"
+      },
+      {
+        "id": "15464",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T14:35:55.015Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15463",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T14:35:55.015Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-07T19:27:01.488Z",
+  "id": "846",
+  "amount": 55.27,
+  "invoiceId": "00000940",
+  "paidToMerchant": false,
+  "identifierNumber": 1544,
+  "billingDate": "2022-12-07T19:27:01.488Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "58",
+    "buyDebtDate": "2023-01-07T04:00:00.529+00:00",
+    "lastStoreId": 44,
+    "boughtForInstallmentId": "2712",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18589813",
+      "fullName": "JESSICA CAROLINA PAZOS FRICANO",
+      "phoneNumber": "+584142244444"
+    },
+    "installments": [
+      {
+        "id": "2712",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T19:27:20.207Z",
+        "amount": 9.21,
+        "status": "DONE"
+      },
+      {
+        "id": "2711",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T19:27:20.207Z",
+        "amount": 9.21,
+        "status": "DONE"
+      },
+      {
+        "id": "2713",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T19:27:20.207Z",
+        "amount": 9.21,
+        "status": "DONE"
+      },
+      {
+        "id": "2710",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T19:27:20.208Z",
+        "amount": 27.64,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

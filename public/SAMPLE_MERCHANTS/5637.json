@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-08T16:42:47.137Z",
+  "updatedAt": "2025-05-08T16:42:47.137Z",
+  "id": 5637,
+  "name": "Swin",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9b450b5b-2bc9-4ff0-8048-aad6be57cf5c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "eric_beord@hotmail.com",
+    "legalName": "ERIC JACQUES",
+    "phoneNumber": "4127946971"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T16:45:24.597Z",
+      "updatedAt": "2025-05-08T16:45:24.597Z",
+      "id": 13827,
+      "merchantId": 5637,
+      "name": "Swin  Edif Swin Boleita Norte",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5572,
+      "address": {
+        "name": "EDF. SWIM, CALLE E, BOLEITA NORTE - CARACAS, SUCRE",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-30T15:17:36.353Z",
+      "updatedAt": "2025-07-30T15:17:36.353Z",
+      "id": 18303,
+      "merchantId": 5637,
+      "name": "VR_Swin, CALLE E, BOLEITA NORTE",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5572,
+      "address": {
+        "name": "EDF. SWIM, CALLE E, BOLEITA NORTE - CARACAS, SUCRE",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

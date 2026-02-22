@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T22:05:52.415Z",
+  "id": "4222",
+  "amount": 177.41,
+  "invoiceId": "49186",
+  "paidToMerchant": false,
+  "identifierNumber": 4578,
+  "billingDate": "2022-12-23T22:05:52.415Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-23T04:00:01.317+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "14308",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29577685",
+      "fullName": "GENESIS ANDREA GONZALEZ CONTRERAS",
+      "phoneNumber": "+584241981898"
+    },
+    "installments": [
+      {
+        "id": "14309",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:07:32.702Z",
+        "amount": 29.569999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "14308",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:07:32.702Z",
+        "amount": 29.569999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "14306",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:07:32.702Z",
+        "amount": 88.7,
+        "status": "DONE"
+      },
+      {
+        "id": "14307",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:07:32.702Z",
+        "amount": 29.569999999999997,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

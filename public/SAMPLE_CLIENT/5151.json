@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T21:35:06.608Z",
+  "id": "4926",
+  "amount": 40.28,
+  "invoiceId": "50568",
+  "paidToMerchant": false,
+  "identifierNumber": 5151,
+  "billingDate": "2022-12-24T21:35:06.608Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-10T04:00:01.107+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "16887",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17029668",
+      "fullName": "JHON CARLOS GARZON MORENO",
+      "phoneNumber": "+584120648217"
+    },
+    "installments": [
+      {
+        "id": "16888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:35:46.135Z",
+        "amount": 6.713333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:35:46.135Z",
+        "amount": 6.713333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:35:46.135Z",
+        "amount": 20.14,
+        "status": "DONE"
+      },
+      {
+        "id": "16887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:35:46.135Z",
+        "amount": 6.713333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

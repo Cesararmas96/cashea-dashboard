@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T23:42:10.691Z",
+  "id": "435",
+  "amount": 61,
+  "invoiceId": "1F3203-0005",
+  "paidToMerchant": false,
+  "identifierNumber": 1342,
+  "billingDate": "2022-11-19T23:42:10.691Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19720915",
+      "fullName": "PABLO DANIEL ANDREA DOBARRO DURAN",
+      "phoneNumber": "+584143056079"
+    },
+    "installments": [
+      {
+        "id": "1342",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T23:42:37.202Z",
+        "amount": 30.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1344",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T23:42:37.202Z",
+        "amount": 10.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1345",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T23:42:37.202Z",
+        "amount": 10.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1343",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T23:42:37.202Z",
+        "amount": 10.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 35,
+    "name": "A1WIN Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:09:40.837Z",
+  "id": "2135",
+  "amount": 94.99,
+  "invoiceId": "6403",
+  "paidToMerchant": false,
+  "identifierNumber": 3480,
+  "billingDate": "2022-12-18T00:09:40.837Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26838829",
+      "fullName": "ANTONY BRAYANT JUVINAO NINO",
+      "phoneNumber": "+584242845726"
+    },
+    "installments": [
+      {
+        "id": "6962",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:10:25.483Z",
+        "amount": 47.49,
+        "status": "DONE"
+      },
+      {
+        "id": "6964",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:10:25.483Z",
+        "amount": 15.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6963",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:10:25.483Z",
+        "amount": 15.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6965",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:10:25.483Z",
+        "amount": 15.83333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:52:09.874Z",
+  "id": "5476",
+  "amount": 42,
+  "invoiceId": "00015411",
+  "paidToMerchant": false,
+  "identifierNumber": 5768,
+  "billingDate": "2022-12-28T18:52:09.874Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20027579",
+      "fullName": "VICTOR EDUARDO RODRIGUEZ VIELMA",
+      "phoneNumber": "+584127021288"
+    },
+    "installments": [
+      {
+        "id": "18810",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:52:56.479Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "18813",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:52:56.478Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "18812",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:52:56.478Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "18811",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:52:56.478Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

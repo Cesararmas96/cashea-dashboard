@@ -1,0 +1,151 @@
+{
+  "createdAt": "2025-04-23T12:50:26.010Z",
+  "updatedAt": "2025-07-03T13:06:52.347Z",
+  "id": 5325,
+  "name": "Ferreteria Duri",
+  "ecommerceUrl": null,
+  "changePolicy": "•\tEspecificar claramente las condiciones y el estado en el que debe encontrarse el producto para su cambio o devolución: Para devoluciones, el producto debe mantenerse en buen estado.\n•\tIncluir los plazos en los que se puede solicitar un cambio o devolución: No realizamos devoluciones, salvo que el producto tenga garantía.\n•\tDetallar el proceso para solicitar un cambio o devolución: El producto debe contar con garantía para poder gestionar el cambio o devolución.\n•\tEspecificar en qué casos el cliente puede optar por un cambio y en cuáles por una devolución: El producto debe estar en el mejor estado posible y contar con garantía. Además, siempre confirmamos con el cliente si el producto es el correcto que necesita, para evitar futuras devoluciones.\n•\tIndicar si existen condiciones especiales para ciertos productos en los que no se realizan cambios (por ejemplo, productos en oferta): NO se realizan cambios en productos en oferta.\n\nPolíticas de Envíos\n\nEl tiempo estimado de entrega es de 15 a 35 minutos, con precios de envío que varían según la ubicación, principalmente dentro de Caracas. No aplican restricciones específicas para la entrega, y actualmente no trabajamos con ninguna empresa de envío. También ofrecemos la opción de retiro en la Ferretería Duri, garantizando que el producto esté disponible en esa sucursal para quienes elijan recogerlo allí.",
+  "email": "duri.ventas@gmail.com",
+  "phoneNumber": "+584120840144",
+  "logoUrl": null,
+  "data": {
+    "rif": "J001427228"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "54d40ef0-4a6d-445e-9cb2-2156b1f2a961",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "duri.ferreteria@gmail.com",
+    "legalName": "Jose",
+    "phoneNumber": "4242518805"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T12:51:46.537Z",
+      "updatedAt": "2025-04-23T12:51:46.537Z",
+      "id": 13165,
+      "merchantId": 5325,
+      "name": "Ferreteria Duri La Urbina",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5268,
+      "address": {
+        "name": "La urbina, avenida principal con calle 13, local 4",
+        "long": -66.80868749999999,
+        "lat": 10.483562500000005,
+        "location": "0101000020E6100000C64B3789C1B350C0E024068195F72440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-10T13:42:46.459Z",
+      "updatedAt": "2025-07-10T13:42:46.459Z",
+      "id": 17128,
+      "merchantId": 5325,
+      "name": "VR_Ferreteria Duri, avenida principal con calle 13",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5268,
+      "address": {
+        "name": "La urbina, avenida principal con calle 13, local 4",
+        "long": -66.80868749999999,
+        "lat": 10.483562500000005,
+        "location": "0101000020E6100000C64B3789C1B350C0E024068195F72440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-30T16:17:04.582Z",
+      "updatedAt": "2025-06-30T16:17:04.582Z",
+      "id": 16559,
+      "merchantId": 5325,
+      "name": "Ferreteria Duri Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5268,
+      "address": {
+        "name": "El tiempo de entrega es de 15-35 minutos, con costos variables dentro de Caracas. Sin restricciones de entrega, y también ofrecemos retiro en la Ferretería Duri, donde garantizamos disponibilidad del producto.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

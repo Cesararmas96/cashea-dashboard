@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:11:15.356Z",
+  "id": "5647",
+  "amount": 43.69,
+  "invoiceId": "00002397",
+  "paidToMerchant": false,
+  "identifierNumber": 5915,
+  "billingDate": "2022-12-28T23:11:15.356Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11798539",
+      "fullName": "ALWIN JOSE ABREU BARRETO",
+      "phoneNumber": "+584142397570"
+    },
+    "installments": [
+      {
+        "id": "19430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:11:29.755Z",
+        "amount": 21.84,
+        "status": "DONE"
+      },
+      {
+        "id": "19433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:11:29.755Z",
+        "amount": 7.283333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:11:29.755Z",
+        "amount": 7.283333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:11:29.755Z",
+        "amount": 7.283333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

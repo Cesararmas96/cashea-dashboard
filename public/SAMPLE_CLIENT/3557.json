@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T19:26:49.062Z",
+  "id": "3146",
+  "amount": 40.89,
+  "invoiceId": "00001856",
+  "paidToMerchant": false,
+  "identifierNumber": 3557,
+  "billingDate": "2022-12-21T19:26:49.062Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27482873",
+      "fullName": "REIDIMAR BETZAI MEDINA ISTURIZ",
+      "phoneNumber": "+584129259277"
+    },
+    "installments": [
+      {
+        "id": "10414",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T19:27:19.759Z",
+        "amount": 20.45,
+        "status": "DONE"
+      },
+      {
+        "id": "10417",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T19:27:19.758Z",
+        "amount": 6.8133333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "10416",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T19:27:19.758Z",
+        "amount": 6.8133333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "10415",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T19:27:19.758Z",
+        "amount": 6.8133333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-30T01:22:56.518Z",
+  "id": "11468",
+  "amount": 111.94,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1683,
+  "billingDate": "2023-01-30T01:22:56.518Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18304769",
+      "fullName": "ALBEMIR NAZARETH LANDAEZ PIMENTEL",
+      "phoneNumber": "+584143652129"
+    },
+    "installments": [
+      {
+        "id": "35125",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T01:22:56.567Z",
+        "amount": 18.656666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35122",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T01:22:56.569Z",
+        "amount": 55.97,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35123",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T01:22:56.567Z",
+        "amount": 18.656666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35124",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T01:22:56.567Z",
+        "amount": 18.656666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 114,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2772,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

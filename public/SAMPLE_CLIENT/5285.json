@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-16T21:26:53.399Z",
+  "id": "8655",
+  "amount": 99.03,
+  "invoiceId": "308131",
+  "paidToMerchant": false,
+  "identifierNumber": 5285,
+  "billingDate": "2023-01-16T21:26:53.399Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "50",
+    "buyDebtDate": "2023-02-16T04:00:00.298+00:00",
+    "lastStoreId": 36,
+    "boughtForInstallmentId": "29916",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20375186",
+      "fullName": "ALEJANDRO ENRIQUE FUENTES LUCIANI",
+      "phoneNumber": "+584248290555"
+    },
+    "installments": [
+      {
+        "id": "29916",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T21:28:07.450Z",
+        "amount": 16.503333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "29917",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T21:28:07.450Z",
+        "amount": 16.503333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "29914",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T21:28:07.451Z",
+        "amount": 49.52,
+        "status": "DONE"
+      },
+      {
+        "id": "29915",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T21:28:07.450Z",
+        "amount": 16.503333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

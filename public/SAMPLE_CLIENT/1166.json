@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-31T19:38:09.953Z",
+  "id": "7020",
+  "amount": 53.27,
+  "invoiceId": "01211",
+  "paidToMerchant": false,
+  "identifierNumber": 1166,
+  "billingDate": "2022-12-31T19:38:09.953Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26809002",
+      "fullName": "JAIRO SAMUEL MONTES CHIPANTIZA",
+      "phoneNumber": "+584241596949"
+    },
+    "installments": [
+      {
+        "id": "24296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T19:38:34.794Z",
+        "amount": 8.876666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T19:38:34.794Z",
+        "amount": 26.64,
+        "status": "DONE"
+      },
+      {
+        "id": "24297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T19:38:34.794Z",
+        "amount": 8.876666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T19:38:34.794Z",
+        "amount": 8.876666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

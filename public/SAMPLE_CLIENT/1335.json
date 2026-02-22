@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-20T22:40:04.860Z",
+  "id": "444",
+  "amount": 148.31,
+  "invoiceId": "6736",
+  "paidToMerchant": false,
+  "identifierNumber": 1335,
+  "billingDate": "2022-11-20T22:40:04.860Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16750393",
+      "fullName": "JORGE SANDINO RIPLEY PICON",
+      "phoneNumber": "+584127096123"
+    },
+    "installments": [
+      {
+        "id": "1370",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-20T22:40:12.526Z",
+        "amount": 74.16,
+        "status": "DONE"
+      },
+      {
+        "id": "1373",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-01T22:40:12.525Z",
+        "amount": 24.71666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1372",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-18T22:40:12.525Z",
+        "amount": 24.71666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1371",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-04T22:40:12.525Z",
+        "amount": 24.71666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

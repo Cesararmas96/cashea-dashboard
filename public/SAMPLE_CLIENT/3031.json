@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T19:59:38.313Z",
+  "id": "2540",
+  "amount": 162.17,
+  "invoiceId": "13587",
+  "paidToMerchant": false,
+  "identifierNumber": 3031,
+  "billingDate": "2022-12-19T19:59:38.313Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20272782",
+      "fullName": "HENRY ANTON O ELLGALLEGOS FIG EROA",
+      "phoneNumber": "+584122648706"
+    },
+    "installments": [
+      {
+        "id": "8342",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T20:01:26.814Z",
+        "amount": 81.08,
+        "status": "DONE"
+      },
+      {
+        "id": "8345",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T20:01:26.813Z",
+        "amount": 27.029999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "8344",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T20:01:26.813Z",
+        "amount": 27.029999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "8343",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T20:01:26.813Z",
+        "amount": 27.029999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

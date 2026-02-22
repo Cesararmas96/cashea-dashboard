@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-09T19:29:39.930Z",
+  "id": "95",
+  "amount": 149,
+  "invoiceId": "1198",
+  "paidToMerchant": false,
+  "identifierNumber": 1175,
+  "billingDate": "2022-10-09T19:29:39.930Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "8991202",
+      "fullName": "LUIS HORACIO DIAZ VELAZCO",
+      "phoneNumber": "+584141373233"
+    },
+    "installments": [
+      {
+        "id": "301",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-09T19:31:21.997Z",
+        "amount": 74.5,
+        "status": "DONE"
+      },
+      {
+        "id": "303",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-06T19:31:21.997Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "304",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-20T19:31:21.997Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "302",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-23T19:31:21.997Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

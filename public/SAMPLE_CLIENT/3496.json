@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:07:32.973Z",
+  "id": "2997",
+  "amount": 39.99,
+  "invoiceId": "14667",
+  "paidToMerchant": false,
+  "identifierNumber": 3496,
+  "billingDate": "2022-12-21T00:07:32.973Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20803382",
+      "fullName": "ZORAIDA ESTHER MENDOZA MALDONADO",
+      "phoneNumber": "+584241726168"
+    },
+    "installments": [
+      {
+        "id": "9893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:07:45.799Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:07:45.800Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "9891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:07:45.799Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:07:45.799Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

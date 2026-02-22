@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T22:08:16.254Z",
+  "id": "5281",
+  "amount": 46.04,
+  "invoiceId": "44734",
+  "paidToMerchant": false,
+  "identifierNumber": 5595,
+  "billingDate": "2022-12-27T22:08:16.254Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14567936",
+      "fullName": "LORENA DEL CARMEN MACHIN ALVAREZ",
+      "phoneNumber": "+584123098084"
+    },
+    "installments": [
+      {
+        "id": "18129",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T22:08:40.242Z",
+        "amount": 7.673333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18126",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T22:08:40.242Z",
+        "amount": 23.02,
+        "status": "DONE"
+      },
+      {
+        "id": "18128",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T22:08:40.242Z",
+        "amount": 7.673333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18127",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T22:08:40.242Z",
+        "amount": 7.673333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-05T15:29:45.282Z",
+  "updatedAt": "2025-05-23T19:15:44.750Z",
+  "id": 5522,
+  "name": "IP5 FERRETERIA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ea626117-6d27-4ffd-b490-00253da42274",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ferreteriaip5@gmail.com",
+    "legalName": "Richard",
+    "phoneNumber": "04125298065"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-06T23:39:34.586Z",
+      "updatedAt": "2025-07-06T23:39:34.586Z",
+      "id": 16863,
+      "merchantId": 5522,
+      "name": "VR_IP5 FERRETERIA, AV JOSE MARIA ESPAÑA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5281,
+      "address": {
+        "name": "AV JOSE MARIA ESPAÑA, PALMAR ESTE, CARIBE",
+        "long": -66.84625,
+        "lat": 10.616249999999994,
+        "location": "0101000020E61000005C8FC2F528B650C0E851B81E853B2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T15:32:21.072Z",
+      "updatedAt": "2025-05-05T15:32:21.072Z",
+      "id": 13572,
+      "merchantId": 5522,
+      "name": "IP5 FERRETERIA La Guaira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5281,
+      "address": {
+        "name": "AV JOSE MARIA ESPAÑA, PALMAR ESTE, CARIBE",
+        "long": -66.84625,
+        "lat": 10.616249999999994,
+        "location": "0101000020E61000005C8FC2F528B650C0E851B81E853B2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

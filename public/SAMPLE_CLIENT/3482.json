@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:19:34.530Z",
+  "id": "3005",
+  "amount": 92.09,
+  "invoiceId": "00001818",
+  "paidToMerchant": false,
+  "identifierNumber": 3482,
+  "billingDate": "2022-12-21T00:19:34.530Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30308799",
+      "fullName": "ANDREA CRISELY YANEZ PEREZ",
+      "phoneNumber": "+584166228650"
+    },
+    "installments": [
+      {
+        "id": "9922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:20:22.446Z",
+        "amount": 46.05,
+        "status": "DONE"
+      },
+      {
+        "id": "9925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:20:22.446Z",
+        "amount": 15.34666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:20:22.446Z",
+        "amount": 15.34666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:20:22.446Z",
+        "amount": 15.34666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

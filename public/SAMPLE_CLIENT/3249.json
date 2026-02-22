@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:20:02.550Z",
+  "id": "2763",
+  "amount": 36.05,
+  "invoiceId": "12197",
+  "paidToMerchant": false,
+  "identifierNumber": 3249,
+  "billingDate": "2022-12-20T18:20:02.550Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10078683",
+      "fullName": "OLGA MARINA AULAR REBOLLEDO",
+      "phoneNumber": "+584241829784"
+    },
+    "installments": [
+      {
+        "id": "9105",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:20:12.839Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9102",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:20:12.840Z",
+        "amount": 18.02,
+        "status": "DONE"
+      },
+      {
+        "id": "9104",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:20:12.839Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9103",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:20:12.839Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

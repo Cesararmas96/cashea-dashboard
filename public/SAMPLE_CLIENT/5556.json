@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T18:27:45.815Z",
+  "id": "5225",
+  "amount": 63,
+  "invoiceId": "10377",
+  "paidToMerchant": false,
+  "identifierNumber": 5556,
+  "billingDate": "2022-12-27T18:27:45.815Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "74",
+    "buyDebtDate": "2023-01-27T04:00:00.322+00:00",
+    "lastStoreId": 61,
+    "boughtForInstallmentId": "17908",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16556059",
+      "fullName": "RICARDO DAVID NUNEZ CHACON",
+      "phoneNumber": "+584242031127"
+    },
+    "installments": [
+      {
+        "id": "17909",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T18:28:40.288Z",
+        "amount": 10.5,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17908",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T18:28:40.288Z",
+        "amount": 10.5,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17906",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T18:28:40.288Z",
+        "amount": 31.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17907",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T18:28:40.288Z",
+        "amount": 10.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

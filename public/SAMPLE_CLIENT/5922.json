@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T23:12:12.589Z",
+  "id": "5648",
+  "amount": 45.49,
+  "invoiceId": "13393",
+  "paidToMerchant": false,
+  "identifierNumber": 5922,
+  "billingDate": "2022-12-28T23:12:12.589Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-14T04:00:00.570+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "19435",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13636795",
+      "fullName": "FRANCYS AMERICA DOMMAR DE TEIXEIRA",
+      "phoneNumber": "+584120113495"
+    },
+    "installments": [
+      {
+        "id": "19436",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:12:28.741Z",
+        "amount": 7.580000000000001,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19435",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:12:28.741Z",
+        "amount": 7.580000000000001,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19437",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:12:28.741Z",
+        "amount": 7.580000000000001,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19434",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:12:28.741Z",
+        "amount": 22.75,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

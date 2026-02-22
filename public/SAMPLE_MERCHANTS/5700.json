@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-12T14:19:20.702Z",
+  "updatedAt": "2025-05-13T22:37:17.066Z",
+  "id": 5700,
+  "name": "El Nogal",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4aadd563-1a87-4bf2-b0d9-2d001f3c28de",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "saadjoseph99@gmail.com",
+    "legalName": "Joseph",
+    "phoneNumber": "04126045970"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T14:35:32.949Z",
+      "updatedAt": "2025-05-12T14:35:32.949Z",
+      "id": 13961,
+      "merchantId": 5700,
+      "name": "El Nogal San Martin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6833,
+      "address": {
+        "name": "Av san martin una cuadra arriba de plaza capuchinos",
+        "long": -66.9239375,
+        "lat": 10.499562499999996,
+        "location": "0101000020E61000001283C0CA21BB50C0B09DEFA7C6FF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-05T17:34:46.561Z",
+      "updatedAt": "2025-06-05T17:34:46.561Z",
+      "id": 15254,
+      "merchantId": 5700,
+      "name": "VR_El Nogal",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6833,
+      "address": {
+        "name": "Av san martin una cuadra arriba de plaza capuchinos",
+        "long": -66.9239375,
+        "lat": 10.499562499999996,
+        "location": "0101000020E61000001283C0CA21BB50C0B09DEFA7C6FF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

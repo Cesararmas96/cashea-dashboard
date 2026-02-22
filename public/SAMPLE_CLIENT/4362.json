@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T16:36:40.947Z",
+  "id": "3928",
+  "amount": 65,
+  "invoiceId": "3286",
+  "paidToMerchant": false,
+  "identifierNumber": 4362,
+  "billingDate": "2022-12-23T16:36:40.947Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6306899",
+      "fullName": "GLADYS LEONOR DUARTE CALVO",
+      "phoneNumber": "+584149141088"
+    },
+    "installments": [
+      {
+        "id": "13238",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T16:38:05.574Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "13241",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T16:38:05.573Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13240",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T16:38:05.573Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13239",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T16:38:05.573Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

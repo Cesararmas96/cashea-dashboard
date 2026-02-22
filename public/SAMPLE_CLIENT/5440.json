@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T23:54:17.020Z",
+  "id": "5158",
+  "amount": 32.03,
+  "invoiceId": "00002280",
+  "paidToMerchant": false,
+  "identifierNumber": 5440,
+  "billingDate": "2022-12-26T23:54:17.020Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12061397",
+      "fullName": "JENNY ANTONIETA CARDOZO VARGAS",
+      "phoneNumber": "+584143074942"
+    },
+    "installments": [
+      {
+        "id": "17666",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:54:47.834Z",
+        "amount": 16.02,
+        "status": "DONE"
+      },
+      {
+        "id": "17669",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:54:47.834Z",
+        "amount": 5.336666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17668",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:54:47.834Z",
+        "amount": 5.336666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17667",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:54:47.834Z",
+        "amount": 5.336666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

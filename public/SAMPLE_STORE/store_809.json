@@ -1,0 +1,110 @@
+[
+  {
+    "id": 20998,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J503636742",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AEREO TIMB, C.A.",
+    "internalBankHolder": "AEREO TIMB, C.A.",
+    "account": "01910098702198490968",
+    "accountType": "Corriente",
+    "phoneNumber": "4122216368",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 20996,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J503636742",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AEREO TIMB, C.A.",
+    "internalBankHolder": "AEREO TIMB, C.A.",
+    "account": "01910098702198490968",
+    "accountType": "Corriente",
+    "phoneNumber": "4122216368",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 20997,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J503636742",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AEREO TIMB, C.A.",
+    "internalBankHolder": "AEREO TIMB, C.A.",
+    "account": "01910098702198490968",
+    "accountType": "Corriente",
+    "phoneNumber": "4122216368",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

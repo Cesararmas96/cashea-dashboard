@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T23:15:52.360Z",
+  "id": "1135",
+  "amount": 70,
+  "invoiceId": "00000919",
+  "paidToMerchant": false,
+  "identifierNumber": 1767,
+  "billingDate": "2022-12-10T23:15:52.360Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15327052",
+      "fullName": "CARLOS JULIO PEREZ BUSTAMANTE",
+      "phoneNumber": "+584126219091"
+    },
+    "installments": [
+      {
+        "id": "3629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T23:18:11.715Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T23:18:11.715Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T23:18:11.715Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T23:18:11.715Z",
+        "amount": 35,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

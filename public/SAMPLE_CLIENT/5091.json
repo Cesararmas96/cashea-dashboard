@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:15:37.973Z",
+  "id": "4854",
+  "amount": 112.09,
+  "invoiceId": "15121",
+  "paidToMerchant": false,
+  "identifierNumber": 5091,
+  "billingDate": "2022-12-24T20:15:37.973Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6095425",
+      "fullName": "JUAN CARLOS ORTIZ",
+      "phoneNumber": "+584122383802"
+    },
+    "installments": [
+      {
+        "id": "16626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:16:00.742Z",
+        "amount": 56.05,
+        "status": "DONE"
+      },
+      {
+        "id": "16629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:16:00.742Z",
+        "amount": 18.680000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:16:00.742Z",
+        "amount": 18.680000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:16:00.742Z",
+        "amount": 18.680000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

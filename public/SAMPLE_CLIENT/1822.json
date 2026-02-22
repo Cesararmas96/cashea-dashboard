@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T00:23:10.412Z",
+  "id": "1159",
+  "amount": 141.43,
+  "invoiceId": "00001238",
+  "paidToMerchant": false,
+  "identifierNumber": 1822,
+  "billingDate": "2022-12-11T00:23:10.412Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16092757",
+      "fullName": "YERLIN LINA MELO BRICENO",
+      "phoneNumber": "+584241709358"
+    },
+    "installments": [
+      {
+        "id": "3698",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T00:25:26.452Z",
+        "amount": 70.72,
+        "status": "DONE"
+      },
+      {
+        "id": "3700",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T00:25:26.452Z",
+        "amount": 23.570000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "3701",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T00:25:26.452Z",
+        "amount": 23.570000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "3699",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T00:25:26.452Z",
+        "amount": 23.570000000000004,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

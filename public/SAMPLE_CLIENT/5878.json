@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:34:12.172Z",
+  "id": "5615",
+  "amount": 50.65,
+  "invoiceId": "13944",
+  "paidToMerchant": false,
+  "identifierNumber": 5878,
+  "billingDate": "2022-12-28T22:34:12.172Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24884790",
+      "fullName": "LUIS ALEJANDRO CHARMELO CAMACHO",
+      "phoneNumber": "+584242340170"
+    },
+    "installments": [
+      {
+        "id": "19310",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:37:17.729Z",
+        "amount": 25.32,
+        "status": "DONE"
+      },
+      {
+        "id": "19312",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:37:17.728Z",
+        "amount": 8.443333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19311",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:37:17.728Z",
+        "amount": 8.443333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19313",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:37:17.728Z",
+        "amount": 8.443333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

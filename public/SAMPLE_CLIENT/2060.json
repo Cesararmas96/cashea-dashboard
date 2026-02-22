@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T20:20:04.431Z",
+  "id": "1449",
+  "amount": 50.74,
+  "invoiceId": "14177",
+  "paidToMerchant": false,
+  "identifierNumber": 2060,
+  "billingDate": "2022-12-14T20:20:04.431Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11831825",
+      "fullName": "JOSE VICENTE MOYA",
+      "phoneNumber": "+584126389222"
+    },
+    "installments": [
+      {
+        "id": "4677",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T20:21:29.776Z",
+        "amount": 8.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4674",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T20:21:29.777Z",
+        "amount": 25.37,
+        "status": "DONE"
+      },
+      {
+        "id": "4676",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T20:21:29.776Z",
+        "amount": 8.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4675",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T20:21:29.776Z",
+        "amount": 8.456666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

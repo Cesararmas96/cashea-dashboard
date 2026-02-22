@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T22:54:02.379Z",
+  "id": "1490",
+  "amount": 60,
+  "invoiceId": "00001215",
+  "paidToMerchant": false,
+  "identifierNumber": 5632,
+  "billingDate": "2022-12-14T22:54:02.379Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27513585",
+      "fullName": "CARLOS EDUARDO GAZZOTTI CONTE",
+      "phoneNumber": "+584141740200"
+    },
+    "installments": [
+      {
+        "id": "4814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T22:54:31.200Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "4816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T22:54:31.200Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "4815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T22:54:31.200Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "4817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T22:54:31.200Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

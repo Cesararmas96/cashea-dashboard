@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T22:56:09.277Z",
+  "id": "4971",
+  "amount": 41.86,
+  "invoiceId": "18612",
+  "paidToMerchant": false,
+  "identifierNumber": 5195,
+  "billingDate": "2022-12-24T22:56:09.277Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-10T04:00:01.186+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "17043",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19560600",
+      "fullName": "JIMBER ENRIQUE ROJAS JIMENEZ",
+      "phoneNumber": "+584125945042"
+    },
+    "installments": [
+      {
+        "id": "17044",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:56:18.908Z",
+        "amount": 6.976666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17043",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:56:18.908Z",
+        "amount": 6.976666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17045",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:56:18.908Z",
+        "amount": 6.976666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17042",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:56:18.908Z",
+        "amount": 20.93,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

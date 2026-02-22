@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:35:04.028Z",
+  "id": "3540",
+  "amount": 30,
+  "invoiceId": "00018275",
+  "paidToMerchant": false,
+  "identifierNumber": 3942,
+  "billingDate": "2022-12-22T20:35:04.028Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24888111",
+      "fullName": "WILFREDO JOSE NAVA SANCHEZ",
+      "phoneNumber": "+584149125272"
+    },
+    "installments": [
+      {
+        "id": "11854",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:35:18.006Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "11857",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:35:18.006Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "11855",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:35:18.006Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "11856",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:35:18.006Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

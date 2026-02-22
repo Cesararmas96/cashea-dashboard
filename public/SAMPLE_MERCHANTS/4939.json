@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-01T13:01:49.146Z",
+  "updatedAt": "2025-04-22T20:32:12.477Z",
+  "id": 4939,
+  "name": "MAGIC QUEEN TRADING C",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7a765ec1-6a6a-41a0-aa5c-aedfaf5078c2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "smachta1@gmail.com",
+    "legalName": "Salvador Machta",
+    "phoneNumber": "4142239563"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T13:03:25.171Z",
+      "updatedAt": "2025-04-01T13:03:25.171Z",
+      "id": 12448,
+      "merchantId": 4939,
+      "name": "MAGIC QUEEN TRADING Plaza Venezuela",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11570,
+      "address": {
+        "name": "AV ABRAHAM LINCOLN CON CALLE OLIMPO EDIF TORRE DOMUS PISO 13 OF A SECTOR PLAZA VENEZUELA CARACAS DISTRITO CAPITAL 1050",
+        "long": -66.8819375,
+        "lat": 10.495562500000005,
+        "location": "0101000020E61000006DE7FBA971B850C0803F355EBAFD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

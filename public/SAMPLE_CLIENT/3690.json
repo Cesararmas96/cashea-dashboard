@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:39:26.014Z",
+  "id": "3222",
+  "amount": 74.09,
+  "invoiceId": "00013039",
+  "paidToMerchant": false,
+  "identifierNumber": 3690,
+  "billingDate": "2022-12-21T21:39:26.014Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12627023",
+      "fullName": "GABRIEL JAIME OCAMPO TAMAYO",
+      "phoneNumber": "+584141111080"
+    },
+    "installments": [
+      {
+        "id": "10694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:41:21.691Z",
+        "amount": 37.05,
+        "status": "DONE"
+      },
+      {
+        "id": "10697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:41:21.691Z",
+        "amount": 12.34666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:41:21.691Z",
+        "amount": 12.34666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:41:21.691Z",
+        "amount": 12.34666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

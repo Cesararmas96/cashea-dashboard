@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T20:06:48.326Z",
+  "id": "2543",
+  "amount": 30.44,
+  "invoiceId": "50107",
+  "paidToMerchant": false,
+  "identifierNumber": 3013,
+  "billingDate": "2022-12-19T20:06:48.326Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-02T04:00:00.532+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "8353",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13110884",
+      "fullName": "YELITZA MILAGROS VEROES MEZA",
+      "phoneNumber": "+584123613229"
+    },
+    "installments": [
+      {
+        "id": "8353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T20:07:34.379Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T20:07:34.380Z",
+        "amount": 15.22,
+        "status": "DONE"
+      },
+      {
+        "id": "8351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T20:07:34.379Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T20:07:34.379Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

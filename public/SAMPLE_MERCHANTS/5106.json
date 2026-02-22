@@ -1,0 +1,69 @@
+{
+  "createdAt": "2025-04-07T15:56:22.763Z",
+  "updatedAt": "2026-01-30T18:55:11.425Z",
+  "id": 5106,
+  "name": "Valle Ceramica",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c0ca03cd-678c-4f47-aa81-22114aba874b",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "valleceramica@gmail.com",
+    "legalName": "Manuel",
+    "phoneNumber": "+584143808226"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T15:57:52.127Z",
+      "updatedAt": "2025-04-07T15:57:52.127Z",
+      "id": 12681,
+      "merchantId": 5106,
+      "name": "Valle Ceramica Guárico",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 14336,
+      "address": {
+        "name": "C/PRINCIPAL LA RODRIGUERA  URB. LARODRIGUERA",
+        "long": -66.00331249999999,
+        "lat": 9.190437500000016,
+        "location": "0101000020E6100000C0CAA145368050C038DD240681612240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

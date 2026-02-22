@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T22:46:59.848Z",
+  "id": "1487",
+  "amount": 31.36,
+  "invoiceId": "00001491",
+  "paidToMerchant": false,
+  "identifierNumber": 2109,
+  "billingDate": "2022-12-14T22:46:59.848Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27472337",
+      "fullName": "MERLIS ANA VAAMONDEZ CASARES",
+      "phoneNumber": "+584143804762"
+    },
+    "installments": [
+      {
+        "id": "4805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T22:47:21.894Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T22:47:21.894Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T22:47:21.894Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T22:47:21.895Z",
+        "amount": 15.68,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

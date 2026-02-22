@@ -1,0 +1,58 @@
+{
+  "createdAt": "2025-04-02T20:35:18.263Z",
+  "updatedAt": "2025-04-02T20:38:36.014Z",
+  "id": 5006,
+  "name": "CENTRO DE FISIOTERAPIA Y REHABILITACION FISIOPEDIA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f4883674-a019-49d0-b0a7-3c09b1d974e8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sleimanmajzoub@hotmail.com",
+    "legalName": "SLEIMAN",
+    "phoneNumber": "04149955353"
+  },
+  "stores": [],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

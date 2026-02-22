@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-02T17:06:46.344Z",
+  "updatedAt": "2025-04-02T17:06:46.344Z",
+  "id": 4991,
+  "name": "La Ferretería",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 622,
+  "tags": [],
+  "uuid": "4a2f0f58-d1c7-4d2d-80c9-369c50d7facd",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "dianadefreites@gmail.com",
+    "legalName": "Diana",
+    "phoneNumber": "04249562355"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T17:20:58.370Z",
+      "updatedAt": "2025-04-02T17:20:58.370Z",
+      "id": 12529,
+      "merchantId": 4991,
+      "name": "La Ferretería Av Costanera",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 622,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Av Costanera edif tricolor pb local 05 Barcelona estado Anzoátegui",
+        "long": -64.62743750000001,
+        "lat": 10.216812500000003,
+        "location": "0101000020E61000002EB29DEF272850C060BA490C026F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T17:41:15.225Z",
+      "updatedAt": "2025-04-02T17:41:15.225Z",
+      "id": 12532,
+      "merchantId": 4991,
+      "name": "La Ferretería Av Intercomunal",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 622,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Av intercomunal, edif Molina, piso pb, local 1-E",
+        "long": -64.6926875,
+        "lat": 10.1550625,
+        "location": "0101000020E610000046B6F3FD542C50C008AC1C5A644F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

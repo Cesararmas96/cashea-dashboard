@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:45:59.485Z",
+  "id": "5536",
+  "amount": 34.33,
+  "invoiceId": "18857",
+  "paidToMerchant": false,
+  "identifierNumber": 5819,
+  "billingDate": "2022-12-28T20:45:59.485Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18324671",
+      "fullName": "FREDDY JESUS MORENO CHOURIO",
+      "phoneNumber": "+584122306900"
+    },
+    "installments": [
+      {
+        "id": "19018",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:46:41.271Z",
+        "amount": 17.16,
+        "status": "DONE"
+      },
+      {
+        "id": "19020",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:46:41.271Z",
+        "amount": 5.723333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19019",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:46:41.271Z",
+        "amount": 5.723333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19021",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:46:41.271Z",
+        "amount": 5.723333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

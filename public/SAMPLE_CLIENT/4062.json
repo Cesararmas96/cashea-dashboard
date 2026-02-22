@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-22T22:30:49.977Z",
+  "id": "3653",
+  "amount": 78.38,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4062,
+  "billingDate": "2022-12-22T22:30:49.977Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1728,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J297250409",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PARTY STIL CA",
+    "internalBankHolder": "PARTY STIL, C.A",
+    "account": "01910235172100071433",
+    "accountType": "Corriente",
+    "phoneNumber": "4148085990",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1726,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J297250409",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PARTY STIL CA",
+    "internalBankHolder": "PARTY STIL, C.A",
+    "account": "01910235172100071433",
+    "accountType": "Corriente",
+    "phoneNumber": "4148085990",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1727,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J297250409",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PARTY STIL CA",
+    "internalBankHolder": "PARTY STIL, C.A",
+    "account": "01910235172100071433",
+    "accountType": "Corriente",
+    "phoneNumber": "4148085990",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1729,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J297250409",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PARTY STIL CA",
+    "internalBankHolder": "PARTY STIL, C.A",
+    "account": "01910235122300027034",
+    "accountType": "Custodia",
+    "phoneNumber": "4148085990",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-26T22:44:17.044Z",
+  "id": "503",
+  "amount": 68.85,
+  "invoiceId": "6900",
+  "paidToMerchant": false,
+  "identifierNumber": 1135,
+  "billingDate": "2022-11-26T22:44:17.044Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15040782",
+      "fullName": "YESENTA DER VALLE PEREZ RAMOS",
+      "phoneNumber": "+584142146693"
+    },
+    "installments": [
+      {
+        "id": "1566",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-26T22:44:39.948Z",
+        "amount": 34.42,
+        "status": "DONE"
+      },
+      {
+        "id": "1567",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-10T22:44:39.946Z",
+        "amount": 11.476666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "1568",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-24T22:44:39.946Z",
+        "amount": 11.476666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "1569",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-07T22:44:39.946Z",
+        "amount": 11.476666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

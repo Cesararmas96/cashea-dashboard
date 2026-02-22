@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-03-28T14:47:49.708Z",
+  "updatedAt": "2025-04-03T16:13:42.290Z",
+  "id": 4900,
+  "name": "La Feria Campesina Loreto",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "97a5c49b-b6c2-4ed4-864d-01b4bc4af3ef",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "huglenygmadriz@gmail.com",
+    "legalName": "Hugleny García",
+    "phoneNumber": "04121382866"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T14:49:46.400Z",
+      "updatedAt": "2025-03-28T14:49:46.400Z",
+      "id": 12326,
+      "merchantId": 4900,
+      "name": "LA FERIA CAMPESINA LORETO La Victoria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6461,
+      "address": {
+        "name": "AVENIDA FRANCISCO DE LORETO, CC Y RSIDENCIAL LORETO, LOCALES 1, 2 Y 3. LA VICTORIA EDO. ARAGUA",
+        "long": -67.32656250000001,
+        "lat": 10.218687500000001,
+        "location": "0101000020E610000067666666E6D450C08816D9CEF76F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

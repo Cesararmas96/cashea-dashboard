@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:26:55.148Z",
+  "id": "3715",
+  "amount": 48.58,
+  "invoiceId": "14582",
+  "paidToMerchant": false,
+  "identifierNumber": 4138,
+  "billingDate": "2022-12-22T23:26:55.148Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24636628",
+      "fullName": "GABRIEL ALEJANDRO LOPEZ VEGAS",
+      "phoneNumber": "+584123086506"
+    },
+    "installments": [
+      {
+        "id": "12466",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:27:25.176Z",
+        "amount": 24.29,
+        "status": "DONE"
+      },
+      {
+        "id": "12469",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:27:25.175Z",
+        "amount": 8.096666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12467",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:27:25.175Z",
+        "amount": 8.096666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12468",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:27:25.175Z",
+        "amount": 8.096666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

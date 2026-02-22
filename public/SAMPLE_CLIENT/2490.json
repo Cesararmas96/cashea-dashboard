@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T17:13:06.852Z",
+  "id": "1918",
+  "amount": 35,
+  "invoiceId": "0000",
+  "paidToMerchant": false,
+  "identifierNumber": 2490,
+  "billingDate": "2022-12-17T17:13:06.852Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26672424",
+      "fullName": "YORVIS MIGUELANGEL BLANCO VILLALTA",
+      "phoneNumber": "+584127187326"
+    },
+    "installments": [
+      {
+        "id": "6241",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T17:13:21.744Z",
+        "amount": 5.833333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6239",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T17:13:21.744Z",
+        "amount": 5.833333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6238",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T17:13:21.744Z",
+        "amount": 17.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6240",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T17:13:21.744Z",
+        "amount": 5.833333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 63,
+    "name": "Timberland CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

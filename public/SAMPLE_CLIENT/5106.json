@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T20:29:11.444Z",
+  "id": "4863",
+  "amount": 85,
+  "invoiceId": "00002092",
+  "paidToMerchant": false,
+  "identifierNumber": 5106,
+  "billingDate": "2022-12-24T20:29:11.444Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "81",
+    "buyDebtDate": "2023-01-10T04:00:01.031+00:00",
+    "lastStoreId": 26,
+    "boughtForInstallmentId": "16659",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22013300",
+      "fullName": "YADERSI MARINA PALENCIA ORTIZ",
+      "phoneNumber": "+584129637673"
+    },
+    "installments": [
+      {
+        "id": "16660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:32:05.090Z",
+        "amount": 14.166666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:32:05.090Z",
+        "amount": 14.166666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:32:05.090Z",
+        "amount": 14.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:32:05.091Z",
+        "amount": 42.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

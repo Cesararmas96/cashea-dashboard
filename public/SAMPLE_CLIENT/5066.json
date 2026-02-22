@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T15:56:25.330Z",
+  "id": "10059",
+  "amount": 106.72,
+  "invoiceId": "16412",
+  "paidToMerchant": false,
+  "identifierNumber": 5066,
+  "billingDate": "2023-01-17T15:56:25.330Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24287139",
+      "fullName": "NAYLETTE CAROLINA RODRIGUEZ ALGARIN",
+      "phoneNumber": "+584122102021"
+    },
+    "installments": [
+      {
+        "id": "30093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T15:56:55.472Z",
+        "amount": 17.786666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "30092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T15:56:55.472Z",
+        "amount": 17.786666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "30090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T15:56:55.474Z",
+        "amount": 53.36,
+        "status": "DONE"
+      },
+      {
+        "id": "30091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T15:56:55.472Z",
+        "amount": 17.786666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

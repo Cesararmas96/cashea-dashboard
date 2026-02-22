@@ -1,0 +1,207 @@
+{
+  "createdAt": "2025-05-16T17:36:03.527Z",
+  "updatedAt": "2025-09-10T18:15:53.248Z",
+  "id": 5821,
+  "name": "Guaicaipuro Sport",
+  "ecommerceUrl": null,
+  "changePolicy": "Requisitos para la devolución del producto:\n\nEl producto debe estar en buen estado y limpio.\nPlazo de devolución: 10 días a partir de la compra.\nPara gestionar la devolución, comunícate a nuestro WhatsApp: 0412-6774255.\nEs posible solicitar la devolución si conservas la factura de compra, la caja y el producto en buen estado, y si se demuestra que el daño no fue ocasionado por el comprador.",
+  "email": "admonguaicaipurosport@gmail.com",
+  "phoneNumber": "+584145030013",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "67546e3b-3615-4263-a16e-eff621458e61",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gustavojaime119@gmail.com",
+    "legalName": "Gustavo Jaime",
+    "phoneNumber": "4145150858"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-03T15:18:07.002Z",
+      "updatedAt": "2025-09-10T18:15:53.216Z",
+      "id": 15124,
+      "merchantId": 5821,
+      "name": "Guaicaipuro Sport Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5588,
+      "address": {
+        "name": "Municipio Iribarren, Av Venezuela entre Av Los leones y Av Argimiro Bracamontes, Centro Comercial Los Próceres, planta baja, segundo local",
+        "long": -69.28706249999999,
+        "lat": 10.074187499999994,
+        "location": "0101000020E61000001C5A643B5F5251C0408B6CE7FB252440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-06-11T02:32:36.779Z",
+      "updatedAt": "2025-06-11T02:32:36.779Z",
+      "id": 15487,
+      "merchantId": 5821,
+      "name": "VR_Guaicaipuro Sport",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5588,
+      "address": {
+        "name": "Av Venezuela entre Av los Leones y Av Argimiro Bracamonte Cc los Procres nivel P/b local PB-K08-B Barquisimeto Estado Lara",
+        "long": -69.2856875,
+        "lat": 10.065687499999996,
+        "location": "0101000020E6100000105839B4485251C01083C0CAA1212440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T17:38:25.554Z",
+      "updatedAt": "2025-05-16T17:38:25.554Z",
+      "id": 14245,
+      "merchantId": 5821,
+      "name": "Guaicaipuro sport CC Los Proceres Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5588,
+      "address": {
+        "name": "Av Venezuela entre Av los Leones y Av Argimiro Bracamonte Cc los Procres nivel P/b local PB-K08-B Barquisimeto Estado Lara",
+        "long": -69.2856875,
+        "lat": 10.065687499999996,
+        "location": "0101000020E6100000105839B4485251C01083C0CAA1212440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    }
+  ],
+  "category": "Deporte",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

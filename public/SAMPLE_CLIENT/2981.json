@@ -1,0 +1,23 @@
+{
+  "createdAt": "2023-02-01T01:08:01.226Z",
+  "id": "11670",
+  "amount": 39.65,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2981,
+  "billingDate": "2023-02-01T01:08:01.226Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

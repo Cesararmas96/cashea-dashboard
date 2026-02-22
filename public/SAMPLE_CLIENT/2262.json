@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-16T11:00:47.556Z",
+  "id": "1676",
+  "amount": 128,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2262,
+  "billingDate": "2022-12-16T11:00:47.556Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19993936",
+      "fullName": "AMA TERESA GALAVIS RODRIGUEZ",
+      "phoneNumber": "+584122847020"
+    },
+    "installments": [
+      {
+        "id": "5399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T11:00:47.620Z",
+        "amount": 21.333333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "5400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T11:00:47.620Z",
+        "amount": 21.333333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "5401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T11:00:47.620Z",
+        "amount": 21.333333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "5398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T11:00:47.621Z",
+        "amount": 64,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 50,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

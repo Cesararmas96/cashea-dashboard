@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T21:07:01.593Z",
+  "id": "7211",
+  "amount": 129.88,
+  "invoiceId": "19246",
+  "paidToMerchant": false,
+  "identifierNumber": 4787,
+  "billingDate": "2023-01-02T21:07:01.593Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12617747",
+      "fullName": "DORKA DAYANA RODRIGUEZ GUTIERREZ",
+      "phoneNumber": "+584123603176"
+    },
+    "installments": [
+      {
+        "id": "24986",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T21:07:08.922Z",
+        "amount": 64.94,
+        "status": "DONE"
+      },
+      {
+        "id": "24989",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T21:07:08.922Z",
+        "amount": 21.646666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "24988",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T21:07:08.922Z",
+        "amount": 21.646666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "24987",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T21:07:08.922Z",
+        "amount": 21.646666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

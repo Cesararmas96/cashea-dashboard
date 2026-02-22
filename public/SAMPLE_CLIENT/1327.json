@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-02T20:49:27.708Z",
+  "id": "241",
+  "amount": 40,
+  "invoiceId": "001",
+  "paidToMerchant": false,
+  "identifierNumber": 1327,
+  "billingDate": "2022-11-02T20:49:27.708Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25053626",
+      "fullName": "REYNOLD JOSE ALARCON GARCIA",
+      "phoneNumber": "+584143260243"
+    },
+    "installments": [
+      {
+        "id": "737",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-02T20:50:01.557Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "740",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-14T20:50:01.556Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "739",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-30T20:50:01.556Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "738",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-16T20:50:01.556Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

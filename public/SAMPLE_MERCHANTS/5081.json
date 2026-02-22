@@ -1,0 +1,92 @@
+{
+  "createdAt": "2025-04-06T20:27:30.352Z",
+  "updatedAt": "2025-09-08T18:01:48.628Z",
+  "id": 5081,
+  "name": "95 Octanos N",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": {
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 2352,
+  "tags": [],
+  "uuid": "da17e01b-3a16-4690-bdc8-e2436ff18ec8",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "95octanosca@gmail.com",
+    "legalName": "Leonardo Vega",
+    "phoneNumber": "04145233340"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-11-05T13:35:07.057Z",
+      "updatedAt": "2024-11-05T13:35:07.057Z",
+      "id": 6557,
+      "merchantId": 5081,
+      "name": "95 Octanos Av Romulo Gallegos Barquisimeto / DESUSO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7455,
+      "address": {
+        "name": "95 Octanos Av Romulo Gallegos Barquisimeto",
+        "long": -69.33393749999999,
+        "lat": 10.07493749999999,
+        "location": "0101000020E61000001C5A643B5F5551C0E87C3F355E262440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

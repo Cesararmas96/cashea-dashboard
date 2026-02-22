@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:34:08.554Z",
+  "id": "2680",
+  "amount": 65,
+  "invoiceId": "10575",
+  "paidToMerchant": false,
+  "identifierNumber": 3161,
+  "billingDate": "2022-12-20T00:34:08.554Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17160017",
+      "fullName": "ENVER ARGEVIS VIVAS CARVAJAL",
+      "phoneNumber": "+584241788805"
+    },
+    "installments": [
+      {
+        "id": "8813",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:35:45.887Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8810",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:35:45.887Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8811",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:35:45.887Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8812",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:35:45.887Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

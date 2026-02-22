@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T02:09:09.747Z",
+  "id": "2483",
+  "amount": 84.02,
+  "invoiceId": "00017930",
+  "paidToMerchant": false,
+  "identifierNumber": 2964,
+  "billingDate": "2022-12-19T02:09:09.747Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20565885",
+      "fullName": "HERMINIA MARCELLA MARTINEZ TENIA",
+      "phoneNumber": "+584241664897"
+    },
+    "installments": [
+      {
+        "id": "8186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T02:10:05.565Z",
+        "amount": 42.01,
+        "status": "DONE"
+      },
+      {
+        "id": "8189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T02:10:05.565Z",
+        "amount": 14.003333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T02:10:05.565Z",
+        "amount": 14.003333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T02:10:05.565Z",
+        "amount": 14.003333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

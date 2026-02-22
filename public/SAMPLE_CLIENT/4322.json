@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T14:26:38.770Z",
+  "id": "3888",
+  "amount": 47.13,
+  "invoiceId": "18368",
+  "paidToMerchant": false,
+  "identifierNumber": 4322,
+  "billingDate": "2022-12-23T14:26:38.770Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25516003",
+      "fullName": "ANDREINA EMPERATRIZ MORA RAMIREZ",
+      "phoneNumber": "+584242993211"
+    },
+    "installments": [
+      {
+        "id": "13109",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T14:27:02.426Z",
+        "amount": 7.853333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13106",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T14:27:02.427Z",
+        "amount": 23.57,
+        "status": "DONE"
+      },
+      {
+        "id": "13108",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T14:27:02.426Z",
+        "amount": 7.853333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13107",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T14:27:02.426Z",
+        "amount": 7.853333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

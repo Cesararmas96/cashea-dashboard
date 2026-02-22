@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T19:35:48.809Z",
+  "id": "4821",
+  "amount": 81.8,
+  "invoiceId": "50556",
+  "paidToMerchant": false,
+  "identifierNumber": 5099,
+  "billingDate": "2022-12-24T19:35:48.809Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-07T04:00:01.225+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "16513",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20033832",
+      "fullName": "JESUS MANUEL CONTRERAS PEREZ",
+      "phoneNumber": "+584242539217"
+    },
+    "installments": [
+      {
+        "id": "16513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:36:21.486Z",
+        "amount": 13.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "16510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:36:21.486Z",
+        "amount": 40.9,
+        "status": "DONE"
+      },
+      {
+        "id": "16512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:36:21.486Z",
+        "amount": 13.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "16511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:36:21.486Z",
+        "amount": 13.633333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

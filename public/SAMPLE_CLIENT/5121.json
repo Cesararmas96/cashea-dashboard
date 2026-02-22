@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:03:18.952Z",
+  "id": "4895",
+  "amount": 48.59,
+  "invoiceId": "15132",
+  "paidToMerchant": false,
+  "identifierNumber": 5121,
+  "billingDate": "2022-12-24T21:03:18.952Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29973708",
+      "fullName": "ANDRY YERFERSON GIL PARRA",
+      "phoneNumber": "+584129641303"
+    },
+    "installments": [
+      {
+        "id": "16766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:03:52.917Z",
+        "amount": 24.3,
+        "status": "DONE"
+      },
+      {
+        "id": "16767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:03:52.916Z",
+        "amount": 8.096666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "16769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:03:52.916Z",
+        "amount": 8.096666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "16768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:03:52.916Z",
+        "amount": 8.096666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

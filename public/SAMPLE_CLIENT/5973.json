@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T00:33:36.860Z",
+  "id": "5712",
+  "amount": 39.99,
+  "invoiceId": "14950",
+  "paidToMerchant": false,
+  "identifierNumber": 5973,
+  "billingDate": "2022-12-29T00:33:36.860Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14746034",
+      "fullName": "CARLOS ARMANDO RODRIGUEZ UZCATEGUI",
+      "phoneNumber": "+584241617503"
+    },
+    "installments": [
+      {
+        "id": "19674",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T00:34:19.767Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "19675",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T00:34:19.767Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19677",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T00:34:19.767Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19676",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T00:34:19.767Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

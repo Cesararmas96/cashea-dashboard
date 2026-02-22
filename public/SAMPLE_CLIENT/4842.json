@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T03:00:30.302Z",
+  "id": "4517",
+  "amount": 180.49,
+  "invoiceId": "13010",
+  "paidToMerchant": false,
+  "identifierNumber": 4842,
+  "billingDate": "2022-12-24T03:00:30.302Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-09T04:00:01.583+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "15403",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22021640",
+      "fullName": "RICARDO ENRIQUE ZAPATA MEMBELA",
+      "phoneNumber": "+584140142616"
+    },
+    "installments": [
+      {
+        "id": "15405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T03:00:50.429Z",
+        "amount": 30.080000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T03:00:50.430Z",
+        "amount": 90.25,
+        "status": "DONE"
+      },
+      {
+        "id": "15403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T03:00:50.429Z",
+        "amount": 30.080000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T03:00:50.429Z",
+        "amount": 30.080000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

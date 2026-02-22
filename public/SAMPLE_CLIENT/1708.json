@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-09T23:44:10.252Z",
+  "id": "1027",
+  "amount": 41,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1708,
+  "billingDate": "2022-12-09T23:44:10.252Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 35,
+    "name": "A1WIN Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

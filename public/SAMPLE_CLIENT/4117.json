@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T13:51:37.612Z",
+  "id": "9840",
+  "amount": 75,
+  "invoiceId": "000009",
+  "paidToMerchant": false,
+  "identifierNumber": 4117,
+  "billingDate": "2023-01-17T13:51:37.612Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12298567",
+      "fullName": "JAVIER ADOLFO ANDERSON ALVAREZ",
+      "phoneNumber": "+584241364299"
+    },
+    "installments": [
+      {
+        "id": "30077",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T13:55:31.146Z",
+        "amount": 11.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "30076",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T13:55:31.146Z",
+        "amount": 11.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "30074",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T13:55:31.147Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "30075",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T13:55:31.146Z",
+        "amount": 11.6666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 5,
+    "name": "Doctor Lente Los Palos Grandes"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

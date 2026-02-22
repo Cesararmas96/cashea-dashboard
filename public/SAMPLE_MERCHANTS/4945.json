@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-01T13:25:30.328Z",
+  "updatedAt": "2025-04-04T17:24:36.801Z",
+  "id": 4945,
+  "name": "SUPER TIENDA DON ELY",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "58027154-c28e-45f1-80d2-b2d6b7b4c596",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "supertiendadonely@gmail.com",
+    "legalName": "CARLOS HELI",
+    "phoneNumber": "4144665946"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T13:29:08.950Z",
+      "updatedAt": "2025-04-01T13:29:08.950Z",
+      "id": 12454,
+      "merchantId": 4945,
+      "name": "SUPER TIENDA DON ELY Zulia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7829,
+      "address": {
+        "name": "CALLE 5 LOCAL NRO 324 SECTOR CASCO CENTRAL LAS PIEDRAS PARROQUIA BARTOLOME DE LAS CASAS MUNICIPIO MACHIQUES DE PI",
+        "long": -72.5585625,
+        "lat": 10.059562499999984,
+        "location": "0101000020E61000006891ED7CBF2352C0C822DBF97E1E2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

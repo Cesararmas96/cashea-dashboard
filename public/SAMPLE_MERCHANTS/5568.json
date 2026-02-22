@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-06T16:03:57.792Z",
+  "updatedAt": "2025-05-06T16:03:57.792Z",
+  "id": 5568,
+  "name": "Unico (Fantasias American)",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 994,
+  "tags": [],
+  "uuid": "0260210a-c4bf-4c13-99f0-18df1a13e0f5",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "fantasiasamericanca@gmail.com",
+    "legalName": "Mario",
+    "phoneNumber": "04144326335"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T16:16:34.706Z",
+      "updatedAt": "2025-05-06T16:16:34.706Z",
+      "id": 13652,
+      "merchantId": 5568,
+      "name": "Unico Pto Fijo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5001,
+      "address": {
+        "name": "Unico (Fantasias American) Pto Fijo.",
+        "long": -70.2088125,
+        "lat": 11.69131250000001,
+        "location": "0101000020E6100000BE9F1A2F5D8D51C0D0A145B6F3612740",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-07T21:13:35.107Z",
+  "id": "873",
+  "amount": 32.14,
+  "invoiceId": "00001349",
+  "paidToMerchant": false,
+  "identifierNumber": 1386,
+  "billingDate": "2022-12-07T21:13:35.107Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-07T04:00:00.546+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "2772",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24749165",
+      "fullName": "RUSSELL JAVIER ZAMBRANO ROJAS",
+      "phoneNumber": "+584141313500"
+    },
+    "installments": [
+      {
+        "id": "2773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T21:13:53.085Z",
+        "amount": 5.3566666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "2772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T21:13:53.085Z",
+        "amount": 5.3566666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "2771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T21:13:53.085Z",
+        "amount": 5.3566666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "2770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T21:13:53.086Z",
+        "amount": 16.07,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

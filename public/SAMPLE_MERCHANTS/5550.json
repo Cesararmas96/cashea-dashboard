@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-06T13:19:05.827Z",
+  "updatedAt": "2025-05-12T18:43:11.604Z",
+  "id": 5550,
+  "name": "Santa Barbara Express",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d7be9d24-ace0-499a-93bc-4cb115248244",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tuliomendoza9@gmail.com",
+    "legalName": "Tulio",
+    "phoneNumber": "04127109091"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T13:20:13.877Z",
+      "updatedAt": "2025-05-06T13:20:13.877Z",
+      "id": 13618,
+      "merchantId": 5550,
+      "name": "Santa Barbara Express Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7567,
+      "address": {
+        "name": "MARACAY, AV BOLIVAR OESTE, SECTOR LA COROMOTO",
+        "long": -67.60375,
+        "lat": 10.241250000000008,
+        "location": "0101000020E6100000713D0AD7A3E650C0F051B81E857B2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

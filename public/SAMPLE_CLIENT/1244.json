@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-05T18:41:04.522Z",
+  "id": "271",
+  "amount": 198,
+  "invoiceId": "10003",
+  "paidToMerchant": false,
+  "identifierNumber": 1244,
+  "billingDate": "2022-11-05T18:41:04.522Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10182648",
+      "fullName": "CESAR ANDRES ROMERO GOHL",
+      "phoneNumber": "+584241430540"
+    },
+    "installments": [
+      {
+        "id": "853",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-05T18:59:38.761Z",
+        "amount": 99,
+        "status": "DONE"
+      },
+      {
+        "id": "856",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-17T18:59:38.761Z",
+        "amount": 33,
+        "status": "DONE"
+      },
+      {
+        "id": "855",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-03T18:59:38.761Z",
+        "amount": 33,
+        "status": "DONE"
+      },
+      {
+        "id": "854",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-19T18:59:38.761Z",
+        "amount": 33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

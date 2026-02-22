@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T18:39:38.441Z",
+  "id": "5230",
+  "amount": 46.64,
+  "invoiceId": "14488",
+  "paidToMerchant": false,
+  "identifierNumber": 5540,
+  "billingDate": "2022-12-27T18:39:38.441Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16996377",
+      "fullName": "MERVYS COROMOTO RIVERO PATINO",
+      "phoneNumber": "+584121886249"
+    },
+    "installments": [
+      {
+        "id": "17926",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T18:41:27.916Z",
+        "amount": 23.32,
+        "status": "DONE"
+      },
+      {
+        "id": "17929",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T18:41:27.916Z",
+        "amount": 7.773333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17928",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T18:41:27.916Z",
+        "amount": 7.773333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17927",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T18:41:27.916Z",
+        "amount": 7.773333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

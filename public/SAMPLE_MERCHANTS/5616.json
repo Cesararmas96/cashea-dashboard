@@ -1,0 +1,133 @@
+{
+  "createdAt": "2025-05-08T13:28:22.448Z",
+  "updatedAt": "2025-06-11T22:57:45.679Z",
+  "id": 5616,
+  "name": "Ideal Supermercado",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "fb5fb6ce-a856-45e8-a006-22750e42ff4c",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "idealsuperca@gmail.com",
+    "legalName": "Victor",
+    "phoneNumber": "04244530310"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T13:32:37.276Z",
+      "updatedAt": "2025-05-08T13:32:37.276Z",
+      "id": 13778,
+      "merchantId": 5616,
+      "name": "Ideal Supermercado Av Paez Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5669,
+      "address": {
+        "name": "Ideal Supermercado Av Paez Acarigua",
+        "long": -69.1993125,
+        "lat": 9.56831249999999,
+        "location": "0101000020E6100000C74B3789C14C51C0E0D022DBF9222340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-15T19:53:23.194Z",
+      "updatedAt": "2025-06-15T19:53:23.194Z",
+      "id": 15698,
+      "merchantId": 5616,
+      "name": "VR_Ideal Supermercado Av Paez Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5669,
+      "address": {
+        "name": "Ideal Supermercado Av Paez Acarigua",
+        "long": -69.1993125,
+        "lat": 9.56831249999999,
+        "location": "0101000020E6100000C74B3789C14C51C0E0D022DBF9222340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

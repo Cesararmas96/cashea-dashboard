@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-16T14:55:47.277Z",
+  "updatedAt": "2025-05-30T17:28:05.892Z",
+  "id": 5808,
+  "name": "OPTICA JADE",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "21f813c6-2b7f-4f20-b38d-edb569dac9e8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "salvadordaviruzza@gmail.com",
+    "legalName": "salvador",
+    "phoneNumber": "04128581289"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T15:00:44.057Z",
+      "updatedAt": "2025-05-16T15:00:44.057Z",
+      "id": 14225,
+      "merchantId": 5808,
+      "name": "OPTICA JADE CC Paseo Tipuro",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7088,
+      "address": {
+        "name": "Av. Alirio Ugarte Pelayo Centro Comercial Paseo Tipuro local 9 sector tipuro",
+        "long": -63.197562500000004,
+        "lat": 9.780812499999996,
+        "location": "0101000020E610000040355EBA49994FC0B09DEFA7C68F2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

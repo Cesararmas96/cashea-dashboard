@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-24T04:14:24.137Z",
+  "updatedAt": "2025-04-24T04:16:28.271Z",
+  "id": 5361,
+  "name": "HOLA! Supercenter",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "39b21f7b-8f29-4fcc-bbaa-661bfbdaf15b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "yurich2001@gmail.com",
+    "legalName": "Yurich Figueroa",
+    "phoneNumber": "4148419838"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-24T04:16:15.384Z",
+      "updatedAt": "2025-04-24T04:16:15.384Z",
+      "id": 13234,
+      "merchantId": 5361,
+      "name": "HOLA! Supercenter Cumaná",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5640,
+      "address": {
+        "name": "HOLA! Supercenter Cumaná",
+        "long": -64.16218750000002,
+        "lat": 10.440437500000016,
+        "location": "0101000020E61000007C14AE47610A50C038DD240681E12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

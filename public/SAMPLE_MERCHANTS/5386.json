@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-25T14:25:06.362Z",
+  "updatedAt": "2025-05-08T13:19:42.725Z",
+  "id": 5386,
+  "name": "zapateria brosport monagas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 748,
+  "tags": [],
+  "uuid": "6061cbb6-4969-4246-a5be-81052932d267",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "souna_hamoud_07@hotmail.com",
+    "legalName": "Hussein Hamoud youssef",
+    "phoneNumber": "04249153234"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T14:26:16.114Z",
+      "updatedAt": "2025-04-25T14:26:16.114Z",
+      "id": 13276,
+      "merchantId": 5386,
+      "name": "zapateria brosport monagas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 748,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8241,
+      "address": {
+        "name": "calle chimborazo con la monagas local nro 01",
+        "long": -63.1789375,
+        "lat": 9.746687500000007,
+        "location": "0101000020E610000096438B6CE7964FC000AAF1D24D7E2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

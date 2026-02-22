@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:06:22.413Z",
+  "id": "1207",
+  "amount": 100,
+  "invoiceId": "0554",
+  "paidToMerchant": false,
+  "identifierNumber": 1857,
+  "billingDate": "2022-12-11T20:06:22.413Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12382704",
+      "fullName": "ALEX JESUS TORREALBA LOPEZ",
+      "phoneNumber": "+584242817890"
+    },
+    "installments": [
+      {
+        "id": "3865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:06:36.898Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:06:36.898Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:06:36.898Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:06:36.899Z",
+        "amount": 50,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

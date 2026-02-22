@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T19:20:36.886Z",
+  "id": "1077",
+  "amount": 58.5,
+  "invoiceId": "1538",
+  "paidToMerchant": false,
+  "identifierNumber": 1633,
+  "billingDate": "2022-12-10T19:20:36.886Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23624160",
+      "fullName": "JOSE ALFONSO FERNANDEZ DE CUEVAS",
+      "phoneNumber": "+584123231124"
+    },
+    "installments": [
+      {
+        "id": "3429",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T19:27:02.105Z",
+        "amount": 9.75,
+        "status": "DONE"
+      },
+      {
+        "id": "3426",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T19:27:02.106Z",
+        "amount": 29.25,
+        "status": "DONE"
+      },
+      {
+        "id": "3427",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T19:27:02.105Z",
+        "amount": 9.75,
+        "status": "DONE"
+      },
+      {
+        "id": "3428",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T19:27:02.105Z",
+        "amount": 9.75,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

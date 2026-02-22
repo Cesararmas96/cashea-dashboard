@@ -1,0 +1,128 @@
+[
+  {
+    "id": 787,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J311549692",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "account": "01910050212150115205",
+    "accountType": "Corriente",
+    "phoneNumber": "4242301300",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 785,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J311549692",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "account": "01910050212150115205",
+    "accountType": "Corriente",
+    "phoneNumber": "4242301300",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 786,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J311549692",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "account": "01910050212150115205",
+    "accountType": "Corriente",
+    "phoneNumber": "4242301300",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 788,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J311549692",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA DE ALUMINIO EL ALUMINÓLOGO ZICA POLICARPO, C.A.",
+    "account": "01910050252350567419",
+    "accountType": "Custodia",
+    "phoneNumber": "4242301300",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

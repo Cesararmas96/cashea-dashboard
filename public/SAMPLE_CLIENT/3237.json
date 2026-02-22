@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:01:15.463Z",
+  "id": "2781",
+  "amount": 34.95,
+  "invoiceId": "11350",
+  "paidToMerchant": false,
+  "identifierNumber": 3237,
+  "billingDate": "2022-12-20T19:01:15.463Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28180442",
+      "fullName": "JOSE MANUEL ALVAREZ MORENO",
+      "phoneNumber": "+584241593484"
+    },
+    "installments": [
+      {
+        "id": "9158",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:01:46.351Z",
+        "amount": 17.48,
+        "status": "DONE"
+      },
+      {
+        "id": "9161",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:01:46.350Z",
+        "amount": 5.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9159",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:01:46.350Z",
+        "amount": 5.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9160",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:01:46.350Z",
+        "amount": 5.823333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

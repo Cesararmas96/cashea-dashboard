@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T22:14:52.982Z",
+  "id": "5100",
+  "amount": 86.21,
+  "invoiceId": "00002273",
+  "paidToMerchant": false,
+  "identifierNumber": 5384,
+  "billingDate": "2022-12-26T22:14:52.982Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-12T04:00:00.228+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "17491",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14965960",
+      "fullName": "JHOVANY JOSE FRANCOIS QUEVEDO",
+      "phoneNumber": "+584124605836"
+    },
+    "installments": [
+      {
+        "id": "17493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:16:39.887Z",
+        "amount": 14.369999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "17492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:16:39.887Z",
+        "amount": 14.369999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "17490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:16:39.887Z",
+        "amount": 43.1,
+        "status": "DONE"
+      },
+      {
+        "id": "17491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:16:39.887Z",
+        "amount": 14.369999999999997,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

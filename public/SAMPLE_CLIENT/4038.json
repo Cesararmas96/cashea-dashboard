@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T22:08:49.726Z",
+  "id": "3624",
+  "amount": 132.45,
+  "invoiceId": "44368",
+  "paidToMerchant": false,
+  "identifierNumber": 4038,
+  "billingDate": "2022-12-22T22:08:49.726Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-22T04:00:01.118+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "12144",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16705064",
+      "fullName": "KARELIS ISABEL MONSALVE GOMEZ",
+      "phoneNumber": "+584242769482"
+    },
+    "installments": [
+      {
+        "id": "12144",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:09:04.575Z",
+        "amount": 22.076666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "12142",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:09:04.575Z",
+        "amount": 66.22,
+        "status": "DONE"
+      },
+      {
+        "id": "12145",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:09:04.575Z",
+        "amount": 22.076666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "12143",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:09:04.575Z",
+        "amount": 22.076666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

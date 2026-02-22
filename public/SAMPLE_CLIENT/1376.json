@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T20:44:43.764Z",
+  "id": "614",
+  "amount": 42.14,
+  "invoiceId": "16662",
+  "paidToMerchant": false,
+  "identifierNumber": 1376,
+  "billingDate": "2022-12-03T20:44:43.764Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18461107",
+      "fullName": "MARGARET CAROLINA ROA VALLENILLA",
+      "phoneNumber": "+584126114082"
+    },
+    "installments": [
+      {
+        "id": "1958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T20:45:51.847Z",
+        "amount": 21.07,
+        "status": "DONE"
+      },
+      {
+        "id": "1960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T20:45:51.846Z",
+        "amount": 7.023333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T20:45:51.846Z",
+        "amount": 7.023333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T20:45:51.846Z",
+        "amount": 7.023333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

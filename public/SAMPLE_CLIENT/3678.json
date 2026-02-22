@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:00:21.359Z",
+  "id": "3239",
+  "amount": 84.6,
+  "invoiceId": "12698",
+  "paidToMerchant": false,
+  "identifierNumber": 3678,
+  "billingDate": "2022-12-21T22:00:21.359Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27007854",
+      "fullName": "DANIEL EDUARDO FREITES DIAZ",
+      "phoneNumber": "+584149012621"
+    },
+    "installments": [
+      {
+        "id": "10754",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:00:38.213Z",
+        "amount": 42.3,
+        "status": "DONE"
+      },
+      {
+        "id": "10757",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:00:38.213Z",
+        "amount": 14.1,
+        "status": "DONE"
+      },
+      {
+        "id": "10756",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:00:38.213Z",
+        "amount": 14.1,
+        "status": "DONE"
+      },
+      {
+        "id": "10755",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:00:38.213Z",
+        "amount": 14.1,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

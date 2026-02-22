@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-18T22:24:54.914Z",
+  "id": "2344",
+  "amount": 107.93,
+  "invoiceId": "00001671",
+  "paidToMerchant": false,
+  "identifierNumber": 2849,
+  "billingDate": "2022-12-18T22:24:54.914Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-02-01T04:00:00.956+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "7705",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16600648",
+      "fullName": "FRANCIS JOSNETH BERROTERAN DE MEJIAS",
+      "phoneNumber": "+584143778197"
+    },
+    "installments": [
+      {
+        "id": "7705",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:25:26.213Z",
+        "amount": 17.986666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "7702",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:25:26.214Z",
+        "amount": 53.97,
+        "status": "DONE"
+      },
+      {
+        "id": "7703",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:25:26.213Z",
+        "amount": 17.986666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "7704",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:25:26.213Z",
+        "amount": 17.986666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

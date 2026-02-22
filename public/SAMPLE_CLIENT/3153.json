@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:45:13.441Z",
+  "id": "2703",
+  "amount": 69.99,
+  "invoiceId": "00001582",
+  "paidToMerchant": false,
+  "identifierNumber": 3153,
+  "billingDate": "2022-12-20T01:45:13.441Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23944689",
+      "fullName": "ERIKA MAYERLIN RODRIGUEZ OSORIO",
+      "phoneNumber": "+584242021945"
+    },
+    "installments": [
+      {
+        "id": "8894",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:45:33.146Z",
+        "amount": 34.99,
+        "status": "DONE"
+      },
+      {
+        "id": "8895",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:45:33.145Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "8897",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:45:33.145Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "8896",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:45:33.145Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

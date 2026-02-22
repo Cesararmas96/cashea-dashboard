@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-04T23:19:53.522Z",
+  "id": "707",
+  "amount": 67.7,
+  "invoiceId": "3953",
+  "paidToMerchant": false,
+  "identifierNumber": 1385,
+  "billingDate": "2022-12-04T23:19:53.522Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-04T04:00:00.302+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "2280",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16236019",
+      "fullName": "JHOANA VICTORIA DELGADO ARENAS",
+      "phoneNumber": "+584142832585"
+    },
+    "installments": [
+      {
+        "id": "2280",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T23:24:46.274Z",
+        "amount": 11.283333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2278",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T23:24:46.274Z",
+        "amount": 33.85,
+        "status": "DONE"
+      },
+      {
+        "id": "2281",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T23:24:46.274Z",
+        "amount": 11.283333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2279",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T23:24:46.274Z",
+        "amount": 11.283333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

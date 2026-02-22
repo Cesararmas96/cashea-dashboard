@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:14:01.437Z",
+  "id": "4713",
+  "amount": 72.7,
+  "invoiceId": "0444",
+  "paidToMerchant": false,
+  "identifierNumber": 3952,
+  "billingDate": "2022-12-24T18:14:01.437Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21291845",
+      "fullName": "ANNA CECILIA RECCHIUTI MORA",
+      "phoneNumber": "+584241959832"
+    },
+    "installments": [
+      {
+        "id": "16133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:14:39.485Z",
+        "amount": 12.116666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:14:39.486Z",
+        "amount": 36.35,
+        "status": "DONE"
+      },
+      {
+        "id": "16132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:14:39.485Z",
+        "amount": 12.116666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:14:39.485Z",
+        "amount": 12.116666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-18T21:38:34.461Z",
+  "updatedAt": "2025-04-29T14:45:57.741Z",
+  "id": 5296,
+  "name": "La Hamburguesa",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "245aea96-c0a5-4dab-8270-c69dd8c3b158",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gruporizosestilista@gmail.com",
+    "legalName": "Argenis Jacinto",
+    "phoneNumber": "4148388777"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T14:06:08.557Z",
+      "updatedAt": "2025-05-14T14:06:08.557Z",
+      "id": 14097,
+      "merchantId": 5296,
+      "name": "VR_La Hamburguesa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3537,
+      "address": {
+        "name": "AV. JOSE ANTONIO ANZOATEGUI C.C ANACO CENTER, NIVEL FERIA LOCAL 74-C SECTOR CENTRO ANACO ANZOATEGUI",
+        "long": -64.46418750000001,
+        "lat": 9.433937499999999,
+        "location": "0101000020E610000092ED7C3FB51D50C01804560E2DDE2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-18T21:32:04.087Z",
+      "updatedAt": "2025-04-18T21:32:04.087Z",
+      "id": 13084,
+      "merchantId": 5296,
+      "name": "La Hamburguesa Anaco",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3537,
+      "address": {
+        "name": "AV. JOSE ANTONIO ANZOATEGUI C.C ANACO CENTER, NIVEL FERIA LOCAL 74-C SECTOR CENTRO ANACO ANZOATEGUI",
+        "long": -64.46418750000001,
+        "lat": 9.433937499999999,
+        "location": "0101000020E610000092ED7C3FB51D50C01804560E2DDE2240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

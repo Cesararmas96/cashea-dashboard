@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-03-26T19:20:12.219Z",
+  "updatedAt": "2025-04-04T02:10:35.856Z",
+  "id": 4866,
+  "name": "TU MOTO YA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2ebb7f2d-4d85-47a2-b319-a8bc8c8473ca",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "r.j.o.c.89@gmail.com",
+    "legalName": "Rafael Ochoa",
+    "phoneNumber": "4143841592"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-26T19:39:28.320Z",
+      "updatedAt": "2025-03-26T19:39:28.320Z",
+      "id": 12249,
+      "merchantId": 4866,
+      "name": "TU MOTO YA AV BOLIVAR",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11721,
+      "address": {
+        "name": "AVENIDA BOLIVAR CASA NÚMERO 37 LOCAL NÚMERO 2 CUIDAD SAN JUAN DE LOS MORROS MUNICIPIO JUAN GERMÁN ROSCIO ESTADO GUARICO",
+        "long": -67.36125000000001,
+        "lat": 9.913750000000007,
+        "location": "0101000020E610000086EB51B81ED750C0A8703D0AD7D32340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T19:22:28.534Z",
+      "updatedAt": "2025-03-26T19:22:28.534Z",
+      "id": 12246,
+      "merchantId": 4866,
+      "name": "TU MOTO YA EDIFICIO GENESIS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11721,
+      "address": {
+        "name": "CALLE ILUSTRES PROCERES CON CALLE LAS MERCEDES, EDIFICIO GENESIS, LOCAL PLANTA BAJA",
+        "long": -66.37631250000001,
+        "lat": 9.86281249999999,
+        "location": "0101000020E6100000DE240681159850C0F0285C8FC2B92340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:57:31.519Z",
+      "updatedAt": "2025-04-28T21:57:31.519Z",
+      "id": 13399,
+      "merchantId": 4866,
+      "name": "VR_TU MOTO YA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11721,
+      "address": {
+        "name": "CALLE ILUSTRES PROCERES CON CALLE LAS MERCEDES, EDIFICIO GENESIS, LOCAL PLANTA BAJA",
+        "long": -66.37631250000001,
+        "lat": 9.86281249999999,
+        "location": "0101000020E6100000DE240681159850C0F0285C8FC2B92340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T19:56:47.085Z",
+  "id": "8577",
+  "amount": 100.97,
+  "invoiceId": "8901",
+  "paidToMerchant": false,
+  "identifierNumber": 4517,
+  "billingDate": "2023-01-16T19:56:47.085Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26687517",
+      "fullName": "FRANCISCO JOSE ALBARRAN MAZUTIEL",
+      "phoneNumber": "+584242153049"
+    },
+    "installments": [
+      {
+        "id": "29893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T19:57:09.826Z",
+        "amount": 16.830000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "29890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T19:57:09.827Z",
+        "amount": 50.48,
+        "status": "DONE"
+      },
+      {
+        "id": "29891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T19:57:09.826Z",
+        "amount": 16.830000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "29892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T19:57:09.826Z",
+        "amount": 16.830000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

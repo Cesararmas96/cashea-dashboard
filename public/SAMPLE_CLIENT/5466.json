@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:59:48.592Z",
+  "id": "5139",
+  "amount": 38,
+  "invoiceId": "10730",
+  "paidToMerchant": false,
+  "identifierNumber": 5466,
+  "billingDate": "2022-12-26T22:59:48.592Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24311417",
+      "fullName": "YOSWARD RAFAEL CASTILLO ARANDA",
+      "phoneNumber": "+584142965992"
+    },
+    "installments": [
+      {
+        "id": "17606",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:01:09.119Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "17608",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:01:09.119Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17609",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:01:09.119Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17607",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:01:09.119Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

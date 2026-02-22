@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T00:38:00.409Z",
+  "id": "5344",
+  "amount": 45.49,
+  "invoiceId": "00048498",
+  "paidToMerchant": false,
+  "identifierNumber": 5638,
+  "billingDate": "2022-12-28T00:38:00.409Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18491070",
+      "fullName": "LIVER JOSE TORTOLERO ALFONZO",
+      "phoneNumber": "+584142400089"
+    },
+    "installments": [
+      {
+        "id": "18365",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T00:38:36.652Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18362",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T00:38:36.653Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "18364",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T00:38:36.652Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18363",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T00:38:36.652Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:34:10.997Z",
+  "id": "2793",
+  "amount": 68.39,
+  "invoiceId": "44627",
+  "paidToMerchant": false,
+  "identifierNumber": 3264,
+  "billingDate": "2022-12-20T19:34:10.997Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19720269",
+      "fullName": "DEIVIT ALEJANDRO LOPEZ LLOVERA",
+      "phoneNumber": "+584241857112"
+    },
+    "installments": [
+      {
+        "id": "9210",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:34:37.574Z",
+        "amount": 34.2,
+        "status": "DONE"
+      },
+      {
+        "id": "9213",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:34:37.573Z",
+        "amount": 11.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9212",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:34:37.573Z",
+        "amount": 11.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9211",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:34:37.573Z",
+        "amount": 11.396666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

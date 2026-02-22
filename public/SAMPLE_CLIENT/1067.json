@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-08T18:06:35.272Z",
+  "id": "298",
+  "amount": 137,
+  "invoiceId": "40001444",
+  "paidToMerchant": false,
+  "identifierNumber": 1067,
+  "billingDate": "2022-11-08T18:06:35.272Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6914794",
+      "fullName": "MARITZA ELENA NEBREDA DE VALLENILLA",
+      "phoneNumber": "+584143254085"
+    },
+    "installments": [
+      {
+        "id": "929",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-08T18:07:23.034Z",
+        "amount": 68.5,
+        "status": "DONE"
+      },
+      {
+        "id": "932",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-20T18:07:23.033Z",
+        "amount": 22.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "931",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-06T18:07:23.033Z",
+        "amount": 22.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "930",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-22T18:07:23.033Z",
+        "amount": 22.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

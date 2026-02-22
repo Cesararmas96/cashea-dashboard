@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-31T19:22:33.494Z",
+  "id": "11610",
+  "amount": 32.9,
+  "invoiceId": "17762",
+  "paidToMerchant": false,
+  "identifierNumber": 1684,
+  "billingDate": "2023-01-31T19:22:33.494Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "82",
+    "buyDebtDate": "2023-02-17T04:00:00.488+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "35635",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26367800",
+      "fullName": "DANIELA DEYALIT SALAZAR RAMOS",
+      "phoneNumber": "+584241561754"
+    },
+    "installments": [
+      {
+        "id": "35637",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T19:22:51.750Z",
+        "amount": 5.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35636",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T19:22:51.750Z",
+        "amount": 5.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35635",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T19:22:51.750Z",
+        "amount": 5.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35634",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T19:22:51.750Z",
+        "amount": 16.45,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T21:50:07.287Z",
+  "id": "2059",
+  "amount": 34.9,
+  "invoiceId": "17006",
+  "paidToMerchant": false,
+  "identifierNumber": 2596,
+  "billingDate": "2022-12-17T21:50:07.287Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10796282",
+      "fullName": "YURINSKA LUDMILA DEL RONDON QUINTERO",
+      "phoneNumber": "+584126110277"
+    },
+    "installments": [
+      {
+        "id": "6682",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T21:50:29.605Z",
+        "amount": 17.45,
+        "status": "DONE"
+      },
+      {
+        "id": "6685",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T21:50:29.604Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6683",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T21:50:29.604Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6684",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T21:50:29.604Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

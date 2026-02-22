@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T19:54:30.916Z",
+  "id": "4063",
+  "amount": 145,
+  "invoiceId": "10622",
+  "paidToMerchant": false,
+  "identifierNumber": 4453,
+  "billingDate": "2022-12-23T19:54:30.916Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-01-23T04:00:01.420+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "13780",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11164803",
+      "fullName": "ANDRES MIGUEL LANDA VARELA",
+      "phoneNumber": "+584123292447"
+    },
+    "installments": [
+      {
+        "id": "13781",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:15:51.564Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13780",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:15:51.564Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13778",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:15:51.565Z",
+        "amount": 72.5,
+        "status": "DONE"
+      },
+      {
+        "id": "13779",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:15:51.564Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

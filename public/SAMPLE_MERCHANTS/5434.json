@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-28T16:36:14.036Z",
+  "updatedAt": "2025-04-30T14:19:06.086Z",
+  "id": 5434,
+  "name": "Super Panaderia Sagres Millenium",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0d2b19dc-3118-4bc3-876e-75b6fa3e7df4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jcmorantesm@gmail.com",
+    "legalName": "Jenifer Morantes",
+    "phoneNumber": "+584126849462"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T20:38:35.934Z",
+      "updatedAt": "2025-05-22T20:38:35.934Z",
+      "id": 14562,
+      "merchantId": 5434,
+      "name": "VR_Super Panaderia Sagres Millenium",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7824,
+      "address": {
+        "name": "Super Panaderia Sagres Millenium",
+        "long": -71.6139375,
+        "lat": 10.680062500000005,
+        "location": "0101000020E61000006F1283C04AE751C0D878E926315C2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T16:52:26.058Z",
+      "updatedAt": "2025-04-28T16:52:26.058Z",
+      "id": 13358,
+      "merchantId": 5434,
+      "name": "Super Panaderia Sagres Millenium",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7824,
+      "address": {
+        "name": "Super Panaderia Sagres Millenium",
+        "long": -71.6139375,
+        "lat": 10.680062500000005,
+        "location": "0101000020E61000006F1283C04AE751C0D878E926315C2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

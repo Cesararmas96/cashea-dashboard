@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T17:32:44.906Z",
+  "id": "5209",
+  "amount": 36.83,
+  "invoiceId": "15258",
+  "paidToMerchant": false,
+  "identifierNumber": 5486,
+  "billingDate": "2022-12-27T17:32:44.906Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27769090",
+      "fullName": "JESUS ALEXANDER AGUILERA PEREZ",
+      "phoneNumber": "+584122083059"
+    },
+    "installments": [
+      {
+        "id": "17849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T17:33:14.662Z",
+        "amount": 6.14,
+        "status": "DONE"
+      },
+      {
+        "id": "17846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T17:33:14.663Z",
+        "amount": 18.41,
+        "status": "DONE"
+      },
+      {
+        "id": "17847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T17:33:14.662Z",
+        "amount": 6.14,
+        "status": "DONE"
+      },
+      {
+        "id": "17848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T17:33:14.662Z",
+        "amount": 6.14,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

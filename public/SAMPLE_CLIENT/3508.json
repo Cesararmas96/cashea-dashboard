@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T01:46:39.771Z",
+  "id": "3055",
+  "amount": 241.15,
+  "invoiceId": "12628",
+  "paidToMerchant": false,
+  "identifierNumber": 3508,
+  "billingDate": "2022-12-21T01:46:39.771Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25839840",
+      "fullName": "DIANA YEERLYSKA DIAZ MARQUEZ",
+      "phoneNumber": "+584125882895"
+    },
+    "installments": [
+      {
+        "id": "10102",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:47:02.969Z",
+        "amount": 141.15,
+        "status": "DONE"
+      },
+      {
+        "id": "10105",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:47:02.968Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "10103",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:47:02.968Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "10104",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:47:02.968Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

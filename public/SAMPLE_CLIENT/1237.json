@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-02T17:17:10.673Z",
+  "id": "239",
+  "amount": 54,
+  "invoiceId": "40001425",
+  "paidToMerchant": false,
+  "identifierNumber": 1237,
+  "billingDate": "2022-11-02T17:17:10.673Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14775455",
+      "fullName": "MARCO ANTONIO LOPEZ ROSALES",
+      "phoneNumber": "+584241790975"
+    },
+    "installments": [
+      {
+        "id": "729",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-02T17:17:24.851Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "732",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-14T17:17:24.848Z",
+        "amount": 9,
+        "status": "DONE"
+      },
+      {
+        "id": "731",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-30T17:17:24.848Z",
+        "amount": 9,
+        "status": "DONE"
+      },
+      {
+        "id": "730",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-16T17:17:24.848Z",
+        "amount": 9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

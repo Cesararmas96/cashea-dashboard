@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T01:17:59.942Z",
+  "id": "4458",
+  "amount": 64.8,
+  "invoiceId": "50524",
+  "paidToMerchant": false,
+  "identifierNumber": 4809,
+  "billingDate": "2022-12-24T01:17:59.942Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-23T04:00:01.382+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "15180",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25532861",
+      "fullName": "EDUARD LEONER GUEVARA FLORES",
+      "phoneNumber": "+584249056626"
+    },
+    "installments": [
+      {
+        "id": "15181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:19:02.995Z",
+        "amount": 10.799999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:19:02.995Z",
+        "amount": 10.799999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:19:02.995Z",
+        "amount": 32.4,
+        "status": "DONE"
+      },
+      {
+        "id": "15179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:19:02.995Z",
+        "amount": 10.799999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

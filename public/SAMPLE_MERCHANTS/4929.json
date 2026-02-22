@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-31T18:32:53.505Z",
+  "updatedAt": "2025-04-03T14:32:28.767Z",
+  "id": 4929,
+  "name": "La Carnisseria del este",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "dba6c193-699f-498f-b432-c9a913bc6b27",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "lacarnisseriadeste24@gmail.com",
+    "legalName": "Carmen",
+    "phoneNumber": "4123661691"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-31T18:36:21.032Z",
+      "updatedAt": "2025-03-31T18:36:21.032Z",
+      "id": 12423,
+      "merchantId": 4929,
+      "name": "La Carnisseria del este Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4288,
+      "address": {
+        "name": "CALLE 8 ENTRE CARRERAS 1 Y 2 URB NUEVA SEGOVIA",
+        "long": -69.2903125,
+        "lat": 10.062937500000004,
+        "location": "0101000020E6100000AE47E17A945251C05062105839202440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-16T00:12:23.730Z",
+      "updatedAt": "2025-04-16T00:12:23.730Z",
+      "id": 13031,
+      "merchantId": 4929,
+      "name": "VR_La Carnisseria del este",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4288,
+      "address": {
+        "name": "CALLE 8 ENTRE CARRERAS 1 Y 2 URB NUEVA SEGOVIA",
+        "long": -69.2903125,
+        "lat": 10.062937500000004,
+        "location": "0101000020E6100000AE47E17A945251C05062105839202440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T16:37:16.634Z",
+  "id": "11587",
+  "amount": 72.87,
+  "invoiceId": "00007800",
+  "paidToMerchant": false,
+  "identifierNumber": 5938,
+  "billingDate": "2023-01-31T16:37:16.634Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13114704",
+      "fullName": "HILCAR LAURY CAMARGO DE ERRANTE",
+      "phoneNumber": "+584242135883"
+    },
+    "installments": [
+      {
+        "id": "35557",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T16:37:55.762Z",
+        "amount": 12.143333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35556",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T16:37:55.762Z",
+        "amount": 12.143333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35555",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T16:37:55.762Z",
+        "amount": 12.143333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35554",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T16:37:55.763Z",
+        "amount": 36.44,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

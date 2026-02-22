@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:05:03.429Z",
+  "id": "2944",
+  "amount": 46.08,
+  "invoiceId": "14655",
+  "paidToMerchant": false,
+  "identifierNumber": 3368,
+  "billingDate": "2022-12-20T23:05:03.429Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29756643",
+      "fullName": "ANGEL ORLANDO SANCHEZ BORGES",
+      "phoneNumber": "+584142640509"
+    },
+    "installments": [
+      {
+        "id": "9710",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:05:28.396Z",
+        "amount": 23.04,
+        "status": "DONE"
+      },
+      {
+        "id": "9712",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:05:28.396Z",
+        "amount": 7.68,
+        "status": "DONE"
+      },
+      {
+        "id": "9711",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:05:28.396Z",
+        "amount": 7.68,
+        "status": "DONE"
+      },
+      {
+        "id": "9713",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:05:28.396Z",
+        "amount": 7.68,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

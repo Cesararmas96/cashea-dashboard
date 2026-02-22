@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-20T16:30:31.082Z",
+  "id": "436",
+  "amount": 162,
+  "invoiceId": "6718",
+  "paidToMerchant": false,
+  "identifierNumber": 1009,
+  "billingDate": "2022-11-20T16:30:31.082Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18335278",
+      "fullName": "RONNIEL JOSE FIGUERA CORO",
+      "phoneNumber": "+584242639320"
+    },
+    "installments": [
+      {
+        "id": "1346",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-20T16:34:39.661Z",
+        "amount": 81,
+        "status": "DONE"
+      },
+      {
+        "id": "1349",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-01T16:34:39.657Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "1348",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-18T16:34:39.657Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "1347",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-04T16:34:39.657Z",
+        "amount": 27,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

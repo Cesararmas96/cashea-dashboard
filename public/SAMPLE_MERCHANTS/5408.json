@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-28T13:08:51.548Z",
+  "updatedAt": "2025-04-30T18:37:45.618Z",
+  "id": 5408,
+  "name": "SAMI CENTRO OFTALMOLOGICO",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "01de83f7-bab7-4a7a-85df-dd49dfbdd72f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "centro.oft.lospalosgrandes@gmail.com",
+    "legalName": "CENTRO OFTALMOLOGICOS LOS PALOS GRANDES",
+    "phoneNumber": "4149148675"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T13:11:47.922Z",
+      "updatedAt": "2025-04-28T13:11:47.922Z",
+      "id": 13323,
+      "merchantId": 5408,
+      "name": "SAMI CENTRO OFTALMOLOGICO CC Centro Plaza",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4103,
+      "address": {
+        "name": "AV AVENIDA FRANCISCO DE MIRANDA CC CENTRO PLAZA NIVEL 4 LOCAL CC4-37 3 URB LOS PALOS GRANDES CARACAS",
+        "long": -66.8456875,
+        "lat": 10.496562499999996,
+        "location": "0101000020E6100000B4C876BE1FB650C008D7A3703DFE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

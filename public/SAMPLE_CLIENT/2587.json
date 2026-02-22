@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T21:56:27.780Z",
+  "id": "2063",
+  "amount": 60,
+  "invoiceId": "784614",
+  "paidToMerchant": false,
+  "identifierNumber": 2587,
+  "billingDate": "2022-12-17T21:56:27.780Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24440861",
+      "fullName": "VICTOR MANUEL CASTILLO CARELLI",
+      "phoneNumber": "+584242099008"
+    },
+    "installments": [
+      {
+        "id": "6699",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T21:56:42.678Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6698",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T21:56:42.678Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "6700",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T21:56:42.678Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6701",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T21:56:42.678Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

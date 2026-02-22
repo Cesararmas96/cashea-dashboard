@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T17:48:09.478Z",
+  "id": "11496",
+  "amount": 43.62,
+  "invoiceId": "16135",
+  "paidToMerchant": false,
+  "identifierNumber": 5868,
+  "billingDate": "2023-01-30T17:48:09.478Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22701531",
+      "fullName": "ADEIRYS DEL VALLE BLANCO",
+      "phoneNumber": "+584120290615"
+    },
+    "installments": [
+      {
+        "id": "35229",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T17:49:07.259Z",
+        "amount": 7.27,
+        "status": "DONE"
+      },
+      {
+        "id": "35228",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T17:49:07.259Z",
+        "amount": 7.27,
+        "status": "DONE"
+      },
+      {
+        "id": "35226",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T17:49:07.260Z",
+        "amount": 21.81,
+        "status": "DONE"
+      },
+      {
+        "id": "35227",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T17:49:07.259Z",
+        "amount": 7.27,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-13T19:44:58.902Z",
+  "id": "372",
+  "amount": 99,
+  "invoiceId": "10113",
+  "paidToMerchant": false,
+  "identifierNumber": 5205,
+  "billingDate": "2022-11-13T19:44:58.902Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2022-12-13T04:00:00.546+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": 1139,
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18751017",
+      "fullName": "GIANCARLO ALEXANDER BOTTINI CASTILLO",
+      "phoneNumber": "+584126335358"
+    },
+    "installments": [
+      {
+        "id": "1139",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-11T19:45:33.478Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1137",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-13T19:45:33.478Z",
+        "amount": 49.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1138",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-27T19:45:33.478Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1140",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-25T19:45:33.478Z",
+        "amount": 16.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

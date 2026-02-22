@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:55:00.122Z",
+  "id": "3384",
+  "amount": 43.59,
+  "invoiceId": "8886",
+  "paidToMerchant": false,
+  "identifierNumber": 3814,
+  "billingDate": "2022-12-22T01:55:00.122Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21132077",
+      "fullName": "RAMON JOSE ROSAL VILLALBA",
+      "phoneNumber": "+584120275000"
+    },
+    "installments": [
+      {
+        "id": "11297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:56:20.343Z",
+        "amount": 7.2633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "11294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:56:20.343Z",
+        "amount": 21.8,
+        "status": "DONE"
+      },
+      {
+        "id": "11296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:56:20.343Z",
+        "amount": 7.2633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "11295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:56:20.343Z",
+        "amount": 7.2633333333333345,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

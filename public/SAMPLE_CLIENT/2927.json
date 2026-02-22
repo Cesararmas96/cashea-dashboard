@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T01:11:11.359Z",
+  "id": "2451",
+  "amount": 33.73,
+  "invoiceId": "193.90",
+  "paidToMerchant": false,
+  "identifierNumber": 2927,
+  "billingDate": "2022-12-19T01:11:11.359Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-15T04:00:00.866+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": 8085,
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11554848",
+      "fullName": "OMAIRA MARIA AYALA CASANOVA",
+      "phoneNumber": "+584166142956"
+    },
+    "installments": [
+      {
+        "id": "8085",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T01:11:32.551Z",
+        "amount": 5.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8082",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T01:11:32.551Z",
+        "amount": 16.86,
+        "status": "DONE"
+      },
+      {
+        "id": "8084",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T01:11:32.551Z",
+        "amount": 5.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8083",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T01:11:32.551Z",
+        "amount": 5.623333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

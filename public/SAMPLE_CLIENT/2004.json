@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T23:46:22.027Z",
+  "id": "1391",
+  "amount": 114.97,
+  "invoiceId": "965",
+  "paidToMerchant": false,
+  "identifierNumber": 2004,
+  "billingDate": "2022-12-13T23:46:22.027Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15178672",
+      "fullName": "RAFAEL ERNESTO GERDEL MORENO",
+      "phoneNumber": "+584242486000"
+    },
+    "installments": [
+      {
+        "id": "4486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T23:47:56.412Z",
+        "amount": 57.48,
+        "status": "DONE"
+      },
+      {
+        "id": "4487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T23:47:56.411Z",
+        "amount": 19.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T23:47:56.411Z",
+        "amount": 19.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T23:47:56.411Z",
+        "amount": 19.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

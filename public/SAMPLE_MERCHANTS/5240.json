@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-15T14:48:57.302Z",
+  "updatedAt": "2025-04-22T14:11:56.246Z",
+  "id": 5240,
+  "name": "Alex Motos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "99921047-b804-4b80-8069-b1a78709bec6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "inversionesalexmotos@gmail.com",
+    "legalName": "ALEXANDER JOSE",
+    "phoneNumber": "04142610983"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T14:51:26.114Z",
+      "updatedAt": "2025-04-15T14:51:26.114Z",
+      "id": 12996,
+      "merchantId": 5240,
+      "name": "Alex Motos Valera",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5789,
+      "address": {
+        "name": "AVENIDA 4 ENTRE CALLES 7 Y 8 LOCAL S/N SECTOR PUNTO DE MERIDA VALERA EDO. TRUJILLO",
+        "long": -70.60418750000001,
+        "lat": 9.312812499999993,
+        "location": "0101000020E6100000BB490C02ABA651C0588FC2F528A02240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

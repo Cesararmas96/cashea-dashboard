@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T19:50:07.988Z",
+  "id": "2536",
+  "amount": 125.47,
+  "invoiceId": "12129",
+  "paidToMerchant": false,
+  "identifierNumber": 3032,
+  "billingDate": "2022-12-19T19:50:07.988Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "62",
+    "buyDebtDate": "2023-01-19T04:00:00.392+00:00",
+    "lastStoreId": 48,
+    "boughtForInstallmentId": "8332",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24663857",
+      "fullName": "ZULEICA ALEJANDRA LOVERA HERRERA",
+      "phoneNumber": "+584127196025"
+    },
+    "installments": [
+      {
+        "id": "8330",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T19:51:56.415Z",
+        "amount": 62.73,
+        "status": "DONE"
+      },
+      {
+        "id": "8333",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T19:51:56.414Z",
+        "amount": 20.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8331",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T19:51:56.414Z",
+        "amount": 20.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8332",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T19:51:56.414Z",
+        "amount": 20.913333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1354,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J405040378",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS, C. A.",
+    "internalBankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS C.A.",
+    "account": "01910151792100138698",
+    "accountType": "Corriente",
+    "phoneNumber": "4127675300",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1353,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J405040378",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS, C. A.",
+    "internalBankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS C.A.",
+    "account": "01910151792100138698",
+    "accountType": "Corriente",
+    "phoneNumber": "4127675300",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1356,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J405040378",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS, C. A.",
+    "internalBankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS C.A.",
+    "account": "01910151792100138698",
+    "accountType": "Corriente",
+    "phoneNumber": "4127675300",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1355,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J405040378",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS, C. A.",
+    "internalBankHolder": "DISTRIBUIDORA EL SATÉLITE EXPRESS C.A.",
+    "account": "01910151762300022969",
+    "accountType": "Custodia",
+    "phoneNumber": "4127675300",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

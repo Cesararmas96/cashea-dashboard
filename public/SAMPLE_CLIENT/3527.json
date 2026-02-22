@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T20:55:25.771Z",
+  "id": "7207",
+  "amount": 43.64,
+  "invoiceId": "9635",
+  "paidToMerchant": false,
+  "identifierNumber": 3527,
+  "billingDate": "2023-01-02T20:55:25.771Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26747628",
+      "fullName": "ENIF ALTAIR VELASQUEZ RAMOS",
+      "phoneNumber": "+584122005139"
+    },
+    "installments": [
+      {
+        "id": "24974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T20:56:25.513Z",
+        "amount": 21.82,
+        "status": "DONE"
+      },
+      {
+        "id": "24977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T20:56:25.512Z",
+        "amount": 7.273333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "24976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T20:56:25.512Z",
+        "amount": 7.273333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "24975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T20:56:25.512Z",
+        "amount": 7.273333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

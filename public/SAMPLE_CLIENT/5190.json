@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T22:09:04.679Z",
+  "id": "4955",
+  "amount": 43.1,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5190,
+  "billingDate": "2022-12-24T22:09:04.679Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16564961",
+      "fullName": "DESIREE JULIA DUARTE DIAZ",
+      "phoneNumber": "+584241335868"
+    },
+    "installments": [
+      {
+        "id": "16983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:09:16.724Z",
+        "amount": 7.183333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:09:16.724Z",
+        "amount": 7.183333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:09:16.724Z",
+        "amount": 7.183333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:09:16.724Z",
+        "amount": 21.55,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

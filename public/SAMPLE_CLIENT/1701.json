@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T00:35:55.077Z",
+  "id": "1042",
+  "amount": 30.59,
+  "invoiceId": "4520",
+  "paidToMerchant": false,
+  "identifierNumber": 1701,
+  "billingDate": "2022-12-10T00:35:55.077Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14515102",
+      "fullName": "ADRIANA LISBETH MORENO MENDOZA",
+      "phoneNumber": "+584261487805"
+    },
+    "installments": [
+      {
+        "id": "3317",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T00:36:38.441Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "3315",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T00:36:38.441Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "3314",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T00:36:38.442Z",
+        "amount": 15.29,
+        "status": "DONE"
+      },
+      {
+        "id": "3316",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T00:36:38.441Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

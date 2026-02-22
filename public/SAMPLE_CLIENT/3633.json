@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:29:13.489Z",
+  "id": "3177",
+  "amount": 137.6,
+  "invoiceId": "12684",
+  "paidToMerchant": false,
+  "identifierNumber": 3633,
+  "billingDate": "2022-12-21T20:29:13.489Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27103130",
+      "fullName": "WUISNEIDY YOHELY PETIT HUERTA",
+      "phoneNumber": "+584241731701"
+    },
+    "installments": [
+      {
+        "id": "10530",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:32:08.736Z",
+        "amount": 68.8,
+        "status": "DONE"
+      },
+      {
+        "id": "10533",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:32:08.736Z",
+        "amount": 22.933333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10532",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:32:08.736Z",
+        "amount": 22.933333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10531",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:32:08.736Z",
+        "amount": 22.933333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

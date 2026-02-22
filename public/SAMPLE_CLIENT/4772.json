@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:53:56.835Z",
+  "id": "4374",
+  "amount": 126.75,
+  "invoiceId": "15020",
+  "paidToMerchant": false,
+  "identifierNumber": 4772,
+  "billingDate": "2022-12-23T23:53:56.835Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11409994",
+      "fullName": "ALI GERARDO LOPEZ MAIOLINO",
+      "phoneNumber": "+584242388683"
+    },
+    "installments": [
+      {
+        "id": "14842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:54:19.691Z",
+        "amount": 63.38,
+        "status": "DONE"
+      },
+      {
+        "id": "14845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:54:19.691Z",
+        "amount": 21.12333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:54:19.691Z",
+        "amount": 21.12333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:54:19.691Z",
+        "amount": 21.12333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:20:44.153Z",
+  "id": "2340",
+  "amount": 97.31,
+  "invoiceId": "17094",
+  "paidToMerchant": false,
+  "identifierNumber": 2815,
+  "billingDate": "2022-12-18T22:20:44.153Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27914138",
+      "fullName": "ORLENE COROMOTO VAAMONDEZ CASARES",
+      "phoneNumber": "+584242722055"
+    },
+    "installments": [
+      {
+        "id": "7686",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:21:55.912Z",
+        "amount": 48.66,
+        "status": "DONE"
+      },
+      {
+        "id": "7689",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:21:55.912Z",
+        "amount": 16.21666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7688",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:21:55.912Z",
+        "amount": 16.21666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7687",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:21:55.912Z",
+        "amount": 16.21666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

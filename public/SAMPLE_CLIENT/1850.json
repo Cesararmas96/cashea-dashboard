@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T16:45:50.219Z",
+  "id": "1176",
+  "amount": 53.99,
+  "invoiceId": "5696",
+  "paidToMerchant": false,
+  "identifierNumber": 1850,
+  "billingDate": "2022-12-11T16:45:50.219Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26873420",
+      "fullName": "RAFAEL EDUARDO OROZCO APONTE",
+      "phoneNumber": "+584145883705"
+    },
+    "installments": [
+      {
+        "id": "3746",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T16:46:35.927Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "3749",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T16:46:35.927Z",
+        "amount": 8.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3747",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T16:46:35.927Z",
+        "amount": 8.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3748",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T16:46:35.927Z",
+        "amount": 8.996666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

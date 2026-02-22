@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-28T23:24:00.611Z",
+  "id": "5658",
+  "amount": 587,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5949,
+  "billingDate": "2022-12-28T23:24:00.611Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

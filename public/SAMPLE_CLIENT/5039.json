@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-24T12:33:38.217Z",
+  "id": "10780",
+  "amount": 290,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5039,
+  "billingDate": "2023-01-24T12:33:38.217Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16149639",
+      "fullName": "LUIS ANGEL VERA CASTELLANO",
+      "phoneNumber": "+584242744031"
+    },
+    "installments": [
+      {
+        "id": "32667",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-07T12:33:38.268Z",
+        "amount": 43.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "32669",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-07T12:33:38.268Z",
+        "amount": 43.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "32668",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-21T12:33:38.268Z",
+        "amount": 43.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "32666",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-24T12:33:38.269Z",
+        "amount": 160,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 172,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

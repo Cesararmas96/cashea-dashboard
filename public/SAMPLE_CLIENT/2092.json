@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T00:05:02.165Z",
+  "id": "1507",
+  "amount": 30.09,
+  "invoiceId": "11798",
+  "paidToMerchant": false,
+  "identifierNumber": 2092,
+  "billingDate": "2022-12-15T00:05:02.165Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23947806",
+      "fullName": "EDWIN JOSE BASTIDAS HERRERA",
+      "phoneNumber": "+584120247020"
+    },
+    "installments": [
+      {
+        "id": "4875",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T00:05:57.788Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4876",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T00:05:57.788Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4877",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T00:05:57.788Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4874",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T00:05:57.788Z",
+        "amount": 15.04,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

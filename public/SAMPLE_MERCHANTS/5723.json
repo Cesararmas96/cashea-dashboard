@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-13T14:55:00.387Z",
+  "updatedAt": "2025-05-15T18:30:17.079Z",
+  "id": 5723,
+  "name": "Frigorifico Lomas del Paraiso",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "36e369e1-ee57-46e1-a45e-bd9f7c862b75",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "frigorificolomasdelparaiso@gmail.com",
+    "legalName": "Christopher",
+    "phoneNumber": "04129221928"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T14:57:27.597Z",
+      "updatedAt": "2025-05-13T14:57:27.597Z",
+      "id": 14029,
+      "merchantId": 5723,
+      "name": "Frigorifico Lomas del Paraiso Urb Los Samanes CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5367,
+      "address": {
+        "name": "CALLE SANABRIA Y LIBERALES QTA SILVIA, URB LOS SAMANES DEL PARAISO",
+        "long": -66.9243125,
+        "lat": 10.491437500000004,
+        "location": "0101000020E61000002DB29DEF27BB50C0580E2DB29DFB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-27T15:29:09.872Z",
+      "updatedAt": "2025-05-27T15:29:09.872Z",
+      "id": 14729,
+      "merchantId": 5723,
+      "name": "VR_Frigorifico Lomas del Paraiso",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5367,
+      "address": {
+        "name": "CALLE SANABRIA Y LIBERALES QTA SILVIA, URB LOS SAMANES DEL PARAISO",
+        "long": -66.9243125,
+        "lat": 10.491437500000004,
+        "location": "0101000020E61000002DB29DEF27BB50C0580E2DB29DFB2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

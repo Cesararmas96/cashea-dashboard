@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-27T16:45:53.250Z",
+  "id": "513",
+  "amount": 123.6,
+  "invoiceId": "783772",
+  "paidToMerchant": false,
+  "identifierNumber": 2284,
+  "billingDate": "2022-11-27T16:45:53.250Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "33",
+    "buyDebtDate": "2022-12-11T04:00:00.119+00:00",
+    "lastStoreId": 15,
+    "boughtForInstallmentId": 1607,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18519048",
+      "fullName": "ZUAT AMATISTA ALAM BELISARIO",
+      "phoneNumber": "+584248048369"
+    },
+    "installments": [
+      {
+        "id": "1609",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T16:46:14.949Z",
+        "amount": 20.599999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "1608",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T16:46:14.949Z",
+        "amount": 20.599999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "1606",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T16:46:14.950Z",
+        "amount": 61.8,
+        "status": "DONE"
+      },
+      {
+        "id": "1607",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T16:46:14.949Z",
+        "amount": 20.599999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

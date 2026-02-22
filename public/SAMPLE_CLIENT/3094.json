@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T23:02:02.054Z",
+  "id": "2626",
+  "amount": 86.76,
+  "invoiceId": "50140",
+  "paidToMerchant": false,
+  "identifierNumber": 3094,
+  "billingDate": "2022-12-19T23:02:02.054Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-05T04:00:00.457+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "8619",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18911427",
+      "fullName": "JEINIS NORELYS GRATEROL RAMIREZ",
+      "phoneNumber": "+584126312192"
+    },
+    "installments": [
+      {
+        "id": "8621",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:02:20.713Z",
+        "amount": 14.46,
+        "status": "DELAYED"
+      },
+      {
+        "id": "8620",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:02:20.713Z",
+        "amount": 14.46,
+        "status": "DELAYED"
+      },
+      {
+        "id": "8619",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:02:20.713Z",
+        "amount": 14.46,
+        "status": "DONE"
+      },
+      {
+        "id": "8618",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:02:20.713Z",
+        "amount": 43.38,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

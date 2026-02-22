@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:47:00.147Z",
+  "id": "5129",
+  "amount": 108.48,
+  "invoiceId": "00018553",
+  "paidToMerchant": false,
+  "identifierNumber": 5413,
+  "billingDate": "2022-12-26T22:47:00.147Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20676972",
+      "fullName": "JIMMY SEBASTIAN NOBREGA ARIAS",
+      "phoneNumber": "+584122831975"
+    },
+    "installments": [
+      {
+        "id": "17566",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:47:21.728Z",
+        "amount": 54.24,
+        "status": "DONE"
+      },
+      {
+        "id": "17569",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:47:21.728Z",
+        "amount": 18.080000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17568",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:47:21.728Z",
+        "amount": 18.080000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17567",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:47:21.728Z",
+        "amount": 18.080000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

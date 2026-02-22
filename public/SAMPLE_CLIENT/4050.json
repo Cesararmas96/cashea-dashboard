@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:23:55.896Z",
+  "id": "3645",
+  "amount": 201.6,
+  "invoiceId": "9166",
+  "paidToMerchant": false,
+  "identifierNumber": 4050,
+  "billingDate": "2022-12-22T22:23:55.896Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21335218",
+      "fullName": "JANETH MARIA MONTOYA PADRINO",
+      "phoneNumber": "+584241642665"
+    },
+    "installments": [
+      {
+        "id": "12218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:24:08.845Z",
+        "amount": 100.8,
+        "status": "DONE"
+      },
+      {
+        "id": "12221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:24:08.845Z",
+        "amount": 33.6,
+        "status": "DONE"
+      },
+      {
+        "id": "12220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:24:08.845Z",
+        "amount": 33.6,
+        "status": "DONE"
+      },
+      {
+        "id": "12219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:24:08.845Z",
+        "amount": 33.6,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 23,
+    "name": "Cortefiel C.C Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:52:31.212Z",
+  "id": "2806",
+  "amount": 52.7,
+  "invoiceId": "12578",
+  "paidToMerchant": false,
+  "identifierNumber": 3296,
+  "billingDate": "2022-12-20T19:52:31.212Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28132993",
+      "fullName": "GABRIELA CLARETT TOVAR SANCHEZ",
+      "phoneNumber": "+584241959749"
+    },
+    "installments": [
+      {
+        "id": "9226",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:53:30.751Z",
+        "amount": 26.35,
+        "status": "DONE"
+      },
+      {
+        "id": "9229",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:53:30.750Z",
+        "amount": 8.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9228",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:53:30.750Z",
+        "amount": 8.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9227",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:53:30.750Z",
+        "amount": 8.783333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

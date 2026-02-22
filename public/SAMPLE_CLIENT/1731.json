@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:53:01.455Z",
+  "id": "1296",
+  "amount": 86.6,
+  "invoiceId": "17296",
+  "paidToMerchant": false,
+  "identifierNumber": 1731,
+  "billingDate": "2022-12-11T23:53:01.455Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17964372",
+      "fullName": "ISMARY QUINTERO RADA",
+      "phoneNumber": "+584241776493"
+    },
+    "installments": [
+      {
+        "id": "4178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:54:28.020Z",
+        "amount": 43.3,
+        "status": "DONE"
+      },
+      {
+        "id": "4179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:54:28.019Z",
+        "amount": 14.433333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:54:28.019Z",
+        "amount": 14.433333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:54:28.019Z",
+        "amount": 14.433333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

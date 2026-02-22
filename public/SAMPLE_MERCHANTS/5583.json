@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-07T14:04:03.777Z",
+  "updatedAt": "2025-05-14T23:04:42.665Z",
+  "id": 5583,
+  "name": "OPTIFARMA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ed94bb57-2973-4b3f-bb48-f2fb7ce64fee",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "optifarmaca@gmail.com",
+    "legalName": "GLADYS",
+    "phoneNumber": "04249044822"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T14:06:02.092Z",
+      "updatedAt": "2025-05-07T14:06:02.092Z",
+      "id": 13707,
+      "merchantId": 5583,
+      "name": "OPTIFARMA Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7140,
+      "address": {
+        "name": "Av luis del valle garcia edif clinico santa sofia pb local 10 frente policlinica Maturín",
+        "long": -63.17375,
+        "lat": 9.738749999999996,
+        "location": "0101000020E61000000AD7A3703D964FC008D7A3703D7A2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

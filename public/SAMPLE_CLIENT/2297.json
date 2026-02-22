@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-04T14:48:48.892Z",
+  "id": "258",
+  "amount": 40,
+  "invoiceId": "005",
+  "paidToMerchant": false,
+  "identifierNumber": 2297,
+  "billingDate": "2022-11-04T14:48:48.892Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17386427",
+      "fullName": "ISRAEL MOISES VILLAMIZAR CASTRO",
+      "phoneNumber": "+584122195909"
+    },
+    "installments": [
+      {
+        "id": "805",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-04T14:49:04.677Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "808",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-16T14:49:04.676Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "807",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-02T14:49:04.676Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "806",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-18T14:49:04.676Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

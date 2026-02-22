@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-10T00:39:50.131Z",
+  "id": "1044",
+  "amount": 31.99,
+  "invoiceId": "4521",
+  "paidToMerchant": false,
+  "identifierNumber": 1823,
+  "billingDate": "2022-12-10T00:39:50.131Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-09T04:00:00.679+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "3324",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24723510",
+      "fullName": "MARY CARMEN AZUAJE CARABALI",
+      "phoneNumber": "+584241421707"
+    },
+    "installments": [
+      {
+        "id": "3325",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T00:40:13.110Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3322",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T00:40:13.110Z",
+        "amount": 15.99,
+        "status": "DONE"
+      },
+      {
+        "id": "3323",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T00:40:13.110Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3324",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T00:40:13.110Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

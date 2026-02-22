@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T15:19:36.226Z",
+  "id": "3902",
+  "amount": 40,
+  "invoiceId": "00002030",
+  "paidToMerchant": false,
+  "identifierNumber": 4320,
+  "billingDate": "2022-12-23T15:19:36.226Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12917211",
+      "fullName": "DANIEL JOSE GALEANO MAESTRE",
+      "phoneNumber": "+584141046421"
+    },
+    "installments": [
+      {
+        "id": "13146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T15:19:52.493Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "13149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T15:19:52.492Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T15:19:52.492Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T15:19:52.492Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

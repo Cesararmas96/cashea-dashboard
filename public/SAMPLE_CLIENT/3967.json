@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:23:00.485Z",
+  "id": "3530",
+  "amount": 76.39,
+  "invoiceId": "12818",
+  "paidToMerchant": false,
+  "identifierNumber": 3967,
+  "billingDate": "2022-12-22T20:23:00.485Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18412445",
+      "fullName": "ALINSON ENNOVY ISEA REYES",
+      "phoneNumber": "+584241607196"
+    },
+    "installments": [
+      {
+        "id": "11813",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:23:23.873Z",
+        "amount": 12.729999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11810",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:23:23.873Z",
+        "amount": 38.2,
+        "status": "DONE"
+      },
+      {
+        "id": "11812",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:23:23.873Z",
+        "amount": 12.729999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11811",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:23:23.873Z",
+        "amount": 12.729999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

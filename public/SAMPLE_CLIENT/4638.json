@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:07:49.181Z",
+  "id": "4225",
+  "amount": 38.23,
+  "invoiceId": "12961",
+  "paidToMerchant": false,
+  "identifierNumber": 4638,
+  "billingDate": "2022-12-23T22:07:49.181Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12668459",
+      "fullName": "MARTHA MARIA PENA HERNANDEZ",
+      "phoneNumber": "+584266122422"
+    },
+    "installments": [
+      {
+        "id": "14316",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:08:10.116Z",
+        "amount": 6.373333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14314",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:08:10.116Z",
+        "amount": 19.11,
+        "status": "DONE"
+      },
+      {
+        "id": "14317",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:08:10.116Z",
+        "amount": 6.373333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14315",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:08:10.116Z",
+        "amount": 6.373333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

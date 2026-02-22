@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:24:29.913Z",
+  "id": "4037",
+  "amount": 41.19,
+  "invoiceId": "1165",
+  "paidToMerchant": false,
+  "identifierNumber": 4446,
+  "billingDate": "2022-12-23T19:24:29.913Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30180932",
+      "fullName": "AINOHA ZARAHY DEL CARMEN ZAMBRANO CACHUTT",
+      "phoneNumber": "+584242005703"
+    },
+    "installments": [
+      {
+        "id": "13642",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:27:40.127Z",
+        "amount": 20.59,
+        "status": "DONE"
+      },
+      {
+        "id": "13645",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:27:40.127Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13644",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:27:40.127Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13643",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:27:40.127Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 27,
+    "name": "Women Secret Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

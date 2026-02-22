@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T21:33:50.792Z",
+  "id": "2869",
+  "amount": 90,
+  "invoiceId": "3186",
+  "paidToMerchant": false,
+  "identifierNumber": 3328,
+  "billingDate": "2022-12-20T21:33:50.792Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11930453",
+      "fullName": "WALTER ADOLFO RAMOS BARROS",
+      "phoneNumber": "+584241821250"
+    },
+    "installments": [
+      {
+        "id": "9469",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:37:46.481Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "9468",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:37:46.481Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "9466",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:37:46.481Z",
+        "amount": 45,
+        "status": "DONE"
+      },
+      {
+        "id": "9467",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:37:46.481Z",
+        "amount": 15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

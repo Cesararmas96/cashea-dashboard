@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T23:38:34.956Z",
+  "id": "2971",
+  "amount": 63.97,
+  "invoiceId": "6814",
+  "paidToMerchant": false,
+  "identifierNumber": 3436,
+  "billingDate": "2022-12-20T23:38:34.956Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-06T04:00:00.602+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "9807",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18277900",
+      "fullName": "ARFEL ALEJANDRO MANCILLA BELTRAN",
+      "phoneNumber": "+584242625557"
+    },
+    "installments": [
+      {
+        "id": "9806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:38:55.443Z",
+        "amount": 31.98,
+        "status": "DONE"
+      },
+      {
+        "id": "9809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:38:55.442Z",
+        "amount": 10.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:38:55.442Z",
+        "amount": 10.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:38:55.442Z",
+        "amount": 10.663333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

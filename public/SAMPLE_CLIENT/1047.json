@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-01T00:56:03.939Z",
+  "id": "557",
+  "amount": 168,
+  "invoiceId": "783921",
+  "paidToMerchant": false,
+  "identifierNumber": 1047,
+  "billingDate": "2022-12-01T00:56:03.939Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12627023",
+      "fullName": "GABRIEL JAIME OCAMPO TAMAYO",
+      "phoneNumber": "+584141111080"
+    },
+    "installments": [
+      {
+        "id": "1762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-01T00:56:41.880Z",
+        "amount": 84,
+        "status": "DONE"
+      },
+      {
+        "id": "1764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-29T00:56:41.879Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "1765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-12T00:56:41.879Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "1763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-15T00:56:41.879Z",
+        "amount": 28,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

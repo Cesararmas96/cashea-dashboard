@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T22:38:54.382Z",
+  "id": "5294",
+  "amount": 116.29,
+  "invoiceId": "44738",
+  "paidToMerchant": false,
+  "identifierNumber": 5614,
+  "billingDate": "2022-12-27T22:38:54.382Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16263192",
+      "fullName": "ESTHER MARIA HERNANDEZ",
+      "phoneNumber": "+584147077229"
+    },
+    "installments": [
+      {
+        "id": "18181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T22:39:42.623Z",
+        "amount": 19.380000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "18178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T22:39:42.623Z",
+        "amount": 58.15,
+        "status": "DONE"
+      },
+      {
+        "id": "18179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T22:39:42.623Z",
+        "amount": 19.380000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "18180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T22:39:42.623Z",
+        "amount": 19.380000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

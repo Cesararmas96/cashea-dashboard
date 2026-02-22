@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:35:30.217Z",
+  "id": "4418",
+  "amount": 30,
+  "invoiceId": "48385",
+  "paidToMerchant": false,
+  "identifierNumber": 4764,
+  "billingDate": "2022-12-24T00:35:30.217Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26334597",
+      "fullName": "JAVIER FELIX TEIXEIRA SANDOVAL",
+      "phoneNumber": "+584142142378"
+    },
+    "installments": [
+      {
+        "id": "15025",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:35:46.289Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "15022",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:35:46.289Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "15024",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:35:46.289Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "15023",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:35:46.289Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

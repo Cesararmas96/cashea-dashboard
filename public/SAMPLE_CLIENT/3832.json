@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-05T02:36:49.769Z",
+  "id": "12384",
+  "amount": 43.732000000000006,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3832,
+  "billingDate": "2023-02-05T02:36:49.769Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24074966",
+      "fullName": "MARIA ANGELICA BARRIOS HENRIQUEZ",
+      "phoneNumber": "+584261195407"
+    },
+    "installments": [
+      {
+        "id": "38393",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-19T02:36:49.809Z",
+        "amount": 7.287333333333335,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38392",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-05T02:36:49.809Z",
+        "amount": 7.287333333333335,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38390",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-05T02:36:49.810Z",
+        "amount": 21.87,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38391",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-19T02:36:49.809Z",
+        "amount": 7.287333333333335,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 79,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 3118,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T17:54:46.899Z",
+  "id": "1309",
+  "amount": 45.18,
+  "invoiceId": "4682",
+  "paidToMerchant": false,
+  "identifierNumber": 1829,
+  "billingDate": "2022-12-12T17:54:46.899Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12295106",
+      "fullName": "ELY RAMON SAEZ AQUINO",
+      "phoneNumber": "+584125510266"
+    },
+    "installments": [
+      {
+        "id": "4222",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T17:55:45.507Z",
+        "amount": 22.59,
+        "status": "DONE"
+      },
+      {
+        "id": "4223",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T17:55:45.506Z",
+        "amount": 7.53,
+        "status": "DONE"
+      },
+      {
+        "id": "4224",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T17:55:45.506Z",
+        "amount": 7.53,
+        "status": "DONE"
+      },
+      {
+        "id": "4225",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T17:55:45.506Z",
+        "amount": 7.53,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

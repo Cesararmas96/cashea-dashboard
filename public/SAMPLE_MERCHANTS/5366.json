@@ -1,0 +1,222 @@
+{
+  "createdAt": "2025-04-24T15:40:06.068Z",
+  "updatedAt": "2025-05-08T19:40:10.398Z",
+  "id": 5366,
+  "name": "MUEBLERIA DECO CENTER",
+  "ecommerceUrl": null,
+  "changePolicy": "CAJA EN PERFECTO ESTADO Y QUE TENGA SU DEBDIDO PROTECTOR EN CASO DE SER ELECTRODOMESTICO 3 MESES PARA EL CAMBIO",
+  "email": "Decocentermuebleria@gmail.com",
+  "phoneNumber": "+584220041599",
+  "logoUrl": null,
+  "data": {
+    "rif": "J506788144",
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2ecf6ec0-76c0-4540-8933-51bc921fad54",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "decocentermuebleria@gmail.com",
+    "legalName": "SHEDY",
+    "phoneNumber": "04129416375"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-29T20:57:51.764Z",
+      "updatedAt": "2025-09-29T20:57:51.764Z",
+      "id": 22669,
+      "merchantId": 5366,
+      "name": "MUEBLERIA DECO CENTER Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6829,
+      "address": {
+        "name": "AV. CASACOIMA, LOCA Nro. S/N, SECTOR CENTRO, URB. DELFIN MENDOZA, TUCUPITA , DELTA AMACURO",
+        "long": -62.04625,
+        "lat": 9.068749999999994,
+        "location": "0101000020E610000052B81E85EB054FC03033333333232240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-11-17T15:39:10.516Z",
+      "updatedAt": "2025-11-17T15:39:10.516Z",
+      "id": 25855,
+      "merchantId": 5366,
+      "name": "Muebleria Deco Center Av. Romulo Gallegos Temblador",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6829,
+      "address": {
+        "name": "AV. ROMULO GALLEGO CON CRUCE AV. FRANCISCO DE MIRANDA DIAGONAL AL BANCO VENEZUELA TEMBLADOR, ESTADO MONAGAS",
+        "long": -62.64018750000001,
+        "lat": 9.007312499999998,
+        "location": "0101000020E61000006EE7FBA9F1514FC038B4C876BE032240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T15:39:17.917Z",
+      "updatedAt": "2025-05-14T15:39:17.917Z",
+      "id": 14114,
+      "merchantId": 5366,
+      "name": "VR_MUEBLERIA DECO CENTER",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6829,
+      "address": {
+        "name": "AV. CASACOIMA, LOCA Nro. S/N, SECTOR CENTRO, URB. DELFIN MENDOZA, TUCUPITA , DELTA AMACURO",
+        "long": -62.04625,
+        "lat": 9.068749999999994,
+        "location": "0101000020E610000052B81E85EB054FC03033333333232240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-24T15:41:21.465Z",
+      "updatedAt": "2025-04-24T15:41:21.465Z",
+      "id": 13246,
+      "merchantId": 5366,
+      "name": "MUEBLERIA DECO CENTER Tucupita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6829,
+      "address": {
+        "name": "AV. CASACOIMA, LOCA Nro. S/N, SECTOR CENTRO, URB. DELFIN MENDOZA, TUCUPITA , DELTA AMACURO",
+        "long": -62.04625,
+        "lat": 9.068749999999994,
+        "location": "0101000020E610000052B81E85EB054FC03033333333232240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

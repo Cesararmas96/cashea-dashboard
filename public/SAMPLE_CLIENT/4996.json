@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:11:30.105Z",
+  "id": "4650",
+  "amount": 32.99,
+  "invoiceId": "26882",
+  "paidToMerchant": false,
+  "identifierNumber": 4996,
+  "billingDate": "2022-12-24T17:11:30.105Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27670920",
+      "fullName": "TONY ANDRES ROYE ALAMO",
+      "phoneNumber": "+584141996081"
+    },
+    "installments": [
+      {
+        "id": "15889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:12:00.912Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:12:00.912Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:12:00.912Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:12:00.912Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

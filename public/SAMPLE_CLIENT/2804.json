@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T21:23:59.561Z",
+  "id": "2298",
+  "amount": 37.54,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2804,
+  "billingDate": "2022-12-18T21:23:59.561Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6326167",
+      "fullName": "OMAR JOSE RODRIGUEZ AMAYA",
+      "phoneNumber": "+584123529005"
+    },
+    "installments": [
+      {
+        "id": "7562",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T21:30:02.131Z",
+        "amount": 18.77,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7564",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T21:30:02.131Z",
+        "amount": 6.256666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7563",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T21:30:02.131Z",
+        "amount": 6.256666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7565",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T21:30:02.131Z",
+        "amount": 6.256666666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 59,
+    "name": "Mango Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

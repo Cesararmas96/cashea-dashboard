@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T14:40:06.426Z",
+  "id": "2717",
+  "amount": 49.8,
+  "invoiceId": "50147",
+  "paidToMerchant": false,
+  "identifierNumber": 3195,
+  "billingDate": "2022-12-20T14:40:06.426Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21072124",
+      "fullName": "RICARDO STEWART ORTIZ PENA",
+      "phoneNumber": "+584242042153"
+    },
+    "installments": [
+      {
+        "id": "8950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T14:40:36.465Z",
+        "amount": 24.9,
+        "status": "DONE"
+      },
+      {
+        "id": "8953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T14:40:36.465Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T14:40:36.465Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T14:40:36.465Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

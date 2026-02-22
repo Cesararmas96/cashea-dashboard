@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:59:36.988Z",
+  "id": "4379",
+  "amount": 47.8,
+  "invoiceId": "12978",
+  "paidToMerchant": false,
+  "identifierNumber": 4742,
+  "billingDate": "2022-12-23T23:59:36.988Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25516582",
+      "fullName": "WILLIANI NORELYS ORTEGA CAMACARO",
+      "phoneNumber": "+584142317620"
+    },
+    "installments": [
+      {
+        "id": "14862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:59:58.591Z",
+        "amount": 23.9,
+        "status": "DONE"
+      },
+      {
+        "id": "14865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:59:58.591Z",
+        "amount": 7.966666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:59:58.591Z",
+        "amount": 7.966666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:59:58.591Z",
+        "amount": 7.966666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

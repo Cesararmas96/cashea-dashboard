@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:39:45.615Z",
+  "id": "2702",
+  "amount": 38,
+  "invoiceId": "10578",
+  "paidToMerchant": false,
+  "identifierNumber": 3168,
+  "billingDate": "2022-12-20T01:39:45.615Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16971289",
+      "fullName": "ODEL HARRY GONZALEZ BARRIOS",
+      "phoneNumber": "+584241319441"
+    },
+    "installments": [
+      {
+        "id": "8890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:40:19.700Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "8892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:40:19.699Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:40:19.699Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:40:19.699Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

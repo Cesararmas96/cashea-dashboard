@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-13T19:11:44.792Z",
+  "updatedAt": "2025-07-08T14:46:07.177Z",
+  "id": 5748,
+  "name": "Casa Kids",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b54e2195-bbfd-412b-920b-5b589bfa7b43",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "marcafarmadia@gmail.com",
+    "legalName": "Angel Trejo",
+    "phoneNumber": "04128860566"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T19:14:55.038Z",
+      "updatedAt": "2025-05-13T19:14:55.038Z",
+      "id": 14066,
+      "merchantId": 5748,
+      "name": "Casa Kids Calle los Nisperos Mcy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3950,
+      "address": {
+        "name": "Casa Kids Calle los Nisperos Mcy.",
+        "long": -67.5903125,
+        "lat": 10.2710625,
+        "location": "0101000020E6100000E17A14AEC7E550C0105839B4C88A2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

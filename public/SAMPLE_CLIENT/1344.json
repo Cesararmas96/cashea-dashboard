@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-25T18:44:42.357Z",
+  "id": "480",
+  "amount": 47,
+  "invoiceId": "00000395",
+  "paidToMerchant": false,
+  "identifierNumber": 1344,
+  "billingDate": "2022-11-25T18:44:42.357Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17077829",
+      "fullName": "PEDRO ANTONIO GRANADOS TORRES",
+      "phoneNumber": "+584149129061"
+    },
+    "installments": [
+      {
+        "id": "1486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-25T18:46:05.775Z",
+        "amount": 23.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-09T18:46:05.774Z",
+        "amount": 7.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-23T18:46:05.774Z",
+        "amount": 7.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-06T18:46:05.774Z",
+        "amount": 7.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 14,
+    "name": "Pintacasa Boleita Sur"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

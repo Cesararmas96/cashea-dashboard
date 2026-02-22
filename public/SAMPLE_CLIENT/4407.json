@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:22:46.674Z",
+  "id": "3984",
+  "amount": 55,
+  "invoiceId": "1921",
+  "paidToMerchant": false,
+  "identifierNumber": 4407,
+  "billingDate": "2022-12-23T18:22:46.674Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15083096",
+      "fullName": "ARELIS DEL VALLE FIGUEROA HURTADO",
+      "phoneNumber": "+584140284999"
+    },
+    "installments": [
+      {
+        "id": "13466",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:38:28.643Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "13469",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:38:28.642Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13468",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:38:28.642Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13467",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:38:28.642Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

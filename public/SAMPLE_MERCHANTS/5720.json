@@ -1,0 +1,191 @@
+{
+  "createdAt": "2025-05-13T14:35:52.414Z",
+  "updatedAt": "2025-09-16T17:32:31.996Z",
+  "id": 5720,
+  "name": "Frio Partes",
+  "ecommerceUrl": null,
+  "changePolicy": "El producto debe llegar sin alteraciones\nPara solicitar cambio o devolución debe notificar dentro de las 24 hs siguientes a la recepción, comunicándose con el número de su vendedor\nLos cambios se realizan por defecto de fábrica, la devolución aplica solo si no tenemos el reemplazo\nPartes eléctricas no tienen cambio. ",
+  "email": "friopartesca@gmail.com",
+  "phoneNumber": "+584124577133 ",
+  "logoUrl": null,
+  "data": {
+    "rif": "J409759334"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ae8fc460-70da-4bfa-bf05-214e9399e27b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "08:30",
+    "to": "18:30"
+  },
+  "contact": {
+    "email": "friopartesca@gmail.com",
+    "legalName": "Liseth",
+    "phoneNumber": "04144546849"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-23T17:21:00.212Z",
+      "updatedAt": "2025-09-16T17:32:31.812Z",
+      "id": 19718,
+      "merchantId": 5720,
+      "name": "Frio Partes Valencia Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5378,
+      "address": {
+        "name": "Municipio San Diego, Urb Divino Niño I Calle de servicio Parcelamiento U-3, San Diego 2006, Carabobo",
+        "long": -67.9626875,
+        "lat": 10.257437499999995,
+        "location": "0101000020E6100000273108AC9CFD50C0288716D9CE832440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-05-27T19:09:38.388Z",
+      "updatedAt": "2025-05-27T19:09:38.388Z",
+      "id": 14774,
+      "merchantId": 5720,
+      "name": "VR_Frio Partes",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5378,
+      "address": {
+        "name": "Municipio San Diego, Urb Divino Niño I Calle de servicio Parcelamiento U-3, San Diego 2006, Carabobo",
+        "long": -67.9626875,
+        "lat": 10.257437499999995,
+        "location": "0101000020E6100000273108AC9CFD50C0288716D9CE832440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-05-13T14:37:28.351Z",
+      "updatedAt": "2025-05-13T14:37:28.351Z",
+      "id": 14024,
+      "merchantId": 5720,
+      "name": "Frio Partes Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5378,
+      "address": {
+        "name": "Municipio San Diego, Urb Divino Niño I Calle de servicio Parcelamiento U-3, San Diego 2006, Carabobo",
+        "long": -67.9626875,
+        "lat": 10.257437499999995,
+        "location": "0101000020E6100000273108AC9CFD50C0288716D9CE832440",
+        "shipmentsEnabled": true
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

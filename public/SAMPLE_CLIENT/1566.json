@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T17:58:28.428Z",
+  "id": "830",
+  "amount": 71,
+  "invoiceId": "00001821",
+  "paidToMerchant": false,
+  "identifierNumber": 1566,
+  "billingDate": "2022-12-07T17:58:28.428Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20242885",
+      "fullName": "YOLVIS JESUS SANCHEZ LEON",
+      "phoneNumber": "+584129384334"
+    },
+    "installments": [
+      {
+        "id": "2650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T17:59:09.238Z",
+        "amount": 35.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T17:59:09.237Z",
+        "amount": 11.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T17:59:09.237Z",
+        "amount": 11.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T17:59:09.237Z",
+        "amount": 11.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

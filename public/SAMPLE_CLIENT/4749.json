@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:15:40.508Z",
+  "id": "4396",
+  "amount": 50.83,
+  "invoiceId": "00002144",
+  "paidToMerchant": false,
+  "identifierNumber": 4749,
+  "billingDate": "2022-12-24T00:15:40.508Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18760592",
+      "fullName": "ARGENIS JOSE GUANCHE RONDON",
+      "phoneNumber": "+584143006350"
+    },
+    "installments": [
+      {
+        "id": "14938",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:16:07.006Z",
+        "amount": 25.41,
+        "status": "DONE"
+      },
+      {
+        "id": "14941",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:16:07.006Z",
+        "amount": 8.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14940",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:16:07.006Z",
+        "amount": 8.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14939",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:16:07.006Z",
+        "amount": 8.473333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

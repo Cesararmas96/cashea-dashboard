@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-13T00:23:23.120Z",
+  "updatedAt": "2025-09-24T21:56:05.820Z",
+  "id": 5200,
+  "name": "Ecofertil",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cb171435-70bf-4b1b-95b8-ac7b170ecc61",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ecofertilca@gmail.com",
+    "legalName": "Lily",
+    "phoneNumber": "04125085041"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-10-23T19:47:35.179Z",
+      "updatedAt": "2024-10-23T19:47:35.179Z",
+      "id": 6128,
+      "merchantId": 5200,
+      "name": "Ecofertil Av Fraternidad Y Lisandro Alvarado Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11498,
+      "address": {
+        "name": "Ecofertil Av Fraternidad Y Lisandro Alvarado Barquisimeto",
+        "long": -69.79375,
+        "lat": 9.783749999999998,
+        "location": "0101000020E6100000CDCCCCCCCC7251C0E07A14AE47912340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

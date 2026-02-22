@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T19:44:13.455Z",
+  "id": "1085",
+  "amount": 65.07,
+  "invoiceId": "11684",
+  "paidToMerchant": false,
+  "identifierNumber": 1568,
+  "billingDate": "2022-12-10T19:44:13.455Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14215453",
+      "fullName": "JESSIKA ALEXANDRA QUINTERO CORRO",
+      "phoneNumber": "+584126298324"
+    },
+    "installments": [
+      {
+        "id": "3443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T19:44:59.312Z",
+        "amount": 10.846666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "3445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T19:44:59.312Z",
+        "amount": 10.846666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "3444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T19:44:59.312Z",
+        "amount": 10.846666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "3442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T19:44:59.313Z",
+        "amount": 32.53,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

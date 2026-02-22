@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-11T15:58:57.871Z",
+  "id": "347",
+  "amount": 55,
+  "invoiceId": "1317",
+  "paidToMerchant": false,
+  "identifierNumber": 1116,
+  "billingDate": "2022-11-11T15:58:57.871Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20096100",
+      "fullName": "LUISANA VERDU BRITO",
+      "phoneNumber": "+584123838876"
+    },
+    "installments": [
+      {
+        "id": "1061",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-11T15:59:47.628Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1064",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-23T15:59:47.627Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1063",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-09T15:59:47.627Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1062",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-25T15:59:47.627Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:30:17.164Z",
+  "id": "4669",
+  "amount": 100.14,
+  "invoiceId": "7117",
+  "paidToMerchant": false,
+  "identifierNumber": 4222,
+  "billingDate": "2022-12-24T17:30:17.164Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19023611",
+      "fullName": "EDWIN ROBERTO RODRIGUEZ PEREZ",
+      "phoneNumber": "+584120212673"
+    },
+    "installments": [
+      {
+        "id": "15954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:30:43.198Z",
+        "amount": 50.07,
+        "status": "DONE"
+      },
+      {
+        "id": "15957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:30:43.197Z",
+        "amount": 16.69,
+        "status": "DONE"
+      },
+      {
+        "id": "15956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:30:43.197Z",
+        "amount": 16.69,
+        "status": "DONE"
+      },
+      {
+        "id": "15955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:30:43.197Z",
+        "amount": 16.69,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

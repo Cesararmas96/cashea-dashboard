@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:01:03.369Z",
+  "id": "4841",
+  "amount": 155.58,
+  "invoiceId": "13445",
+  "paidToMerchant": false,
+  "identifierNumber": 5097,
+  "billingDate": "2022-12-24T20:01:03.369Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21091980",
+      "fullName": "JOSIBEL ALEJANDRA PONTE SANCHEZ",
+      "phoneNumber": "+584142552271"
+    },
+    "installments": [
+      {
+        "id": "16589",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:01:32.992Z",
+        "amount": 25.930000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16586",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:01:32.993Z",
+        "amount": 77.79,
+        "status": "DONE"
+      },
+      {
+        "id": "16588",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:01:32.992Z",
+        "amount": 25.930000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16587",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:01:32.992Z",
+        "amount": 25.930000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

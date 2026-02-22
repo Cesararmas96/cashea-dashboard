@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-28T12:59:59.230Z",
+  "updatedAt": "2025-05-07T14:23:05.101Z",
+  "id": 5407,
+  "name": "Repuestos Dalessa",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2bb3826d-762d-4fa1-aca8-2cca1ef3cc7b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "oscardalessa@gmail.com",
+    "legalName": "Oscar",
+    "phoneNumber": "04122406659"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T13:02:46.798Z",
+      "updatedAt": "2025-04-28T13:02:46.798Z",
+      "id": 13322,
+      "merchantId": 5407,
+      "name": "Repuestos Dalessa  Edf Oyon",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6731,
+      "address": {
+        "name": "Calle 200, Edificio oyon,  PB,  Local 2, Quinta crespo,  Caracas",
+        "long": -66.91656250000001,
+        "lat": 10.493812500000004,
+        "location": "0101000020E61000005D8FC2F5A8BA50C048B6F3FDD4FC2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

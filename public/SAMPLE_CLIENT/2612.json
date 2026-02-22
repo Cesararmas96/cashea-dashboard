@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:33:58.925Z",
+  "id": "2078",
+  "amount": 30.28,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2612,
+  "billingDate": "2022-12-17T22:33:58.925Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16023516",
+      "fullName": "KARLA KARINA DIAZ FLORES",
+      "phoneNumber": "+584242089788"
+    },
+    "installments": [
+      {
+        "id": "6755",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:34:21.699Z",
+        "amount": 5.046666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6754",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:34:21.700Z",
+        "amount": 15.14,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6757",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:34:21.699Z",
+        "amount": 5.046666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6756",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:34:21.699Z",
+        "amount": 5.046666666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 31,
+    "name": "Swarovski Sambil / IN"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-09T20:11:41.960Z",
+  "updatedAt": "2025-05-28T20:33:18.721Z",
+  "id": 5678,
+  "name": "Industria Forestal De Los Andes Indufan",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "dc73cb74-3ec0-41cc-b6b7-bdf9da6e1425",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "indufanoficial2025@gmail.com",
+    "legalName": "DAMARYS SEMPRUN",
+    "phoneNumber": "4147162872"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T20:15:55.505Z",
+      "updatedAt": "2025-05-09T20:15:55.505Z",
+      "id": 13909,
+      "merchantId": 5678,
+      "name": "Industria Forestal De Los Andes Indufan Macarao Caracas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5713,
+      "address": {
+        "name": "AV PRINCIPAL DE MACARAO LOCAL GALPON ANTIGUOBLOQUE DE ARMAS",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

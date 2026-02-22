@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:04:25.392Z",
+  "id": "4018",
+  "amount": 180,
+  "invoiceId": "3373",
+  "paidToMerchant": false,
+  "identifierNumber": 4420,
+  "billingDate": "2022-12-23T19:04:25.392Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13406145",
+      "fullName": "RAMON ENRIQUE MIRANDA SIMANCAS",
+      "phoneNumber": "+584129942744"
+    },
+    "installments": [
+      {
+        "id": "13630",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:24:41.492Z",
+        "amount": 90,
+        "status": "DONE"
+      },
+      {
+        "id": "13633",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:24:41.491Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "13632",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:24:41.491Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "13631",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:24:41.491Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:49:24.661Z",
+  "id": "5680",
+  "amount": 44,
+  "invoiceId": "4274",
+  "paidToMerchant": false,
+  "identifierNumber": 5963,
+  "billingDate": "2022-12-28T23:49:24.661Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25218095",
+      "fullName": "JOSE DAVIT POLO CANTILLO",
+      "phoneNumber": "+584242530989"
+    },
+    "installments": [
+      {
+        "id": "19557",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:50:01.488Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19556",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:50:01.488Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19555",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:50:01.488Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19554",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:50:01.489Z",
+        "amount": 22,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

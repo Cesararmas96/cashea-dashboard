@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-25T19:45:34.500Z",
+  "id": "482",
+  "amount": 45,
+  "invoiceId": "007",
+  "paidToMerchant": false,
+  "identifierNumber": 1069,
+  "billingDate": "2022-11-25T19:45:34.500Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27146014",
+      "fullName": "CRISTIAN ALEJANDRO BRAVO LEAL",
+      "phoneNumber": "+584122241343"
+    },
+    "installments": [
+      {
+        "id": "1494",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-25T19:46:50.397Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1497",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-06T19:46:50.395Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1496",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-23T19:46:50.395Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1495",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-09T19:46:50.395Z",
+        "amount": 7.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

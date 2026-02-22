@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T16:10:29.001Z",
+  "id": "5398",
+  "amount": 51.93,
+  "invoiceId": "18802",
+  "paidToMerchant": false,
+  "identifierNumber": 5690,
+  "billingDate": "2022-12-28T16:10:29.001Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20877341",
+      "fullName": "ANA YIRMARY BOLIVAR CAMBERO",
+      "phoneNumber": "+584243535726"
+    },
+    "installments": [
+      {
+        "id": "18546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:11:43.258Z",
+        "amount": 25.96,
+        "status": "DONE"
+      },
+      {
+        "id": "18549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:11:43.257Z",
+        "amount": 8.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:11:43.257Z",
+        "amount": 8.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:11:43.257Z",
+        "amount": 8.656666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

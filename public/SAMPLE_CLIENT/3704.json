@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:54:58.415Z",
+  "id": "3307",
+  "amount": 47.31,
+  "invoiceId": "20675",
+  "paidToMerchant": false,
+  "identifierNumber": 3704,
+  "billingDate": "2022-12-21T23:54:58.415Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24975945",
+      "fullName": "MARFRED MILANYE RONDON PANTOJA",
+      "phoneNumber": "+584120398823"
+    },
+    "installments": [
+      {
+        "id": "10998",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:55:14.131Z",
+        "amount": 23.66,
+        "status": "DONE"
+      },
+      {
+        "id": "11000",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:55:14.131Z",
+        "amount": 7.883333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11001",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:55:14.131Z",
+        "amount": 7.883333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10999",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:55:14.131Z",
+        "amount": 7.883333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

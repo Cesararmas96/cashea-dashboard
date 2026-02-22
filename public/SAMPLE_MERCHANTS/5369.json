@@ -1,0 +1,181 @@
+{
+  "createdAt": "2025-04-24T17:37:35.756Z",
+  "updatedAt": "2025-04-24T17:37:35.756Z",
+  "id": 5369,
+  "name": "Paradise Travel Venezuela",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "91f85d77-8bdc-4426-9aa4-3527f38e1017",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "comercializacionparadise@gmail.com",
+    "legalName": "Tulio ",
+    "phoneNumber": "04125555614"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-24T17:54:16.454Z",
+      "updatedAt": "2025-04-24T17:54:16.454Z",
+      "id": 13253,
+      "merchantId": 5369,
+      "name": "VR_Paradise Travel Venezuela",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 742,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11250,
+      "address": {
+        "name": "Paradise Travel Venezuela Hotel Venetur Margarita",
+        "long": -63.81831249999999,
+        "lat": 10.979812500000008,
+        "location": "0101000020E610000038B4C876BEE84FC0906CE7FBA9F52540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-24T17:57:37.000Z",
+      "updatedAt": "2025-04-24T17:57:37.000Z",
+      "id": 13254,
+      "merchantId": 5369,
+      "name": "Paradise Travel Venezuela Hotel Venetur Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 742,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11250,
+      "address": {
+        "name": "Paradise Travel Venezuela Hotel Venetur Margarita",
+        "long": -63.81831249999999,
+        "lat": 10.979812500000008,
+        "location": "0101000020E610000038B4C876BEE84FC0906CE7FBA9F52540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T18:53:45.528Z",
+      "updatedAt": "2025-04-29T18:53:45.528Z",
+      "id": 13439,
+      "merchantId": 5369,
+      "name": "Paradise Travel Venezuela Sabana Grande",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11250,
+      "address": {
+        "name": "Calle la Iglesia entre Av. Francisco Solano y Boulevard de Sabana Grande, Centro Solano Plaza I, Piso 3, Oficina 3-A, Caracas 1071 - Venezuela",
+        "long": -66.87668750000002,
+        "lat": 10.494937500000006,
+        "location": "0101000020E6100000F953E3A51BB850C0C820B07268FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T19:02:39.205Z",
+      "updatedAt": "2025-04-29T19:02:39.205Z",
+      "id": 13440,
+      "merchantId": 5369,
+      "name": "Paradise Travel Venezuela Aeropuerto Internacional de Maiquetía",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11250,
+      "address": {
+        "name": "Terminal Nacional, área pública sector Este.  Terminal Internacional, área pública sector Este.",
+        "long": -66.9998125,
+        "lat": 10.5979375,
+        "location": "0101000020E6100000736891EDFCBF50C0A01A2FDD24322540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hoteles",
+  "shipmentOptionsAvailable": []
+}

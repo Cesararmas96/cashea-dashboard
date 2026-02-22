@@ -1,0 +1,90 @@
+{
+  "createdAt": "2025-04-10T22:42:55.902Z",
+  "updatedAt": "2025-04-10T22:42:55.902Z",
+  "id": 5172,
+  "name": "Llovizna Market 1",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 6078,
+  "tags": [],
+  "uuid": "83f35bad-cc47-4db1-b26b-db32f5856be8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "lloviznamarket@gmail.com",
+    "legalName": "SHENGJIE HUANG",
+    "phoneNumber": "4129444888"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-09T01:46:15.337Z",
+      "updatedAt": "2025-04-09T01:46:15.337Z",
+      "id": 12732,
+      "merchantId": 5172,
+      "name": "Llovizna Market I Sierra Parima",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6543,
+      "address": {
+        "name": "Llovizna Market I Sierra Parima",
+        "long": -62.7644375,
+        "lat": 8.278937499999998,
+        "location": "0101000020E6100000022B8716D9614FC0884160E5D08E2040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

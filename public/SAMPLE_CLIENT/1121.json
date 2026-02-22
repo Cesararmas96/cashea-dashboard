@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-26T20:46:32.018Z",
+  "id": "500",
+  "amount": 32.85,
+  "invoiceId": "6889",
+  "paidToMerchant": false,
+  "identifierNumber": 1121,
+  "billingDate": "2022-11-26T20:46:32.018Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28577802",
+      "fullName": "DOUGLAS JOSE GUEDEZ DUNO",
+      "phoneNumber": "+584125828267"
+    },
+    "installments": [
+      {
+        "id": "1557",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-07T20:46:54.741Z",
+        "amount": 5.473333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "1554",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-26T20:46:54.741Z",
+        "amount": 16.43,
+        "status": "DONE"
+      },
+      {
+        "id": "1556",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-24T20:46:54.741Z",
+        "amount": 5.473333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "1555",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-10T20:46:54.741Z",
+        "amount": 5.473333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

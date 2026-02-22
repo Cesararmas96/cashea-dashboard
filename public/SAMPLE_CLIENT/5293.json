@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T20:54:12.166Z",
+  "id": "5943",
+  "amount": 251.98,
+  "invoiceId": "00000030",
+  "paidToMerchant": false,
+  "identifierNumber": 5293,
+  "billingDate": "2022-12-29T20:54:12.166Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "69",
+    "buyDebtDate": "2023-01-15T04:00:00.983+00:00",
+    "lastStoreId": 56,
+    "boughtForInstallmentId": "20511",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11798539",
+      "fullName": "ALWIN JOSE ABREU BARRETO",
+      "phoneNumber": "+584142397570"
+    },
+    "installments": [
+      {
+        "id": "20513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:55:26.386Z",
+        "amount": 18.73,
+        "status": "DONE"
+      },
+      {
+        "id": "20510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:55:26.387Z",
+        "amount": 195.79,
+        "status": "DONE"
+      },
+      {
+        "id": "20512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:55:26.386Z",
+        "amount": 18.73,
+        "status": "DONE"
+      },
+      {
+        "id": "20511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:55:26.386Z",
+        "amount": 18.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

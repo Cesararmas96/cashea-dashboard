@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T19:29:10.299Z",
+  "id": "1356",
+  "amount": 75.99,
+  "invoiceId": "5910",
+  "paidToMerchant": false,
+  "identifierNumber": 1964,
+  "billingDate": "2022-12-13T19:29:10.299Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19044486",
+      "fullName": "REGULO RAMON RAUSEO PRADO",
+      "phoneNumber": "+584122569530"
+    },
+    "installments": [
+      {
+        "id": "4383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T19:31:08.021Z",
+        "amount": 12.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "4384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T19:31:08.021Z",
+        "amount": 12.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "4385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T19:31:08.021Z",
+        "amount": 12.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "4382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T19:31:08.021Z",
+        "amount": 37.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

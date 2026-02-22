@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-07T16:18:54.397Z",
+  "id": "819",
+  "amount": 30,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1547,
+  "billingDate": "2022-12-07T16:18:54.397Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

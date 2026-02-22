@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-31T00:03:45.811Z",
+  "id": "11558",
+  "amount": 126.44,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4812,
+  "billingDate": "2023-01-31T00:03:45.811Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26846459",
+      "fullName": "MARIA FERNANDA GIMENEZ MENDEZ",
+      "phoneNumber": "+584140720815"
+    },
+    "installments": [
+      {
+        "id": "35453",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T00:03:45.857Z",
+        "amount": 21.073333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35451",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T00:03:45.857Z",
+        "amount": 21.073333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35452",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T00:03:45.857Z",
+        "amount": 21.073333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35450",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T00:03:45.858Z",
+        "amount": 63.22,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 99,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 1969,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

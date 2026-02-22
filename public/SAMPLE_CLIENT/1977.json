@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-13T22:55:09.376Z",
+  "id": "1388",
+  "amount": 102.4,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1977,
+  "billingDate": "2022-12-13T22:55:09.376Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27985340",
+      "fullName": "VANESSA ALEJANDRA MORENO MELENDEZ",
+      "phoneNumber": "+584144243808"
+    },
+    "installments": [
+      {
+        "id": "4476",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T22:55:09.417Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4475",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T22:55:09.417Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4474",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T22:55:09.417Z",
+        "amount": 51.2,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4477",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T22:55:09.417Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 50,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

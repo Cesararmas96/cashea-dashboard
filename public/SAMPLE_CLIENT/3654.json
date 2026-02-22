@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:28:36.661Z",
+  "id": "3255",
+  "amount": 64.87,
+  "invoiceId": "00001465",
+  "paidToMerchant": false,
+  "identifierNumber": 3654,
+  "billingDate": "2022-12-21T22:28:36.661Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31249279",
+      "fullName": "HECTOR JORDANI SOLIS GARCIA",
+      "phoneNumber": "+584149142040"
+    },
+    "installments": [
+      {
+        "id": "10826",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:42:14.578Z",
+        "amount": 32.44,
+        "status": "DONE"
+      },
+      {
+        "id": "10828",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:42:14.577Z",
+        "amount": 10.810000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "10829",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:42:14.577Z",
+        "amount": 10.810000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "10827",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:42:14.577Z",
+        "amount": 10.810000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

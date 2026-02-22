@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T21:48:02.168Z",
+  "id": "624",
+  "amount": 80.23,
+  "invoiceId": "3914",
+  "paidToMerchant": false,
+  "identifierNumber": 1352,
+  "billingDate": "2022-12-03T21:48:02.168Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18028929",
+      "fullName": "IRVING JESUS FONSECA CARTAYA",
+      "phoneNumber": "+584141022991"
+    },
+    "installments": [
+      {
+        "id": "1990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T21:51:07.730Z",
+        "amount": 40.12,
+        "status": "DONE"
+      },
+      {
+        "id": "1992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T21:51:07.729Z",
+        "amount": 13.370000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "1993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T21:51:07.729Z",
+        "amount": 13.370000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "1991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T21:51:07.729Z",
+        "amount": 13.370000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

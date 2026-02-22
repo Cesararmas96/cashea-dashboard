@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:20:00.816Z",
+  "id": "5924",
+  "amount": 32.49,
+  "invoiceId": "15415",
+  "paidToMerchant": false,
+  "identifierNumber": 5225,
+  "billingDate": "2022-12-29T20:20:00.816Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28053866",
+      "fullName": "BETANIA DEL CARMEN CONTRERAS CONTRERAS",
+      "phoneNumber": "+584126104312"
+    },
+    "installments": [
+      {
+        "id": "20430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:20:33.079Z",
+        "amount": 16.25,
+        "status": "DONE"
+      },
+      {
+        "id": "20433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:20:33.079Z",
+        "amount": 5.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:20:33.079Z",
+        "amount": 5.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:20:33.079Z",
+        "amount": 5.413333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

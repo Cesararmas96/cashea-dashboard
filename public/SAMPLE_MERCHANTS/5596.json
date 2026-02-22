@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-07T16:58:45.436Z",
+  "updatedAt": "2025-05-12T12:20:33.289Z",
+  "id": 5596,
+  "name": "Polly Express",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "792ae613-f587-4293-8b83-9e0e7206d43d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "keylara1@icloud.com",
+    "legalName": "keiward emiro",
+    "phoneNumber": "04247746442"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T17:00:19.409Z",
+      "updatedAt": "2025-05-07T17:00:19.409Z",
+      "id": 13722,
+      "merchantId": 5596,
+      "name": "Polly Express Av Bolivar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5350,
+      "address": {
+        "name": "Santa Barbara de Zulia Av bolivar",
+        "long": -71.9151875,
+        "lat": 8.998937499999997,
+        "location": "0101000020E6100000508D976E92FA51C0F87E6ABC74FF2140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

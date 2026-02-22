@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:29:32.051Z",
+  "id": "5662",
+  "amount": 52.66,
+  "invoiceId": "589",
+  "paidToMerchant": false,
+  "identifierNumber": 5951,
+  "billingDate": "2022-12-28T23:29:32.051Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25206472",
+      "fullName": "HECTOR ALI MONTILLA GONZALEZ",
+      "phoneNumber": "+584121312152"
+    },
+    "installments": [
+      {
+        "id": "19489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:29:50.217Z",
+        "amount": 8.776666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "19486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:29:50.218Z",
+        "amount": 26.33,
+        "status": "DONE"
+      },
+      {
+        "id": "19488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:29:50.217Z",
+        "amount": 8.776666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "19487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:29:50.217Z",
+        "amount": 8.776666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

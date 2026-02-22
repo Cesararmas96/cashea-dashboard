@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T15:18:04.095Z",
+  "id": "11475",
+  "amount": 32.2,
+  "invoiceId": "TM-SO158496",
+  "paidToMerchant": false,
+  "identifierNumber": 4259,
+  "billingDate": "2023-01-30T15:18:04.095Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19582242",
+      "fullName": "REINDER ISRAEL CORDERO BARRETO",
+      "phoneNumber": "+584126021344"
+    },
+    "installments": [
+      {
+        "id": "35149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T15:18:28.224Z",
+        "amount": 5.366666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "35148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T15:18:28.224Z",
+        "amount": 5.366666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "35146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T15:18:28.225Z",
+        "amount": 16.1,
+        "status": "DONE"
+      },
+      {
+        "id": "35147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T15:18:28.224Z",
+        "amount": 5.366666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 69,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

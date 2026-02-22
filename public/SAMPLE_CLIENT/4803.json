@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:26:41.800Z",
+  "id": "4470",
+  "amount": 34.99,
+  "invoiceId": "7294",
+  "paidToMerchant": false,
+  "identifierNumber": 4803,
+  "billingDate": "2022-12-24T01:26:41.800Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "7921795",
+      "fullName": "CAROLINA MARGARITA DIAZ VELASQUEZ",
+      "phoneNumber": "+584141133767"
+    },
+    "installments": [
+      {
+        "id": "15221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:27:02.359Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:27:02.360Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:27:02.359Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:27:02.359Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

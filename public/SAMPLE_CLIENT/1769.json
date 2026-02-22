@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T22:15:57.282Z",
+  "id": "1114",
+  "amount": 60,
+  "invoiceId": "8769",
+  "paidToMerchant": false,
+  "identifierNumber": 1769,
+  "billingDate": "2022-12-10T22:15:57.282Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13127692",
+      "fullName": "TEDDY JOEL RIOS GONZALEZ",
+      "phoneNumber": "+584166332140"
+    },
+    "installments": [
+      {
+        "id": "3549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T22:18:16.876Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "3548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T22:18:16.876Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "3547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T22:18:16.876Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "3546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T22:18:16.877Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

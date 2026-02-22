@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T02:19:50.127Z",
+  "id": "3390",
+  "amount": 69.63,
+  "invoiceId": "12739",
+  "paidToMerchant": false,
+  "identifierNumber": 3827,
+  "billingDate": "2022-12-22T02:19:50.127Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16813947",
+      "fullName": "JOSE FRANCISCO CARRILLO PAEZ",
+      "phoneNumber": "+584143160354"
+    },
+    "installments": [
+      {
+        "id": "11319",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T02:20:36.206Z",
+        "amount": 11.606666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "11318",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T02:20:36.206Z",
+        "amount": 34.81,
+        "status": "DONE"
+      },
+      {
+        "id": "11321",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T02:20:36.206Z",
+        "amount": 11.606666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "11320",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T02:20:36.206Z",
+        "amount": 11.606666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

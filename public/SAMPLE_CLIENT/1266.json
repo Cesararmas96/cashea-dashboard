@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-11-01T21:55:43.972Z",
+  "id": "225",
+  "amount": 411,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1266,
+  "billingDate": "2022-11-01T21:55:43.972Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

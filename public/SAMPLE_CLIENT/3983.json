@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T21:14:59.758Z",
+  "id": "2857",
+  "amount": 48.98,
+  "invoiceId": "14403",
+  "paidToMerchant": false,
+  "identifierNumber": 3983,
+  "billingDate": "2022-12-20T21:14:59.758Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18028622",
+      "fullName": "JONATHAN ENRIQUE CASTILLO NIETO",
+      "phoneNumber": "+584142308119"
+    },
+    "installments": [
+      {
+        "id": "9413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:15:24.878Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:15:24.878Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:15:24.879Z",
+        "amount": 24.49,
+        "status": "DONE"
+      },
+      {
+        "id": "9411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:15:24.878Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T15:32:30.771Z",
+  "id": "2724",
+  "amount": 47.38,
+  "invoiceId": "13735",
+  "paidToMerchant": false,
+  "identifierNumber": 3187,
+  "billingDate": "2022-12-20T15:32:30.771Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastStoreId": 54,
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-06T04:00:09.648+00:00",
+    "boughtForInstallmentId": "8979",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30761344",
+      "fullName": "MAYERLING CAROLINA GARCIA MARTIN",
+      "phoneNumber": "+584241033845"
+    },
+    "installments": [
+      {
+        "id": "8979",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T15:33:04.708Z",
+        "amount": 7.896666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8980",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T15:33:04.708Z",
+        "amount": 7.896666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8978",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T15:33:04.709Z",
+        "amount": 23.69,
+        "status": "DONE"
+      },
+      {
+        "id": "8981",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T15:33:04.708Z",
+        "amount": 7.896666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

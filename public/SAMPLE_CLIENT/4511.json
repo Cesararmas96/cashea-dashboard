@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:12:01.836Z",
+  "id": "4078",
+  "amount": 42.66,
+  "invoiceId": "12943",
+  "paidToMerchant": false,
+  "identifierNumber": 4511,
+  "billingDate": "2022-12-23T20:12:01.836Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19328938",
+      "fullName": "MAYIRET DEL VALLE BRACHO RANGEL",
+      "phoneNumber": "+584246891627"
+    },
+    "installments": [
+      {
+        "id": "13770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:13:00.735Z",
+        "amount": 21.33,
+        "status": "DONE"
+      },
+      {
+        "id": "13773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:13:00.735Z",
+        "amount": 7.109999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:13:00.735Z",
+        "amount": 7.109999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:13:00.735Z",
+        "amount": 7.109999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

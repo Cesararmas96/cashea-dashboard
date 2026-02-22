@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T19:57:52.622Z",
+  "id": "1360",
+  "amount": 60.9,
+  "invoiceId": "14080",
+  "paidToMerchant": false,
+  "identifierNumber": 5576,
+  "billingDate": "2022-12-13T19:57:52.622Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14287383",
+      "fullName": "GEISON ALEJANDRO VILLARROEL ROO",
+      "phoneNumber": "+584242556319"
+    },
+    "installments": [
+      {
+        "id": "4394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T19:59:01.348Z",
+        "amount": 30.45,
+        "status": "DONE"
+      },
+      {
+        "id": "4397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T19:59:01.347Z",
+        "amount": 10.15,
+        "status": "DONE"
+      },
+      {
+        "id": "4395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T19:59:01.347Z",
+        "amount": 10.15,
+        "status": "DONE"
+      },
+      {
+        "id": "4396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T19:59:01.347Z",
+        "amount": 10.15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

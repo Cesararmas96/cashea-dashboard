@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T17:46:49.900Z",
+  "id": "8534",
+  "amount": 115.97,
+  "invoiceId": "2608",
+  "paidToMerchant": false,
+  "identifierNumber": 2721,
+  "billingDate": "2023-01-16T17:46:49.900Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27805718",
+      "fullName": "PAOLA ROSA MARIA MARCANO CARUSO",
+      "phoneNumber": "+584241407122"
+    },
+    "installments": [
+      {
+        "id": "29820",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T17:47:05.846Z",
+        "amount": 19.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "29821",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T17:47:05.846Z",
+        "amount": 19.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "29818",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T17:47:05.847Z",
+        "amount": 57.98,
+        "status": "DONE"
+      },
+      {
+        "id": "29819",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T17:47:05.846Z",
+        "amount": 19.330000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

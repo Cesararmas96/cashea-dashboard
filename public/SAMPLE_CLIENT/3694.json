@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T22:25:43.439Z",
+  "id": "7162",
+  "amount": 34.33,
+  "invoiceId": "00019237",
+  "paidToMerchant": false,
+  "identifierNumber": 3694,
+  "billingDate": "2022-12-31T22:25:43.439Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-17T04:00:01.389+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "24819",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27796794",
+      "fullName": "VICTOR ELI SORIA VEGAS",
+      "phoneNumber": "+584123980895"
+    },
+    "installments": [
+      {
+        "id": "24821",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T22:26:36.166Z",
+        "amount": 5.723333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "24819",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T22:26:36.166Z",
+        "amount": 5.723333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "24820",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T22:26:36.166Z",
+        "amount": 5.723333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "24818",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T22:26:36.166Z",
+        "amount": 17.16,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

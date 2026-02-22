@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-27T19:48:44.622Z",
+  "id": "524",
+  "amount": 103,
+  "invoiceId": "783792",
+  "paidToMerchant": false,
+  "identifierNumber": 1089,
+  "billingDate": "2022-11-27T19:48:44.622Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25210772",
+      "fullName": "MARIA JOSE MIGUEL D ANDRADE",
+      "phoneNumber": "+584243396517"
+    },
+    "installments": [
+      {
+        "id": "1646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T19:52:14.753Z",
+        "amount": 51.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T19:52:14.752Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T19:52:14.752Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T19:52:14.752Z",
+        "amount": 17.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

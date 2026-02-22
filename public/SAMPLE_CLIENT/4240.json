@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:33:48.248Z",
+  "id": "4744",
+  "amount": 40,
+  "invoiceId": "00018494",
+  "paidToMerchant": false,
+  "identifierNumber": 4240,
+  "billingDate": "2022-12-24T18:33:48.248Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6917998",
+      "fullName": "ISABEL MARIA CONTASTI PINANGO",
+      "phoneNumber": "+584166211541"
+    },
+    "installments": [
+      {
+        "id": "16250",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:35:04.399Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "16253",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:35:04.399Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16252",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:35:04.399Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16251",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:35:04.399Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

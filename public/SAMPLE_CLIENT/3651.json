@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T19:55:39.391Z",
+  "id": "2246",
+  "amount": 30.85,
+  "invoiceId": "48680",
+  "paidToMerchant": false,
+  "identifierNumber": 3651,
+  "billingDate": "2022-12-18T19:55:39.391Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25014439",
+      "fullName": "STEPHANY MICHELLE CENTENO CHAMORRO",
+      "phoneNumber": "+584248934666"
+    },
+    "installments": [
+      {
+        "id": "7353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T19:55:51.430Z",
+        "amount": 5.140000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "7350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T19:55:51.430Z",
+        "amount": 15.43,
+        "status": "DONE"
+      },
+      {
+        "id": "7351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T19:55:51.430Z",
+        "amount": 5.140000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "7352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T19:55:51.430Z",
+        "amount": 5.140000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

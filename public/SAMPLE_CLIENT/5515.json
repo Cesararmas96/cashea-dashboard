@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T16:16:31.698Z",
+  "id": "11585",
+  "amount": 44.85,
+  "invoiceId": "15561",
+  "paidToMerchant": false,
+  "identifierNumber": 5515,
+  "billingDate": "2023-01-31T16:16:31.698Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6280036",
+      "fullName": "NIEVES MERCEDES CA DIER MONTALBO",
+      "phoneNumber": "+584125515021"
+    },
+    "installments": [
+      {
+        "id": "35549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T16:17:04.226Z",
+        "amount": 7.473333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T16:17:04.226Z",
+        "amount": 7.473333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T16:17:04.226Z",
+        "amount": 22.43,
+        "status": "DONE"
+      },
+      {
+        "id": "35547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T16:17:04.226Z",
+        "amount": 7.473333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

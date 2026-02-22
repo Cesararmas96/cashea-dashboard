@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-06T14:24:04.688Z",
+  "updatedAt": "2025-05-12T14:15:30.314Z",
+  "id": 5556,
+  "name": "MMA Poultry",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f1ce8266-0b99-4478-8dc7-e404d791aa57",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mmapoultry.ca@gmail.com",
+    "legalName": "MARIA GABRIELA MANTILLA DE MATHEUS",
+    "phoneNumber": "4128252943"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T14:25:50.550Z",
+      "updatedAt": "2025-05-06T14:25:50.550Z",
+      "id": 13629,
+      "merchantId": 5556,
+      "name": "MMA Poultry Av Bolivar Carabobo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6776,
+      "address": {
+        "name": "Calle Boyaca con Av. Bolivar C.C Nasser locales 5 y 6, Bejuma Carabobo",
+        "long": -68.25518749999999,
+        "lat": 10.190937500000004,
+        "location": "0101000020E610000045B6F3FD541051C0F8285C8FC2612440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T14:39:24.148Z",
+      "updatedAt": "2025-05-06T14:39:24.148Z",
+      "id": 13633,
+      "merchantId": 5556,
+      "name": "MMA Poultry Carretera Panamericana Carabobo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6776,
+      "address": {
+        "name": "Carretera panamericana lote C, C.C Panamericana locales 1 y 2 zona Bejuma-La union, Bejuma Carabobo",
+        "long": -67.9469375,
+        "lat": 10.193187500000008,
+        "location": "0101000020E6100000C976BE9F9AFC50C0F8FDD478E9622440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T02:28:21.201Z",
+  "id": "3068",
+  "amount": 32.23,
+  "invoiceId": "12636",
+  "paidToMerchant": false,
+  "identifierNumber": 3474,
+  "billingDate": "2022-12-21T02:28:21.201Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27932957",
+      "fullName": "MAIKER DOUGLAS PATRON GUTIERREZ",
+      "phoneNumber": "+584126040440"
+    },
+    "installments": [
+      {
+        "id": "10157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T02:29:01.106Z",
+        "amount": 5.373333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T02:29:01.107Z",
+        "amount": 16.11,
+        "status": "DONE"
+      },
+      {
+        "id": "10155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T02:29:01.106Z",
+        "amount": 5.373333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T02:29:01.106Z",
+        "amount": 5.373333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

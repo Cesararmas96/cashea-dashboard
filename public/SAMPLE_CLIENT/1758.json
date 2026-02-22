@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T20:18:29.365Z",
+  "id": "1091",
+  "amount": 97.88,
+  "invoiceId": "7967",
+  "paidToMerchant": false,
+  "identifierNumber": 1758,
+  "billingDate": "2022-12-10T20:18:29.365Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20303470",
+      "fullName": "JOSE FRANCISCO PEREZ BERNAL",
+      "phoneNumber": "+584129389851"
+    },
+    "installments": [
+      {
+        "id": "3462",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T20:19:21.289Z",
+        "amount": 48.94,
+        "status": "DONE"
+      },
+      {
+        "id": "3463",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T20:19:21.288Z",
+        "amount": 16.313333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3465",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T20:19:21.288Z",
+        "amount": 16.313333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3464",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T20:19:21.288Z",
+        "amount": 16.313333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

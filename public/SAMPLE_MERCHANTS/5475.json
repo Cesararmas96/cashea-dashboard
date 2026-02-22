@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-30T20:49:06.753Z",
+  "updatedAt": "2025-05-07T19:21:33.051Z",
+  "id": 5475,
+  "name": "Importadora Todo Hogar 2021",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b6b382bd-8b98-423e-86de-1488893afff2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "meelsoumeily@gmail.com",
+    "legalName": "MAILIN TATIANA",
+    "phoneNumber": "04122786164"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-30T20:52:03.116Z",
+      "updatedAt": "2025-04-30T20:52:03.116Z",
+      "id": 13485,
+      "merchantId": 5475,
+      "name": "IMPORTADORA TODO HOGAR 2021 San Jacinto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5705,
+      "address": {
+        "name": "Avenida este, entre las esquinas de san jacinto y Dr paul, edificio Bibasbe, nro. 45. Pb.",
+        "long": -66.9089375,
+        "lat": 10.504312499999997,
+        "location": "0101000020E6100000E92631082CBA50C090ED7C3F35022540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:20:39.813Z",
+  "id": "4035",
+  "amount": 72.98,
+  "invoiceId": "0184",
+  "paidToMerchant": false,
+  "identifierNumber": 4456,
+  "billingDate": "2022-12-23T19:20:39.813Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16265536",
+      "fullName": "LEIXER ARMANDO DE SANTIAGO HARRINGHTON",
+      "phoneNumber": "+584142040414"
+    },
+    "installments": [
+      {
+        "id": "13622",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:20:56.837Z",
+        "amount": 36.49,
+        "status": "DONE"
+      },
+      {
+        "id": "13625",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:20:56.836Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13623",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:20:56.836Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13624",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:20:56.836Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

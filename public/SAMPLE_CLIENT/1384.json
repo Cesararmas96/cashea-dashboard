@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T22:37:43.168Z",
+  "id": "634",
+  "amount": 132.78,
+  "invoiceId": "3919",
+  "paidToMerchant": false,
+  "identifierNumber": 1384,
+  "billingDate": "2022-12-03T22:37:43.168Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25229356",
+      "fullName": "JEAN PAUL CHANG CHECA",
+      "phoneNumber": "+584142332305"
+    },
+    "installments": [
+      {
+        "id": "2033",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T22:49:28.816Z",
+        "amount": 22.13,
+        "status": "DONE"
+      },
+      {
+        "id": "2030",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T22:49:28.816Z",
+        "amount": 66.39,
+        "status": "DONE"
+      },
+      {
+        "id": "2032",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T22:49:28.816Z",
+        "amount": 22.13,
+        "status": "DONE"
+      },
+      {
+        "id": "2031",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T22:49:28.816Z",
+        "amount": 22.13,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-10T14:23:16.268Z",
+  "updatedAt": "2025-05-09T12:17:31.424Z",
+  "id": 5167,
+  "name": "Tubos Pvc Boleita",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "896014f2-978f-432d-ae32-2f1fd63c246f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "johandra2412@gmail.com",
+    "legalName": "Maidelyn",
+    "phoneNumber": "04241009818"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-05T17:09:54.052Z",
+      "updatedAt": "2025-06-05T17:09:54.052Z",
+      "id": 15251,
+      "merchantId": 5167,
+      "name": "VR_Tubos Pvc Boleita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4764,
+      "address": {
+        "name": "2da. Transversal boleita Sur casa 6-04 pb",
+        "long": -66.82193749999999,
+        "lat": 10.4898125,
+        "location": "0101000020E6100000C876BE9F9AB450C0105839B4C8FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-10T14:28:43.847Z",
+      "updatedAt": "2025-04-10T14:28:43.847Z",
+      "id": 12801,
+      "merchantId": 5167,
+      "name": "Tubos Pvc Boleita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4764,
+      "address": {
+        "name": "2da. Transversal boleita Sur casa 6-04 pb",
+        "long": -66.82193749999999,
+        "lat": 10.4898125,
+        "location": "0101000020E6100000C876BE9F9AB450C0105839B4C8FA2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

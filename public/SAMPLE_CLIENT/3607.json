@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:21:11.595Z",
+  "id": "3171",
+  "amount": 48.31,
+  "invoiceId": "48906",
+  "paidToMerchant": false,
+  "identifierNumber": 3607,
+  "billingDate": "2022-12-21T20:21:11.595Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18367379",
+      "fullName": "ASTRID CAROLINA TANG O'CALLAGHAN",
+      "phoneNumber": "+584122248677"
+    },
+    "installments": [
+      {
+        "id": "10506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:22:03.544Z",
+        "amount": 24.16,
+        "status": "DONE"
+      },
+      {
+        "id": "10509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:22:03.544Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "10508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:22:03.544Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "10507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:22:03.544Z",
+        "amount": 8.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

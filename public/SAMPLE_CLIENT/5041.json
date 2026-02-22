@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:00:19.505Z",
+  "id": "4782",
+  "amount": 180.53,
+  "invoiceId": "1696",
+  "paidToMerchant": false,
+  "identifierNumber": 5041,
+  "billingDate": "2022-12-24T19:00:19.505Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11736185",
+      "fullName": "MARIA FERNANDA GUTIERREZ PULGAR",
+      "phoneNumber": "+584122040513"
+    },
+    "installments": [
+      {
+        "id": "16370",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:01:10.021Z",
+        "amount": 90.27,
+        "status": "DONE"
+      },
+      {
+        "id": "16373",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:01:10.020Z",
+        "amount": 30.08666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16372",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:01:10.020Z",
+        "amount": 30.08666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16371",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:01:10.020Z",
+        "amount": 30.08666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

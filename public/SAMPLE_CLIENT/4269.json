@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:10:50.911Z",
+  "id": "4708",
+  "amount": 30.12,
+  "invoiceId": "7122",
+  "paidToMerchant": false,
+  "identifierNumber": 4269,
+  "billingDate": "2022-12-24T18:10:50.911Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14139425",
+      "fullName": "ROSEMRY JACQUELINE BORGES BARRIOS",
+      "phoneNumber": "+584128145143"
+    },
+    "installments": [
+      {
+        "id": "16114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:11:47.001Z",
+        "amount": 15.06,
+        "status": "DONE"
+      },
+      {
+        "id": "16117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:11:47.000Z",
+        "amount": 5.0200000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "16116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:11:47.000Z",
+        "amount": 5.0200000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "16115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:11:47.000Z",
+        "amount": 5.0200000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

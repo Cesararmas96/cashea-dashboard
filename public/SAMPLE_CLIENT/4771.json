@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:18:11.518Z",
+  "id": "4399",
+  "amount": 91.03,
+  "invoiceId": "50519",
+  "paidToMerchant": false,
+  "identifierNumber": 4771,
+  "billingDate": "2022-12-24T00:18:11.518Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11565682",
+      "fullName": "STALIN AMILCAR SALAZAR MARTUCCI",
+      "phoneNumber": "+584123263120"
+    },
+    "installments": [
+      {
+        "id": "14949",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:18:55.454Z",
+        "amount": 15.17,
+        "status": "DONE"
+      },
+      {
+        "id": "14948",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:18:55.454Z",
+        "amount": 15.17,
+        "status": "DONE"
+      },
+      {
+        "id": "14947",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:18:55.454Z",
+        "amount": 15.17,
+        "status": "DONE"
+      },
+      {
+        "id": "14946",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:18:55.455Z",
+        "amount": 45.52,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

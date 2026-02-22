@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:33:57.726Z",
+  "id": "3376",
+  "amount": 49.99,
+  "invoiceId": "14510",
+  "paidToMerchant": false,
+  "identifierNumber": 3816,
+  "billingDate": "2022-12-22T01:33:57.726Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15911448",
+      "fullName": "LISBETH DANIELA GIL MONTILLA",
+      "phoneNumber": "+584142333158"
+    },
+    "installments": [
+      {
+        "id": "11262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:34:07.556Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "11263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:34:07.556Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "11264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:34:07.556Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "11265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:34:07.556Z",
+        "amount": 8.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

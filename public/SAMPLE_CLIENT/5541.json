@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T19:08:48.249Z",
+  "id": "5234",
+  "amount": 32.89,
+  "invoiceId": "45114",
+  "paidToMerchant": false,
+  "identifierNumber": 5541,
+  "billingDate": "2022-12-27T19:08:48.249Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16996377",
+      "fullName": "MERVYS COROMOTO RIVERO PATINO",
+      "phoneNumber": "+584121886249"
+    },
+    "installments": [
+      {
+        "id": "17942",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T19:09:30.674Z",
+        "amount": 16.45,
+        "status": "DONE"
+      },
+      {
+        "id": "17945",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T19:09:30.674Z",
+        "amount": 5.48,
+        "status": "DONE"
+      },
+      {
+        "id": "17943",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T19:09:30.674Z",
+        "amount": 5.48,
+        "status": "DONE"
+      },
+      {
+        "id": "17944",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T19:09:30.674Z",
+        "amount": 5.48,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

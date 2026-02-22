@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-01T14:24:22.977Z",
+  "updatedAt": "2025-04-03T14:09:08.254Z",
+  "id": 4951,
+  "name": "CMAID",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "23d33411-6cb3-4e00-a270-916e8c456e26",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "reduardovg@gmail.com",
+    "legalName": "Eduardo",
+    "phoneNumber": "04245822995"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T14:29:06.790Z",
+      "updatedAt": "2025-04-01T14:29:06.790Z",
+      "id": 12461,
+      "merchantId": 4951,
+      "name": "CMAID Av. 12 Entre Calles 9 y 10, Chivacoa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4069,
+      "address": {
+        "name": "entre calles 9 y 10 Av 12, Chivacoa 3202, Yaracuy",
+        "long": -63.8209375,
+        "lat": 10.979812500000008,
+        "location": "0101000020E6100000AE47E17A14E94FC0906CE7FBA9F52540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

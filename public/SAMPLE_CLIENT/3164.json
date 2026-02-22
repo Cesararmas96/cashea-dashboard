@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:40:17.822Z",
+  "id": "2685",
+  "amount": 33,
+  "invoiceId": "12802",
+  "paidToMerchant": false,
+  "identifierNumber": 3164,
+  "billingDate": "2022-12-20T00:40:17.822Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13238554",
+      "fullName": "DEIVY LU SANCHEZ CEDENO",
+      "phoneNumber": "+584129981061"
+    },
+    "installments": [
+      {
+        "id": "8826",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:40:39.906Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8827",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:40:39.905Z",
+        "amount": 5.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8828",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:40:39.905Z",
+        "amount": 5.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8829",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:40:39.905Z",
+        "amount": 5.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 47,
+    "name": "Timberland Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

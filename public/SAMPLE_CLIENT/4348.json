@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-23T16:35:47.312Z",
+  "id": "3927",
+  "amount": 65,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4348,
+  "billingDate": "2022-12-23T16:35:47.312Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-16T15:25:10.672Z",
+  "id": "8517",
+  "amount": 162,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1210,
+  "billingDate": "2023-01-16T15:25:10.672Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "1",
+    "buyDebtDate": "2023-02-16T04:00:00.320+00:00",
+    "lastStoreId": 1,
+    "boughtForInstallmentId": "29760",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16030540",
+      "fullName": "EDGAR ENRIQUE PELAYO USECHE",
+      "phoneNumber": "+584127017972"
+    },
+    "installments": [
+      {
+        "id": "29760",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T15:25:47.144Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "29761",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T15:25:47.144Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "29758",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T15:25:47.145Z",
+        "amount": 81,
+        "status": "DONE"
+      },
+      {
+        "id": "29759",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T15:25:47.144Z",
+        "amount": 27,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

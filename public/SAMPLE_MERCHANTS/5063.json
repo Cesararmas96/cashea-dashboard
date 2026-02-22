@@ -1,0 +1,172 @@
+{
+  "createdAt": "2025-04-04T19:07:05.733Z",
+  "updatedAt": "2025-09-16T12:14:48.898Z",
+  "id": 5063,
+  "name": "AGROVENCA",
+  "ecommerceUrl": null,
+  "changePolicy": "\"Política de Cambios y Devoluciones – AGROVENCA\n\nEn AGROVENCA nos comprometemos con la satisfacción de nuestros clientes. Si no estás conforme con tu compra, puedes solicitar un cambio o devolución cumpliendo con las siguientes condiciones:\n\n1. Condiciones Generales del Producto:\n\nEl producto debe estar en perfecto estado, sin signos de uso, con su empaque original y todos sus accesorios.\n\nNo se aceptarán cambios o devoluciones de productos abiertos, usados o con daños ocasionados por mal manejo.\n\n\n2. Plazos para Solicitar un Cambio o Devolución:\n\nCambios: se pueden solicitar hasta 3 días continuos después de la fecha de entrega.\n\nDevoluciones: se pueden solicitar hasta 5 días continuos después de la fecha de entrega, únicamente si el producto presenta fallas o no corresponde al solicitado.\n\n\n3. Proceso para Solicitar un Cambio o Devolución:\n\nContactar a nuestro equipo de atención al cliente vía WhatsApp o Instagram (@carnetoday) con la siguiente información: número de pedido, fotos del producto y motivo del cambio o devolución.\n\nUna vez validado el caso, se indicará el procedimiento para el envío del producto.\n\nEl cliente debe asumir el costo del transporte, salvo en casos de errores atribuibles a AGROVENCA.\n\n\n4. Casos en los que Aplica Cambio o Devolución:\n\nCambio: aplica si el cliente desea otro producto del mismo valor, por talla, presentación o modelo.\n\nDevolución: solo aplica si el producto recibido es incorrecto, presenta defectos de fábrica o daños de transporte comprobables al momento de la entrega.\n\n\n5. Exclusiones:\n\nNo se aceptan cambios ni devoluciones en productos en oferta o con descuento.\n\nProductos perecederos, congelados o de consumo inmediato no aplican para devolución por condiciones sanitarias.\n\n\n6. Compras con Cashea:\n\nSi realizaste tu compra con Cashea, el proceso de cambio o devolución será coordinado entre AGROVENCA y Cashea, siguiendo los mismos criterios anteriores.\n\nEn caso de devolución aprobada, el reembolso se realizará a través del mismo método de pago, sujeto a los tiempos de procesamiento de Cashea.\"",
+  "email": "agroalimentosvenezuela2018@gmail.com",
+  "phoneNumber": "+584145363248",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "181139c9-90b0-4d6f-8e3a-97516a9cc731",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "azuaje641@gmail.com",
+    "legalName": "Michael",
+    "phoneNumber": "4122656008"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T14:28:25.324Z",
+      "updatedAt": "2025-05-15T14:28:25.324Z",
+      "id": 14168,
+      "merchantId": 5063,
+      "name": "VR_AGROVENCA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3493,
+      "address": {
+        "name": "AV 5 ENTRE CALLES 12 Y 13 LOCAL NRO S/N SECTORCENTRO QUIBOR LARA ZONA POSTAL 3061",
+        "long": -69.62156250000001,
+        "lat": 9.922437500000001,
+        "location": "0101000020E6100000E27A14AEC76751C040355EBA49D82340",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-04-14T17:08:46.996Z",
+      "updatedAt": "2025-09-16T12:14:48.914Z",
+      "id": 12955,
+      "merchantId": 5063,
+      "name": "Agrovenca Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3493,
+      "address": {
+        "name": "AV 5 ENTRE CALLES 12 Y 13 LOCAL NRO S/N SECTORCENTRO QUIBOR LARA ZONA POSTAL 3061",
+        "long": -69.62156250000001,
+        "lat": 9.922437500000001,
+        "location": "0101000020E6100000E27A14AEC76751C040355EBA49D82340",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-04-04T19:47:20.365Z",
+      "updatedAt": "2025-04-04T19:47:20.365Z",
+      "id": 12648,
+      "merchantId": 5063,
+      "name": "AGROVENCA LARA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3493,
+      "address": {
+        "name": "AV 5 ENTRE CALLES 12 Y 13 LOCAL NRO S/N SECTORCENTRO QUIBOR LARA ZONA POSTAL 3061",
+        "long": -69.62156250000001,
+        "lat": 9.922437500000001,
+        "location": "0101000020E6100000E27A14AEC76751C040355EBA49D82340",
+        "shipmentsEnabled": true
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:04:01.355Z",
+  "id": "5634",
+  "amount": 80,
+  "invoiceId": "785473",
+  "paidToMerchant": false,
+  "identifierNumber": 5944,
+  "billingDate": "2022-12-28T23:04:01.355Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18249816",
+      "fullName": "ORIANA PETIT ROSALES",
+      "phoneNumber": "+584128269685"
+    },
+    "installments": [
+      {
+        "id": "19382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:04:41.548Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "19384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:04:41.548Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:04:41.548Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:04:41.548Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

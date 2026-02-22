@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-07T14:45:56.109Z",
+  "updatedAt": "2025-04-21T18:44:04.218Z",
+  "id": 5088,
+  "name": "Full Parts",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f6e4c2eb-6b2b-401e-8157-433878c7edf3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ventas.librefp@gmail.com",
+    "legalName": "Full",
+    "phoneNumber": "04144820000"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T14:46:52.636Z",
+      "updatedAt": "2025-04-07T14:46:52.636Z",
+      "id": 12661,
+      "merchantId": 5088,
+      "name": "Full Parts Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5387,
+      "address": {
+        "name": "CALLE MICHELENA ENTRE ANDRES BELLO Y BRICEÑO MENDEZ CASA 106-45 VALENCIA EDO CARABOBO",
+        "long": -68.0084375,
+        "lat": 10.173187499999997,
+        "location": "0101000020E6100000D7A3703D8A0051C0E8263108AC582440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

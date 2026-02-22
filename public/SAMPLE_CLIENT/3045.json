@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T22:10:28.880Z",
+  "id": "2597",
+  "amount": 36.52,
+  "invoiceId": "14531",
+  "paidToMerchant": false,
+  "identifierNumber": 3045,
+  "billingDate": "2022-12-19T22:10:28.880Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18814561",
+      "fullName": "BARBARA ROSYBEL SOJO LUGO",
+      "phoneNumber": "+584242315784"
+    },
+    "installments": [
+      {
+        "id": "8526",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:10:42.416Z",
+        "amount": 18.26,
+        "status": "DONE"
+      },
+      {
+        "id": "8529",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:10:42.415Z",
+        "amount": 6.086666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8528",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:10:42.415Z",
+        "amount": 6.086666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8527",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:10:42.415Z",
+        "amount": 6.086666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

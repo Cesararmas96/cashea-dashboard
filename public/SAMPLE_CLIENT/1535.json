@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T18:47:34.898Z",
+  "id": "1075",
+  "amount": 31.93,
+  "invoiceId": "44153",
+  "paidToMerchant": false,
+  "identifierNumber": 1535,
+  "billingDate": "2022-12-10T18:47:34.898Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15723476",
+      "fullName": "VANESSA KIMBERLEY ACEVEDO PEREZ",
+      "phoneNumber": "+584241516995"
+    },
+    "installments": [
+      {
+        "id": "3419",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T18:48:01.474Z",
+        "amount": 5.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3421",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T18:48:01.474Z",
+        "amount": 5.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3420",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T18:48:01.474Z",
+        "amount": 5.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3418",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T18:48:01.474Z",
+        "amount": 15.96,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

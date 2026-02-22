@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T01:54:53.549Z",
+  "id": "2475",
+  "amount": 96.95,
+  "invoiceId": "6558",
+  "paidToMerchant": false,
+  "identifierNumber": 2970,
+  "billingDate": "2022-12-19T01:54:53.549Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24899983",
+      "fullName": "KATHLEEN VALERIA QUINTANA MADRID",
+      "phoneNumber": "+584242551124"
+    },
+    "installments": [
+      {
+        "id": "8162",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T01:55:18.700Z",
+        "amount": 48.48,
+        "status": "DONE"
+      },
+      {
+        "id": "8163",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T01:55:18.699Z",
+        "amount": 16.15666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8165",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T01:55:18.699Z",
+        "amount": 16.15666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8164",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T01:55:18.699Z",
+        "amount": 16.15666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

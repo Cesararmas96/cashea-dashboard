@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-25T14:14:34.356Z",
+  "updatedAt": "2025-05-05T16:39:47.215Z",
+  "id": 5385,
+  "name": "Bodegon oh que carnes Higuerote 2407",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a4723001-cf7b-4064-a039-e50ba26d33d0",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ayuranimerentes@gmail.com",
+    "legalName": "Ayurani Carolina",
+    "phoneNumber": "4241500216"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T14:16:48.897Z",
+      "updatedAt": "2025-04-25T14:16:48.897Z",
+      "id": 13274,
+      "merchantId": 5385,
+      "name": "Bodegon oh que carnes Higuerote 2407",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3839,
+      "address": {
+        "name": "Av. Barlovento, c.c. Colibri, local 2, pb, a un local del Banco Fondo Comun.",
+        "long": -66.0974375,
+        "lat": 10.481062500000007,
+        "location": "0101000020E6100000DBF97E6A3C8650C000AAF1D24DF62440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T15:14:52.180Z",
+      "updatedAt": "2025-05-14T15:14:52.180Z",
+      "id": 14105,
+      "merchantId": 5385,
+      "name": "VR_Bodegon oh que carnes Higuerote 2407",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3839,
+      "address": {
+        "name": "Av. Barlovento, c.c. Colibri, local 2, pb, a un local del Banco Fondo Comun.",
+        "long": -66.0974375,
+        "lat": 10.481062500000007,
+        "location": "0101000020E6100000DBF97E6A3C8650C000AAF1D24DF62440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

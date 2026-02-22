@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:50:09.313Z",
+  "id": "2934",
+  "amount": 99.8,
+  "invoiceId": "11375",
+  "paidToMerchant": false,
+  "identifierNumber": 3399,
+  "billingDate": "2022-12-20T22:50:09.313Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17700945",
+      "fullName": "WILMARTH COROMOTO OROPEZA DE BRICENO",
+      "phoneNumber": "+584149550055"
+    },
+    "installments": [
+      {
+        "id": "9682",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:51:10.458Z",
+        "amount": 49.9,
+        "status": "DONE"
+      },
+      {
+        "id": "9685",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:51:10.457Z",
+        "amount": 16.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9684",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:51:10.457Z",
+        "amount": 16.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9683",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:51:10.457Z",
+        "amount": 16.633333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

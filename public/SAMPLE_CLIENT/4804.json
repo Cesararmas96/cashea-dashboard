@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T00:42:07.214Z",
+  "id": "4426",
+  "amount": 94.48,
+  "invoiceId": "13818",
+  "paidToMerchant": false,
+  "identifierNumber": 4804,
+  "billingDate": "2022-12-24T00:42:07.214Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-23T04:00:01.480+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "15056",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18749768",
+      "fullName": "BIANCA MADERLEY HERRERA BRICENO",
+      "phoneNumber": "+584241777355"
+    },
+    "installments": [
+      {
+        "id": "15056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:43:22.605Z",
+        "amount": 15.746666666666668,
+        "status": "DELAYED"
+      },
+      {
+        "id": "15057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:43:22.605Z",
+        "amount": 15.746666666666668,
+        "status": "DELAYED"
+      },
+      {
+        "id": "15054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:43:22.605Z",
+        "amount": 47.24,
+        "status": "DONE"
+      },
+      {
+        "id": "15055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:43:22.605Z",
+        "amount": 15.746666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

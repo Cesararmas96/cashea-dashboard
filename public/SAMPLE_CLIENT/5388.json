@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T21:34:48.425Z",
+  "id": "5081",
+  "amount": 115.18,
+  "invoiceId": "13884",
+  "paidToMerchant": false,
+  "identifierNumber": 5388,
+  "billingDate": "2022-12-26T21:34:48.425Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-09T04:00:00.401+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "17433",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20307913",
+      "fullName": "ALEIKER JAVIER PREVETE GUERRERO",
+      "phoneNumber": "+584140128475"
+    },
+    "installments": [
+      {
+        "id": "17430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T21:38:00.674Z",
+        "amount": 57.59,
+        "status": "DONE"
+      },
+      {
+        "id": "17433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T21:38:00.673Z",
+        "amount": 19.19666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T21:38:00.673Z",
+        "amount": 19.19666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T21:38:00.673Z",
+        "amount": 19.19666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

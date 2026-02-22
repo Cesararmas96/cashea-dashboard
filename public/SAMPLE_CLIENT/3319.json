@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T21:37:17.382Z",
+  "id": "2873",
+  "amount": 70,
+  "invoiceId": "00001669",
+  "paidToMerchant": false,
+  "identifierNumber": 3319,
+  "billingDate": "2022-12-20T21:37:17.382Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "81",
+    "buyDebtDate": "2023-01-06T04:00:00.507+00:00",
+    "lastStoreId": 26,
+    "boughtForInstallmentId": "9471",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21116873",
+      "fullName": "GUSTAVO ARCANGEL CASTRO MARQUEZ",
+      "phoneNumber": "+584129125696"
+    },
+    "installments": [
+      {
+        "id": "9473",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:38:32.483Z",
+        "amount": 11.666666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9472",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:38:32.483Z",
+        "amount": 11.666666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9471",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:38:32.483Z",
+        "amount": 11.666666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9470",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:38:32.483Z",
+        "amount": 35,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

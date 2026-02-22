@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T19:48:15.350Z",
+  "id": "4831",
+  "amount": 82.07,
+  "invoiceId": "15116",
+  "paidToMerchant": false,
+  "identifierNumber": 5063,
+  "billingDate": "2022-12-24T19:48:15.350Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-10T04:00:01.011+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "16551",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22965299",
+      "fullName": "EINER ENRIQUE BLANCO BARRIOS",
+      "phoneNumber": "+584126320061"
+    },
+    "installments": [
+      {
+        "id": "16553",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:48:32.103Z",
+        "amount": 13.679999999999998,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16552",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:48:32.103Z",
+        "amount": 13.679999999999998,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16551",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:48:32.103Z",
+        "amount": 13.679999999999998,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16550",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:48:32.103Z",
+        "amount": 41.03,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

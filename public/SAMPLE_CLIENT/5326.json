@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:43:37.040Z",
+  "id": "5017",
+  "amount": 64,
+  "invoiceId": "10706",
+  "paidToMerchant": false,
+  "identifierNumber": 5326,
+  "billingDate": "2022-12-26T17:43:37.040Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16265353",
+      "fullName": "JOSE MANUEL DURAN BELANDRIA",
+      "phoneNumber": "+584141736317"
+    },
+    "installments": [
+      {
+        "id": "17202",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:44:07.915Z",
+        "amount": 32,
+        "status": "DONE"
+      },
+      {
+        "id": "17205",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:44:07.914Z",
+        "amount": 10.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "17204",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:44:07.914Z",
+        "amount": 10.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "17203",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:44:07.914Z",
+        "amount": 10.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

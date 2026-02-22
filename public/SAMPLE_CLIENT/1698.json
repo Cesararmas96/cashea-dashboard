@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T16:47:01.882Z",
+  "id": "1061",
+  "amount": 39.99,
+  "invoiceId": "00000866",
+  "paidToMerchant": false,
+  "identifierNumber": 1698,
+  "billingDate": "2022-12-10T16:47:01.882Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21615057",
+      "fullName": "LETICIA MARGARITA CAPIELLO MEJIA",
+      "phoneNumber": "+584142315445"
+    },
+    "installments": [
+      {
+        "id": "3377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T16:47:17.532Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T16:47:17.532Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T16:47:17.532Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T16:47:17.533Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

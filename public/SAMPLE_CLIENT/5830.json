@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:47:12.769Z",
+  "id": "5537",
+  "amount": 49.61,
+  "invoiceId": "13934",
+  "paidToMerchant": false,
+  "identifierNumber": 5830,
+  "billingDate": "2022-12-28T20:47:12.769Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26194820",
+      "fullName": "MARJORIE ALEJANDRA LUGO MARIN",
+      "phoneNumber": "+584241222379"
+    },
+    "installments": [
+      {
+        "id": "19030",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:50:21.209Z",
+        "amount": 24.8,
+        "status": "DONE"
+      },
+      {
+        "id": "19031",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:50:21.209Z",
+        "amount": 8.27,
+        "status": "DONE"
+      },
+      {
+        "id": "19033",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:50:21.209Z",
+        "amount": 8.27,
+        "status": "DONE"
+      },
+      {
+        "id": "19032",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:50:21.209Z",
+        "amount": 8.27,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

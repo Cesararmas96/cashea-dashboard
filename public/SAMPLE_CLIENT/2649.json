@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T23:11:55.789Z",
+  "id": "2105",
+  "amount": 89.99,
+  "invoiceId": "00001431",
+  "paidToMerchant": false,
+  "identifierNumber": 2649,
+  "billingDate": "2022-12-17T23:11:55.789Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22906318",
+      "fullName": "JEAN MARCO BELLO LAGUNA",
+      "phoneNumber": "+584120190208"
+    },
+    "installments": [
+      {
+        "id": "6853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T23:13:25.998Z",
+        "amount": 14.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "6850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T23:13:25.998Z",
+        "amount": 44.99,
+        "status": "DONE"
+      },
+      {
+        "id": "6851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T23:13:25.998Z",
+        "amount": 14.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "6852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T23:13:25.998Z",
+        "amount": 14.999999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

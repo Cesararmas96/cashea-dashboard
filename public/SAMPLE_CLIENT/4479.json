@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:21:51.990Z",
+  "id": "4088",
+  "amount": 39.98,
+  "invoiceId": "14648",
+  "paidToMerchant": false,
+  "identifierNumber": 4479,
+  "billingDate": "2022-12-23T20:21:51.990Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "84",
+    "buyDebtDate": "2023-01-09T04:00:01.156+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "13815",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13707080",
+      "fullName": "DAYANA NACARET HERMOSO BORGES",
+      "phoneNumber": "+584241093812"
+    },
+    "installments": [
+      {
+        "id": "13814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:22:47.097Z",
+        "amount": 19.99,
+        "status": "DONE"
+      },
+      {
+        "id": "13816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:22:47.097Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:22:47.097Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:22:47.097Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-13T19:04:36.831Z",
+  "id": "8156",
+  "amount": 32.44,
+  "invoiceId": "15563",
+  "paidToMerchant": false,
+  "identifierNumber": 1752,
+  "billingDate": "2023-01-13T19:04:36.831Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-30T04:00:00.763+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "28383",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11666990",
+      "fullName": "DAYSI MILAGROS RAMOS DE SALAS",
+      "phoneNumber": "+584166290927"
+    },
+    "installments": [
+      {
+        "id": "28385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-24T19:05:49.789Z",
+        "amount": 5.406666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "28384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-10T19:05:49.789Z",
+        "amount": 5.406666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "28383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-27T19:05:49.789Z",
+        "amount": 5.406666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "28382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-13T19:05:49.790Z",
+        "amount": 16.22,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

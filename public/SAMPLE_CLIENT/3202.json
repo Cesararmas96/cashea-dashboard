@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:00:25.211Z",
+  "id": "2691",
+  "amount": 48.99,
+  "invoiceId": "1383",
+  "paidToMerchant": false,
+  "identifierNumber": 3202,
+  "billingDate": "2022-12-20T01:00:25.211Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12398870",
+      "fullName": "MAYERLING JOSEFINA OLIVEROS ARZA",
+      "phoneNumber": "+584142831592"
+    },
+    "installments": [
+      {
+        "id": "8857",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:05:43.385Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8854",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:05:43.386Z",
+        "amount": 24.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8855",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:05:43.385Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8856",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:05:43.385Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

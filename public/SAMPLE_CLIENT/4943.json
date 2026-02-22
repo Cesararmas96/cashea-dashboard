@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:22:26.033Z",
+  "id": "4596",
+  "amount": 61.8,
+  "invoiceId": "9617",
+  "paidToMerchant": false,
+  "identifierNumber": 4943,
+  "billingDate": "2022-12-24T16:22:26.033Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "76",
+    "buyDebtDate": "2023-01-24T04:00:00.914+00:00",
+    "lastStoreId": 63,
+    "boughtForInstallmentId": "15668",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21573189",
+      "fullName": "JOSE FELIPE MATEY PENA",
+      "phoneNumber": "+584241502961"
+    },
+    "installments": [
+      {
+        "id": "15669",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:22:36.684Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15666",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:22:36.684Z",
+        "amount": 30.9,
+        "status": "DONE"
+      },
+      {
+        "id": "15667",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:22:36.684Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15668",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:22:36.684Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

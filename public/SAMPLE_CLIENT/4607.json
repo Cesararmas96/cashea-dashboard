@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:59:19.068Z",
+  "id": "2690",
+  "amount": 41.78,
+  "invoiceId": "6709",
+  "paidToMerchant": false,
+  "identifierNumber": 4607,
+  "billingDate": "2022-12-20T00:59:19.068Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28063931",
+      "fullName": "ANTONELLA JESUSLANYER CASTRO BLANCO",
+      "phoneNumber": "+584121615568"
+    },
+    "installments": [
+      {
+        "id": "8846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:59:36.764Z",
+        "amount": 20.89,
+        "status": "DONE"
+      },
+      {
+        "id": "8849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:59:36.763Z",
+        "amount": 6.963333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:59:36.763Z",
+        "amount": 6.963333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:59:36.763Z",
+        "amount": 6.963333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

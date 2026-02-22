@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T14:57:05.606Z",
+  "id": "11472",
+  "amount": 69.99,
+  "invoiceId": "329",
+  "paidToMerchant": false,
+  "identifierNumber": 4063,
+  "billingDate": "2023-01-30T14:57:05.606Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15725226",
+      "fullName": "PATRICIA QUINTAL GOMES",
+      "phoneNumber": "+584141123004"
+    },
+    "installments": [
+      {
+        "id": "35140",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T14:58:00.226Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35141",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T14:58:00.226Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35138",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T14:58:00.227Z",
+        "amount": 34.99,
+        "status": "DONE"
+      },
+      {
+        "id": "35139",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T14:58:00.226Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

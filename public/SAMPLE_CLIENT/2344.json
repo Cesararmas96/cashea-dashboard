@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-16T19:44:23.867Z",
+  "id": "1727",
+  "amount": 72.1,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2344,
+  "billingDate": "2022-12-16T19:44:23.867Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 47,
+    "name": "Timberland Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

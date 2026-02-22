@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T22:14:01.092Z",
+  "id": "5284",
+  "amount": 50,
+  "invoiceId": "10753",
+  "paidToMerchant": false,
+  "identifierNumber": 5601,
+  "billingDate": "2022-12-27T22:14:01.092Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-02-10T04:00:00.418+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "18149",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10793379",
+      "fullName": "OSCAR ENRIQUE MARQUEZ ECHENIQUE",
+      "phoneNumber": "+584143227111"
+    },
+    "installments": [
+      {
+        "id": "18149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T22:16:48.077Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T22:16:48.078Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "18147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T22:16:48.077Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T22:16:48.077Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

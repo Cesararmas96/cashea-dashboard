@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T01:20:13.586Z",
+  "id": "2170",
+  "amount": 50.73,
+  "invoiceId": "8502",
+  "paidToMerchant": false,
+  "identifierNumber": 2693,
+  "billingDate": "2022-12-18T01:20:13.586Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28386513",
+      "fullName": "NATACHA BETZABETH ROJAS BELLO",
+      "phoneNumber": "+584127089288"
+    },
+    "installments": [
+      {
+        "id": "7093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T01:20:33.221Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "7090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T01:20:33.221Z",
+        "amount": 25.36,
+        "status": "DONE"
+      },
+      {
+        "id": "7091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T01:20:33.221Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "7092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T01:20:33.221Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

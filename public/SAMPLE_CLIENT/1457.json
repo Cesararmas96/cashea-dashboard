@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T22:48:10.847Z",
+  "id": "737",
+  "amount": 94,
+  "invoiceId": "1F3313-0005",
+  "paidToMerchant": false,
+  "identifierNumber": 1457,
+  "billingDate": "2022-12-05T22:48:10.847Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25771701",
+      "fullName": "ROMMEL UBENCIO CISNEROS GONZALEZ",
+      "phoneNumber": "+584140181628"
+    },
+    "installments": [
+      {
+        "id": "2398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T22:48:38.724Z",
+        "amount": 47,
+        "status": "DONE"
+      },
+      {
+        "id": "2400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T22:48:38.724Z",
+        "amount": 15.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T22:48:38.724Z",
+        "amount": 15.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T22:48:38.724Z",
+        "amount": 15.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 35,
+    "name": "A1WIN Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

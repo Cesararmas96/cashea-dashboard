@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:16:40.677Z",
+  "id": "3248",
+  "amount": 66.49,
+  "invoiceId": "14753",
+  "paidToMerchant": false,
+  "identifierNumber": 3653,
+  "billingDate": "2022-12-21T22:16:40.677Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19873607",
+      "fullName": "JEISON JOSE TORO PEREZ",
+      "phoneNumber": "+584242073729"
+    },
+    "installments": [
+      {
+        "id": "10782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:16:59.422Z",
+        "amount": 33.24,
+        "status": "DONE"
+      },
+      {
+        "id": "10785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:16:59.422Z",
+        "amount": 11.08333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:16:59.422Z",
+        "amount": 11.08333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:16:59.422Z",
+        "amount": 11.08333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:21:31.456Z",
+  "id": "4404",
+  "amount": 93.57,
+  "invoiceId": "14687",
+  "paidToMerchant": false,
+  "identifierNumber": 4780,
+  "billingDate": "2022-12-24T00:21:31.456Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20653264",
+      "fullName": "MARCO ANTONIO MOLINA",
+      "phoneNumber": "+584149269036"
+    },
+    "installments": [
+      {
+        "id": "14962",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:21:46.512Z",
+        "amount": 46.785,
+        "status": "DONE"
+      },
+      {
+        "id": "14965",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:21:46.511Z",
+        "amount": 15.594999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14964",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:21:46.511Z",
+        "amount": 15.594999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14963",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:21:46.511Z",
+        "amount": 15.594999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,177 @@
+{
+  "createdAt": "2025-03-26T21:31:33.965Z",
+  "updatedAt": "2025-09-05T14:35:38.416Z",
+  "id": 4870,
+  "name": "Clinica La Nacional",
+  "ecommerceUrl": null,
+  "changePolicy": "No realizamos cambios ni devoluciones de dinero. Se traspasan los fondos para ser gastados en otros servicios de la clinica para la persona o familiares directos",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": {
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "dedc2a1a-dc7d-4413-9ae9-04f8ea263590",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "feriaken@gmail.com",
+    "legalName": "Ken feria",
+    "phoneNumber": "04149422727"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-26T17:56:11.259Z",
+      "updatedAt": "2025-09-05T14:32:34.811Z",
+      "id": 12237,
+      "merchantId": 4870,
+      "name": "Clínica La Nacional Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4170,
+      "address": {
+        "name": "Frente a la estación del metro la Michelena, Av. 100 Bolívar Sur, Valencia 2001, Carabobo",
+        "long": -68.0016875,
+        "lat": 10.1706875,
+        "location": "0101000020E6100000F853E3A51B0051C008AC1C5A64572440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-17T15:15:53.283Z",
+      "updatedAt": "2025-06-17T15:15:53.283Z",
+      "id": 15780,
+      "merchantId": 4870,
+      "name": "VR_Clinica La Nacional",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4170,
+      "address": {
+        "name": "Frente a la estación del metro la Michelena, Av. 100 Bolívar Sur, Valencia 2001, Carabobo",
+        "long": -68.0016875,
+        "lat": 10.1706875,
+        "location": "0101000020E6100000F853E3A51B0051C008AC1C5A64572440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    },
+    {
+      "id": 5,
+      "name": "SPLIT_12",
+      "data": {
+        "minimumLevel": 6,
+        "installmentsAmount": 13,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 12 cuotas"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T01:56:33.691Z",
+  "id": "2476",
+  "amount": 30,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2965,
+  "billingDate": "2022-12-19T01:56:33.691Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 30,
+    "name": "Korotos Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

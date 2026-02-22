@@ -1,0 +1,174 @@
+{
+  "createdAt": "2025-05-02T14:30:14.601Z",
+  "updatedAt": "2025-07-23T18:07:21.012Z",
+  "id": 5501,
+  "name": "AUTORAPIDOSO",
+  "ecommerceUrl": null,
+  "changePolicy": "ACEPTACIÓN\nAl ofertar esta publicación, el comprador acepta y se adhiere a los términos y condiciones de la presente política de compra y envío.\n1.\tHacemos cambios de la mercancía, pero no se realiza devolución del dinero.\n2.\tNo cubrimos gastos de envío a nivel nacional. Hacemos envíos con cobro al destino únicamente en promociones indicadas en Caracas.\n3.\tNo garantizamos amortiguadores doblados ni con vástagos rayados, ya que la mercancía se entrega en perfecto estado.\n4.\tCompatibilidad: asegúrese de que la mercancía que requiere sea la que aparece en las fotos y descripción. En caso de dudas, pregunte.\n5.\tAl ofertar: pregunte para asegurarse de que tenemos disponibilidad de la mercancía, ya que nuestro inventario tiene alta rotación. Oferte solo si está seguro y disponemos del producto.\n",
+  "email": "hr1223470@gmail.com",
+  "phoneNumber": "+584125887382",
+  "logoUrl": null,
+  "data": {
+    "rif": "J502467726"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ce943cd0-6cea-4dd1-822c-511f40f6f74e",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "hr1223470@gmail.com",
+    "legalName": "Hector",
+    "phoneNumber": "04125887382"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-29T14:50:51.248Z",
+      "updatedAt": "2025-07-23T18:07:21.243Z",
+      "id": 14910,
+      "merchantId": 5501,
+      "name": "AUTORAPIDOSO Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3701,
+      "address": {
+        "name": "Municipio Libertador, San Martin 1020, Caracas 1029, Distrito Capital",
+        "long": -66.94731250000001,
+        "lat": 10.467687499999997,
+        "location": "0101000020E6100000E4A59BC4A0BC50C0F87E6ABC74EF2440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-06-05T17:24:53.121Z",
+      "updatedAt": "2025-06-05T17:24:53.121Z",
+      "id": 15253,
+      "merchantId": 5501,
+      "name": "VR_AUTORAPIDOSO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3701,
+      "address": {
+        "name": "Calle Canaima detras del parque Juan cuchara local NRO 12 urb la vega  Caracas distrito capital zona postal 1020",
+        "long": -66.9470625,
+        "lat": 10.471062500000002,
+        "location": "0101000020E6100000273108AC9CBC50C078BE9F1A2FF12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T14:31:48.610Z",
+      "updatedAt": "2025-05-02T14:31:48.610Z",
+      "id": 13525,
+      "merchantId": 5501,
+      "name": "AUTORAPIDOSO La Vega",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3701,
+      "address": {
+        "name": "Calle Canaima detras del parque Juan cuchara local NRO 12 urb la vega  Caracas distrito capital zona postal 1020",
+        "long": -66.9470625,
+        "lat": 10.471062500000002,
+        "location": "0101000020E6100000273108AC9CBC50C078BE9F1A2FF12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

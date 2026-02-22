@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T00:56:29.101Z",
+  "id": "3027",
+  "amount": 120.36,
+  "invoiceId": "12621",
+  "paidToMerchant": false,
+  "identifierNumber": 2902,
+  "billingDate": "2022-12-21T00:56:29.101Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-06T04:00:00.653+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "10011",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16619598",
+      "fullName": "EDSON JOSE BARRIENTOS BRICENO",
+      "phoneNumber": "+584241814010"
+    },
+    "installments": [
+      {
+        "id": "10011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:56:42.511Z",
+        "amount": 20.06,
+        "status": "DONE"
+      },
+      {
+        "id": "10012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:56:42.511Z",
+        "amount": 20.06,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:56:42.511Z",
+        "amount": 20.06,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:56:42.512Z",
+        "amount": 60.18,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

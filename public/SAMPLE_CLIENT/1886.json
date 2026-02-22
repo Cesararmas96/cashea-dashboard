@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T22:51:15.769Z",
+  "id": "1268",
+  "amount": 37.5,
+  "invoiceId": "11631",
+  "paidToMerchant": false,
+  "identifierNumber": 1886,
+  "billingDate": "2022-12-11T22:51:15.769Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26597243",
+      "fullName": "LUIS ENRIQUE PEREZ ROMERO",
+      "phoneNumber": "+584241718758"
+    },
+    "installments": [
+      {
+        "id": "4086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T22:52:06.243Z",
+        "amount": 18.75,
+        "status": "DONE"
+      },
+      {
+        "id": "4089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T22:52:06.242Z",
+        "amount": 6.25,
+        "status": "DONE"
+      },
+      {
+        "id": "4087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T22:52:06.242Z",
+        "amount": 6.25,
+        "status": "DONE"
+      },
+      {
+        "id": "4088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T22:52:06.242Z",
+        "amount": 6.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

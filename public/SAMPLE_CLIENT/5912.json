@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:54:35.702Z",
+  "id": "5628",
+  "amount": 110.89,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5912,
+  "billingDate": "2022-12-28T22:54:35.702Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24277412",
+      "fullName": "MARIA LAURA GARRIDO PACHECO",
+      "phoneNumber": "+584149269502"
+    },
+    "installments": [
+      {
+        "id": "19353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:55:05.686Z",
+        "amount": 18.48,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "19351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:55:05.686Z",
+        "amount": 18.48,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "19350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:55:05.686Z",
+        "amount": 55.45,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "19352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:55:05.686Z",
+        "amount": 18.48,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

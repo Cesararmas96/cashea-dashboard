@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-02T14:05:04.369Z",
+  "updatedAt": "2025-04-15T15:42:27.266Z",
+  "id": 4971,
+  "name": "Tu PintuGo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c61abba3-ddb9-47d6-9c6d-b267d7478bcf",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "pintugoredes@gmail.com",
+    "legalName": "Elias",
+    "phoneNumber": "04125898602"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T14:07:19.803Z",
+      "updatedAt": "2025-04-02T14:07:19.803Z",
+      "id": 12503,
+      "merchantId": 4971,
+      "name": "Tu PintuGo El Cafetal Baruta",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7273,
+      "address": {
+        "name": "AV.PPAL DE CHUAO CON CALLE ARAGUANEYES, QTA ELISBEL, URB.CHUAO, PARROQUIA EL CAFETAL, BARUTA",
+        "long": -66.8461875,
+        "lat": 10.482812499999994,
+        "location": "0101000020E61000002DB29DEF27B650C03033333333F72440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T13:55:37.574Z",
+      "updatedAt": "2025-05-02T13:55:37.574Z",
+      "id": 13520,
+      "merchantId": 4971,
+      "name": "VR_Tu PintuGo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7273,
+      "address": {
+        "name": "AV.PPAL DE CHUAO CON CALLE ARAGUANEYES, QTA ELISBEL, URB.CHUAO, PARROQUIA EL CAFETAL, BARUTA",
+        "long": -66.8461875,
+        "lat": 10.482812499999994,
+        "location": "0101000020E61000002DB29DEF27B650C03033333333F72440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

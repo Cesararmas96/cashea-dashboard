@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:11:15.760Z",
+  "id": "3368",
+  "amount": 62.75,
+  "invoiceId": "12726",
+  "paidToMerchant": false,
+  "identifierNumber": 3802,
+  "billingDate": "2022-12-22T01:11:15.760Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17510066",
+      "fullName": "ELBA CRISTINA HERNANDEZ QUINTERO",
+      "phoneNumber": "+584141521370"
+    },
+    "installments": [
+      {
+        "id": "11230",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:11:41.632Z",
+        "amount": 31.38,
+        "status": "DONE"
+      },
+      {
+        "id": "11232",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:11:41.631Z",
+        "amount": 10.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11233",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:11:41.631Z",
+        "amount": 10.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11231",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:11:41.631Z",
+        "amount": 10.456666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

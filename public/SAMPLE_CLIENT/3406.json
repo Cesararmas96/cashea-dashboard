@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:13:55.731Z",
+  "id": "2901",
+  "amount": 57.94,
+  "invoiceId": "00001804",
+  "paidToMerchant": false,
+  "identifierNumber": 3406,
+  "billingDate": "2022-12-20T22:13:55.731Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24206984",
+      "fullName": "YOHUDELIS CRISBET DIAZ DELGADO",
+      "phoneNumber": "+584241538442"
+    },
+    "installments": [
+      {
+        "id": "9565",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:14:22.336Z",
+        "amount": 9.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9562",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:14:22.336Z",
+        "amount": 28.97,
+        "status": "DONE"
+      },
+      {
+        "id": "9564",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:14:22.336Z",
+        "amount": 9.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9563",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:14:22.336Z",
+        "amount": 9.656666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

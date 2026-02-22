@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:51:22.702Z",
+  "id": "2089",
+  "amount": 34.18,
+  "invoiceId": "6142",
+  "paidToMerchant": false,
+  "identifierNumber": 2586,
+  "billingDate": "2022-12-17T22:51:22.702Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27756513",
+      "fullName": "ANGEL DAVID CONTRERAS NIETO",
+      "phoneNumber": "+584140273609"
+    },
+    "installments": [
+      {
+        "id": "6790",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:54:11.199Z",
+        "amount": 17.09,
+        "status": "DONE"
+      },
+      {
+        "id": "6793",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:54:11.198Z",
+        "amount": 5.696666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6792",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:54:11.198Z",
+        "amount": 5.696666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6791",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:54:11.198Z",
+        "amount": 5.696666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

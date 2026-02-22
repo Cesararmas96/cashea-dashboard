@@ -1,0 +1,208 @@
+{
+  "createdAt": "2025-03-26T15:14:26.579Z",
+  "updatedAt": "2025-03-31T17:31:49.305Z",
+  "id": 4854,
+  "name": "Motores La Trinidad",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "73254765-37f7-4511-9a4c-fb5b395942fb",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mayratrinquete@motoreslatrinidad.com",
+    "legalName": "CARLOS",
+    "phoneNumber": "04123041404"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-26T16:52:06.890Z",
+      "updatedAt": "2025-03-26T16:52:06.890Z",
+      "id": 12232,
+      "merchantId": 4854,
+      "name": "Motores La Trinidad Suc. Bello Monte",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6811,
+      "address": {
+        "name": "Chevy Express Bello Monte Motores La Trinidad (Autopartes Chopin)",
+        "long": -66.88093750000002,
+        "lat": 10.488312499999992,
+        "location": "0101000020E61000007C14AE4761B850C0B874931804FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T16:19:44.803Z",
+      "updatedAt": "2025-03-26T16:19:44.803Z",
+      "id": 12228,
+      "merchantId": 4854,
+      "name": "Motores La Trinidad",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6811,
+      "address": {
+        "name": "EDIF CENTRO VEN LOCAL PB AV. GONZALES RINCONES URB. LA TRINIDAD, MUNICIPIO BARUTA\tDTTO. CAPITAL",
+        "long": -66.86375000000001,
+        "lat": 10.436250000000001,
+        "location": "0101000020E6100000E27A14AE47B750C090C2F5285CDF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T16:21:43.329Z",
+      "updatedAt": "2025-03-26T16:21:43.329Z",
+      "id": 12229,
+      "merchantId": 4854,
+      "name": "Motores La Trinidad Suc. Baruta I",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6811,
+      "address": {
+        "name": "EDIF. CENTRO EMPRESARIAL DON JUAN LOCAL SOTANO 2, AV. LOS GUAYABITOS. BARUTA\tDTTO. CAPITAL",
+        "long": -66.8739375,
+        "lat": 10.428187500000007,
+        "location": "0101000020E6100000DF4F8D97EEB750C0B01C5A643BDB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T16:26:31.519Z",
+      "updatedAt": "2025-03-26T16:26:31.519Z",
+      "id": 12230,
+      "merchantId": 4854,
+      "name": "Motores La Trinidad Suc. Baruta II",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6811,
+      "address": {
+        "name": "EDIF. PIEDRA AZUL, LOCAL S1-1 AV. LOS GUAYABITOS, BARUTA\tDTTO. CAPITAL",
+        "long": -66.8748125,
+        "lat": 10.43106250000001,
+        "location": "0101000020E6100000736891EDFCB750C068105839B4DC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T16:29:48.924Z",
+      "updatedAt": "2025-03-26T16:29:48.924Z",
+      "id": 12231,
+      "merchantId": 4854,
+      "name": "Motores La Trinidad Suc. Baruta III",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6811,
+      "address": {
+        "name": "EDIF. KINKY 3ERA PLANTA SECTOR PIEDRA AZUL, AV. LOS GUAYABITOS, BARUTA\tDTTO. CAPITAL",
+        "long": -66.87375,
+        "lat": 10.418750000000003,
+        "location": "0101000020E610000052B81E85EBB750C06866666666D62440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

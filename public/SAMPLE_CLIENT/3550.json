@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T19:56:35.240Z",
+  "id": "3160",
+  "amount": 148.23,
+  "invoiceId": "00013020",
+  "paidToMerchant": false,
+  "identifierNumber": 3550,
+  "billingDate": "2022-12-21T19:56:35.240Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "80",
+    "buyDebtDate": "2023-01-07T04:00:00.410+00:00",
+    "lastStoreId": 67,
+    "boughtForInstallmentId": "10455",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12627014",
+      "fullName": "ELLUZ ROXANA LEON RIVAS",
+      "phoneNumber": "+584241848706"
+    },
+    "installments": [
+      {
+        "id": "10457",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T19:57:16.140Z",
+        "amount": 24.706666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "10454",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T19:57:16.140Z",
+        "amount": 74.11,
+        "status": "DONE"
+      },
+      {
+        "id": "10456",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T19:57:16.140Z",
+        "amount": 24.706666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "10455",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T19:57:16.140Z",
+        "amount": 24.706666666666663,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:04:00.389Z",
+  "id": "2783",
+  "amount": 53.06,
+  "invoiceId": "17465",
+  "paidToMerchant": false,
+  "identifierNumber": 3224,
+  "billingDate": "2022-12-20T19:04:00.389Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10942959",
+      "fullName": "RITA MAGALY RUEDA LUGO",
+      "phoneNumber": "+584126006845"
+    },
+    "installments": [
+      {
+        "id": "9169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:04:56.352Z",
+        "amount": 8.843333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:04:56.353Z",
+        "amount": 26.53,
+        "status": "DONE"
+      },
+      {
+        "id": "9167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:04:56.352Z",
+        "amount": 8.843333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:04:56.352Z",
+        "amount": 8.843333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

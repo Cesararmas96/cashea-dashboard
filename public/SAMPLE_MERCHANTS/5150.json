@@ -1,0 +1,238 @@
+{
+  "createdAt": "2025-04-09T16:30:29.552Z",
+  "updatedAt": "2025-04-10T21:25:20.435Z",
+  "id": 5150,
+  "name": "COSMETICOS NAITEX",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "11a123a9-1615-473a-a940-afe278480a53",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "edyelias28@hotmail.com",
+    "legalName": "EDINSON",
+    "phoneNumber": "04148819282"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-21T15:27:20.103Z",
+      "updatedAt": "2025-07-21T15:27:20.103Z",
+      "id": 17758,
+      "merchantId": 5150,
+      "name": "Vr_Cosmeticos Naitex Calle Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4332,
+      "address": {
+        "name": "CALLE MIRANDA",
+        "long": -62.4063125,
+        "lat": 8.016312499999998,
+        "location": "0101000020E61000005EBA490C02344FC03008AC1C5A082040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-21T15:32:43.954Z",
+      "updatedAt": "2025-07-21T15:32:43.954Z",
+      "id": 17759,
+      "merchantId": 5150,
+      "name": "Vr_Cosmeticos Naitex Calle Polanco",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4332,
+      "address": {
+        "name": "CALLE POLANCO",
+        "long": -62.401250000000005,
+        "lat": 8.008749999999992,
+        "location": "0101000020E610000090C2F5285C334FC010AE47E17A042040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-21T15:37:17.680Z",
+      "updatedAt": "2025-07-21T15:37:17.680Z",
+      "id": 17761,
+      "merchantId": 5150,
+      "name": "Vr_Cosmeticos Naitex Av Raul",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4332,
+      "address": {
+        "name": "AV. RAUL LEONI C/POLANCO",
+        "long": -62.401250000000005,
+        "lat": 8.008749999999992,
+        "location": "0101000020E610000090C2F5285C334FC010AE47E17A042040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T17:08:04.043Z",
+      "updatedAt": "2025-04-09T17:08:04.043Z",
+      "id": 12761,
+      "merchantId": 5150,
+      "name": "COSMETICOS NAITEX  Calle Polanco",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4332,
+      "address": {
+        "name": "CALLE POLANCO",
+        "long": -62.401250000000005,
+        "lat": 8.008749999999992,
+        "location": "0101000020E610000090C2F5285C334FC010AE47E17A042040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T16:31:40.487Z",
+      "updatedAt": "2025-04-09T16:31:40.487Z",
+      "id": 12758,
+      "merchantId": 5150,
+      "name": "COSMETICOS NAITEX  Av Raul",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4332,
+      "address": {
+        "name": "AV. RAUL LEONI C/POLANCO",
+        "long": -62.401250000000005,
+        "lat": 8.008749999999992,
+        "location": "0101000020E610000090C2F5285C334FC010AE47E17A042040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T16:52:14.416Z",
+      "updatedAt": "2025-04-09T16:52:14.416Z",
+      "id": 12759,
+      "merchantId": 5150,
+      "name": "COSMETICOS NAITEX  Calle Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4332,
+      "address": {
+        "name": "CALLE MIRANDA",
+        "long": -62.4063125,
+        "lat": 8.016312499999998,
+        "location": "0101000020E61000005EBA490C02344FC03008AC1C5A082040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

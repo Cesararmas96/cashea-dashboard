@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-19T11:54:30.679Z",
+  "id": "2490",
+  "amount": 64.9948,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4298,
+  "billingDate": "2022-12-19T11:54:30.679Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18467949",
+      "fullName": "FRANCISCO JOSE MARTIN TORO",
+      "phoneNumber": "+584127190770"
+    },
+    "installments": [
+      {
+        "id": "8211",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T11:54:30.733Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8210",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T11:54:30.734Z",
+        "amount": 32.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8212",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T11:54:30.733Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8213",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T11:54:30.733Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 56,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

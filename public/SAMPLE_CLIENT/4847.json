@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:30:53.079Z",
+  "id": "4475",
+  "amount": 44.98,
+  "invoiceId": "7295",
+  "paidToMerchant": false,
+  "identifierNumber": 4847,
+  "billingDate": "2022-12-24T01:30:53.079Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24439181",
+      "fullName": "DEILIMAR ALEXANDRA PAJARO DAVID",
+      "phoneNumber": "+584122561787"
+    },
+    "installments": [
+      {
+        "id": "15236",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:31:22.452Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15234",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:31:22.452Z",
+        "amount": 22.49,
+        "status": "DONE"
+      },
+      {
+        "id": "15237",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:31:22.452Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15235",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:31:22.452Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

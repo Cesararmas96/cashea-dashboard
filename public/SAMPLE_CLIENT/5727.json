@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:40:44.071Z",
+  "id": "5471",
+  "amount": 38.49,
+  "invoiceId": "6197",
+  "paidToMerchant": false,
+  "identifierNumber": 5727,
+  "billingDate": "2022-12-28T18:40:44.071Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22436005",
+      "fullName": "YULEIDI DEL CARMEN MEDINA MARCANO",
+      "phoneNumber": "+584242823539"
+    },
+    "installments": [
+      {
+        "id": "18793",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:41:03.114Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18790",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:41:03.115Z",
+        "amount": 19.25,
+        "status": "DONE"
+      },
+      {
+        "id": "18792",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:41:03.114Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18791",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:41:03.114Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

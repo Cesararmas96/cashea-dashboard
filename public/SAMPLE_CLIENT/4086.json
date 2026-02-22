@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-22T22:48:29.044Z",
+  "id": "3672",
+  "amount": 39.9,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4086,
+  "billingDate": "2022-12-22T22:48:29.044Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

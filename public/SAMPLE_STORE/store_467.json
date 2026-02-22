@@ -1,0 +1,128 @@
+[
+  {
+    "id": 313,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J000160597",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "internalBankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "account": "01910098722198383702",
+    "accountType": "Corriente",
+    "phoneNumber": "4122226748",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 311,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J000160597",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "internalBankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "account": "01910098722198383702",
+    "accountType": "Corriente",
+    "phoneNumber": "4122226748",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 312,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J000160597",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "internalBankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "account": "01910098722198383702",
+    "accountType": "Corriente",
+    "phoneNumber": "4122226748",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 314,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J000160597",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "internalBankHolder": "GENERAL IMPORT DE VENEZUELA, C.A.",
+    "account": "01910098722198380000",
+    "accountType": "Corriente",
+    "phoneNumber": "4122226748",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

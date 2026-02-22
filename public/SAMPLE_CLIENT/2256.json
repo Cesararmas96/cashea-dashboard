@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T00:05:27.844Z",
+  "id": "1650",
+  "amount": 131.59,
+  "invoiceId": "62902",
+  "paidToMerchant": false,
+  "identifierNumber": 2256,
+  "billingDate": "2022-12-16T00:05:27.844Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15378696",
+      "fullName": "LISETH DEL MAR BETANCOURT HERNANDEZ",
+      "phoneNumber": "+584141870403"
+    },
+    "installments": [
+      {
+        "id": "5317",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T00:05:43.862Z",
+        "amount": 21.930000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "5315",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T00:05:43.862Z",
+        "amount": 21.930000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "5316",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T00:05:43.862Z",
+        "amount": 21.930000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "5314",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T00:05:43.863Z",
+        "amount": 65.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

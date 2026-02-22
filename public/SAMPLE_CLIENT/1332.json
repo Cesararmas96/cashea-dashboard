@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-03T19:31:31.371Z",
+  "id": "249",
+  "amount": 210,
+  "invoiceId": "9977",
+  "paidToMerchant": false,
+  "identifierNumber": 1332,
+  "billingDate": "2022-11-03T19:31:31.371Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24214855",
+      "fullName": "KANDY RUTH MARQUEZ GRATEROL",
+      "phoneNumber": "+584143381886"
+    },
+    "installments": [
+      {
+        "id": "769",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-03T19:31:53.766Z",
+        "amount": 130,
+        "status": "DONE"
+      },
+      {
+        "id": "772",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-15T19:31:53.764Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "770",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-17T19:31:53.764Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "771",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-01T19:31:53.764Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

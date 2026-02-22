@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:01:06.378Z",
+  "id": "4445",
+  "amount": 43.25,
+  "invoiceId": "17450",
+  "paidToMerchant": false,
+  "identifierNumber": 4796,
+  "billingDate": "2022-12-24T01:01:06.378Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21618028",
+      "fullName": "DANIEL JOSE MANZANILLA CALDERON",
+      "phoneNumber": "+584124695930"
+    },
+    "installments": [
+      {
+        "id": "15130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:02:12.278Z",
+        "amount": 21.63,
+        "status": "DONE"
+      },
+      {
+        "id": "15133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:02:12.277Z",
+        "amount": 7.206666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:02:12.277Z",
+        "amount": 7.206666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:02:12.277Z",
+        "amount": 7.206666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

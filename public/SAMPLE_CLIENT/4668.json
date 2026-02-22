@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:59:15.936Z",
+  "id": "4289",
+  "amount": 34.9,
+  "invoiceId": "00002124",
+  "paidToMerchant": false,
+  "identifierNumber": 4668,
+  "billingDate": "2022-12-23T22:59:15.936Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20613428",
+      "fullName": "AMANDY CAROLINA PEREZ MENDEZ",
+      "phoneNumber": "+584120480540"
+    },
+    "installments": [
+      {
+        "id": "14554",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:59:30.706Z",
+        "amount": 17.45,
+        "status": "DONE"
+      },
+      {
+        "id": "14557",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:59:30.706Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14555",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:59:30.706Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14556",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:59:30.706Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

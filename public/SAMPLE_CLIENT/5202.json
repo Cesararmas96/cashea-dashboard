@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T21:09:28.725Z",
+  "id": "429",
+  "amount": 40,
+  "invoiceId": "6710",
+  "paidToMerchant": false,
+  "identifierNumber": 5202,
+  "billingDate": "2022-11-19T21:09:28.725Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24272422",
+      "fullName": "MARIA BETHANIA SILVA MANRIQUE",
+      "phoneNumber": "+584127394555"
+    },
+    "installments": [
+      {
+        "id": "1322",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T21:09:36.400Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1323",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T21:09:36.399Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1325",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T21:09:36.399Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1324",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T21:09:36.399Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

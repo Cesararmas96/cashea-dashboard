@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T16:41:33.399Z",
+  "id": "3106",
+  "amount": 49.45,
+  "invoiceId": "48879",
+  "paidToMerchant": false,
+  "identifierNumber": 5869,
+  "billingDate": "2022-12-21T16:41:33.399Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16704583",
+      "fullName": "DARWIN ENRIQUE BENITEZ REVERON",
+      "phoneNumber": "+584125535248"
+    },
+    "installments": [
+      {
+        "id": "10270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T16:42:02.238Z",
+        "amount": 24.73,
+        "status": "DONE"
+      },
+      {
+        "id": "10273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T16:42:02.237Z",
+        "amount": 8.24,
+        "status": "DONE"
+      },
+      {
+        "id": "10272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T16:42:02.237Z",
+        "amount": 8.24,
+        "status": "DONE"
+      },
+      {
+        "id": "10271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T16:42:02.237Z",
+        "amount": 8.24,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T19:31:04.516Z",
+  "id": "3499",
+  "amount": 139.99,
+  "invoiceId": "00018263",
+  "paidToMerchant": false,
+  "identifierNumber": 3913,
+  "billingDate": "2022-12-22T19:31:04.516Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24285065",
+      "fullName": "JOSE ENRIQUE REYES BRICENO",
+      "phoneNumber": "+584241223838"
+    },
+    "installments": [
+      {
+        "id": "11702",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T19:32:31.193Z",
+        "amount": 70,
+        "status": "DONE"
+      },
+      {
+        "id": "11705",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T19:32:31.193Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "11703",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T19:32:31.193Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "11704",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T19:32:31.193Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

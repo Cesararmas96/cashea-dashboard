@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:54:17.397Z",
+  "id": "4211",
+  "amount": 60,
+  "invoiceId": "307634",
+  "paidToMerchant": false,
+  "identifierNumber": 4575,
+  "billingDate": "2022-12-23T21:54:17.397Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15168537",
+      "fullName": "JHONNATHAN ANDRES GOMEZ GARRIDO",
+      "phoneNumber": "+584242853705"
+    },
+    "installments": [
+      {
+        "id": "14264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:54:50.839Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "14262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:54:50.839Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "14265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:54:50.839Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "14263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:54:50.839Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

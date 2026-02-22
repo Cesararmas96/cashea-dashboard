@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T20:28:43.107Z",
+  "id": "7078",
+  "amount": 49.26,
+  "invoiceId": "00019214",
+  "paidToMerchant": false,
+  "identifierNumber": 3190,
+  "billingDate": "2022-12-31T20:28:43.107Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-17T04:00:01.311+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "24515",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24523185",
+      "fullName": "ANNELIZ YASIBIT RODRIGUEZ PINTO",
+      "phoneNumber": "+584140188312"
+    },
+    "installments": [
+      {
+        "id": "24516",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T20:28:52.355Z",
+        "amount": 8.209999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "24515",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T20:28:52.355Z",
+        "amount": 8.209999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "24514",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T20:28:52.355Z",
+        "amount": 24.63,
+        "status": "DONE"
+      },
+      {
+        "id": "24517",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T20:28:52.355Z",
+        "amount": 8.209999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

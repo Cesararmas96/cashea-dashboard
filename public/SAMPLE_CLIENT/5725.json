@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-16T21:43:09.902Z",
+  "id": "8660",
+  "amount": 172.38,
+  "invoiceId": "0854",
+  "paidToMerchant": false,
+  "identifierNumber": 5725,
+  "billingDate": "2023-01-16T21:43:09.902Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-03-02T04:00:00.846+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "29933",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27361725",
+      "fullName": "ALDRIN ALEJANDRO COLMENARES MEDINA",
+      "phoneNumber": "+584241816633"
+    },
+    "installments": [
+      {
+        "id": "29933",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T21:43:47.126Z",
+        "amount": 28.73,
+        "status": "DONE"
+      },
+      {
+        "id": "29930",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T21:43:47.126Z",
+        "amount": 86.19,
+        "status": "DONE"
+      },
+      {
+        "id": "29932",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T21:43:47.126Z",
+        "amount": 28.73,
+        "status": "DONE"
+      },
+      {
+        "id": "29931",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T21:43:47.126Z",
+        "amount": 28.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

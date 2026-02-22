@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-03-29T03:06:39.346Z",
+  "updatedAt": "2025-03-29T03:06:39.346Z",
+  "id": 4917,
+  "name": "Mini Total",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 605,
+  "tags": [],
+  "uuid": "e7bb6d50-97a7-414b-9808-a4319afd63a6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "abdelmoneim404@outlook.com",
+    "legalName": "Katty",
+    "phoneNumber": "4148443568"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-29T03:15:45.961Z",
+      "updatedAt": "2025-03-29T03:15:45.961Z",
+      "id": 12378,
+      "merchantId": 4917,
+      "name": "Mini Total Boulevard 5 de Julio",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Mini Total Boulevard 5 de Julio",
+        "long": -64.6855625,
+        "lat": 10.132437499999995,
+        "location": "0101000020E61000004C378941E02B50C0288716D9CE432440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-29T03:17:52.471Z",
+      "updatedAt": "2025-03-29T03:17:52.471Z",
+      "id": 12381,
+      "merchantId": 4917,
+      "name": "Mini Total Calle Monagas con Calle Arriojas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Mini Total Calle Monagas con Calle Arriojas",
+        "long": -63.175312500000004,
+        "lat": 9.745687500000003,
+        "location": "0101000020E61000003E0AD7A370964FC0701283C0CA7D2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

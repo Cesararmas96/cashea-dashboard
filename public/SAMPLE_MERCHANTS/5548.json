@@ -1,0 +1,112 @@
+{
+  "createdAt": "2025-05-05T22:30:48.109Z",
+  "updatedAt": "2025-05-30T19:40:40.754Z",
+  "id": 5548,
+  "name": "SoyTechno Hogar",
+  "ecommerceUrl": null,
+  "changePolicy": "El proceso de GARANTIA Inicia al momento de la emisión de la factura. Dicho documento debe ser presentado junto con la caja y accesorios en perfecto estado.\nEl cliente tendrá un tiempo máximo de 48 hrs para notificar a la tienda, asesor de venta o al número de atención al cliente cualquier defecto de fabricante que posea el producto.\n\nPasadas las 48 hrs de compra, el proceso de validación del producto puede tener una duración de 7 a 21 días hábiles, siempre informando al cliente el status de su equipo. Se recibirán por garantía las siguientes fallas.\n\nNO ENCIENDA, NO PASE DEL LOGO, NO ABRA LA CAMARA, NO SUENE, NO ENCIENDA EL FLASH, NO FUNCIONE EL MICROFONO, NO FUNCIONE LA BATERIA, ENTRE OTROS.\n\nSOYTECHNO no se hace responsable de cubrir garantías tales como: golpes, rayaduras, software (virus), pin de carga, equipos en corto, pantallas {manchas, líneas o pixeles muertos y manchas de colores), micas rotas y rayadas y el táctil en su totalidad o partes del mismo.\nS‹ el equipo adquirido posee el sello de seguridad y de humedad activo no procederá a efectuar ningún tipo de garantía.\n\nLa GARANTIA no aplica luego de las 48 horas para botones por deterioro de Powers, volumen+ y volumen - al igual que accesorios tales como adaptador, cables o audífonos.\n\nLos equipos en general desde el momento en que se fabrica tienen su configuración predeterminada cualquier modificación del Sistema Operativo en el Sohware o ya sea que el equipo haya sido abierto por otro centro de servicio técnico, se anula la GARANTIA.\n\nLos productos pierden GARANTIA si al momento de ser chequeado poseen un corto en lógica por fallas de enchufes y voltajes de corriente no adecuados para su carga de batería.\n\nEn caso de TELEVISORES, el despachador de la tienda está en la obligación de mostrar al cliente las condiciones físicas (ENCENDIDO, PANTALLA, BOTON, ENCHUFE Y ACCESORIOS) ya que por defectos físicos solo se cambiarán al momento de la entrega del producto. En caso de fallas en funciones operativas los tv tendrán una GARANTIA DE 15 DIAS SIN EXCEPCION, siempre y cuando cumpla con las condiciones físicas adecuadas a la cláusula N° 1 del presente documento.\n\nCelulares: GENERALES 1 MES/SAMSUNG Y APPLE 2 MESES.\nLaptops y pc: 1 MES.\nTv y monitores: 15 DIAS\n\nConsolas y router: 1 MES\n\nImpresoras: 1 MES\n\nCAMARAS Y CORNETAS: 1 MES\n\nARTICULOS HOGAR Y OTROS: 15 DIAS\n\nAIRE ACONDICIONAOO: 1 MES (ciertas condiciones aplican)\n\nACCESORIOS TALES COMO AUDÍFONOS, CONTROLES, POWER BAND, CABLES, PENDRIVE, DISCO DURO Y ACC EN GENERAL TIENEN 48 HRS DE GARANTÍA\n",
+  "email": "soytechnocashea@gmail.com",
+  "phoneNumber": "+584122281647",
+  "logoUrl": null,
+  "data": {
+    "rif": "J405019697",
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": 8,
+  "tags": [],
+  "uuid": "99e56e49-adc3-4c1d-b34d-8b9fb4668b3a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "soytechnocashea@gmail.com",
+    "legalName": "One",
+    "phoneNumber": "+584128027969"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T22:34:17.788Z",
+      "updatedAt": "2025-09-16T16:18:37.105Z",
+      "id": 13615,
+      "merchantId": 5548,
+      "name": "SOYTECHNO DELIVERY GRATIS",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4487,
+      "address": {
+        "name": "Envíos a toda Venezuela gratis. Una vez que concretes tú compra comunícate con SoyTechno para coordinar la entrega.",
+        "long": -66.8558125,
+        "lat": 10.489937499999996,
+        "location": "0101000020E610000083C0CAA1C5B650C0002B8716D9FA2440",
+        "shipmentsEnabled": true
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

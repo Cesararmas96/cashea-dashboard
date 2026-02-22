@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-29T23:05:22.911Z",
+  "id": "11455",
+  "amount": 30.98,
+  "invoiceId": "0788",
+  "paidToMerchant": false,
+  "identifierNumber": 1035,
+  "billingDate": "2023-01-29T23:05:22.911Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24133361",
+      "fullName": "LUIS JOSE GONZALEZ BLANCO",
+      "phoneNumber": "+584241711445"
+    },
+    "installments": [
+      {
+        "id": "35084",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-26T23:05:46.883Z",
+        "amount": 5.163333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35082",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-29T23:05:46.884Z",
+        "amount": 15.49,
+        "status": "DONE"
+      },
+      {
+        "id": "35083",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-12T23:05:46.883Z",
+        "amount": 5.163333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35085",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-12T23:05:46.883Z",
+        "amount": 5.163333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

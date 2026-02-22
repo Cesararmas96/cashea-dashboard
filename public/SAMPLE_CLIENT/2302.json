@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T00:36:17.037Z",
+  "id": "1665",
+  "amount": 71.87,
+  "invoiceId": "14344",
+  "paidToMerchant": false,
+  "identifierNumber": 2302,
+  "billingDate": "2022-12-16T00:36:17.037Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18271809",
+      "fullName": "YLHAY LEONEL GONZALEZ MARTINEZ",
+      "phoneNumber": "+584143962119"
+    },
+    "installments": [
+      {
+        "id": "5353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T00:37:10.240Z",
+        "amount": 11.976666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T00:37:10.240Z",
+        "amount": 11.976666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T00:37:10.240Z",
+        "amount": 11.976666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T00:37:10.240Z",
+        "amount": 35.94,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

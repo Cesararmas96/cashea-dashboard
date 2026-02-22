@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:50:46.179Z",
+  "id": "3738",
+  "amount": 164.98,
+  "invoiceId": "48316",
+  "paidToMerchant": false,
+  "identifierNumber": 4152,
+  "billingDate": "2022-12-22T23:50:46.179Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31176459",
+      "fullName": "LUIGER DAVID UGAS LOPEZ",
+      "phoneNumber": "+584123637094"
+    },
+    "installments": [
+      {
+        "id": "12546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:51:12.700Z",
+        "amount": 82.49,
+        "status": "DONE"
+      },
+      {
+        "id": "12549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:51:12.700Z",
+        "amount": 27.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:51:12.700Z",
+        "amount": 27.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:51:12.700Z",
+        "amount": 27.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

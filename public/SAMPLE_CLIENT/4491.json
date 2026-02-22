@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:09:56.831Z",
+  "id": "4077",
+  "amount": 41.08,
+  "invoiceId": "1021",
+  "paidToMerchant": false,
+  "identifierNumber": 4491,
+  "billingDate": "2022-12-23T20:09:56.831Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18587241",
+      "fullName": "MARIA LILIANA VILLAMIZAR CASTRO",
+      "phoneNumber": "+584247166929"
+    },
+    "installments": [
+      {
+        "id": "13766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:10:06.392Z",
+        "amount": 20.54,
+        "status": "DONE"
+      },
+      {
+        "id": "13768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:10:06.392Z",
+        "amount": 6.846666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:10:06.392Z",
+        "amount": 6.846666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:10:06.392Z",
+        "amount": 6.846666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

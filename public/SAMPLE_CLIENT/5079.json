@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:41:00.742Z",
+  "id": "4825",
+  "amount": 142.33,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5079,
+  "billingDate": "2022-12-24T19:41:00.742Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16095518",
+      "fullName": "LEONEL ANTONIO FASANARO GUILLEN",
+      "phoneNumber": "+584242339970"
+    },
+    "installments": [
+      {
+        "id": "16525",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:41:23.102Z",
+        "amount": 23.720000000000002,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16523",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:41:23.102Z",
+        "amount": 23.720000000000002,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16524",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:41:23.102Z",
+        "amount": 23.720000000000002,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16522",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:41:23.102Z",
+        "amount": 71.17,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

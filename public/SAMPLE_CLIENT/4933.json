@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:13:55.849Z",
+  "id": "4589",
+  "amount": 45.68,
+  "invoiceId": "9103",
+  "paidToMerchant": false,
+  "identifierNumber": 4933,
+  "billingDate": "2022-12-24T16:13:55.849Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12258709",
+      "fullName": "IVANNA GIOCONDA DE LA BEIRUTTI RUIZ",
+      "phoneNumber": "+584242400035"
+    },
+    "installments": [
+      {
+        "id": "15656",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:17:13.275Z",
+        "amount": 7.613333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15654",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:17:13.276Z",
+        "amount": 22.84,
+        "status": "DONE"
+      },
+      {
+        "id": "15657",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:17:13.275Z",
+        "amount": 7.613333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15655",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:17:13.275Z",
+        "amount": 7.613333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:03:49.173Z",
+  "id": "3198",
+  "amount": 39.99,
+  "invoiceId": "00001761",
+  "paidToMerchant": false,
+  "identifierNumber": 3623,
+  "billingDate": "2022-12-21T21:03:49.173Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26454547",
+      "fullName": "JOELYS MARINA BRACHO VALLADARES",
+      "phoneNumber": "+584143663203"
+    },
+    "installments": [
+      {
+        "id": "10613",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:04:13.225Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10610",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:04:13.226Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "10612",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:04:13.225Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10611",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:04:13.225Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

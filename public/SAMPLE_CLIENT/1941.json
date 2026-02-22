@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T20:14:35.755Z",
+  "id": "1322",
+  "amount": 118.71,
+  "invoiceId": "8096",
+  "paidToMerchant": false,
+  "identifierNumber": 1941,
+  "billingDate": "2022-12-12T20:14:35.755Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23198468",
+      "fullName": "ORLENYS DEL CARMEN ROBLES",
+      "phoneNumber": "+584242923989"
+    },
+    "installments": [
+      {
+        "id": "4258",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T20:15:57.468Z",
+        "amount": 59.35,
+        "status": "DONE"
+      },
+      {
+        "id": "4261",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T20:15:57.468Z",
+        "amount": 19.786666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "4260",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T20:15:57.468Z",
+        "amount": 19.786666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "4259",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T20:15:57.468Z",
+        "amount": 19.786666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

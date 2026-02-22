@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1427,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J502732888",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "internalBankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "account": "01910098712198442269",
+    "accountType": "Corriente",
+    "phoneNumber": "4145471301",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1425,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502732888",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "internalBankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "account": "01910098712198442269",
+    "accountType": "Corriente",
+    "phoneNumber": "4145471301",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1426,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502732888",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "internalBankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "account": "01910098712198442269",
+    "accountType": "Corriente",
+    "phoneNumber": "4145471301",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1428,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502732888",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "internalBankHolder": "CORPORACIÓN TERRA VIAJES, C.A.",
+    "account": "01910098722398360995",
+    "accountType": "Custodia",
+    "phoneNumber": "4145471301",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

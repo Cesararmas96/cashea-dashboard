@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:49:44.568Z",
+  "id": "4833",
+  "amount": 37.36,
+  "invoiceId": "00018575",
+  "paidToMerchant": false,
+  "identifierNumber": 5075,
+  "billingDate": "2022-12-24T19:49:44.568Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28027313",
+      "fullName": "GERAYLIS SALOMME TORO COLINA",
+      "phoneNumber": "+584141211659"
+    },
+    "installments": [
+      {
+        "id": "16556",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:50:32.930Z",
+        "amount": 6.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16554",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:50:32.931Z",
+        "amount": 18.68,
+        "status": "DONE"
+      },
+      {
+        "id": "16557",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:50:32.930Z",
+        "amount": 6.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16555",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:50:32.930Z",
+        "amount": 6.226666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

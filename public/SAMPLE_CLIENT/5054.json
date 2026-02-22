@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:08:09.569Z",
+  "id": "4791",
+  "amount": 30,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5054,
+  "billingDate": "2022-12-24T19:08:09.569Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28410679",
+      "fullName": "BARBARA VALENTINA HERNANDEZ FERNANDEZ",
+      "phoneNumber": "+584241592255"
+    },
+    "installments": [
+      {
+        "id": "16407",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:08:30.213Z",
+        "amount": 5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16406",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:08:30.214Z",
+        "amount": 15,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16408",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:08:30.213Z",
+        "amount": 5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16409",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:08:30.213Z",
+        "amount": 5,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

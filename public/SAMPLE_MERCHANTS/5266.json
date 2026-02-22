@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-04-16T14:04:54.669Z",
+  "updatedAt": "2025-04-21T17:27:55.542Z",
+  "id": 5266,
+  "name": "BOGGI",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b1047e1a-6163-4c8b-8fec-12fde777cc7e",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "aliamernvo@gmail.com",
+    "legalName": "ALI",
+    "phoneNumber": "4242152935"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-21T19:42:44.509Z",
+      "updatedAt": "2025-07-21T19:42:44.509Z",
+      "id": 17795,
+      "merchantId": 5266,
+      "name": "BOGGI Av Abraham Lincoln",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4264,
+      "address": {
+        "name": "Av. Abraham Lincoln Edif Parcela 191 y 193 piso pb local sn urb Sabana Grande.",
+        "long": -66.87625000000001,
+        "lat": 10.493750000000006,
+        "location": "0101000020E6100000AF47E17A14B850C0D0CCCCCCCCFC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-16T14:05:51.665Z",
+      "updatedAt": "2025-04-16T14:05:51.665Z",
+      "id": 13048,
+      "merchantId": 5266,
+      "name": "BOGGI CC Milenium",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4264,
+      "address": {
+        "name": "Av. Abraham Lincoln, C.C. Milenium, Nivel B, Local 8, Parroquia El Recreo, Municipio Libertador, Caracas, Distrito Capital",
+        "long": -66.8718125,
+        "lat": 10.491687500000012,
+        "location": "0101000020E61000009EEFA7C6CBB750C040B4C876BEFB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T16:22:36.800Z",
+      "updatedAt": "2025-04-29T16:22:36.800Z",
+      "id": 13433,
+      "merchantId": 5266,
+      "name": "VR_BOGGI",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4264,
+      "address": {
+        "name": "Av. Abraham Lincoln, C.C. Milenium, Nivel B, Local 8, Parroquia El Recreo, Municipio Libertador, Caracas, Distrito Capital",
+        "long": -66.8718125,
+        "lat": 10.491687500000012,
+        "location": "0101000020E61000009EEFA7C6CBB750C040B4C876BEFB2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

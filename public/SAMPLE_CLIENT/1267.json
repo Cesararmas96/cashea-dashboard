@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-08T22:23:49.396Z",
+  "id": "93",
+  "amount": 71,
+  "invoiceId": "6076",
+  "paidToMerchant": false,
+  "identifierNumber": 1267,
+  "billingDate": "2022-10-08T22:23:49.396Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12261323",
+      "fullName": "ROBERTO ANTONIO BORROME",
+      "phoneNumber": "+584143037747"
+    },
+    "installments": [
+      {
+        "id": "293",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-08T22:28:57.457Z",
+        "amount": 35.5,
+        "status": "DONE"
+      },
+      {
+        "id": "295",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-05T22:28:57.456Z",
+        "amount": 11.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "294",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-22T22:28:57.456Z",
+        "amount": 11.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "296",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-19T22:28:57.456Z",
+        "amount": 11.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

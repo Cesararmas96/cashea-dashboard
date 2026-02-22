@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-05-06T15:02:17.971Z",
+  "updatedAt": "2025-05-06T19:09:58.441Z",
+  "id": 5561,
+  "name": "CosmoFarma 24 Miranda",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a10cfa71-20cb-48be-9ce7-65ae3f327569",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cosmofarmamiranda24@gmail.com",
+    "legalName": "Eliana",
+    "phoneNumber": "4147726229"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T15:11:27.592Z",
+      "updatedAt": "2025-05-06T15:11:27.592Z",
+      "id": 13643,
+      "merchantId": 5561,
+      "name": "CosmoFarma 24 Miranda Av Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4500,
+      "address": {
+        "name": "AV MIRANDA LOCAL 105 SECTOR CENTRO",
+        "long": -63.175000000000004,
+        "lat": 9.725000000000001,
+        "location": "0101000020E61000006766666666964FC03433333333732340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-22T20:54:53.829Z",
+      "updatedAt": "2025-05-22T20:54:53.829Z",
+      "id": 14564,
+      "merchantId": 5561,
+      "name": "VR_CosmoFarma 24 Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4500,
+      "address": {
+        "name": "AV BOLIVAR LOCAL 103 SECTOR CENTRO",
+        "long": -63.175000000000004,
+        "lat": 9.725000000000001,
+        "location": "0101000020E61000006766666666964FC03433333333732340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T15:04:11.127Z",
+      "updatedAt": "2025-05-06T15:04:11.127Z",
+      "id": 13639,
+      "merchantId": 5561,
+      "name": "CosmoFarma 24 Miranda Av Bolivar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4500,
+      "address": {
+        "name": "AV BOLIVAR LOCAL 103 SECTOR CENTRO",
+        "long": -63.175000000000004,
+        "lat": 9.725000000000001,
+        "location": "0101000020E61000006766666666964FC03433333333732340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

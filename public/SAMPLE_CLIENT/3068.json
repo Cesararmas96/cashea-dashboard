@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T21:43:35.583Z",
+  "id": "2584",
+  "amount": 63.84,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3068,
+  "billingDate": "2022-12-19T21:43:35.583Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

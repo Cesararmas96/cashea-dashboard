@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:52:56.528Z",
+  "id": "4285",
+  "amount": 54.76,
+  "invoiceId": "00002123",
+  "paidToMerchant": false,
+  "identifierNumber": 4670,
+  "billingDate": "2022-12-23T22:52:56.528Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13717058",
+      "fullName": "ERICK JOSEPH CORREA FLORES",
+      "phoneNumber": "+584128064176"
+    },
+    "installments": [
+      {
+        "id": "14530",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:53:49.358Z",
+        "amount": 27.38,
+        "status": "DONE"
+      },
+      {
+        "id": "14531",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:53:49.358Z",
+        "amount": 9.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14533",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:53:49.358Z",
+        "amount": 9.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14532",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:53:49.358Z",
+        "amount": 9.126666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

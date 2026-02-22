@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:47:20.151Z",
+  "id": "4620",
+  "amount": 37.33,
+  "invoiceId": "18541",
+  "paidToMerchant": false,
+  "identifierNumber": 5004,
+  "billingDate": "2022-12-24T16:47:20.151Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16203167",
+      "fullName": "ANA DILIA MORALES CANCINES",
+      "phoneNumber": "+584129223722"
+    },
+    "installments": [
+      {
+        "id": "15766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:47:53.872Z",
+        "amount": 18.66,
+        "status": "DONE"
+      },
+      {
+        "id": "15769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:47:53.872Z",
+        "amount": 6.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:47:53.872Z",
+        "amount": 6.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:47:53.872Z",
+        "amount": 6.223333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

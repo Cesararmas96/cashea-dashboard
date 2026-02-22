@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:32:33.179Z",
+  "id": "4342",
+  "amount": 51.41,
+  "invoiceId": "44934",
+  "paidToMerchant": false,
+  "identifierNumber": 4718,
+  "billingDate": "2022-12-23T23:32:33.179Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13845569",
+      "fullName": "RUBEN JOSE MUJICA SABINO",
+      "phoneNumber": "+584126245365"
+    },
+    "installments": [
+      {
+        "id": "14740",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:32:53.168Z",
+        "amount": 8.569999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14738",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:32:53.169Z",
+        "amount": 25.7,
+        "status": "DONE"
+      },
+      {
+        "id": "14741",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:32:53.168Z",
+        "amount": 8.569999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14739",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:32:53.168Z",
+        "amount": 8.569999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

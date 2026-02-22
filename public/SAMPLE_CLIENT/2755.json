@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-18T19:21:25.472Z",
+  "id": "2233",
+  "amount": 80.6,
+  "invoiceId": "17869",
+  "paidToMerchant": false,
+  "identifierNumber": 2755,
+  "billingDate": "2022-12-18T19:21:25.472Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-02-01T04:00:01.077+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "7309",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13424020",
+      "fullName": "CLAUDIA PATRICIA MURCIA VARGAS",
+      "phoneNumber": "+584122029478"
+    },
+    "installments": [
+      {
+        "id": "7309",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T19:22:45.544Z",
+        "amount": 13.433333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "7306",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T19:22:45.545Z",
+        "amount": 40.3,
+        "status": "DONE"
+      },
+      {
+        "id": "7308",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T19:22:45.544Z",
+        "amount": 13.433333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "7307",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T19:22:45.544Z",
+        "amount": 13.433333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

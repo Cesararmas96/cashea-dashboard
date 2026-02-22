@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-07T20:04:51.483Z",
+  "id": "861",
+  "amount": 40,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1543,
+  "billingDate": "2022-12-07T20:04:51.483Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

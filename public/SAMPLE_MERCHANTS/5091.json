@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-07T14:56:56.888Z",
+  "updatedAt": "2025-04-15T14:49:35.656Z",
+  "id": 5091,
+  "name": "CENTRO QUIRURGICO SAN JOSE",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "142001b8-ae11-4c6d-93d7-bc18c01c9cf4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "centroquirurgicosj@gmail.com",
+    "legalName": "SEBASTIAN",
+    "phoneNumber": "4243145146"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T14:57:57.768Z",
+      "updatedAt": "2025-04-07T14:57:57.768Z",
+      "id": 12665,
+      "merchantId": 5091,
+      "name": "CENTRO QUIRURGICO SAN JOSE ARAGUA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4125,
+      "address": {
+        "name": "AV 1ERA CRUCE CON CALLE ATAMAICA CC FARMACA NIVEL PB LOCAL 07",
+        "long": -67.5846875,
+        "lat": 10.242062500000003,
+        "location": "0101000020E610000052B81E856BE550C0102DB29DEF7B2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-05T13:48:27.649Z",
+      "updatedAt": "2025-06-05T13:48:27.649Z",
+      "id": 15233,
+      "merchantId": 5091,
+      "name": "VR_CENTRO QUIRURGICO SAN JOSE",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4125,
+      "address": {
+        "name": "AV 1ERA CRUCE CON CALLE ATAMAICA CC FARMACA NIVEL PB LOCAL 07",
+        "long": -67.5846875,
+        "lat": 10.242062500000003,
+        "location": "0101000020E610000052B81E856BE550C0102DB29DEF7B2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

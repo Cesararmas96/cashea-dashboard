@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-15T19:02:55.161Z",
+  "id": "1554",
+  "amount": 256,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1021,
+  "billingDate": "2022-12-15T19:02:55.161Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19085073",
+      "fullName": "DANIEL ENRIQUE TINEO HERNANDEZ",
+      "phoneNumber": "+584122317195"
+    },
+    "installments": [
+      {
+        "id": "5025",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T19:02:55.241Z",
+        "amount": 42.666666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "5024",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T19:02:55.241Z",
+        "amount": 42.666666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "5023",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T19:02:55.241Z",
+        "amount": 42.666666666666664,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "5022",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T19:02:55.242Z",
+        "amount": 128,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 2,
+      "productId": 49,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

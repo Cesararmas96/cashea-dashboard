@@ -1,0 +1,189 @@
+{
+  "createdAt": "2025-04-14T12:45:16.175Z",
+  "updatedAt": "2025-09-16T17:25:44.052Z",
+  "id": 5202,
+  "name": "FRENOS AQUI",
+  "ecommerceUrl": null,
+  "changePolicy": "Política de Cambios y Devoluciones\nCondiciones para el Cambio o Devolución\n•\tEl producto debe estar en buen estado, sin daños visibles, con la caja original en condiciones óptimas, y libre de manchas, contaminación, agua, residuos o sustancias derivadas del petróleo.\n•\tPara productos hidráulicos (cilindros, bombas, hidrovac), no debe estar lleno de liga usada; solo puede estar lleno de liga completamente nueva.\n•\tLa solicitud debe realizarse dentro de los 14 días naturales posteriores a la fecha de compra.\nProceso para solicitar un cambio o devolución\n1.\tContactar a nuestro personal de ventas vía telefónica, email o en tienda, indicando claramente los motivos o circunstancias de la solicitud.\n2.\tSe realizará una revisión inicial del producto y, en el caso de partes hidráulicas, se verificará si presenta desperfecto de fábrica mediante pruebas técnicas.\n3.\tUna vez aprobado, se informará al cliente los pasos a seguir para la devolución o cambio, que puede incluir la entrega del producto en nuestras instalaciones o una inspección adicional.\n4.\tLa devolución o cambio será procesado y entregado según disponibilidad y estado del producto.\nCasos en los que el cliente puede optar\n•\tCambio:\no\tEl producto no era compatible con el vehículo solicitado originalmente.\no\tEl producto presenta un desperfecto de fábrica comprobado.\n•\tDevolución:\no\tEl producto no es compatible con el vehículo solicitado y no hay opción de cambio.\nCondiciones especiales\n•\tProductos en oferta o promoción: generalmente, estas ventas no admiten cambios o devoluciones, salvo que tengan un defecto de fábrica confirmado.\n",
+  "email": "frenosaqui@gmail.com",
+  "phoneNumber": "+584241218085",
+  "logoUrl": null,
+  "data": {
+    "rif": "J411068144"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2c42d9be-30e7-44e9-ba8c-ce560a3c1fdf",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "c_guillermo182@hotmail.com",
+    "legalName": "GUILLERMO",
+    "phoneNumber": "04141320507"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-21T14:41:18.487Z",
+      "updatedAt": "2025-09-12T12:54:33.489Z",
+      "id": 14453,
+      "merchantId": 5202,
+      "name": "FRENOS AQUI Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3820,
+      "address": {
+        "name": "frenosaqui@gmail.com",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T12:46:24.247Z",
+      "updatedAt": "2025-04-14T12:46:24.247Z",
+      "id": 12912,
+      "merchantId": 5202,
+      "name": "FRENOS AQUI Quinta Crespo CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3820,
+      "address": {
+        "name": "av sur 4 de quinta crespo, esq de pilitas a mamey, edif don agustin, pb caracas",
+        "long": -66.9180625,
+        "lat": 10.497437500000004,
+        "location": "0101000020E6100000C74B3789C1BA50C0A89BC420B0FE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-30T22:11:35.736Z",
+      "updatedAt": "2025-06-30T22:11:35.736Z",
+      "id": 16590,
+      "merchantId": 5202,
+      "name": "VR_Frenos Aqui, Av. sur 4 de Quinta Crespo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3820,
+      "address": {
+        "name": "av sur 4 de quinta crespo, esq de pilitas a mamey, edif don agustin, pb caracas",
+        "long": -66.9180625,
+        "lat": 10.497437500000004,
+        "location": "0101000020E6100000C74B3789C1BA50C0A89BC420B0FE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 5,
+      "name": "SPLIT_12",
+      "data": {
+        "minimumLevel": 6,
+        "installmentsAmount": 13,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 12 cuotas"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-09T00:53:09.375Z",
+  "id": "963",
+  "amount": 180,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1642,
+  "billingDate": "2022-12-09T00:53:09.375Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

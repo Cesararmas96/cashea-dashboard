@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T21:59:14.959Z",
+  "id": "627",
+  "amount": 101.98,
+  "invoiceId": "4977",
+  "paidToMerchant": false,
+  "identifierNumber": 1351,
+  "billingDate": "2022-12-03T21:59:14.959Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13716044",
+      "fullName": "ERWUIN TOMAS ESCOBAR ROJAS",
+      "phoneNumber": "+584142753967"
+    },
+    "installments": [
+      {
+        "id": "1998",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T22:00:26.431Z",
+        "amount": 50.99,
+        "status": "DONE"
+      },
+      {
+        "id": "2000",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T22:00:26.431Z",
+        "amount": 16.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1999",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T22:00:26.431Z",
+        "amount": 16.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2001",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T22:00:26.431Z",
+        "amount": 16.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

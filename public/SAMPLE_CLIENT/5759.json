@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:57:36.829Z",
+  "id": "5444",
+  "amount": 55.63,
+  "invoiceId": "14561",
+  "paidToMerchant": false,
+  "identifierNumber": 5759,
+  "billingDate": "2022-12-28T17:57:36.829Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6454032",
+      "fullName": "MARINA ANTONIA ALVAREZ GUEVARA",
+      "phoneNumber": "+584142048643"
+    },
+    "installments": [
+      {
+        "id": "18706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:58:07.684Z",
+        "amount": 27.82,
+        "status": "DONE"
+      },
+      {
+        "id": "18709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:58:07.683Z",
+        "amount": 9.270000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:58:07.683Z",
+        "amount": 9.270000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:58:07.683Z",
+        "amount": 9.270000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

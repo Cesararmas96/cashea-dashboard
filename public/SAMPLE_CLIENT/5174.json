@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:26:15.136Z",
+  "id": "4919",
+  "amount": 79.21,
+  "invoiceId": "24835",
+  "paidToMerchant": false,
+  "identifierNumber": 5174,
+  "billingDate": "2022-12-24T21:26:15.136Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22670194",
+      "fullName": "ABRAHAM JESUS VILLEGAS SARABIA",
+      "phoneNumber": "+584123788204"
+    },
+    "installments": [
+      {
+        "id": "16850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:26:25.796Z",
+        "amount": 39.6,
+        "status": "DONE"
+      },
+      {
+        "id": "16853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:26:25.796Z",
+        "amount": 13.203333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "16852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:26:25.796Z",
+        "amount": 13.203333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "16851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:26:25.796Z",
+        "amount": 13.203333333333331,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

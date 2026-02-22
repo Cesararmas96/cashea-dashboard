@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:28:59.498Z",
+  "id": "4601",
+  "amount": 37.49,
+  "invoiceId": "14722",
+  "paidToMerchant": false,
+  "identifierNumber": 5635,
+  "billingDate": "2022-12-24T16:28:59.498Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19274470",
+      "fullName": "DANIEL JESUS CACUA IDLER",
+      "phoneNumber": "+584127346013"
+    },
+    "installments": [
+      {
+        "id": "15694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:29:23.814Z",
+        "amount": 18.75,
+        "status": "DONE"
+      },
+      {
+        "id": "15695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:29:23.814Z",
+        "amount": 6.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:29:23.814Z",
+        "amount": 6.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:29:23.814Z",
+        "amount": 6.246666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

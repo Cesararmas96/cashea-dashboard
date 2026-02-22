@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-10-24T18:51:57.115Z",
+  "id": "183",
+  "amount": 110,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1257,
+  "billingDate": "2022-10-24T18:51:57.115Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 5,
+    "name": "Doctor Lente Los Palos Grandes"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

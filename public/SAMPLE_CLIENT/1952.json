@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T18:55:47.045Z",
+  "id": "1355",
+  "amount": 87.38,
+  "invoiceId": "1366",
+  "paidToMerchant": false,
+  "identifierNumber": 1952,
+  "billingDate": "2022-12-13T18:55:47.045Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16954983",
+      "fullName": "GERNAY RAMON CRESPO",
+      "phoneNumber": "+584142316091"
+    },
+    "installments": [
+      {
+        "id": "4375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T18:57:48.948Z",
+        "amount": 14.563333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T18:57:48.948Z",
+        "amount": 14.563333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T18:57:48.948Z",
+        "amount": 14.563333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T18:57:48.949Z",
+        "amount": 43.69,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

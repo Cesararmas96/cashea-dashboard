@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T20:57:16.685Z",
+  "id": "4888",
+  "amount": 40.48,
+  "invoiceId": "50564",
+  "paidToMerchant": false,
+  "identifierNumber": 5114,
+  "billingDate": "2022-12-24T20:57:16.685Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-10T04:00:01.081+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "16751",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25771742",
+      "fullName": "KAREN YOSMAR DUARTE MORILLO",
+      "phoneNumber": "+584141969619"
+    },
+    "installments": [
+      {
+        "id": "16752",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:57:39.542Z",
+        "amount": 6.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16753",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:57:39.542Z",
+        "amount": 6.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16750",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:57:39.543Z",
+        "amount": 20.24,
+        "status": "DONE"
+      },
+      {
+        "id": "16751",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:57:39.542Z",
+        "amount": 6.746666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

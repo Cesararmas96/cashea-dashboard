@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T23:31:16.946Z",
+  "id": "1290",
+  "amount": 77.36,
+  "invoiceId": "5767",
+  "paidToMerchant": false,
+  "identifierNumber": 1760,
+  "billingDate": "2022-12-11T23:31:16.946Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-11T06:00:00.519+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "4152",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25633596",
+      "fullName": "ROSSANA DEL VALLE VALERO USECHE",
+      "phoneNumber": "+584127836732"
+    },
+    "installments": [
+      {
+        "id": "4150",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:31:35.821Z",
+        "amount": 38.68,
+        "status": "DONE"
+      },
+      {
+        "id": "4151",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:31:35.820Z",
+        "amount": 12.893333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4153",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:31:35.820Z",
+        "amount": 12.893333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4152",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:31:35.820Z",
+        "amount": 12.893333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

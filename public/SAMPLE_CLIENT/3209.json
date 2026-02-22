@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:33:32.319Z",
+  "id": "2744",
+  "amount": 38.63,
+  "invoiceId": "18035",
+  "paidToMerchant": false,
+  "identifierNumber": 3209,
+  "billingDate": "2022-12-20T17:33:32.319Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26303580",
+      "fullName": "KEILY YENNIFER ORDONEZ BLANCO",
+      "phoneNumber": "+584125553055"
+    },
+    "installments": [
+      {
+        "id": "9045",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:34:03.762Z",
+        "amount": 6.436666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9042",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:34:03.763Z",
+        "amount": 19.32,
+        "status": "DONE"
+      },
+      {
+        "id": "9044",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:34:03.762Z",
+        "amount": 6.436666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9043",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:34:03.762Z",
+        "amount": 6.436666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

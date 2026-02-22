@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-08T20:46:34.959Z",
+  "id": "929",
+  "amount": 45,
+  "invoiceId": "40001528",
+  "paidToMerchant": false,
+  "identifierNumber": 1610,
+  "billingDate": "2022-12-08T20:46:34.959Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24041053",
+      "fullName": "LUIS ENRIQUE HERNANDO FIGUEROA",
+      "phoneNumber": "+584242689994"
+    },
+    "installments": [
+      {
+        "id": "2954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-08T20:47:07.563Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-22T20:47:07.563Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-19T20:47:07.563Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-05T20:47:07.563Z",
+        "amount": 7.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

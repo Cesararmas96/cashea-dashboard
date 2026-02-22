@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:37:58.375Z",
+  "id": "4266",
+  "amount": 123.99,
+  "invoiceId": "00015272",
+  "paidToMerchant": false,
+  "identifierNumber": 4674,
+  "billingDate": "2022-12-23T22:37:58.375Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23567134",
+      "fullName": "RICARDO DAVID BARBAR COELHO",
+      "phoneNumber": "+584122520756"
+    },
+    "installments": [
+      {
+        "id": "14466",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:39:04.827Z",
+        "amount": 61.99,
+        "status": "DONE"
+      },
+      {
+        "id": "14469",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:39:04.827Z",
+        "amount": 20.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "14468",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:39:04.827Z",
+        "amount": 20.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "14467",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:39:04.827Z",
+        "amount": 20.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

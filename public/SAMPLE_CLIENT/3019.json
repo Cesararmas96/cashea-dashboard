@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T19:47:12.983Z",
+  "id": "2535",
+  "amount": 87.53,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3019,
+  "billingDate": "2022-12-19T19:47:12.983Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

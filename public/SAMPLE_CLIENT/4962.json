@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T16:29:00.289Z",
+  "id": "11484",
+  "amount": 40.85,
+  "invoiceId": "20994",
+  "paidToMerchant": false,
+  "identifierNumber": 4962,
+  "billingDate": "2023-01-30T16:29:00.289Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21117345",
+      "fullName": "YEFFERSON ESTIVENSON ROJAS",
+      "phoneNumber": "+584129268821"
+    },
+    "installments": [
+      {
+        "id": "35182",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T16:30:03.637Z",
+        "amount": 20.43,
+        "status": "DONE"
+      },
+      {
+        "id": "35184",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T16:30:03.636Z",
+        "amount": 6.8066666666666675,
+        "status": "DONE"
+      },
+      {
+        "id": "35183",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T16:30:03.636Z",
+        "amount": 6.8066666666666675,
+        "status": "DONE"
+      },
+      {
+        "id": "35185",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T16:30:03.636Z",
+        "amount": 6.8066666666666675,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

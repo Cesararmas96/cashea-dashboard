@@ -1,0 +1,74 @@
+[
+  {
+    "id": 661,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J307533625",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO B.L. C.A.",
+    "internalBankHolder": "GRUPO B.L. C.A.",
+    "account": "01910082142182065779",
+    "accountType": "Corriente",
+    "phoneNumber": "4243487942",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 659,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J307533625",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO B.L. C.A.",
+    "internalBankHolder": "GRUPO B.L. C.A.",
+    "account": "01910082142182065779",
+    "accountType": "Corriente",
+    "phoneNumber": "4243487942",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 660,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J307533625",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO B.L. C.A.",
+    "internalBankHolder": "GRUPO B.L. C.A.",
+    "account": "01910082142182065779",
+    "accountType": "Corriente",
+    "phoneNumber": "4243487942",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 662,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J307533625",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO B.L. C.A.",
+    "internalBankHolder": "GRUPO B.L. C.A.",
+    "account": "01910082182382017464",
+    "accountType": "Custodia",
+    "phoneNumber": "4243487942",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

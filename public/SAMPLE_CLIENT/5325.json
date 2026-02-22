@@ -1,0 +1,73 @@
+{
+  "createdAt": "2023-02-05T17:53:12.688Z",
+  "id": "12408",
+  "amount": 111.94,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5325,
+  "billingDate": "2023-02-05T17:53:12.688Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": null,
+    "buyDebtDate": "2023-02-22T04:00:00.404+00:00",
+    "lastStoreId": 114,
+    "boughtForInstallmentId": "38487",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25771701",
+      "fullName": "ROMMEL UBENCIO CISNEROS GONZALEZ",
+      "phoneNumber": "+584140181628"
+    },
+    "installments": [
+      {
+        "id": "38489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-19T17:53:12.727Z",
+        "amount": 22.386666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "38488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-05T17:53:12.727Z",
+        "amount": 22.386666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "38487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-19T17:53:12.727Z",
+        "amount": 22.386666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "38486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-05T17:53:12.727Z",
+        "amount": 44.78,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2772,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

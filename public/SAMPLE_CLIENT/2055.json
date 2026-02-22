@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-14T18:56:44.080Z",
+  "id": "1433",
+  "amount": 444,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2055,
+  "billingDate": "2022-12-14T18:56:44.080Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 30,
+    "name": "Korotos Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

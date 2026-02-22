@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T00:09:28.435Z",
+  "id": "5697",
+  "amount": 399,
+  "invoiceId": "3491",
+  "paidToMerchant": false,
+  "identifierNumber": 5999,
+  "billingDate": "2022-12-29T00:09:28.435Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-02-11T04:00:01.097+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "19617",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17312845",
+      "fullName": "LORENA LISBETH ADAMES MONSALVE",
+      "phoneNumber": "+584169051684"
+    },
+    "installments": [
+      {
+        "id": "19614",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T00:09:58.776Z",
+        "amount": 349,
+        "status": "DONE"
+      },
+      {
+        "id": "19617",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T00:09:58.775Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19616",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T00:09:58.775Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19615",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T00:09:58.775Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

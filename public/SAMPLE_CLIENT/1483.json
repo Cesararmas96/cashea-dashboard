@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T17:49:06.590Z",
+  "id": "728",
+  "amount": 74,
+  "invoiceId": "00000417",
+  "paidToMerchant": false,
+  "identifierNumber": 1483,
+  "billingDate": "2022-12-05T17:49:06.590Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19255653",
+      "fullName": "SINDY JOHANA RAMIREZ BAPTISTA",
+      "phoneNumber": "+584149150507"
+    },
+    "installments": [
+      {
+        "id": "2362",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T17:50:26.411Z",
+        "amount": 37,
+        "status": "DONE"
+      },
+      {
+        "id": "2365",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T17:50:26.410Z",
+        "amount": 12.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2364",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T17:50:26.410Z",
+        "amount": 12.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2363",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T17:50:26.410Z",
+        "amount": 12.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 14,
+    "name": "Pintacasa Boleita Sur"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T17:57:06.759Z",
+  "id": "5828",
+  "amount": 145.11,
+  "invoiceId": "14695",
+  "paidToMerchant": false,
+  "identifierNumber": 1095,
+  "billingDate": "2022-12-29T17:57:06.759Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-15T04:00:00.882+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "20095",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6965643",
+      "fullName": "MARIA LETICIA GUARINO MARTINEZ",
+      "phoneNumber": "+584242674089"
+    },
+    "installments": [
+      {
+        "id": "20097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:58:25.947Z",
+        "amount": 24.183333333333337,
+        "status": "DONE"
+      },
+      {
+        "id": "20096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:58:25.947Z",
+        "amount": 24.183333333333337,
+        "status": "DONE"
+      },
+      {
+        "id": "20095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:58:25.947Z",
+        "amount": 24.183333333333337,
+        "status": "DONE"
+      },
+      {
+        "id": "20094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:58:25.947Z",
+        "amount": 72.56,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

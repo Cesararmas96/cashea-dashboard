@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:21:37.815Z",
+  "id": "2638",
+  "amount": 44.9,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3123,
+  "billingDate": "2022-12-19T23:21:37.815Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11871971",
+      "fullName": "ROSALINDA TORRES",
+      "phoneNumber": "+584246611558"
+    },
+    "installments": [
+      {
+        "id": "8658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:24:39.222Z",
+        "amount": 22.45,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:24:39.222Z",
+        "amount": 7.483333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:24:39.222Z",
+        "amount": 7.483333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:24:39.222Z",
+        "amount": 7.483333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

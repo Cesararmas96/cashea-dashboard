@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:39:35.755Z",
+  "id": "3349",
+  "amount": 61.57,
+  "invoiceId": "8877",
+  "paidToMerchant": false,
+  "identifierNumber": 3773,
+  "billingDate": "2022-12-22T00:39:35.755Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24625076",
+      "fullName": "GENESIS CELESTE CARIPE AGUILERA",
+      "phoneNumber": "+584122133725"
+    },
+    "installments": [
+      {
+        "id": "11158",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:42:14.883Z",
+        "amount": 30.79,
+        "status": "DONE"
+      },
+      {
+        "id": "11159",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:42:14.883Z",
+        "amount": 10.26,
+        "status": "DONE"
+      },
+      {
+        "id": "11161",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:42:14.883Z",
+        "amount": 10.26,
+        "status": "DONE"
+      },
+      {
+        "id": "11160",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:42:14.883Z",
+        "amount": 10.26,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

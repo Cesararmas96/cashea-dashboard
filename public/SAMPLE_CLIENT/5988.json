@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:58:23.647Z",
+  "id": "5690",
+  "amount": 84.48,
+  "invoiceId": "38899",
+  "paidToMerchant": false,
+  "identifierNumber": 5988,
+  "billingDate": "2022-12-28T23:58:23.647Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14286791",
+      "fullName": "DENICCE JOSEFINA RICO DE HERNANDEZ",
+      "phoneNumber": "+584241951292"
+    },
+    "installments": [
+      {
+        "id": "19593",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:58:46.370Z",
+        "amount": 14.08,
+        "status": "DONE"
+      },
+      {
+        "id": "19590",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:58:46.370Z",
+        "amount": 42.24,
+        "status": "DONE"
+      },
+      {
+        "id": "19592",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:58:46.370Z",
+        "amount": 14.08,
+        "status": "DONE"
+      },
+      {
+        "id": "19591",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:58:46.370Z",
+        "amount": 14.08,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

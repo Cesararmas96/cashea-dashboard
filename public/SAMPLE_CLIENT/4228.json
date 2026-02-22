@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T19:54:04.675Z",
+  "id": "11614",
+  "amount": 49.85,
+  "invoiceId": "17768",
+  "paidToMerchant": false,
+  "identifierNumber": 4228,
+  "billingDate": "2023-01-31T19:54:04.675Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21615508",
+      "fullName": "SALOMON ENRIQUE ACKERMAN GUTIERREZ",
+      "phoneNumber": "+584122896951"
+    },
+    "installments": [
+      {
+        "id": "35657",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T19:57:02.303Z",
+        "amount": 8.306666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "35656",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T19:57:02.303Z",
+        "amount": 8.306666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "35654",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T19:57:02.304Z",
+        "amount": 24.93,
+        "status": "DONE"
+      },
+      {
+        "id": "35655",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T19:57:02.303Z",
+        "amount": 8.306666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

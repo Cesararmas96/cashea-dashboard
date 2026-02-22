@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T20:48:17.202Z",
+  "id": "1097",
+  "amount": 89.8,
+  "invoiceId": "10918",
+  "paidToMerchant": false,
+  "identifierNumber": 1745,
+  "billingDate": "2022-12-10T20:48:17.202Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15405273",
+      "fullName": "JOANS HILGER YEPEZ POLO",
+      "phoneNumber": "+584141532227"
+    },
+    "installments": [
+      {
+        "id": "3493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T20:54:11.019Z",
+        "amount": 14.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T20:54:11.019Z",
+        "amount": 14.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T20:54:11.019Z",
+        "amount": 14.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T20:54:11.019Z",
+        "amount": 44.9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

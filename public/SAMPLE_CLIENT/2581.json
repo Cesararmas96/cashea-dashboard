@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:53:04.652Z",
+  "id": "2091",
+  "amount": 79.83,
+  "invoiceId": "743",
+  "paidToMerchant": false,
+  "identifierNumber": 2581,
+  "billingDate": "2022-12-17T22:53:04.652Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17328479",
+      "fullName": "MILTON EDUARDO SARDI TANCREDI",
+      "phoneNumber": "+584242343747"
+    },
+    "installments": [
+      {
+        "id": "6801",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:55:43.356Z",
+        "amount": 13.306666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6799",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:55:43.356Z",
+        "amount": 13.306666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6800",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:55:43.356Z",
+        "amount": 13.306666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6798",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:55:43.356Z",
+        "amount": 39.91,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

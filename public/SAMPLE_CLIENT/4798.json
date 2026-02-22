@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:12:50.956Z",
+  "id": "4455",
+  "amount": 38.52,
+  "invoiceId": "44949",
+  "paidToMerchant": false,
+  "identifierNumber": 4798,
+  "billingDate": "2022-12-24T01:12:50.956Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21131428",
+      "fullName": "WILMER JOHAN HERNANDEZ PONCE",
+      "phoneNumber": "+584264685152"
+    },
+    "installments": [
+      {
+        "id": "15170",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:16:47.433Z",
+        "amount": 19.26,
+        "status": "DONE"
+      },
+      {
+        "id": "15173",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:16:47.432Z",
+        "amount": 6.420000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15172",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:16:47.432Z",
+        "amount": 6.420000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15171",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:16:47.432Z",
+        "amount": 6.420000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

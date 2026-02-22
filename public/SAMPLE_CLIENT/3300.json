@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:07:24.166Z",
+  "id": "2815",
+  "amount": 174.97,
+  "invoiceId": "00001655",
+  "paidToMerchant": false,
+  "identifierNumber": 3300,
+  "billingDate": "2022-12-20T20:07:24.166Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28330482",
+      "fullName": "RAYMOND JESUS GOMES DE ABREU",
+      "phoneNumber": "+584242946633"
+    },
+    "installments": [
+      {
+        "id": "9266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:07:54.547Z",
+        "amount": 87.48,
+        "status": "DONE"
+      },
+      {
+        "id": "9269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:07:54.546Z",
+        "amount": 29.16333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:07:54.546Z",
+        "amount": 29.16333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:07:54.546Z",
+        "amount": 29.16333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

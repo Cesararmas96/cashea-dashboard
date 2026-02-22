@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T15:54:47.791Z",
+  "id": "8521",
+  "amount": 37.35,
+  "invoiceId": "821",
+  "paidToMerchant": false,
+  "identifierNumber": 1383,
+  "billingDate": "2023-01-16T15:54:47.791Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16676873",
+      "fullName": "DORALYS EFICENIA BENCOMO MORILLO",
+      "phoneNumber": "+584141740327"
+    },
+    "installments": [
+      {
+        "id": "29775",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T15:55:15.418Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "29777",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T15:55:15.418Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "29776",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T15:55:15.418Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "29774",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T15:55:15.418Z",
+        "amount": 18.68,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

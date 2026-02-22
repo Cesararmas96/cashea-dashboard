@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T17:21:25.664Z",
+  "id": "3116",
+  "amount": 35.63,
+  "invoiceId": "00001831",
+  "paidToMerchant": false,
+  "identifierNumber": 3515,
+  "billingDate": "2022-12-21T17:21:25.664Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17372564",
+      "fullName": "YINLOURIS ORIANA BLANQUEZ",
+      "phoneNumber": "+584142671436"
+    },
+    "installments": [
+      {
+        "id": "10294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T17:22:09.322Z",
+        "amount": 17.82,
+        "status": "DONE"
+      },
+      {
+        "id": "10297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T17:22:09.322Z",
+        "amount": 5.936666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T17:22:09.322Z",
+        "amount": 5.936666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T17:22:09.322Z",
+        "amount": 5.936666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:02:54.142Z",
+  "id": "2782",
+  "amount": 91.94,
+  "invoiceId": "12204",
+  "paidToMerchant": false,
+  "identifierNumber": 3265,
+  "billingDate": "2022-12-20T19:02:54.142Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16754091",
+      "fullName": "CHERYL CAROLINA LOPEZ GARCIA",
+      "phoneNumber": "+584143000997"
+    },
+    "installments": [
+      {
+        "id": "9165",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:03:21.877Z",
+        "amount": 15.323333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9162",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:03:21.878Z",
+        "amount": 45.97,
+        "status": "DONE"
+      },
+      {
+        "id": "9164",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:03:21.877Z",
+        "amount": 15.323333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9163",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:03:21.877Z",
+        "amount": 15.323333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

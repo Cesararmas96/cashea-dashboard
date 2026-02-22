@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-14T15:01:10.334Z",
+  "updatedAt": "2025-05-14T15:01:10.334Z",
+  "id": 5756,
+  "name": "Tienda Zupintura Mercasa",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "fb65bc12-1288-4afd-b92e-b596d9ee993f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cierreszupintura@gmail.com",
+    "legalName": "Angelica Rubio",
+    "phoneNumber": "04146383559"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T15:04:52.478Z",
+      "updatedAt": "2025-05-14T15:04:52.478Z",
+      "id": 14102,
+      "merchantId": 5756,
+      "name": "Tienda Zupintura Mercasa Maracaibo",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4757,
+      "address": {
+        "name": "Av 79 (antes La LImpia) esquina con Circunvalación 2,  CC Los OLivos, Local No. 7,  Parroquia Carraciolo ParraPerez de la ciudad de Maracaibo , Estado Zulia.",
+        "long": -71.65156250000001,
+        "lat": 10.671687500000004,
+        "location": "0101000020E610000034333333B3E951C098438B6CE7572540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

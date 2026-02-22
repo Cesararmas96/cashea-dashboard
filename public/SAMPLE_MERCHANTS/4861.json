@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-03-26T17:54:13.993Z",
+  "updatedAt": "2025-03-28T14:00:40.407Z",
+  "id": 4861,
+  "name": "Clinica La Nacional *Duplicado",
+  "ecommerceUrl": null,
+  "changePolicy": "No realizamos cambios ni devoluciones de dinero. Se traspasan los fondos para ser gastados en otros servicios de la clinica para la persona o familiares directos",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "57f57eeb-d146-4ae8-b488-c83bfc289dd7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jairoferia7@hotmail.com",
+    "legalName": "Ken Feria",
+    "phoneNumber": "+584149422727"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-26T21:34:54.467Z",
+      "updatedAt": "2025-03-26T21:34:54.467Z",
+      "id": 12260,
+      "merchantId": 4861,
+      "name": "Clinica La Nacional",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4170,
+      "address": {
+        "name": "Clinica La Nacional.",
+        "long": -68.0018125,
+        "lat": 10.1706875,
+        "location": "0101000020E6100000560E2DB21D0051C008AC1C5A64572440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:47:29.890Z",
+  "id": "5130",
+  "amount": 80,
+  "invoiceId": "920",
+  "paidToMerchant": false,
+  "identifierNumber": 5400,
+  "billingDate": "2022-12-26T22:47:29.890Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19292108",
+      "fullName": "AGUSTIN ALEXIS JIMENEZ ESTUPINAN",
+      "phoneNumber": "+584126020537"
+    },
+    "installments": [
+      {
+        "id": "17578",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:51:12.173Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "17581",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:51:12.173Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17580",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:51:12.173Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17579",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:51:12.173Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

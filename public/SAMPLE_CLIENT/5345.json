@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T20:43:07.554Z",
+  "id": "5066",
+  "amount": 38,
+  "invoiceId": "10719",
+  "paidToMerchant": false,
+  "identifierNumber": 5345,
+  "billingDate": "2022-12-26T20:43:07.554Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26484783",
+      "fullName": "ASHLEY AMERICA SANCHEZ MENDOZA",
+      "phoneNumber": "+584123850749"
+    },
+    "installments": [
+      {
+        "id": "17370",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T20:43:27.099Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "17372",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T20:43:27.099Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17371",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T20:43:27.099Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17373",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T20:43:27.099Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

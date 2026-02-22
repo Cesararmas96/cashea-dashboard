@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T22:00:27.577Z",
+  "id": "628",
+  "amount": 93.73,
+  "invoiceId": "784025",
+  "paidToMerchant": false,
+  "identifierNumber": 1371,
+  "billingDate": "2022-12-03T22:00:27.577Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9968213",
+      "fullName": "JOSE LUIS CORDOVA RANGEL",
+      "phoneNumber": "+584120149863"
+    },
+    "installments": [
+      {
+        "id": "2002",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T22:00:51.707Z",
+        "amount": 46.87,
+        "status": "DONE"
+      },
+      {
+        "id": "2004",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T22:00:51.707Z",
+        "amount": 15.620000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "2003",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T22:00:51.707Z",
+        "amount": 15.620000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "2005",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T22:00:51.707Z",
+        "amount": 15.620000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

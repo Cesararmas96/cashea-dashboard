@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:33:06.563Z",
+  "id": "3657",
+  "amount": 46.36,
+  "invoiceId": "00001996",
+  "paidToMerchant": false,
+  "identifierNumber": 4085,
+  "billingDate": "2022-12-22T22:33:06.563Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25013548",
+      "fullName": "CHRISTOPHER PAUL ACEVEDO MOLINA",
+      "phoneNumber": "+584141018083"
+    },
+    "installments": [
+      {
+        "id": "12265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:33:30.378Z",
+        "amount": 7.726666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:33:30.378Z",
+        "amount": 23.18,
+        "status": "DONE"
+      },
+      {
+        "id": "12264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:33:30.378Z",
+        "amount": 7.726666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:33:30.378Z",
+        "amount": 7.726666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

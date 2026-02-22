@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T14:25:32.811Z",
+  "id": "1348",
+  "amount": 155,
+  "invoiceId": "3243",
+  "paidToMerchant": false,
+  "identifierNumber": 1955,
+  "billingDate": "2022-12-13T14:25:32.811Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17983603",
+      "fullName": "DANIELA ALEJANDRA CUSATI GIMENEZ",
+      "phoneNumber": "+584142576267"
+    },
+    "installments": [
+      {
+        "id": "4353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T14:26:40.281Z",
+        "amount": 25.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T14:26:40.281Z",
+        "amount": 25.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T14:26:40.281Z",
+        "amount": 25.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T14:26:40.282Z",
+        "amount": 77.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

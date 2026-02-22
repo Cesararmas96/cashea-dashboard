@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-11-08T22:23:10.811Z",
+  "id": "312",
+  "amount": 46.4,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1316,
+  "billingDate": "2022-11-08T22:23:10.811Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25367700",
+      "fullName": "PAULA ANDREA RIERA PACHECO",
+      "phoneNumber": "+584248569007"
+    },
+    "installments": [
+      {
+        "id": "952",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-20T22:23:10.858Z",
+        "amount": 5.6,
+        "status": "DONE"
+      },
+      {
+        "id": "951",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-06T22:23:10.858Z",
+        "amount": 5.6,
+        "status": "DONE"
+      },
+      {
+        "id": "949",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-08T22:23:10.859Z",
+        "amount": 23.2,
+        "status": "DONE"
+      },
+      {
+        "id": "950",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-22T22:23:10.858Z",
+        "amount": 5.6,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 16,
+    "name": "Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 37,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

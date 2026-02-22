@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-01T21:53:43.886Z",
+  "id": "11750",
+  "amount": 41.296,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4817,
+  "billingDate": "2023-02-01T21:53:43.886Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16672148",
+      "fullName": "SIMON LEONARDO HERNANDEZ MUJICA",
+      "phoneNumber": "+584242792752"
+    },
+    "installments": [
+      {
+        "id": "36135",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-15T21:53:43.933Z",
+        "amount": 6.882000000000001,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36136",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-01T21:53:43.933Z",
+        "amount": 6.882000000000001,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36134",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-01T21:53:43.933Z",
+        "amount": 20.65,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36137",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-15T21:53:43.933Z",
+        "amount": 6.882000000000001,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 131,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 4336,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,142 @@
+{
+  "createdAt": "2025-04-07T13:37:00.110Z",
+  "updatedAt": "2025-09-15T20:26:07.379Z",
+  "id": 5085,
+  "name": "FIX",
+  "ecommerceUrl": null,
+  "changePolicy": "Políticas de Cambios y Devoluciones de Fix\n\nCondiciones del Producto\nPara proceder con un cambio o devolución, el producto debe encontrarse en su estado original, sin daños físicos, con todos los accesorios incluidos (cables, manuales, empaques, etc.) y en su empaque original. No se aceptarán productos con signos de uso excesivo, manipulación indebida o daños ocasionados por el cliente.\n\nPlazos para Cambios y Devoluciones\nLos clientes pueden solicitar un cambio o devolución dentro de los 7 días posteriores a la fecha de compra (o de recepción, si es un pedido en línea). Pasado este plazo, no se aceptarán solicitudes, salvo excepciones aplicables por garantía del fabricante.\n\nProceso para Solicitar un Cambio o Devolución\nEl cliente deberá:\n\nContactar al servicio de atención al cliente por correo electrónico o teléfono.\nPresentar el comprobante de compra original (factura o recibo).\nProporcionar imágenes del producto para validar su estado (si aplica).\nUna vez aprobado, el cliente deberá enviar el producto a la dirección indicada, cubriendo los costos de envío, salvo que el motivo sea un error o defecto de fabricación.\n\nCasos Aplicables para Cambios y Devoluciones\nCambios: Solo aplicables para productos defectuosos o enviados incorrectamente.\nDevoluciones: Se permiten si el producto presenta defectos de fábrica, no coincide con la descripción o está dañado durante el envío. En estos casos, el cliente puede optar por:\na) Reembolso total.\nb) Reemplazo por el mismo producto (sujeto a disponibilidad).\nCondiciones Especiales\nNo se aceptarán devoluciones ni cambios para productos adquiridos en promoción, en liquidación o marcados como \"Venta Final\", salvo que presenten defectos de fabricación. Los productos digitales (software, licencias) no son reembolsables una vez activados.",
+  "email": "fixvzla2024@gmail.com",
+  "phoneNumber": "+584145814905",
+  "logoUrl": null,
+  "data": {
+    "rif": "J405431067"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0a9940de-973b-4323-acec-c41098b8dfde",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "fixnewcel@gmail.com",
+    "legalName": "Luis Calderon",
+    "phoneNumber": "+584144267452"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T13:42:25.159Z",
+      "updatedAt": "2025-09-15T20:26:07.455Z",
+      "id": 12658,
+      "merchantId": 5085,
+      "name": "FIX Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6120,
+      "address": {
+        "name": "Municipio Naguanagua, Av 97, torre cristal, Piso 1, Oficina 1-10, urb. las quintas, Naguanagua, Edo Carabobo",
+        "long": -68.0071875,
+        "lat": 10.242562500000005,
+        "location": "0101000020E6100000295C8FC2750051C0D878E926317C2440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-05-07T18:56:01.148Z",
+      "updatedAt": "2025-05-07T18:56:01.148Z",
+      "id": 13730,
+      "merchantId": 5085,
+      "name": "VR_FIX",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6120,
+      "address": {
+        "name": "Municipio Naguanagua, Av 97, torre cristal, Piso 1, Oficina 1-10, urb. las quintas, Naguanagua, Edo Carabobo",
+        "long": -68.0071875,
+        "lat": 10.242562500000005,
+        "location": "0101000020E6100000295C8FC2750051C0D878E926317C2440",
+        "shipmentsEnabled": true
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Tecnología",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

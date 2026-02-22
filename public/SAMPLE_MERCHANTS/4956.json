@@ -1,0 +1,133 @@
+{
+  "createdAt": "2025-04-01T19:27:32.015Z",
+  "updatedAt": "2025-04-03T14:17:04.810Z",
+  "id": 4956,
+  "name": "Super Tienda la Popular",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "dc69fae6-c501-4f26-acdb-2a8d4fc12ddb",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "lromerodufton@hotmail.com",
+    "legalName": "Lorena Romero",
+    "phoneNumber": "+584127634979"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-10-17T23:10:38.131Z",
+      "updatedAt": "2025-10-17T23:10:38.131Z",
+      "id": 23948,
+      "merchantId": 4956,
+      "name": "Supermarket La Popular El Silencio",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7830,
+      "address": {
+        "name": "Supermarket La Popular El Silencio, CALLE  169 LOCAL NRO  49A-87, BARRIO COLÓN EL SILENCIO ZULIA ZONA POSTAL 4002",
+        "long": -71.6573125,
+        "lat": 10.561187500000003,
+        "location": "0101000020E610000021B0726811EA51C018D9CEF7531F2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-01T19:43:22.165Z",
+      "updatedAt": "2025-04-01T19:43:22.165Z",
+      "id": 12477,
+      "merchantId": 4956,
+      "name": "Super Tienda la Popular",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7830,
+      "address": {
+        "name": "Super Tienda la Popular",
+        "long": -71.6591875,
+        "lat": 10.561062500000006,
+        "location": "0101000020E6100000A69BC42030EA51C028068195431F2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

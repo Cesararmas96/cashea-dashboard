@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-01T22:33:18.971Z",
+  "id": "571",
+  "amount": 113.3,
+  "invoiceId": "783947",
+  "paidToMerchant": false,
+  "identifierNumber": 1122,
+  "billingDate": "2022-12-01T22:33:18.971Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20490806",
+      "fullName": "YRANIA YURIMAR GIL BELLO",
+      "phoneNumber": "+584129361030"
+    },
+    "installments": [
+      {
+        "id": "1806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-01T22:33:28.618Z",
+        "amount": 56.65,
+        "status": "DONE"
+      },
+      {
+        "id": "1808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-29T22:33:28.618Z",
+        "amount": 18.883333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-15T22:33:28.618Z",
+        "amount": 18.883333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-12T22:33:28.618Z",
+        "amount": 18.883333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

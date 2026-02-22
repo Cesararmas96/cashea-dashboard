@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:16:04.655Z",
+  "id": "5552",
+  "amount": 119.97,
+  "invoiceId": "14930",
+  "paidToMerchant": false,
+  "identifierNumber": 5841,
+  "billingDate": "2022-12-28T21:16:04.655Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12063943",
+      "fullName": "ANGIE IVONNE GUANCHEZ CARDONA",
+      "phoneNumber": "+584245339634"
+    },
+    "installments": [
+      {
+        "id": "19078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:17:06.873Z",
+        "amount": 59.98,
+        "status": "DONE"
+      },
+      {
+        "id": "19080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:17:06.872Z",
+        "amount": 19.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "19081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:17:06.872Z",
+        "amount": 19.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "19079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:17:06.872Z",
+        "amount": 19.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

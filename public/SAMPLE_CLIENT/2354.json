@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-16T21:09:43.831Z",
+  "id": "1770",
+  "amount": 72.97,
+  "invoiceId": "6259",
+  "paidToMerchant": false,
+  "identifierNumber": 2354,
+  "billingDate": "2022-12-16T21:09:43.831Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-02T04:00:00.284+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "5707",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20531968",
+      "fullName": "CHACIN BRICENO",
+      "phoneNumber": "+584241833125"
+    },
+    "installments": [
+      {
+        "id": "5709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T21:10:51.333Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T21:10:51.333Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T21:10:51.333Z",
+        "amount": 12.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T21:10:51.333Z",
+        "amount": 36.48,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,328 @@
+{
+  "createdAt": "2025-04-04T17:45:45.264Z",
+  "updatedAt": "2025-04-04T17:45:45.264Z",
+  "id": 5057,
+  "name": "Gaiteros del Zulia",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "021f1307-f592-4ee0-8983-c29f55857a89",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "omar.sanjuan@hotmail.com",
+    "legalName": "Omar",
+    "phoneNumber": "+584146319722"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T17:47:10.283Z",
+      "updatedAt": "2025-04-04T17:47:10.283Z",
+      "id": 12621,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia San Jacinto",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket San Jancinto",
+        "long": -71.6386875,
+        "lat": 10.706812499999998,
+        "location": "0101000020E61000004C378941E0E851C0D8CEF753E3692540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:03:03.576Z",
+      "updatedAt": "2025-04-04T18:03:03.576Z",
+      "id": 12624,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia 18 de Octubre",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket Norte",
+        "long": -71.6283125,
+        "lat": 10.704812500000003,
+        "location": "0101000020E6100000C1CAA14536E851C0C09F1A2FDD682540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:11:06.560Z",
+      "updatedAt": "2025-04-04T18:11:06.560Z",
+      "id": 12628,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia La Coromoto",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket La Coromoto",
+        "long": -71.64618750000001,
+        "lat": 10.554562499999989,
+        "location": "0101000020E610000061E5D0225BE951C0082DB29DEF1B2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:21:33.314Z",
+      "updatedAt": "2025-04-04T18:21:33.314Z",
+      "id": 12629,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia San Miguel",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket San Miguel",
+        "long": -71.6631875,
+        "lat": 10.6418125,
+        "location": "0101000020E61000006DE7FBA971EA51C0F853E3A59B482540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:33:49.154Z",
+      "updatedAt": "2025-04-04T18:33:49.154Z",
+      "id": 12634,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia Visoca",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket Visoca",
+        "long": -71.6395625,
+        "lat": 10.642562499999997,
+        "location": "0101000020E6100000DF4F8D97EEE851C0A045B6F3FD482540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:37:00.684Z",
+      "updatedAt": "2025-04-04T18:37:00.684Z",
+      "id": 12635,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia Amparo 2",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket Amparo 2",
+        "long": -71.6593125,
+        "lat": 10.663687500000009,
+        "location": "0101000020E610000004560E2D32EA51C0308716D9CE532540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:39:30.123Z",
+      "updatedAt": "2025-04-04T18:39:30.123Z",
+      "id": 12636,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia La Curva",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket La Curva",
+        "long": -71.6801875,
+        "lat": 10.683437499999997,
+        "location": "0101000020E610000079E9263188EB51C050B81E85EB5D2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:47:11.421Z",
+      "updatedAt": "2025-04-04T18:47:11.421Z",
+      "id": 12638,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia Gimnasio Pedro Elías Belisario Aponte",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Gaiteros del Zulia Gimnasio Pedro Elías Belisario Aponte",
+        "long": -71.6058125,
+        "lat": 10.669062499999995,
+        "location": "0101000020E610000083C0CAA1C5E651C0C0F5285C8F562540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T18:42:38.747Z",
+      "updatedAt": "2025-04-04T18:42:38.747Z",
+      "id": 12637,
+      "merchantId": 5057,
+      "name": "Gaiteros del Zulia 5 de Julio",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Fiorella Supermarket 5 de Julio",
+        "long": -71.6244375,
+        "lat": 10.663562500000012,
+        "location": "0101000020E61000005839B4C8F6E751C040B4C876BE532540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Deporte",
+  "shipmentOptionsAvailable": []
+}

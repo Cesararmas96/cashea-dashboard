@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T22:09:29.656Z",
+  "id": "1332",
+  "amount": 46.09,
+  "invoiceId": "00329",
+  "paidToMerchant": false,
+  "identifierNumber": 1816,
+  "billingDate": "2022-12-12T22:09:29.656Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12962486",
+      "fullName": "PEDRO MANUEL ARVELO CONTRERAS",
+      "phoneNumber": "+584161705062"
+    },
+    "installments": [
+      {
+        "id": "4287",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T22:10:47.376Z",
+        "amount": 7.680000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4289",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T22:10:47.376Z",
+        "amount": 7.680000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4288",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T22:10:47.376Z",
+        "amount": 7.680000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4286",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T22:10:47.376Z",
+        "amount": 23.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T19:55:58.997Z",
+  "id": "3512",
+  "amount": 229.96,
+  "invoiceId": "00001828",
+  "paidToMerchant": false,
+  "identifierNumber": 3965,
+  "billingDate": "2022-12-22T19:55:58.997Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15645310",
+      "fullName": "DARWIN JOSE BORJAS RIVERO",
+      "phoneNumber": "+584125888944"
+    },
+    "installments": [
+      {
+        "id": "11750",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T19:56:36.018Z",
+        "amount": 114.98,
+        "status": "DONE"
+      },
+      {
+        "id": "11753",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T19:56:36.018Z",
+        "amount": 38.32666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11752",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T19:56:36.018Z",
+        "amount": 38.32666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11751",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T19:56:36.018Z",
+        "amount": 38.32666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T00:14:30.519Z",
+  "id": "5166",
+  "amount": 83.86,
+  "invoiceId": "44687",
+  "paidToMerchant": false,
+  "identifierNumber": 5471,
+  "billingDate": "2022-12-27T00:14:30.519Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20780496",
+      "fullName": "TANIUSKA ALEXANDRA SANTOS RODRIGUEZ",
+      "phoneNumber": "+584143154381"
+    },
+    "installments": [
+      {
+        "id": "17694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T00:14:55.190Z",
+        "amount": 41.93,
+        "status": "DONE"
+      },
+      {
+        "id": "17697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T00:14:55.189Z",
+        "amount": 13.976666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T00:14:55.189Z",
+        "amount": 13.976666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T00:14:55.189Z",
+        "amount": 13.976666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

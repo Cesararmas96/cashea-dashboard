@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:21:25.839Z",
+  "id": "3286",
+  "amount": 56.24,
+  "invoiceId": "14764",
+  "paidToMerchant": false,
+  "identifierNumber": 5581,
+  "billingDate": "2022-12-21T23:21:25.839Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18131907",
+      "fullName": "KATIUSKA ELIZABETH CHAVEZ RODRIGUEZ",
+      "phoneNumber": "+584129975610"
+    },
+    "installments": [
+      {
+        "id": "10926",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:22:03.984Z",
+        "amount": 28.12,
+        "status": "DONE"
+      },
+      {
+        "id": "10929",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:22:03.984Z",
+        "amount": 9.373333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10928",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:22:03.984Z",
+        "amount": 9.373333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10927",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:22:03.984Z",
+        "amount": 9.373333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

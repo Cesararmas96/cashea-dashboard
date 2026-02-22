@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T20:43:58.473Z",
+  "id": "7092",
+  "amount": 223.24,
+  "invoiceId": "14965",
+  "paidToMerchant": false,
+  "identifierNumber": 3505,
+  "billingDate": "2022-12-31T20:43:58.473Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "82",
+    "buyDebtDate": "2023-01-17T04:00:01.341+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "24583",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16704811",
+      "fullName": "JOSE ALBERTO RIOS GUERRA",
+      "phoneNumber": "+584127027065"
+    },
+    "installments": [
+      {
+        "id": "24585",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T20:47:26.718Z",
+        "amount": 37.20666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24582",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T20:47:26.718Z",
+        "amount": 111.62,
+        "status": "DONE"
+      },
+      {
+        "id": "24584",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T20:47:26.718Z",
+        "amount": 37.20666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24583",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T20:47:26.718Z",
+        "amount": 37.20666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

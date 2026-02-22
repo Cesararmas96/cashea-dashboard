@@ -1,0 +1,181 @@
+{
+  "createdAt": "2025-03-27T15:38:43.120Z",
+  "updatedAt": "2025-09-16T18:56:12.593Z",
+  "id": 4878,
+  "name": "Multiservicios Imyba 23",
+  "ecommerceUrl": null,
+  "changePolicy": "3 días para cambios por cambio,\n24 horas después de la entrega para devoluciones.",
+  "email": "multiserviciosimyba23@gmail.com",
+  "phoneNumber": "+584129055655",
+  "logoUrl": null,
+  "data": {
+    "rif": "J504149330"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "bcdcf181-e6d6-4be2-836d-103b32adfcb6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "08:00",
+    "to": "18:00"
+  },
+  "contact": {
+    "email": "multiserviciosimyba23@gmail.com",
+    "legalName": "CARLOS LUIS PERDOMO FUENTES",
+    "phoneNumber": "04241379457"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-19T14:22:04.306Z",
+      "updatedAt": "2025-09-12T20:05:44.811Z",
+      "id": 19445,
+      "merchantId": 4878,
+      "name": "Multiservicios Imyba 23 Caracas Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6883,
+      "address": {
+        "name": "AV INTERCOMUNAL DE ANTIMANO CALLE SANTA ANA  #10",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-27T15:15:58.185Z",
+      "updatedAt": "2025-08-27T15:15:58.185Z",
+      "id": 19960,
+      "merchantId": 4878,
+      "name": "Multiservicios Imyba 23 Carretera El Junquito Caracas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6883,
+      "address": {
+        "name": "Carretera el Junquito km 11, edición Cacique, local número 2, barrio 5 de julio, parroquia el junquito, municipio libertador",
+        "long": -67.0048125,
+        "lat": 10.4765625,
+        "location": "0101000020E61000002B8716D94EC050C00000000000F42440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T14:15:41.942Z",
+      "updatedAt": "2025-05-15T14:15:41.942Z",
+      "id": 14167,
+      "merchantId": 4878,
+      "name": "VR_Multiservicios Imyba 23",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6883,
+      "address": {
+        "name": "AV INTERCOMUNAL DE ANTIMANO CALLE SANTA ANA  #10",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-27T15:40:19.407Z",
+      "updatedAt": "2025-03-27T15:40:19.407Z",
+      "id": 12279,
+      "merchantId": 4878,
+      "name": "Multiservicios Imyba 23 Antimano CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6883,
+      "address": {
+        "name": "AV INTERCOMUNAL DE ANTIMANO CALLE SANTA ANA  #10",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

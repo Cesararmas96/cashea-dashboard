@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-10-24T22:45:11.152Z",
+  "id": "187",
+  "amount": 200,
+  "invoiceId": "9909",
+  "paidToMerchant": false,
+  "identifierNumber": 1088,
+  "billingDate": "2022-10-24T22:45:11.152Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2022-11-22T04:00:00.637+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": 575,
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19203306",
+      "fullName": "YEISON JOSE PLAZA ROJAS",
+      "phoneNumber": "+584120210087"
+    },
+    "installments": [
+      {
+        "id": "576",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-05T22:47:18.320Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "573",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-24T22:47:18.321Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "575",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-21T22:47:18.320Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "574",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-07T22:47:18.320Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

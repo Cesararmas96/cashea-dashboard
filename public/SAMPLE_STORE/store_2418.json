@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1186,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J070007508",
+    "bankName": "Banesco",
+    "bankHolder": "FARMACIAS UNIDAS, S.A.",
+    "internalBankHolder": "FARMACIAS UNIDAS, S.A.",
+    "account": "01340031860311162320",
+    "accountType": "Corriente",
+    "phoneNumber": "4122269917",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1185,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J070007508",
+    "bankName": "Banesco",
+    "bankHolder": "FARMACIAS UNIDAS, S.A.",
+    "internalBankHolder": "FARMACIAS UNIDAS, S.A.",
+    "account": "01340031860311162320",
+    "accountType": "Corriente",
+    "phoneNumber": "4122269917",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1187,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J070007508",
+    "bankName": "Banesco",
+    "bankHolder": "FARMACIAS UNIDAS, S.A.",
+    "internalBankHolder": "FARMACIAS UNIDAS, S.A.",
+    "account": "01341736970001004995",
+    "accountType": "Custodia",
+    "phoneNumber": "4122269917",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

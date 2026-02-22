@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:16:03.501Z",
+  "id": "4803",
+  "amount": 40,
+  "invoiceId": "00018504",
+  "paidToMerchant": false,
+  "identifierNumber": 5034,
+  "billingDate": "2022-12-24T19:16:03.501Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25583573",
+      "fullName": "ANGEL RAMON BARRIOS SUAREZ",
+      "phoneNumber": "+584144906056"
+    },
+    "installments": [
+      {
+        "id": "16448",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:17:27.666Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16446",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:17:27.666Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "16449",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:17:27.666Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16447",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:17:27.666Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

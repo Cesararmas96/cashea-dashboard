@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T18:53:27.670Z",
+  "id": "5034",
+  "amount": 38.49,
+  "invoiceId": "9182",
+  "paidToMerchant": false,
+  "identifierNumber": 5348,
+  "billingDate": "2022-12-26T18:53:27.670Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20291774",
+      "fullName": "ALBERT LEONARDO SILVA LEON",
+      "phoneNumber": "+584126332570"
+    },
+    "installments": [
+      {
+        "id": "17266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T18:56:16.486Z",
+        "amount": 19.25,
+        "status": "DONE"
+      },
+      {
+        "id": "17268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T18:56:16.485Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T18:56:16.485Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T18:56:16.485Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T22:41:03.392Z",
+  "id": "2925",
+  "amount": 91.76,
+  "invoiceId": "14653",
+  "paidToMerchant": false,
+  "identifierNumber": 3375,
+  "billingDate": "2022-12-20T22:41:03.392Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-20T04:00:00.577+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "9652",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14216224",
+      "fullName": "JOHANA DE LOS ANGELES NAVARRO LIRA",
+      "phoneNumber": "+584142229043"
+    },
+    "installments": [
+      {
+        "id": "9653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:41:56.707Z",
+        "amount": 15.293333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "9652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:41:56.707Z",
+        "amount": 15.293333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "9650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:41:56.707Z",
+        "amount": 45.88,
+        "status": "DONE"
+      },
+      {
+        "id": "9651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:41:56.707Z",
+        "amount": 15.293333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-26T23:17:59.891Z",
+  "id": "506",
+  "amount": 35,
+  "invoiceId": "783749",
+  "paidToMerchant": false,
+  "identifierNumber": 1083,
+  "billingDate": "2022-11-26T23:17:59.891Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16342581",
+      "fullName": "ODALYS DESIREE FARINA GUTIERREZ",
+      "phoneNumber": "+584141266807"
+    },
+    "installments": [
+      {
+        "id": "1581",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-07T23:31:04.118Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1578",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-26T23:31:04.120Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1580",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-24T23:31:04.118Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1579",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-10T23:31:04.118Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

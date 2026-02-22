@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T18:12:32.058Z",
+  "id": "1311",
+  "amount": 48.8,
+  "invoiceId": "11829",
+  "paidToMerchant": false,
+  "identifierNumber": 1936,
+  "billingDate": "2022-12-12T18:12:32.058Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21622764",
+      "fullName": "PATRICIA LORENA GELVIZ PETIT",
+      "phoneNumber": "+584166325828"
+    },
+    "installments": [
+      {
+        "id": "4230",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T18:13:07.512Z",
+        "amount": 24.4,
+        "status": "DONE"
+      },
+      {
+        "id": "4231",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T18:13:07.512Z",
+        "amount": 8.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4233",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T18:13:07.512Z",
+        "amount": 8.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4232",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T18:13:07.512Z",
+        "amount": 8.133333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

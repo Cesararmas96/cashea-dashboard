@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-28T15:16:26.685Z",
+  "updatedAt": "2025-05-07T14:19:19.295Z",
+  "id": 5424,
+  "name": "MasQsalud",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "520a5801-40e7-4647-969e-3aa01e53dc75",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jlroberttiamaro@gmail.com",
+    "legalName": "José Luis",
+    "phoneNumber": "04242286092"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-27T13:36:56.791Z",
+      "updatedAt": "2025-05-27T13:36:56.791Z",
+      "id": 14711,
+      "merchantId": 5424,
+      "name": "VR_MasQsalud",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5728,
+      "address": {
+        "name": "Av Norte 11 esquina de platanal a desamparados edif  San Carlos piso4 ofi 4-b La candelaria",
+        "long": -66.9061875,
+        "lat": 10.50706249999999,
+        "location": "0101000020E6100000D122DBF9FEB950C0500E2DB29D032540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T15:19:03.618Z",
+      "updatedAt": "2025-04-28T15:19:03.618Z",
+      "id": 13341,
+      "merchantId": 5424,
+      "name": "MasQsalud La Candelaria CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5728,
+      "address": {
+        "name": "Av Norte 11 esquina de platanal a desamparados edif  San Carlos piso4 ofi 4-b La candelaria",
+        "long": -66.9061875,
+        "lat": 10.50706249999999,
+        "location": "0101000020E6100000D122DBF9FEB950C0500E2DB29D032540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

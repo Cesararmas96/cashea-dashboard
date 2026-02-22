@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:50:27.208Z",
+  "id": "4130",
+  "amount": 76.86,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4532,
+  "billingDate": "2022-12-23T20:50:27.208Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17962635",
+      "fullName": "EDILIFE DEL VALLE CEDENO CASTILLO",
+      "phoneNumber": "+584125642966"
+    },
+    "installments": [
+      {
+        "id": "13965",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:50:50.562Z",
+        "amount": 12.81,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13964",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:50:50.562Z",
+        "amount": 12.81,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13962",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:50:50.562Z",
+        "amount": 38.43,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13963",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:50:50.562Z",
+        "amount": 12.81,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

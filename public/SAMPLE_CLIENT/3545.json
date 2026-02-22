@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:30:48.592Z",
+  "id": "3776",
+  "amount": 65.97,
+  "invoiceId": "14596",
+  "paidToMerchant": false,
+  "identifierNumber": 3545,
+  "billingDate": "2022-12-23T00:30:48.592Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6506218",
+      "fullName": "RAUL IGNACIO ROJAS NIETO",
+      "phoneNumber": "+584166055356"
+    },
+    "installments": [
+      {
+        "id": "12690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:31:16.535Z",
+        "amount": 32.98,
+        "status": "DONE"
+      },
+      {
+        "id": "12692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:31:16.535Z",
+        "amount": 10.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:31:16.535Z",
+        "amount": 10.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:31:16.535Z",
+        "amount": 10.996666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

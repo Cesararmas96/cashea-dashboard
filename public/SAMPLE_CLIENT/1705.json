@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-10T14:30:47.360Z",
+  "id": "1055",
+  "amount": 85.0048,
+  "invoiceId": "10450",
+  "paidToMerchant": false,
+  "identifierNumber": 1705,
+  "billingDate": "2022-12-10T14:30:47.360Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24180001",
+      "fullName": "HECTOR DAVID VASQUEZ RIVAS",
+      "phoneNumber": "+584142564735"
+    },
+    "installments": [
+      {
+        "id": "3360",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T14:30:47.419Z",
+        "amount": 14.168266666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3361",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T14:30:47.419Z",
+        "amount": 14.168266666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3359",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T14:30:47.419Z",
+        "amount": 14.168266666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3358",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T14:30:47.420Z",
+        "amount": 42.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 65,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 4212,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J313760838",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "internalBankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "account": "01910098702198434416",
+    "accountType": "Corriente",
+    "phoneNumber": "4143155107",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 4210,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J313760838",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "internalBankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "account": "01910098702198434416",
+    "accountType": "Corriente",
+    "phoneNumber": "4143155107",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 4211,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J313760838",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "internalBankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "account": "01910098702198434416",
+    "accountType": "Corriente",
+    "phoneNumber": "4143155107",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 4213,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J313760838",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "internalBankHolder": "TIENDAS VALEO LA CASCADA, C.A.",
+    "account": "01910098792398347859",
+    "accountType": "Custodia",
+    "phoneNumber": "4143155107",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

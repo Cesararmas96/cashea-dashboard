@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:20:21.947Z",
+  "id": "2012",
+  "amount": 55,
+  "invoiceId": "1652",
+  "paidToMerchant": false,
+  "identifierNumber": 2573,
+  "billingDate": "2022-12-17T20:20:21.947Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15616614",
+      "fullName": "KELLY ALEXANDRA BLANCO MARTINEZ",
+      "phoneNumber": "+584123930508"
+    },
+    "installments": [
+      {
+        "id": "6537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:26:37.606Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:26:37.606Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:26:37.606Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:26:37.606Z",
+        "amount": 27.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

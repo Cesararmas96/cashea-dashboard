@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:49:04.010Z",
+  "id": "1228",
+  "amount": 100,
+  "invoiceId": "00000973",
+  "paidToMerchant": false,
+  "identifierNumber": 1906,
+  "billingDate": "2022-12-11T20:49:04.010Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22749514",
+      "fullName": "ALBERT GABRIEL BERNAL PARRA",
+      "phoneNumber": "+584242243697"
+    },
+    "installments": [
+      {
+        "id": "3934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:49:12.863Z",
+        "amount": 50.8,
+        "status": "DONE"
+      },
+      {
+        "id": "3937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:49:12.862Z",
+        "amount": 16.400000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "3935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:49:12.862Z",
+        "amount": 16.400000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "3936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:49:12.862Z",
+        "amount": 16.400000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-04-02T15:45:28.480Z",
+  "updatedAt": "2025-04-25T19:20:59.897Z",
+  "id": 4985,
+  "name": "Librería 44",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "81335486-5e46-4ff9-ab80-48e581ee92b9",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "libreria44ca@gmail.com",
+    "legalName": "Juan Eduardo Carvalho",
+    "phoneNumber": "04142801313"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-25T14:25:10.171Z",
+      "updatedAt": "2025-06-25T14:25:10.171Z",
+      "id": 16290,
+      "merchantId": 4985,
+      "name": "vr_Librería 44 La Urbina",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Calle 4-A CC GE 44 local 2PB La Urbina Caracas",
+        "long": -66.80818749999999,
+        "lat": 10.4855625,
+        "location": "0101000020E61000004D621058B9B350C0F853E3A59BF82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T15:47:07.914Z",
+      "updatedAt": "2025-05-13T15:47:07.914Z",
+      "id": 14043,
+      "merchantId": 4985,
+      "name": "VR_Librería 44",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6518,
+      "address": {
+        "name": "Calle 4-A CC GE 44 local 2PB La Urbina Caracas",
+        "long": -66.80818749999999,
+        "lat": 10.4855625,
+        "location": "0101000020E61000004D621058B9B350C0F853E3A59BF82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T15:47:34.816Z",
+      "updatedAt": "2025-04-02T15:47:34.816Z",
+      "id": 12519,
+      "merchantId": 4985,
+      "name": "Librería 44 La Urbina",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6518,
+      "address": {
+        "name": "Calle 4-A CC GE 44 local 2PB La Urbina Caracas",
+        "long": -66.80818749999999,
+        "lat": 10.4855625,
+        "location": "0101000020E61000004D621058B9B350C0F853E3A59BF82440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

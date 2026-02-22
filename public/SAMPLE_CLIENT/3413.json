@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T23:40:20.020Z",
+  "id": "2974",
+  "amount": 198.56,
+  "invoiceId": "12610",
+  "paidToMerchant": false,
+  "identifierNumber": 3413,
+  "billingDate": "2022-12-20T23:40:20.020Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-06T04:00:00.615+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "9815",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13287298",
+      "fullName": "INGRID DEL VALLE BRITO SALOM",
+      "phoneNumber": "+584127141942"
+    },
+    "installments": [
+      {
+        "id": "9816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:40:39.274Z",
+        "amount": 33.093333333333334,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:40:39.274Z",
+        "amount": 33.093333333333334,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:40:39.274Z",
+        "amount": 33.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:40:39.274Z",
+        "amount": 99.28,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

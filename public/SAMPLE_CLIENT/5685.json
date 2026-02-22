@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:14:58.533Z",
+  "id": "5422",
+  "amount": 38,
+  "invoiceId": "10770",
+  "paidToMerchant": false,
+  "identifierNumber": 5685,
+  "billingDate": "2022-12-28T17:14:58.533Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19693542",
+      "fullName": "MARIANA REGINA TORRES SEMPRUN",
+      "phoneNumber": "+584122328206"
+    },
+    "installments": [
+      {
+        "id": "18626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:15:10.241Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "18629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:15:10.240Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:15:10.240Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:15:10.240Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

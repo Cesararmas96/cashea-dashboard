@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-09T15:02:50.442Z",
+  "updatedAt": "2025-04-21T19:29:40.709Z",
+  "id": 5140,
+  "name": "Centro óptico Visión 360",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "82276007-79f9-481a-877f-a91e58f2373d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "juligonzalezn15@gmail.com",
+    "legalName": "Juliánny",
+    "phoneNumber": "04243390015"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-09T15:33:31.951Z",
+      "updatedAt": "2025-04-09T15:33:31.951Z",
+      "id": 12748,
+      "merchantId": 5140,
+      "name": "Centro óptico Visión 360 Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4122,
+      "address": {
+        "name": "CALLE SANTOS MICHELENA CRUCE CON CALLE CARABOBO LOCAL NRO 91-A CONA CENTRO NORTE MARACAY ARAGUA",
+        "long": -67.6079375,
+        "lat": 10.254312499999997,
+        "location": "0101000020E6100000C520B072E8E650C090ED7C3F35822440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

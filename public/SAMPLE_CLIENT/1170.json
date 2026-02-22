@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T18:37:42.096Z",
+  "id": "6939",
+  "amount": 62.83,
+  "invoiceId": "19190",
+  "paidToMerchant": false,
+  "identifierNumber": 1170,
+  "billingDate": "2022-12-31T18:37:42.096Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-17T04:00:01.109+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "23991",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17815340",
+      "fullName": "KENNEDY OMAR PEREIRA CELIS",
+      "phoneNumber": "+584125294087"
+    },
+    "installments": [
+      {
+        "id": "23991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T18:38:22.489Z",
+        "amount": 10.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "23992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T18:38:22.489Z",
+        "amount": 10.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "23990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T18:38:22.490Z",
+        "amount": 31.41,
+        "status": "DONE"
+      },
+      {
+        "id": "23993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T18:38:22.489Z",
+        "amount": 10.473333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

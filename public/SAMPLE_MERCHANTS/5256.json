@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-15T19:29:22.030Z",
+  "updatedAt": "2025-05-23T22:18:33.779Z",
+  "id": 5256,
+  "name": "Hyperceramica",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 864,
+  "tags": [],
+  "uuid": "e241264c-c2d4-4fe4-933a-4b849b3566fb",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "enzoyfabio@gmail.com",
+    "legalName": "Fabrizio",
+    "phoneNumber": "04243690278"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T16:14:00.654Z",
+      "updatedAt": "2025-05-12T16:14:00.654Z",
+      "id": 13978,
+      "merchantId": 5256,
+      "name": "Hyperceramica Av Los Cedros",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 864,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5664,
+      "address": {
+        "name": "Av. Los Cedros - Local Nº 154, Sector Santa Ana - Maracay, Edo. Aragua.",
+        "long": -67.58956249999999,
+        "lat": 10.240187500000005,
+        "location": "0101000020E6100000AB1C5A64BBE550C0E8D022DBF97A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-12T16:27:01.326Z",
+      "updatedAt": "2025-05-12T16:27:01.326Z",
+      "id": 13981,
+      "merchantId": 5256,
+      "name": "Hyperceramica Av Intercomunal",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 864,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5664,
+      "address": {
+        "name": "Av. Intercomunal, Maracay - Turmero, Centro Empresarial Techomat P.B. Local Nº01, Turmero, Edo. Aragua.",
+        "long": -67.58506249999999,
+        "lat": 10.232312500000006,
+        "location": "0101000020E61000006CE7FBA971E550C070E7FBA9F1762440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

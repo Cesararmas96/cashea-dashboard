@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T00:43:56.617Z",
+  "id": "1868",
+  "amount": 60.57,
+  "invoiceId": "13294",
+  "paidToMerchant": false,
+  "identifierNumber": 5744,
+  "billingDate": "2022-12-17T00:43:56.617Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-02T04:00:00.227+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "6051",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20801175",
+      "fullName": "JHON DEILY GIL ALMEYDA",
+      "phoneNumber": "+584120211856"
+    },
+    "installments": [
+      {
+        "id": "6053",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T00:45:25.512Z",
+        "amount": 10.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6050",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T00:45:25.513Z",
+        "amount": 30.29,
+        "status": "DONE"
+      },
+      {
+        "id": "6052",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T00:45:25.512Z",
+        "amount": 10.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6051",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T00:45:25.512Z",
+        "amount": 10.093333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

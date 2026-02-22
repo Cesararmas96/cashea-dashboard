@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T01:41:13.649Z",
+  "id": "3053",
+  "amount": 199.12,
+  "invoiceId": "50231",
+  "paidToMerchant": false,
+  "identifierNumber": 3510,
+  "billingDate": "2022-12-21T01:41:13.649Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-06T04:00:01.048+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "10095",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24820024",
+      "fullName": "GIOVANNI DANIEL GAMBOA DUQUE",
+      "phoneNumber": "+584241819561"
+    },
+    "installments": [
+      {
+        "id": "10097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:41:32.795Z",
+        "amount": 33.18666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:41:32.795Z",
+        "amount": 33.18666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:41:32.796Z",
+        "amount": 99.56,
+        "status": "DONE"
+      },
+      {
+        "id": "10095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:41:32.795Z",
+        "amount": 33.18666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

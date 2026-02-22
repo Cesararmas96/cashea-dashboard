@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T21:08:08.060Z",
+  "id": "786",
+  "amount": 250,
+  "invoiceId": "10361",
+  "paidToMerchant": false,
+  "identifierNumber": 1519,
+  "billingDate": "2022-12-06T21:08:08.060Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29987440",
+      "fullName": "KATHERINE ORIANA MEJIA PERDOMO",
+      "phoneNumber": "+584126050639"
+    },
+    "installments": [
+      {
+        "id": "2534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T21:08:26.248Z",
+        "amount": 210,
+        "status": "DONE"
+      },
+      {
+        "id": "2537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T21:08:26.247Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T21:08:26.247Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T21:08:26.247Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

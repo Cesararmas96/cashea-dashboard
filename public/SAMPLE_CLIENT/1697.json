@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T23:23:09.690Z",
+  "id": "1024",
+  "amount": 30.45,
+  "invoiceId": "13904",
+  "paidToMerchant": false,
+  "identifierNumber": 1697,
+  "billingDate": "2022-12-09T23:23:09.690Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15313013",
+      "fullName": "MARIA ANTONIETA PARRA URGELLES",
+      "phoneNumber": "+584242274980"
+    },
+    "installments": [
+      {
+        "id": "3253",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T23:23:50.726Z",
+        "amount": 5.076666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3250",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T23:23:50.726Z",
+        "amount": 15.22,
+        "status": "DONE"
+      },
+      {
+        "id": "3252",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T23:23:50.726Z",
+        "amount": 5.076666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3251",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T23:23:50.726Z",
+        "amount": 5.076666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

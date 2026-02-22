@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T02:42:35.089Z",
+  "id": "4514",
+  "amount": 66.43,
+  "invoiceId": "13826",
+  "paidToMerchant": false,
+  "identifierNumber": 4846,
+  "billingDate": "2022-12-24T02:42:35.089Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26966871",
+      "fullName": "LUIS GERARDO CHACON RIVERA",
+      "phoneNumber": "+584241232278"
+    },
+    "installments": [
+      {
+        "id": "15386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T02:42:55.977Z",
+        "amount": 33.22,
+        "status": "DONE"
+      },
+      {
+        "id": "15388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T02:42:55.976Z",
+        "amount": 11.070000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T02:42:55.976Z",
+        "amount": 11.070000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T02:42:55.976Z",
+        "amount": 11.070000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

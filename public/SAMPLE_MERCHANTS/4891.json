@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-28T02:56:11.069Z",
+  "updatedAt": "2025-03-28T02:58:24.539Z",
+  "id": 4891,
+  "name": "Perrockeros Burgers",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2535adf5-e752-4fdd-af52-4eb21940183a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "perrockerosburguersca@gmail.com",
+    "legalName": "Robert Ampudia",
+    "phoneNumber": "4148073866"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-20T23:41:57.059Z",
+      "updatedAt": "2025-05-20T23:41:57.059Z",
+      "id": 14425,
+      "merchantId": 4891,
+      "name": "VR_Perrockeros Burgers",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7245,
+      "address": {
+        "name": "Perrockeros Burgers Barcelona",
+        "long": -64.6858125,
+        "lat": 10.156062500000004,
+        "location": "0101000020E610000008AC1C5AE42B50C098438B6CE74F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T03:00:20.914Z",
+      "updatedAt": "2025-03-28T03:00:20.914Z",
+      "id": 12299,
+      "merchantId": 4891,
+      "name": "Perrockeros Burgers Barcelona",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7245,
+      "address": {
+        "name": "Perrockeros Burgers Barcelona",
+        "long": -64.6858125,
+        "lat": 10.156062500000004,
+        "location": "0101000020E610000008AC1C5AE42B50C098438B6CE74F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

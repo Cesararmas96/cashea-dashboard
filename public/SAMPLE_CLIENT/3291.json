@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:50:53.790Z",
+  "id": "2805",
+  "amount": 126.94,
+  "invoiceId": "14391",
+  "paidToMerchant": false,
+  "identifierNumber": 3291,
+  "billingDate": "2022-12-20T19:50:53.790Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11027670",
+      "fullName": "FERNANDO RAMOS DOMINGUEZ",
+      "phoneNumber": "+584142758305"
+    },
+    "installments": [
+      {
+        "id": "9230",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:53:37.179Z",
+        "amount": 63.47,
+        "status": "DONE"
+      },
+      {
+        "id": "9231",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:53:37.179Z",
+        "amount": 21.156666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9233",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:53:37.179Z",
+        "amount": 21.156666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9232",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:53:37.179Z",
+        "amount": 21.156666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

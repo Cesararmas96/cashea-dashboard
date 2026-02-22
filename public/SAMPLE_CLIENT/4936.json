@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:47:53.932Z",
+  "id": "4572",
+  "amount": 80,
+  "invoiceId": "0884",
+  "paidToMerchant": false,
+  "identifierNumber": 4936,
+  "billingDate": "2022-12-24T15:47:53.932Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23811822",
+      "fullName": "MERCY GIORGANA CHIRINOS RAMOS",
+      "phoneNumber": "+584241384697"
+    },
+    "installments": [
+      {
+        "id": "15600",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:49:37.798Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15598",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:49:37.798Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "15601",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:49:37.798Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15599",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:49:37.798Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

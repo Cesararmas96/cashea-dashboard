@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T22:42:09.073Z",
+  "id": "791",
+  "amount": 109,
+  "invoiceId": "1031",
+  "paidToMerchant": false,
+  "identifierNumber": 1506,
+  "billingDate": "2022-12-06T22:42:09.073Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18814677",
+      "fullName": "KATHERINE BEATRIZ CASTILLO DE OROZCO",
+      "phoneNumber": "+584144664204"
+    },
+    "installments": [
+      {
+        "id": "2551",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T22:50:12.148Z",
+        "amount": 18.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2550",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T22:50:12.148Z",
+        "amount": 54.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2553",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T22:50:12.148Z",
+        "amount": 18.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2552",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T22:50:12.148Z",
+        "amount": 18.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

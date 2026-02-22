@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T23:26:09.374Z",
+  "id": "1830",
+  "amount": 64.72,
+  "invoiceId": "13283",
+  "paidToMerchant": false,
+  "identifierNumber": 5507,
+  "billingDate": "2022-12-16T23:26:09.374Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13238554",
+      "fullName": "DEIVY LU SANCHEZ CEDENO",
+      "phoneNumber": "+584129981061"
+    },
+    "installments": [
+      {
+        "id": "5925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T23:28:07.268Z",
+        "amount": 10.786666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T23:28:07.268Z",
+        "amount": 32.36,
+        "status": "DONE"
+      },
+      {
+        "id": "5923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T23:28:07.268Z",
+        "amount": 10.786666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T23:28:07.268Z",
+        "amount": 10.786666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

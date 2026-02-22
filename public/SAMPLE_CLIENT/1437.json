@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:19:34.886Z",
+  "id": "3767",
+  "amount": 55.76,
+  "invoiceId": "12853",
+  "paidToMerchant": false,
+  "identifierNumber": 1437,
+  "billingDate": "2022-12-23T00:19:34.886Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14032989",
+      "fullName": "VANESSA MARGARITA GIUBERGIA BELLO",
+      "phoneNumber": "+584142336810"
+    },
+    "installments": [
+      {
+        "id": "12654",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:19:57.464Z",
+        "amount": 27.88,
+        "status": "DONE"
+      },
+      {
+        "id": "12656",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:19:57.464Z",
+        "amount": 9.293333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12657",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:19:57.464Z",
+        "amount": 9.293333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12655",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:19:57.464Z",
+        "amount": 9.293333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

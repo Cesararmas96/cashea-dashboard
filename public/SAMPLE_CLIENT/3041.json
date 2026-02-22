@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T18:12:38.753Z",
+  "id": "8547",
+  "amount": 163,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3041,
+  "billingDate": "2023-01-16T18:12:38.753Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20953218",
+      "fullName": "LEVANDRO JOSE SANCHEZ SOSA",
+      "phoneNumber": "+584143497637"
+    },
+    "installments": [
+      {
+        "id": "29841",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T18:13:32.478Z",
+        "amount": 27.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "29840",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T18:13:32.478Z",
+        "amount": 27.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "29838",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T18:13:32.479Z",
+        "amount": 81.5,
+        "status": "DONE"
+      },
+      {
+        "id": "29839",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T18:13:32.478Z",
+        "amount": 27.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

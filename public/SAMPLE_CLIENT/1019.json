@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-27T18:39:21.657Z",
+  "id": "520",
+  "amount": 86.52,
+  "invoiceId": "783783",
+  "paidToMerchant": false,
+  "identifierNumber": 1019,
+  "billingDate": "2022-11-27T18:39:21.657Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30606949",
+      "fullName": "OTMAN EMANUEL QUINTERO ORTIZ",
+      "phoneNumber": "+584242593355"
+    },
+    "installments": [
+      {
+        "id": "1634",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T18:42:59.243Z",
+        "amount": 46.52,
+        "status": "DONE"
+      },
+      {
+        "id": "1637",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T18:42:59.242Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1636",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T18:42:59.242Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1635",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T18:42:59.242Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

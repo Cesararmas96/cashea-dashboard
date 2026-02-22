@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:15:27.214Z",
+  "id": "4164",
+  "amount": 160,
+  "invoiceId": "40001756",
+  "paidToMerchant": false,
+  "identifierNumber": 4549,
+  "billingDate": "2022-12-23T21:15:27.214Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17963607",
+      "fullName": "JOYCE ANDREINA GARCIA RAMIREZ",
+      "phoneNumber": "+584242870770"
+    },
+    "installments": [
+      {
+        "id": "14097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:16:21.432Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:16:21.432Z",
+        "amount": 80,
+        "status": "DONE"
+      },
+      {
+        "id": "14096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:16:21.432Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:16:21.432Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

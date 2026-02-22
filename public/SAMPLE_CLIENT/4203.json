@@ -1,0 +1,23 @@
+{
+  "createdAt": "2023-01-30T15:16:22.654Z",
+  "id": "11474",
+  "amount": 117,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4203,
+  "billingDate": "2023-01-30T15:16:22.654Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:13:04.513Z",
+  "id": "2569",
+  "amount": 45.3,
+  "invoiceId": "17143",
+  "paidToMerchant": false,
+  "identifierNumber": 3072,
+  "billingDate": "2022-12-19T21:13:04.513Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15049346",
+      "fullName": "YETSIKA ALEXANDRA ALVAREZ PADRON",
+      "phoneNumber": "+584241705336"
+    },
+    "installments": [
+      {
+        "id": "8462",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:21:14.736Z",
+        "amount": 22.65,
+        "status": "DONE"
+      },
+      {
+        "id": "8464",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:21:14.736Z",
+        "amount": 7.55,
+        "status": "DONE"
+      },
+      {
+        "id": "8463",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:21:14.736Z",
+        "amount": 7.55,
+        "status": "DONE"
+      },
+      {
+        "id": "8465",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:21:14.736Z",
+        "amount": 7.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

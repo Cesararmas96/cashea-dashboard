@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:20:14.241Z",
+  "id": "3210",
+  "amount": 50,
+  "invoiceId": "12335",
+  "paidToMerchant": false,
+  "identifierNumber": 3616,
+  "billingDate": "2022-12-21T21:20:14.241Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11202504",
+      "fullName": "ZULLY DEL CARMEN AMADOR FONG",
+      "phoneNumber": "+584122505822"
+    },
+    "installments": [
+      {
+        "id": "10646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:20:36.986Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "10648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:20:36.985Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:20:36.985Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:20:36.985Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

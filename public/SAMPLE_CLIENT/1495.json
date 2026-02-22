@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-26T15:38:23.374Z",
+  "id": "491",
+  "amount": 117.3,
+  "invoiceId": "6867",
+  "paidToMerchant": false,
+  "identifierNumber": 1495,
+  "billingDate": "2022-11-26T15:38:23.374Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14100157",
+      "fullName": "IRIS ZULAY BASTO ESTUPINAN",
+      "phoneNumber": "+584241882965"
+    },
+    "installments": [
+      {
+        "id": "1522",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-26T15:38:53.545Z",
+        "amount": 58.65,
+        "status": "DONE"
+      },
+      {
+        "id": "1524",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-24T15:38:53.544Z",
+        "amount": 19.55,
+        "status": "DONE"
+      },
+      {
+        "id": "1523",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-10T15:38:53.544Z",
+        "amount": 19.55,
+        "status": "DONE"
+      },
+      {
+        "id": "1525",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-07T15:38:53.544Z",
+        "amount": 19.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

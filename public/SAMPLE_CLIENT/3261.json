@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:21:53.805Z",
+  "id": "2765",
+  "amount": 67.31,
+  "invoiceId": "6760",
+  "paidToMerchant": false,
+  "identifierNumber": 3261,
+  "billingDate": "2022-12-20T18:21:53.805Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18277850",
+      "fullName": "MARA ALEJANDRA DE BELTRAN GRATERON",
+      "phoneNumber": "+584140125472"
+    },
+    "installments": [
+      {
+        "id": "9114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:22:07.177Z",
+        "amount": 33.66,
+        "status": "DONE"
+      },
+      {
+        "id": "9117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:22:07.177Z",
+        "amount": 11.216666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "9115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:22:07.177Z",
+        "amount": 11.216666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "9116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:22:07.177Z",
+        "amount": 11.216666666666669,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

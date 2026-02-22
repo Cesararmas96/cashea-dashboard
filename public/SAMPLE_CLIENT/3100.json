@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:40:40.881Z",
+  "id": "2650",
+  "amount": 40.95,
+  "invoiceId": "00001749",
+  "paidToMerchant": false,
+  "identifierNumber": 3100,
+  "billingDate": "2022-12-19T23:40:40.881Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28554826",
+      "fullName": "LUIS ALEXANDER GUERRA ZABALA",
+      "phoneNumber": "+584248491415"
+    },
+    "installments": [
+      {
+        "id": "8705",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:41:21.055Z",
+        "amount": 6.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8702",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:41:21.056Z",
+        "amount": 20.48,
+        "status": "DONE"
+      },
+      {
+        "id": "8704",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:41:21.055Z",
+        "amount": 6.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8703",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:41:21.055Z",
+        "amount": 6.823333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

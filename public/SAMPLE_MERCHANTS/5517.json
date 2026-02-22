@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-05T15:09:51.411Z",
+  "updatedAt": "2025-05-09T03:58:43.066Z",
+  "id": 5517,
+  "name": "LABORATORIO BIO-ANALISIS DEL CENTRO",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c78d3281-a804-46a5-afbe-593d6571a6d7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "bioanalisiscontabilidad@gmail.com",
+    "legalName": "RODRIGO",
+    "phoneNumber": "04144937886"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-06T23:28:17.741Z",
+      "updatedAt": "2025-07-06T23:28:17.741Z",
+      "id": 16862,
+      "merchantId": 5517,
+      "name": "VR_LABORATORIO BIO-ANALISIS DEL CENTRO, AV. FUERZAS AEREA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6397,
+      "address": {
+        "name": "AV. FUERZAS AEREA CASA N°75 URB LA MARACAYA, MARACAY CENTRO MEDICO SAN JOSE",
+        "long": -67.58643749999999,
+        "lat": 10.2391875,
+        "location": "0101000020E610000078E9263188E550C05839B4C8767A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T15:11:34.079Z",
+      "updatedAt": "2025-05-05T15:11:34.079Z",
+      "id": 13566,
+      "merchantId": 5517,
+      "name": "LABORATORIO BIO-ANALISIS DEL CENTRO Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6397,
+      "address": {
+        "name": "AV. FUERZAS AEREA CASA N°75 URB LA MARACAYA, MARACAY CENTRO MEDICO SAN JOSE",
+        "long": -67.58643749999999,
+        "lat": 10.2391875,
+        "location": "0101000020E610000078E9263188E550C05839B4C8767A2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

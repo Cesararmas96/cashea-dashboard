@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:33:03.151Z",
+  "id": "2395",
+  "amount": 109.48,
+  "invoiceId": "17904",
+  "paidToMerchant": false,
+  "identifierNumber": 2859,
+  "billingDate": "2022-12-18T23:33:03.151Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17167187",
+      "fullName": "ARMANDO ENRIQUE TUNON BORGES",
+      "phoneNumber": "+584149030762"
+    },
+    "installments": [
+      {
+        "id": "7870",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:33:22.047Z",
+        "amount": 54.74,
+        "status": "DONE"
+      },
+      {
+        "id": "7871",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:33:22.047Z",
+        "amount": 18.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "7873",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:33:22.047Z",
+        "amount": 18.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "7872",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:33:22.047Z",
+        "amount": 18.246666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

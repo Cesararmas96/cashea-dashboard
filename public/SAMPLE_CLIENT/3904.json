@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:55:25.777Z",
+  "id": "3484",
+  "amount": 34.7,
+  "invoiceId": "2021",
+  "paidToMerchant": false,
+  "identifierNumber": 3904,
+  "billingDate": "2022-12-22T18:55:25.777Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16033756",
+      "fullName": "JESSICA DUBRASKA MARTINEZ HERNANDEZ",
+      "phoneNumber": "+584242741213"
+    },
+    "installments": [
+      {
+        "id": "11646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:55:50.031Z",
+        "amount": 17.35,
+        "status": "DONE"
+      },
+      {
+        "id": "11648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:55:50.031Z",
+        "amount": 5.783333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:55:50.031Z",
+        "amount": 5.783333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:55:50.031Z",
+        "amount": 5.783333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 30,
+    "name": "Korotos Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

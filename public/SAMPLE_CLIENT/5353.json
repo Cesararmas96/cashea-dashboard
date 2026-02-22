@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T20:21:22.606Z",
+  "id": "5052",
+  "amount": 45.01,
+  "invoiceId": "24866",
+  "paidToMerchant": false,
+  "identifierNumber": 5353,
+  "billingDate": "2022-12-26T20:21:22.606Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20131052",
+      "fullName": "KASSANDRA GHERALDINE DEDIASI RONDON",
+      "phoneNumber": "+584142854089"
+    },
+    "installments": [
+      {
+        "id": "17316",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T20:21:49.698Z",
+        "amount": 7.503333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17314",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T20:21:49.699Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17317",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T20:21:49.698Z",
+        "amount": 7.503333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17315",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T20:21:49.698Z",
+        "amount": 7.503333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-08T15:04:55.439Z",
+  "updatedAt": "2025-05-30T14:13:42.123Z",
+  "id": 5630,
+  "name": "Fusionmym 2021",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d746ea1b-0c25-4936-bc1f-80380e919e61",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "corinaseijas@gmail.com",
+    "legalName": "Mildreds",
+    "phoneNumber": "04144680790"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T16:17:30.320Z",
+      "updatedAt": "2025-06-18T16:17:30.320Z",
+      "id": 15902,
+      "merchantId": 5630,
+      "name": "VR_Fusionmym 2021",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5402,
+      "address": {
+        "name": "CALLE CAMPO ELIAS CC CAMPO ELIAS LOCAL E LA VICTORIA EDO ARAGUA",
+        "long": -67.3361875,
+        "lat": 10.229062499999998,
+        "location": "0101000020E6100000BC74931884D550C0E07A14AE47752440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T15:06:07.801Z",
+      "updatedAt": "2025-05-08T15:06:07.801Z",
+      "id": 13799,
+      "merchantId": 5630,
+      "name": "Fusionmym 2021 Aragua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5402,
+      "address": {
+        "name": "CALLE CAMPO ELIAS CC CAMPO ELIAS LOCAL E LA VICTORIA EDO ARAGUA",
+        "long": -67.3361875,
+        "lat": 10.229062499999998,
+        "location": "0101000020E6100000BC74931884D550C0E07A14AE47752440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

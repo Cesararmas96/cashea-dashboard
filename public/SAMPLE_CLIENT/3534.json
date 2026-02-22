@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T01:51:00.180Z",
+  "id": "3057",
+  "amount": 241.36,
+  "invoiceId": "13631",
+  "paidToMerchant": false,
+  "identifierNumber": 3534,
+  "billingDate": "2022-12-21T01:51:00.180Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11670238",
+      "fullName": "MARIBEL CABRAL DE ABREU",
+      "phoneNumber": "+584144545229"
+    },
+    "installments": [
+      {
+        "id": "10110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:51:34.730Z",
+        "amount": 120.68,
+        "status": "DONE"
+      },
+      {
+        "id": "10112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:51:34.730Z",
+        "amount": 39.59043685066967,
+        "status": "DONE"
+      },
+      {
+        "id": "10111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:51:34.730Z",
+        "amount": 40.22666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:51:34.730Z",
+        "amount": 40.8626666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

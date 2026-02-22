@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:43:33.698Z",
+  "id": "4568",
+  "amount": 30.49,
+  "invoiceId": "12667",
+  "paidToMerchant": false,
+  "identifierNumber": 4940,
+  "billingDate": "2022-12-24T15:43:33.698Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25154945",
+      "fullName": "CRISMARY DEL CARMEN TOVAR BORREGALES",
+      "phoneNumber": "+584120204973"
+    },
+    "installments": [
+      {
+        "id": "15574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:44:00.880Z",
+        "amount": 15.24,
+        "status": "DONE"
+      },
+      {
+        "id": "15575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:44:00.880Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:44:00.880Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:44:00.880Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

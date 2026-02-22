@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T18:11:18.380Z",
+  "id": "770",
+  "amount": 34.14,
+  "invoiceId": "00016844",
+  "paidToMerchant": false,
+  "identifierNumber": 1516,
+  "billingDate": "2022-12-06T18:11:18.380Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11233189",
+      "fullName": "ANA TERESA OCANDO MARTINEZ",
+      "phoneNumber": "+584241591970"
+    },
+    "installments": [
+      {
+        "id": "2490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T18:19:06.811Z",
+        "amount": 17.07,
+        "status": "DONE"
+      },
+      {
+        "id": "2492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T18:19:06.811Z",
+        "amount": 5.69,
+        "status": "DONE"
+      },
+      {
+        "id": "2493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T18:19:06.811Z",
+        "amount": 5.69,
+        "status": "DONE"
+      },
+      {
+        "id": "2491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T18:19:06.811Z",
+        "amount": 5.69,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

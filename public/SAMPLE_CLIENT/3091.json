@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:10:40.974Z",
+  "id": "2631",
+  "amount": 35,
+  "invoiceId": "6681",
+  "paidToMerchant": false,
+  "identifierNumber": 3091,
+  "billingDate": "2022-12-19T23:10:40.974Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29596414",
+      "fullName": "DANIELA ALEJANDRA ZERPA MORALES",
+      "phoneNumber": "+584129853564"
+    },
+    "installments": [
+      {
+        "id": "8642",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:14:41.572Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8645",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:14:41.571Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8644",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:14:41.571Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8643",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:14:41.571Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

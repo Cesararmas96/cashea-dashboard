@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-07T13:46:44.888Z",
+  "updatedAt": "2025-04-22T15:50:04.939Z",
+  "id": 5086,
+  "name": "Autoparts 77",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ef62d633-9cb4-4b64-9dce-905e3c3d313a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "serviparts77@gmail.com",
+    "legalName": "ALEXIS JOSE",
+    "phoneNumber": "4126250457"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T13:50:27.162Z",
+      "updatedAt": "2025-04-07T13:50:27.162Z",
+      "id": 12659,
+      "merchantId": 5086,
+      "name": "Autoparts 77 Putno Fijo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7633,
+      "address": {
+        "name": "SERCOR CENTRO, CALLE COMERCIO. EDIF SAN MARTIN PB-57. PUNTO FIJO",
+        "long": -70.21125,
+        "lat": 11.686250000000001,
+        "location": "0101000020E6100000EC51B81E858D51C090C2F5285C5F2740",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T18:37:42.378Z",
+      "updatedAt": "2025-05-15T18:37:42.378Z",
+      "id": 14192,
+      "merchantId": 5086,
+      "name": "VR_Autoparts 77",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7633,
+      "address": {
+        "name": "SERCOR CENTRO, CALLE COMERCIO. EDIF SAN MARTIN PB-57. PUNTO FIJO",
+        "long": -70.21125,
+        "lat": 11.686250000000001,
+        "location": "0101000020E6100000EC51B81E858D51C090C2F5285C5F2740",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

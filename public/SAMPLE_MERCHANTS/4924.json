@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-03-31T13:57:36.369Z",
+  "updatedAt": "2025-04-08T14:24:39.090Z",
+  "id": 4924,
+  "name": "Grupo Medilab",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 606,
+  "tags": [],
+  "uuid": "b63d9012-ed33-4e6f-afdb-bec7d730ac7b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "grupomedilabt@gmail.com",
+    "legalName": "francisco",
+    "phoneNumber": "4244108071"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-31T13:58:32.503Z",
+      "updatedAt": "2025-03-31T13:58:32.503Z",
+      "id": 12399,
+      "merchantId": 4924,
+      "name": "Grupo Medilab Tocuyito",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 606,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5538,
+      "address": {
+        "name": "Av Farriar cc. Guataparo locales 8,9 y 13 PB, casco de tocuyito, libertador, carabobo",
+        "long": -68.0949375,
+        "lat": 10.0925625,
+        "location": "0101000020E61000007F6ABC74130651C008AC1C5A642F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T14:10:04.232Z",
+      "updatedAt": "2025-03-31T14:10:04.232Z",
+      "id": 12406,
+      "merchantId": 4924,
+      "name": "Grupo Medilab Av Boivar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 606,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5538,
+      "address": {
+        "name": "Av. bolivar cruce con calle plaza local n.1, Casco de tocuyito, libertador Carabobo",
+        "long": -68.0956875,
+        "lat": 10.091812500000003,
+        "location": "0101000020E6100000B4C876BE1F0651C060BA490C022F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

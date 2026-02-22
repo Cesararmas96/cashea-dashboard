@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T14:39:35.258Z",
+  "id": "3077",
+  "amount": 40.59,
+  "invoiceId": "8772",
+  "paidToMerchant": false,
+  "identifierNumber": 3525,
+  "billingDate": "2022-12-21T14:39:35.258Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25991175",
+      "fullName": "MAGDA RORELYS SILVA VALDEZ",
+      "phoneNumber": "+584241809006"
+    },
+    "installments": [
+      {
+        "id": "10194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T14:41:38.575Z",
+        "amount": 20.3,
+        "status": "DONE"
+      },
+      {
+        "id": "10196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T14:41:38.575Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "10195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T14:41:38.575Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "10197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T14:41:38.575Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

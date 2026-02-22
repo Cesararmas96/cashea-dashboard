@@ -1,0 +1,164 @@
+[
+  {
+    "id": 47705,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J400640407",
+    "bankName": "Banesco",
+    "bankHolder": "MNF 128 GROUP, C.A.",
+    "internalBankHolder": "MNF 128 GROUP, C.A.",
+    "account": "01340348133481098678",
+    "accountType": "Corriente",
+    "phoneNumber": "4220153770",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 48008,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J400640407",
+    "bankName": "Banesco",
+    "bankHolder": "MNF 128 GROUP, C.A.",
+    "internalBankHolder": "MNF 128 GROUP, C.A.",
+    "account": "01340348133481098678",
+    "accountType": "Corriente",
+    "phoneNumber": "4220153770",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 47703,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J400640407",
+    "bankName": "Banesco",
+    "bankHolder": "MNF 128 GROUP, C.A.",
+    "internalBankHolder": "MNF 128 GROUP, C.A.",
+    "account": "01340348133481098678",
+    "accountType": "Corriente",
+    "phoneNumber": "4220153770",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 48006,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J400640407",
+    "bankName": "Banesco",
+    "bankHolder": "MNF 128 GROUP, C.A.",
+    "internalBankHolder": "MNF 128 GROUP, C.A.",
+    "account": "01340348133481098678",
+    "accountType": "Corriente",
+    "phoneNumber": "4220153770",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 47704,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J400640407",
+    "bankName": "Banesco",
+    "bankHolder": "MNF 128 GROUP, C.A.",
+    "internalBankHolder": "MNF 128 GROUP, C.A.",
+    "account": "01340348133481098678",
+    "accountType": "Corriente",
+    "phoneNumber": "4220153770",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 48007,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J400640407",
+    "bankName": "Banesco",
+    "bankHolder": "MNF 128 GROUP, C.A.",
+    "internalBankHolder": "MNF 128 GROUP, C.A.",
+    "account": "01340348133481098678",
+    "accountType": "Corriente",
+    "phoneNumber": "4220153770",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

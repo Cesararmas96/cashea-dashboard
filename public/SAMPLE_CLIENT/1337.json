@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T19:48:26.997Z",
+  "id": "427",
+  "amount": 339.89,
+  "invoiceId": "783415",
+  "paidToMerchant": false,
+  "identifierNumber": 1337,
+  "billingDate": "2022-11-19T19:48:26.997Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18359171",
+      "fullName": "PEDRO JULIO VALLENILLA SOSA",
+      "phoneNumber": "+5491133677807"
+    },
+    "installments": [
+      {
+        "id": "1314",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T19:49:47.560Z",
+        "amount": 169.94,
+        "status": "DONE"
+      },
+      {
+        "id": "1317",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T19:49:47.560Z",
+        "amount": 56.65,
+        "status": "DONE"
+      },
+      {
+        "id": "1316",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T19:49:47.560Z",
+        "amount": 56.65,
+        "status": "DONE"
+      },
+      {
+        "id": "1315",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T19:49:47.560Z",
+        "amount": 56.65,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,38 @@
+{
+  "createdAt": "2025-05-05T19:59:36.159Z",
+  "updatedAt": "2026-01-26T19:08:58.369Z",
+  "id": 5540,
+  "name": "Farmacias SAAS (Virgen de Fatima)/DEPRECAR1",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "12a51ca9-4b4b-48fb-a2a2-be0d09295247",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "farmaciavirgendefatimapalmac@gmaiil.com",
+    "legalName": "José Brazao ",
+    "phoneNumber": "+584125260697"
+  },
+  "stores": [],
+  "installmentPlansAvailable": [],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

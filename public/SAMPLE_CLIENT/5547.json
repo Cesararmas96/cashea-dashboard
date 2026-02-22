@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T18:29:58.944Z",
+  "id": "5226",
+  "amount": 44.27,
+  "invoiceId": "17511",
+  "paidToMerchant": false,
+  "identifierNumber": 5547,
+  "billingDate": "2022-12-27T18:29:58.944Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17983603",
+      "fullName": "DANIELA ALEJANDRA CUSATI GIMENEZ",
+      "phoneNumber": "+584142576267"
+    },
+    "installments": [
+      {
+        "id": "17910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T18:32:22.143Z",
+        "amount": 22.14,
+        "status": "DONE"
+      },
+      {
+        "id": "17912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T18:32:22.142Z",
+        "amount": 7.376666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "17911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T18:32:22.142Z",
+        "amount": 7.376666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "17913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T18:32:22.142Z",
+        "amount": 7.376666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

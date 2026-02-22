@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:08:14.984Z",
+  "id": "3461",
+  "amount": 68.7,
+  "invoiceId": "44342",
+  "paidToMerchant": false,
+  "identifierNumber": 3912,
+  "billingDate": "2022-12-22T18:08:14.984Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15585521",
+      "fullName": "YULEIDY LILIANA SALAZAR ESPINOZA",
+      "phoneNumber": "+584149110449"
+    },
+    "installments": [
+      {
+        "id": "11565",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:08:33.042Z",
+        "amount": 11.450000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "11562",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:08:33.042Z",
+        "amount": 34.35,
+        "status": "DONE"
+      },
+      {
+        "id": "11563",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:08:33.042Z",
+        "amount": 11.450000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "11564",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:08:33.042Z",
+        "amount": 11.450000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

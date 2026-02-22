@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:39:56.687Z",
+  "id": "2649",
+  "amount": 106.96,
+  "invoiceId": "6686",
+  "paidToMerchant": false,
+  "identifierNumber": 3099,
+  "billingDate": "2022-12-19T23:39:56.687Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18042293",
+      "fullName": "ERICK JOHEN DE SOUSA GORRIN",
+      "phoneNumber": "+584242776664"
+    },
+    "installments": [
+      {
+        "id": "8698",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:40:36.926Z",
+        "amount": 53.48,
+        "status": "DONE"
+      },
+      {
+        "id": "8701",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:40:36.925Z",
+        "amount": 17.826666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "8700",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:40:36.925Z",
+        "amount": 17.826666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "8699",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:40:36.925Z",
+        "amount": 17.826666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

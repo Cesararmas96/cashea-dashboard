@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T01:22:09.812Z",
+  "id": "3828",
+  "amount": 57.7,
+  "invoiceId": "12861",
+  "paidToMerchant": false,
+  "identifierNumber": 4168,
+  "billingDate": "2022-12-23T01:22:09.812Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-08T04:00:00.907+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "12887",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30062467",
+      "fullName": "CHRISTIAN ANDRES GONZALEZ MORILLO",
+      "phoneNumber": "+584241554738"
+    },
+    "installments": [
+      {
+        "id": "12889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:22:26.158Z",
+        "amount": 9.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:22:26.159Z",
+        "amount": 28.85,
+        "status": "DONE"
+      },
+      {
+        "id": "12888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:22:26.158Z",
+        "amount": 9.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:22:26.158Z",
+        "amount": 9.616666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

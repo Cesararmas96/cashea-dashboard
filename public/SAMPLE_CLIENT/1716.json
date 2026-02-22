@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T00:19:36.268Z",
+  "id": "1040",
+  "amount": 30.4,
+  "invoiceId": "11632",
+  "paidToMerchant": false,
+  "identifierNumber": 1716,
+  "billingDate": "2022-12-10T00:19:36.268Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17489699",
+      "fullName": "MEYERLIN DEL CARMEN VERA FERNANDEZ",
+      "phoneNumber": "+584242997755"
+    },
+    "installments": [
+      {
+        "id": "3305",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T00:22:10.015Z",
+        "amount": 5.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3303",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T00:22:10.015Z",
+        "amount": 5.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3304",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T00:22:10.015Z",
+        "amount": 5.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3302",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T00:22:10.016Z",
+        "amount": 15.2,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

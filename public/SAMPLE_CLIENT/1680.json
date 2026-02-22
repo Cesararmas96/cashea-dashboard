@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T19:24:54.391Z",
+  "id": "1557",
+  "amount": 69.94,
+  "invoiceId": "48501",
+  "paidToMerchant": false,
+  "identifierNumber": 1680,
+  "billingDate": "2022-12-15T19:24:54.391Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30077110",
+      "fullName": "ENDERSON JOSUE GARCIA PARRA",
+      "phoneNumber": "+584142320377"
+    },
+    "installments": [
+      {
+        "id": "5032",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T19:25:36.974Z",
+        "amount": 11.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5031",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T19:25:36.974Z",
+        "amount": 11.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5033",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T19:25:36.974Z",
+        "amount": 11.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5030",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T19:25:36.975Z",
+        "amount": 34.97,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:35:49.215Z",
+  "id": "5431",
+  "amount": 35,
+  "invoiceId": "00929",
+  "paidToMerchant": false,
+  "identifierNumber": 5737,
+  "billingDate": "2022-12-28T17:35:49.215Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15080972",
+      "fullName": "ARELIS EMILIA RUBIO BAUTISTA",
+      "phoneNumber": "+584122886009"
+    },
+    "installments": [
+      {
+        "id": "18658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:37:04.658Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:37:04.657Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:37:04.657Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:37:04.657Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

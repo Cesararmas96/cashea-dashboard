@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:15:23.167Z",
+  "id": "2634",
+  "amount": 78,
+  "invoiceId": "13704",
+  "paidToMerchant": false,
+  "identifierNumber": 3096,
+  "billingDate": "2022-12-19T23:15:23.167Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11675242",
+      "fullName": "ALEXANDER CEFERINO RIVERO VALERA",
+      "phoneNumber": "+584242108900"
+    },
+    "installments": [
+      {
+        "id": "8646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:16:24.925Z",
+        "amount": 39,
+        "status": "DONE"
+      },
+      {
+        "id": "8647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:16:24.924Z",
+        "amount": 13,
+        "status": "DONE"
+      },
+      {
+        "id": "8649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:16:24.924Z",
+        "amount": 13,
+        "status": "DONE"
+      },
+      {
+        "id": "8648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:16:24.924Z",
+        "amount": 13,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

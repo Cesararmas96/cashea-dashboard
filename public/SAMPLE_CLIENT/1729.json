@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-09T23:47:38.766Z",
+  "id": "1031",
+  "amount": 40.47,
+  "invoiceId": "13912",
+  "paidToMerchant": false,
+  "identifierNumber": 1729,
+  "billingDate": "2022-12-09T23:47:38.766Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2022-12-20T04:00:00.859+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": 3271,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12471973",
+      "fullName": "SOLSIRETH COROMOTO PEDRON MARTINEZ",
+      "phoneNumber": "+584122581973"
+    },
+    "installments": [
+      {
+        "id": "3273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T23:48:02.175Z",
+        "amount": 6.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T23:48:02.175Z",
+        "amount": 6.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T23:48:02.175Z",
+        "amount": 6.746666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T23:48:02.175Z",
+        "amount": 20.23,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

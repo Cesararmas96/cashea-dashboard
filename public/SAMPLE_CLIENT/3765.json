@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:30:40.680Z",
+  "id": "3335",
+  "amount": 56.82,
+  "invoiceId": "8876",
+  "paidToMerchant": false,
+  "identifierNumber": 3765,
+  "billingDate": "2022-12-22T00:30:40.680Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13736501",
+      "fullName": "ELIDA ROSA HERNANDEZ ZAMBRANO",
+      "phoneNumber": "+584241263836"
+    },
+    "installments": [
+      {
+        "id": "11110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:31:12.641Z",
+        "amount": 28.41,
+        "status": "DONE"
+      },
+      {
+        "id": "11113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:31:12.640Z",
+        "amount": 9.47,
+        "status": "DONE"
+      },
+      {
+        "id": "11112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:31:12.640Z",
+        "amount": 9.47,
+        "status": "DONE"
+      },
+      {
+        "id": "11111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:31:12.640Z",
+        "amount": 9.47,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-10T04:04:33.035Z",
+  "updatedAt": "2025-09-11T21:04:59.726Z",
+  "id": 5159,
+  "name": "Maba Cosmetics (Cosmofarma Exito 24)",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 3476,
+  "tags": [],
+  "uuid": "a16cae54-9528-4e33-9f1a-077736adde01",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "admon.mf24@gmail.com",
+    "legalName": "Maria Batthika",
+    "phoneNumber": "4249121823"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T21:07:39.854Z",
+      "updatedAt": "2025-04-25T21:07:39.854Z",
+      "id": 13296,
+      "merchantId": 5159,
+      "name": "Maba Cosmetics / DESUSO",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4501,
+      "address": {
+        "name": "Maba Cosmetics Calle Azcue",
+        "long": -63.1814375,
+        "lat": 9.745437500000008,
+        "location": "0101000020E61000004E62105839974FC0906CE7FBA97D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-10T04:08:04.696Z",
+      "updatedAt": "2025-04-10T04:08:04.696Z",
+      "id": 12792,
+      "merchantId": 5159,
+      "name": "Maba Cosmetics Maturin (Cosmofarma Exito 24)",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4501,
+      "address": {
+        "name": "Maba Cosmetics Maturin",
+        "long": -63.17806250000001,
+        "lat": 9.745437500000008,
+        "location": "0101000020E6100000701283C0CA964FC0906CE7FBA97D2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T21:56:11.381Z",
+  "id": "5578",
+  "amount": 113.52,
+  "invoiceId": "13940",
+  "paidToMerchant": false,
+  "identifierNumber": 5887,
+  "billingDate": "2022-12-28T21:56:11.381Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-28T04:00:00.619+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "19176",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16113800",
+      "fullName": "ABRAHAM ACOSTA RINCON",
+      "phoneNumber": "+584126142115"
+    },
+    "installments": [
+      {
+        "id": "19177",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:56:32.095Z",
+        "amount": 18.919999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "19176",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:56:32.095Z",
+        "amount": 18.919999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "19174",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:56:32.096Z",
+        "amount": 56.76,
+        "status": "DONE"
+      },
+      {
+        "id": "19175",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:56:32.095Z",
+        "amount": 18.919999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

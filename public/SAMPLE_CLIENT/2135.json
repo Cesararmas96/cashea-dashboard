@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T20:30:56.314Z",
+  "id": "1574",
+  "amount": 108.98,
+  "invoiceId": "26318",
+  "paidToMerchant": false,
+  "identifierNumber": 2135,
+  "billingDate": "2022-12-15T20:30:56.314Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13750644",
+      "fullName": "ABRAHAM ABREU FRANQUIS",
+      "phoneNumber": "+584241746197"
+    },
+    "installments": [
+      {
+        "id": "5086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T20:31:40.905Z",
+        "amount": 54.49,
+        "status": "DONE"
+      },
+      {
+        "id": "5089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T20:31:40.905Z",
+        "amount": 18.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T20:31:40.905Z",
+        "amount": 18.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T20:31:40.905Z",
+        "amount": 18.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

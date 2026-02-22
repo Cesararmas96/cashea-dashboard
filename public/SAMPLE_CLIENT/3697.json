@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:54:03.484Z",
+  "id": "3269",
+  "amount": 47.99,
+  "invoiceId": "8858",
+  "paidToMerchant": false,
+  "identifierNumber": 3697,
+  "billingDate": "2022-12-21T22:54:03.484Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17975963",
+      "fullName": "KARINA ALEJANDRA OCHOA TOVAR",
+      "phoneNumber": "+584142307600"
+    },
+    "installments": [
+      {
+        "id": "10862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:55:17.132Z",
+        "amount": 24,
+        "status": "DONE"
+      },
+      {
+        "id": "10865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:55:17.131Z",
+        "amount": 7.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:55:17.131Z",
+        "amount": 7.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:55:17.131Z",
+        "amount": 7.996666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

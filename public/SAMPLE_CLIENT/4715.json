@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:54:02.920Z",
+  "id": "4688",
+  "amount": 61.39,
+  "invoiceId": "18551",
+  "paidToMerchant": false,
+  "identifierNumber": 4715,
+  "billingDate": "2022-12-24T17:54:02.920Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13615799",
+      "fullName": "ASTRID MOR TERAN SANABRIA",
+      "phoneNumber": "+584142277747"
+    },
+    "installments": [
+      {
+        "id": "16034",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:54:29.749Z",
+        "amount": 30.7,
+        "status": "DONE"
+      },
+      {
+        "id": "16036",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:54:29.748Z",
+        "amount": 10.23,
+        "status": "DONE"
+      },
+      {
+        "id": "16037",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:54:29.748Z",
+        "amount": 10.23,
+        "status": "DONE"
+      },
+      {
+        "id": "16035",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:54:29.748Z",
+        "amount": 10.23,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

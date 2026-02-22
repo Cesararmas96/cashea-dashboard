@@ -1,0 +1,128 @@
+[
+  {
+    "id": 172,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J295688784",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIAL TAPIR C.A.",
+    "internalBankHolder": "COMERCIAL TAPIR C.A.",
+    "account": "01910098742198357583",
+    "accountType": "Corriente",
+    "phoneNumber": "4242835755",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 170,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J295688784",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIAL TAPIR C.A.",
+    "internalBankHolder": "COMERCIAL TAPIR C.A.",
+    "account": "01910098742198357583",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 171,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J295688784",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIAL TAPIR C.A.",
+    "internalBankHolder": "COMERCIAL TAPIR C.A.",
+    "account": "01910098742198357583",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 173,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J295688784",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIAL TAPIR C.A.",
+    "internalBankHolder": "COMERCIAL TAPIR C.A.",
+    "account": "01910098782398248578",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

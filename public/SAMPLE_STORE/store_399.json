@@ -1,0 +1,128 @@
+[
+  {
+    "id": 288,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J309742779",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "internalBankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "account": "01910098702198378199",
+    "accountType": "Corriente",
+    "phoneNumber": "4125930491",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 286,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J309742779",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "internalBankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "account": "01910098702198378199",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 287,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J309742779",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "internalBankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "account": "01910098702198378199",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 289,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J309742779",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "internalBankHolder": "DISTRIBUIDORA INTERCOTTON MARACAY, C.A",
+    "account": "01910098752398276228",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

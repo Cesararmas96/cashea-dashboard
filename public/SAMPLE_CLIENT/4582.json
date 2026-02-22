@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:18:28.360Z",
+  "id": "4168",
+  "amount": 45.5,
+  "invoiceId": "1940",
+  "paidToMerchant": false,
+  "identifierNumber": 4582,
+  "billingDate": "2022-12-23T21:18:28.360Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19087029",
+      "fullName": "JOSE DANIEL FAJARDO RIVAS",
+      "phoneNumber": "+584241256010"
+    },
+    "installments": [
+      {
+        "id": "14117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:19:20.984Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:19:20.985Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "14115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:19:20.984Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:19:20.984Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

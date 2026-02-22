@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:20:27.472Z",
+  "id": "4172",
+  "amount": 312.01,
+  "invoiceId": "49174",
+  "paidToMerchant": false,
+  "identifierNumber": 4528,
+  "billingDate": "2022-12-23T21:20:27.472Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-09T04:00:01.274+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "14131",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14037620",
+      "fullName": "JACOBO ELIU MOROS LLOVERA",
+      "phoneNumber": "+584123342814"
+    },
+    "installments": [
+      {
+        "id": "14133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:21:25.687Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "14132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:21:25.687Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "14131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:21:25.687Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "14130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:21:25.687Z",
+        "amount": 182.01,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

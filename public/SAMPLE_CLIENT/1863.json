@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:30:09.827Z",
+  "id": "1218",
+  "amount": 55,
+  "invoiceId": "307092",
+  "paidToMerchant": false,
+  "identifierNumber": 1863,
+  "billingDate": "2022-12-11T20:30:09.827Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27309667",
+      "fullName": "ODALIS NATALICE REVETTE RIVAS",
+      "phoneNumber": "+584241906588"
+    },
+    "installments": [
+      {
+        "id": "3905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:30:26.735Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:30:26.735Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "3904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:30:26.735Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:30:26.735Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

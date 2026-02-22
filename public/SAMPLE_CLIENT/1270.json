@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-07T21:30:45.155Z",
+  "id": "81",
+  "amount": 50,
+  "invoiceId": "2007",
+  "paidToMerchant": false,
+  "identifierNumber": 1270,
+  "billingDate": "2022-10-07T21:30:45.155Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27439563",
+      "fullName": "VERONICA VALENTINA PADILLA REY",
+      "phoneNumber": "+584242726756"
+    },
+    "installments": [
+      {
+        "id": "257",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-07T21:33:35.434Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "259",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-04T21:33:35.433Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "258",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-21T21:33:35.433Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "260",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-18T21:33:35.433Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

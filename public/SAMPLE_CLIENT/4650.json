@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:17:51.893Z",
+  "id": "4316",
+  "amount": 50,
+  "invoiceId": "307651",
+  "paidToMerchant": false,
+  "identifierNumber": 4650,
+  "billingDate": "2022-12-23T23:17:51.893Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10983436",
+      "fullName": "YUMAIRA MARIA UZCATEGUI DE CARTAYA",
+      "phoneNumber": "+584123997685"
+    },
+    "installments": [
+      {
+        "id": "14652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:18:18.558Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:18:18.558Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "14653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:18:18.558Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:18:18.558Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

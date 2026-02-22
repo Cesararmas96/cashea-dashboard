@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:19:13.080Z",
+  "id": "3579",
+  "amount": 41,
+  "invoiceId": "4253",
+  "paidToMerchant": false,
+  "identifierNumber": 3994,
+  "billingDate": "2022-12-22T21:19:13.080Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22198320",
+      "fullName": "MARIA ALEJANDRA DIAZ ROJAS",
+      "phoneNumber": "+584145740118"
+    },
+    "installments": [
+      {
+        "id": "11982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:19:42.543Z",
+        "amount": 20.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:19:42.543Z",
+        "amount": 6.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:19:42.543Z",
+        "amount": 6.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:19:42.543Z",
+        "amount": 6.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

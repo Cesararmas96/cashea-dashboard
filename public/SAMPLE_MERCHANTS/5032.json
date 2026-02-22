@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-04T13:51:31.873Z",
+  "updatedAt": "2025-05-16T15:34:36.799Z",
+  "id": 5032,
+  "name": "Cusimano ",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0b1767fe-cdc5-4ce5-a135-48d6daf5c676",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "josefinacusi@hotmail.com",
+    "legalName": "Josefina",
+    "phoneNumber": "04245281358"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T13:53:22.726Z",
+      "updatedAt": "2025-04-04T13:53:22.726Z",
+      "id": 12593,
+      "merchantId": 5032,
+      "name": "Cusimano Guanare",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4455,
+      "address": {
+        "name": "CARRERA 6 ENTRE CALLES 10 Y 11GUANARE, PORTUGUESA",
+        "long": -69.7470625,
+        "lat": 9.045187499999997,
+        "location": "0101000020E61000005A643BDFCF6F51C04060E5D022172240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

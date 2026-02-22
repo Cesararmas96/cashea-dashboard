@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T22:31:37.330Z",
+  "id": "5611",
+  "amount": 45.73,
+  "invoiceId": "581",
+  "paidToMerchant": false,
+  "identifierNumber": 5866,
+  "billingDate": "2022-12-28T22:31:37.330Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-14T04:00:00.563+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "19295",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30309484",
+      "fullName": "MARIANGEL VICTORIA SANCHEZ PEDROZA",
+      "phoneNumber": "+584241156810"
+    },
+    "installments": [
+      {
+        "id": "19297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:32:20.883Z",
+        "amount": 7.623333333333332,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:32:20.883Z",
+        "amount": 7.623333333333332,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:32:20.883Z",
+        "amount": 7.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:32:20.883Z",
+        "amount": 22.86,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-15T15:12:57.890Z",
+  "updatedAt": "2025-04-24T12:50:22.538Z",
+  "id": 5244,
+  "name": "Luna Rosa",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7d0c40e4-8e96-4dc2-8200-c79cbdc1930a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "lesave2000@yahoo.com",
+    "legalName": "Leslie",
+    "phoneNumber": "04242145170"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T15:14:27.911Z",
+      "updatedAt": "2025-04-15T15:14:27.911Z",
+      "id": 13003,
+      "merchantId": 5244,
+      "name": "Luna Rosa Av Francisco De Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6054,
+      "address": {
+        "name": "Av Francisco de Miranda edif icoa e, icoa uru bloque icoa piso PB local número 10 urb parcelamiento centro residencial Boleita",
+        "long": -66.8289375,
+        "lat": 10.491687500000012,
+        "location": "0101000020E6100000643BDF4F0DB550C040B4C876BEFB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-01T14:35:44.591Z",
+      "updatedAt": "2025-05-01T14:35:44.591Z",
+      "id": 13498,
+      "merchantId": 5244,
+      "name": "Vr_Luna Rosa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6054,
+      "address": {
+        "name": "Av Francisco de Miranda edif icoa e, icoa uru bloque icoa piso PB local número 10 urb parcelamiento centro residencial Boleita",
+        "long": -66.8289375,
+        "lat": 10.491687500000012,
+        "location": "0101000020E6100000643BDF4F0DB550C040B4C876BEFB2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-05-13T16:03:58.020Z",
+  "updatedAt": "2025-06-03T13:11:27.777Z",
+  "id": 5737,
+  "name": "Iconica Boutique",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 866,
+  "tags": [],
+  "uuid": "fb5cc43d-9211-465f-a1e1-4e986d05ba17",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "iconica.zelle@gmail.com",
+    "legalName": "CAROLINA",
+    "phoneNumber": "04145196313"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T17:04:13.516Z",
+      "updatedAt": "2025-06-18T17:04:13.516Z",
+      "id": 15916,
+      "merchantId": 5737,
+      "name": "VR_Iconica Boutique",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4214,
+      "address": {
+        "name": "AV. CARONI, CASA NRO. 491, URB. FUNDALARA BARQUISIMETO",
+        "long": -69.2806875,
+        "lat": 10.067687499999991,
+        "location": "0101000020E61000005839B4C8F65151C028B29DEFA7222440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T16:20:19.425Z",
+      "updatedAt": "2025-05-13T16:20:19.425Z",
+      "id": 14053,
+      "merchantId": 5737,
+      "name": "Iconica Boutique Urb Fundalara",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 866,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4214,
+      "address": {
+        "name": "AV. CARONI, CASA NRO. 491, URB. FUNDALARA BARQUISIMETO",
+        "long": -69.2806875,
+        "lat": 10.067687499999991,
+        "location": "0101000020E61000005839B4C8F65151C028B29DEFA7222440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T16:06:25.958Z",
+      "updatedAt": "2025-05-13T16:06:25.958Z",
+      "id": 14048,
+      "merchantId": 5737,
+      "name": "Iconica Boutique Nueva Segovia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 866,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4214,
+      "address": {
+        "name": "CARRERA 1 ENTRE CALLES 7A, NUEVA SEGOVIA, BARQUISIMETO",
+        "long": -69.38418750000001,
+        "lat": 10.056562499999984,
+        "location": "0101000020E61000000D022B87965851C0205C8FC2F51C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

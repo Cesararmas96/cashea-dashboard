@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-15T15:18:58.812Z",
+  "updatedAt": "2025-04-21T14:31:06.123Z",
+  "id": 5245,
+  "name": "Friomaxing ",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "522b1fac-e4b2-4333-a9ee-1d1e0dbd131f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "friomaxing2023@gmail.com",
+    "legalName": "Hector",
+    "phoneNumber": "4249421576"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T15:20:09.143Z",
+      "updatedAt": "2025-04-15T15:20:09.143Z",
+      "id": 13004,
+      "merchantId": 5245,
+      "name": "Friomaxing Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3724,
+      "address": {
+        "name": "Calle Azcue Cruce con cantaura, Edificio Angio, Local LC01,  Maturin Edo Monagas.",
+        "long": -63.18875,
+        "lat": 9.743750000000006,
+        "location": "0101000020E61000005C8FC2F528984FC0D0CCCCCCCC7C2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-05T15:59:34.524Z",
+      "updatedAt": "2025-06-05T15:59:34.524Z",
+      "id": 15245,
+      "merchantId": 5245,
+      "name": "VR_Friomaxing",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3724,
+      "address": {
+        "name": "Calle Azcue Cruce con cantaura, Edificio Angio, Local LC01,  Maturin Edo Monagas.",
+        "long": -63.18875,
+        "lat": 9.743750000000006,
+        "location": "0101000020E61000005C8FC2F528984FC0D0CCCCCCCC7C2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

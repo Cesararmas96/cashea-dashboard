@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-07T13:47:00.101Z",
+  "id": "798",
+  "amount": 349.9952,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1509,
+  "billingDate": "2022-12-07T13:47:00.101Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "7822876",
+      "fullName": "EUDO EMIRO AGUIRRE",
+      "phoneNumber": "+584241276691"
+    },
+    "installments": [
+      {
+        "id": "2576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T13:47:00.154Z",
+        "amount": 26.66506666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "2575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T13:47:00.154Z",
+        "amount": 26.66506666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "2577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T13:47:00.154Z",
+        "amount": 26.66506666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "2574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T13:47:00.155Z",
+        "amount": 270,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 32,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

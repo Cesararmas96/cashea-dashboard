@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-23T00:46:06.970Z",
+  "id": "163",
+  "amount": 210,
+  "invoiceId": "9889",
+  "paidToMerchant": false,
+  "identifierNumber": 1172,
+  "billingDate": "2022-10-23T00:46:06.970Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11900201",
+      "fullName": "SIRIANA DOREIBY CHACON RODRIGUEZ",
+      "phoneNumber": "+584141469051"
+    },
+    "installments": [
+      {
+        "id": "513",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-23T00:52:27.631Z",
+        "amount": 110,
+        "status": "DONE"
+      },
+      {
+        "id": "516",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-04T00:52:27.630Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "515",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-20T00:52:27.630Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "514",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-06T00:52:27.630Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T00:50:49.364Z",
+  "id": "1045",
+  "amount": 31.1,
+  "invoiceId": "11635",
+  "paidToMerchant": false,
+  "identifierNumber": 1721,
+  "billingDate": "2022-12-10T00:50:49.364Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28201931",
+      "fullName": "VICTORIA JOSE FLORES GIROT",
+      "phoneNumber": "+584120165027"
+    },
+    "installments": [
+      {
+        "id": "3326",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T00:51:13.297Z",
+        "amount": 15.55,
+        "status": "DONE"
+      },
+      {
+        "id": "3327",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T00:51:13.297Z",
+        "amount": 5.183333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3328",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T00:51:13.297Z",
+        "amount": 5.183333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3329",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T00:51:13.297Z",
+        "amount": 5.183333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

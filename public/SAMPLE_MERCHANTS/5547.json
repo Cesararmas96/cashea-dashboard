@@ -1,0 +1,244 @@
+{
+  "createdAt": "2025-05-05T21:31:23.274Z",
+  "updatedAt": "2025-06-09T22:12:08.564Z",
+  "id": 5547,
+  "name": "Unico (Innovacion Sport 2014)",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 994,
+  "tags": [],
+  "uuid": "3f09de8f-d5c0-44a5-a99b-37ea99f7fdf1",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "dptocontabilidadfantasias@gmail.com",
+    "legalName": "Dulce Garcia",
+    "phoneNumber": "4144326335"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T20:21:17.757Z",
+      "updatedAt": "2025-05-05T20:21:17.757Z",
+      "id": 13607,
+      "merchantId": 5547,
+      "name": "Único CC Sambil Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5723,
+      "address": {
+        "name": "Centro Comercial Sambil Nivel Libertador Local N° L-C26, Caracas, Edo Miranda",
+        "long": -66.8539375,
+        "lat": 10.4885625,
+        "location": "0101000020E6100000FED478E9A6B650C0A01A2FDD24FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T18:18:37.364Z",
+      "updatedAt": "2025-05-06T18:18:37.364Z",
+      "id": 13658,
+      "merchantId": 5547,
+      "name": "Unico Guacara Val",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5723,
+      "address": {
+        "name": "Unico (Innovacion Sport 2014) Guacara.",
+        "long": -67.89568750000001,
+        "lat": 10.217687499999997,
+        "location": "0101000020E6100000E8FBA9F152F950C0F87E6ABC746F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T20:24:50.871Z",
+      "updatedAt": "2025-05-05T20:24:50.871Z",
+      "id": 13609,
+      "merchantId": 5547,
+      "name": "Único Av Baralt / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5723,
+      "address": {
+        "name": "Avenida Baralt Nro 1413 Entre La Esquina De Muñoz  a Pedrera Calle 6 Local S/N, Caracas Distrito Capital",
+        "long": -73.9174375,
+        "lat": 42.505437499999985,
+        "location": "0101000020E6100000F0A7C64BB77A52C002560E2DB2404540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T21:32:49.690Z",
+      "updatedAt": "2025-05-05T21:32:49.690Z",
+      "id": 13614,
+      "merchantId": 5547,
+      "name": "Unico Tinaquillo Av. Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5723,
+      "address": {
+        "name": "Unico (Innovacion Sport 2014) Tinaquillo.",
+        "long": -68.3073125,
+        "lat": 9.914937500000008,
+        "location": "0101000020E6100000BA490C02AB1351C0A0C420B072D42340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T20:27:47.997Z",
+      "updatedAt": "2025-05-05T20:27:47.997Z",
+      "id": 13610,
+      "merchantId": 5547,
+      "name": "Único CC Buenaventura",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5723,
+      "address": {
+        "name": "Centro Comercial Buenaventura Locales Nro C-48, 49 y 50 Avenida Intercomunal Guarenas-Guatire, Sector San Pedro, Guarenas, Edo Miranda",
+        "long": -66.5754375,
+        "lat": 10.465937499999995,
+        "location": "0101000020E610000017D9CEF7D3A450C0C0F5285C8FEE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T21:47:23.482Z",
+      "updatedAt": "2025-05-08T21:47:23.482Z",
+      "id": 13842,
+      "merchantId": 5547,
+      "name": "Unico Calle Urdaneta Pto Cabello",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5723,
+      "address": {
+        "name": "Unico Calle Urdaneta Pto Cabello.",
+        "long": -68.0124375,
+        "lat": 10.471437499999993,
+        "location": "0101000020E61000009EEFA7C6CB0051C04837894160F12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

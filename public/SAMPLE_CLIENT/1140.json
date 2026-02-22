@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-30T18:56:26.488Z",
+  "id": "554",
+  "amount": 250,
+  "invoiceId": "563",
+  "paidToMerchant": false,
+  "identifierNumber": 1140,
+  "billingDate": "2022-11-30T18:56:26.488Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11028738",
+      "fullName": "DALILA DEL CARMEN MORENO HUETO",
+      "phoneNumber": "+584127255425"
+    },
+    "installments": [
+      {
+        "id": "1750",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-30T18:57:14.926Z",
+        "amount": 150,
+        "status": "DONE"
+      },
+      {
+        "id": "1752",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-28T18:57:14.926Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1753",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-11T18:57:14.926Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1751",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-14T18:57:14.926Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 5,
+    "name": "Doctor Lente Los Palos Grandes"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

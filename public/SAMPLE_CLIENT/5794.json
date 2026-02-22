@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T19:28:29.769Z",
+  "id": "5493",
+  "amount": 42.42,
+  "invoiceId": "2589",
+  "paidToMerchant": false,
+  "identifierNumber": 5794,
+  "billingDate": "2022-12-28T19:28:29.769Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17610393",
+      "fullName": "KEISY ESTEFANIA SANTIAGO SIFONTES",
+      "phoneNumber": "+584125621128"
+    },
+    "installments": [
+      {
+        "id": "18870",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:28:59.108Z",
+        "amount": 21.21,
+        "status": "DONE"
+      },
+      {
+        "id": "18873",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:28:59.108Z",
+        "amount": 7.07,
+        "status": "DONE"
+      },
+      {
+        "id": "18871",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:28:59.108Z",
+        "amount": 7.07,
+        "status": "DONE"
+      },
+      {
+        "id": "18872",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:28:59.108Z",
+        "amount": 7.07,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 30,
+    "name": "Korotos Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

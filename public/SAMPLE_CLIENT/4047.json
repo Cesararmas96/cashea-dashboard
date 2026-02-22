@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:59:51.917Z",
+  "id": "4699",
+  "amount": 75.46,
+  "invoiceId": "44997",
+  "paidToMerchant": false,
+  "identifierNumber": 4047,
+  "billingDate": "2022-12-24T17:59:51.917Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27686234",
+      "fullName": "MICHELL CAROLINA PALACIOS QUILIMACO",
+      "phoneNumber": "+584149158431"
+    },
+    "installments": [
+      {
+        "id": "16073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:00:11.767Z",
+        "amount": 12.576666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:00:11.767Z",
+        "amount": 37.73,
+        "status": "DONE"
+      },
+      {
+        "id": "16072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:00:11.767Z",
+        "amount": 12.576666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:00:11.767Z",
+        "amount": 12.576666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

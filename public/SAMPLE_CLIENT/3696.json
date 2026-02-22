@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:20:34.597Z",
+  "id": "3285",
+  "amount": 35.98,
+  "invoiceId": "6957",
+  "paidToMerchant": false,
+  "identifierNumber": 3696,
+  "billingDate": "2022-12-21T23:20:34.597Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24218646",
+      "fullName": "ALEJANDRO JOSE DI MAIO RICO",
+      "phoneNumber": "+584242037224"
+    },
+    "installments": [
+      {
+        "id": "10922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:20:49.133Z",
+        "amount": 17.99,
+        "status": "DONE"
+      },
+      {
+        "id": "10925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:20:49.133Z",
+        "amount": 5.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:20:49.133Z",
+        "amount": 5.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:20:49.133Z",
+        "amount": 5.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T21:11:57.549Z",
+  "id": "2042",
+  "amount": 55.79,
+  "invoiceId": "00017798",
+  "paidToMerchant": false,
+  "identifierNumber": 2553,
+  "billingDate": "2022-12-17T21:11:57.549Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14049773",
+      "fullName": "GRACIELA ADRIANA MONTILLA RODRIGUEZ",
+      "phoneNumber": "+584122870533"
+    },
+    "installments": [
+      {
+        "id": "6621",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T21:12:41.292Z",
+        "amount": 9.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "6619",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T21:12:41.292Z",
+        "amount": 9.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "6620",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T21:12:41.292Z",
+        "amount": 9.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "6618",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T21:12:41.293Z",
+        "amount": 27.89,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

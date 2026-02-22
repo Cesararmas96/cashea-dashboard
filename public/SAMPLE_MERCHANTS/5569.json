@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-05-06T19:26:31.639Z",
+  "updatedAt": "2025-05-09T16:00:59.975Z",
+  "id": 5569,
+  "name": "Inversiones El Cacique",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c8d6e9b8-84ed-472e-b021-096a1ab30e6b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "yennikag@gmail.com",
+    "legalName": "Yennika Gil",
+    "phoneNumber": "+584264278472"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T19:54:01.483Z",
+      "updatedAt": "2025-05-06T19:54:01.483Z",
+      "id": 13661,
+      "merchantId": 5569,
+      "name": "Inversiones El Cacique Trujillo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4276,
+      "address": {
+        "name": "Inversiones El Cacique Trujillo",
+        "long": -70.4325625,
+        "lat": 9.371937499999987,
+        "location": "0101000020E610000077BE9F1AAF9B51C0D84F8D976EBE2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T20:00:18.724Z",
+      "updatedAt": "2025-05-06T20:00:18.724Z",
+      "id": 13662,
+      "merchantId": 5569,
+      "name": "Inversiones El Cacique Valera",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4276,
+      "address": {
+        "name": "Inversiones El Cacique Valera",
+        "long": -70.6043125,
+        "lat": 9.315812499999993,
+        "location": "0101000020E61000001904560EADA651C000560E2DB2A12240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T20:37:13.653Z",
+      "updatedAt": "2025-05-06T20:37:13.653Z",
+      "id": 13668,
+      "merchantId": 5569,
+      "name": "Inversiones El Cacique Bocono",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4276,
+      "address": {
+        "name": "Inversiones El Cacique Bocono",
+        "long": -70.2644375,
+        "lat": 9.244062499999998,
+        "location": "0101000020E61000008195438BEC9051C0285C8FC2F57C2240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

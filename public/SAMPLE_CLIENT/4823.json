@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:58:29.421Z",
+  "id": "4443",
+  "amount": 72.99,
+  "invoiceId": "12988",
+  "paidToMerchant": false,
+  "identifierNumber": 4823,
+  "billingDate": "2022-12-24T00:58:29.421Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25870054",
+      "fullName": "ARMANDO JOSE GRATEROL LOBO",
+      "phoneNumber": "+584241951431"
+    },
+    "installments": [
+      {
+        "id": "15120",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:58:46.416Z",
+        "amount": 12.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "15118",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:58:46.416Z",
+        "amount": 36.49,
+        "status": "DONE"
+      },
+      {
+        "id": "15121",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:58:46.416Z",
+        "amount": 12.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "15119",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:58:46.416Z",
+        "amount": 12.166666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

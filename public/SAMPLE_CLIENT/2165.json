@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T19:52:20.918Z",
+  "id": "678",
+  "amount": 123.95,
+  "invoiceId": "5058",
+  "paidToMerchant": false,
+  "identifierNumber": 2165,
+  "billingDate": "2022-12-04T19:52:20.918Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12617747",
+      "fullName": "DORKA DAYANA RODRIGUEZ GUTIERREZ",
+      "phoneNumber": "+584123603176"
+    },
+    "installments": [
+      {
+        "id": "2178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T19:53:17.423Z",
+        "amount": 61.98,
+        "status": "DONE"
+      },
+      {
+        "id": "2180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T19:53:17.423Z",
+        "amount": 20.65666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T19:53:17.423Z",
+        "amount": 20.65666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T19:53:17.423Z",
+        "amount": 20.65666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

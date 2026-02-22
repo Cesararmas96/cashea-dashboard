@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T00:49:28.619Z",
+  "id": "4434",
+  "amount": 31.05,
+  "invoiceId": "50522",
+  "paidToMerchant": false,
+  "identifierNumber": 4785,
+  "billingDate": "2022-12-24T00:49:28.619Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-23T04:00:00.790+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "15088",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24283810",
+      "fullName": "RAFAEL ANDRES CARRASQUEL HERNANDEZ",
+      "phoneNumber": "+584242060315"
+    },
+    "installments": [
+      {
+        "id": "15086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:50:05.387Z",
+        "amount": 15.53,
+        "status": "DONE"
+      },
+      {
+        "id": "15089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:50:05.387Z",
+        "amount": 5.173333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:50:05.387Z",
+        "amount": 5.173333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:50:05.387Z",
+        "amount": 5.173333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

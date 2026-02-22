@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T19:49:29.516Z",
+  "id": "3506",
+  "amount": 185,
+  "invoiceId": "12869",
+  "paidToMerchant": false,
+  "identifierNumber": 3953,
+  "billingDate": "2022-12-22T19:49:29.516Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "61",
+    "buyDebtDate": "2023-01-22T04:00:01.100+00:00",
+    "lastStoreId": 47,
+    "boughtForInstallmentId": "11728",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17832418",
+      "fullName": "JESUS ALEJANDRO GUILLEN MAJANO",
+      "phoneNumber": "+584126713043"
+    },
+    "installments": [
+      {
+        "id": "11729",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T19:50:34.608Z",
+        "amount": 30.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "11728",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T19:50:34.608Z",
+        "amount": 30.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "11726",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T19:50:34.609Z",
+        "amount": 92.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11727",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T19:50:34.608Z",
+        "amount": 30.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

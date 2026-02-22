@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T00:12:55.764Z",
+  "id": "1158",
+  "amount": 52.12,
+  "invoiceId": "14010",
+  "paidToMerchant": false,
+  "identifierNumber": 1815,
+  "billingDate": "2022-12-11T00:12:55.764Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12747679",
+      "fullName": "AILEEN GRACIELA CALDERA CUMBERBACHE",
+      "phoneNumber": "+584129987266"
+    },
+    "installments": [
+      {
+        "id": "3691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T00:13:42.089Z",
+        "amount": 8.686666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T00:13:42.089Z",
+        "amount": 8.686666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T00:13:42.089Z",
+        "amount": 8.686666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T00:13:42.090Z",
+        "amount": 26.06,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

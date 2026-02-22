@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T18:19:29.010Z",
+  "id": "4721",
+  "amount": 81.37,
+  "invoiceId": "1388",
+  "paidToMerchant": false,
+  "identifierNumber": 4254,
+  "billingDate": "2022-12-24T18:19:29.010Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "45",
+    "buyDebtDate": "2023-01-10T04:00:00.901+00:00",
+    "lastStoreId": 31,
+    "boughtForInstallmentId": "16167",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24277776",
+      "fullName": "KEVIN CIPRIANO GUIZADO URQUIZO",
+      "phoneNumber": "+584242415002"
+    },
+    "installments": [
+      {
+        "id": "16169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:20:38.592Z",
+        "amount": 13.560000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "16168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:20:38.592Z",
+        "amount": 13.560000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "16166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:20:38.593Z",
+        "amount": 40.69,
+        "status": "DONE"
+      },
+      {
+        "id": "16167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:20:38.592Z",
+        "amount": 13.560000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

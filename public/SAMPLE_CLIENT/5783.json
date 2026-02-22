@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T19:15:34.409Z",
+  "id": "5484",
+  "amount": 55.61,
+  "invoiceId": "8677",
+  "paidToMerchant": false,
+  "identifierNumber": 5783,
+  "billingDate": "2022-12-28T19:15:34.409Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "73",
+    "buyDebtDate": "2023-01-14T04:00:00.575+00:00",
+    "lastStoreId": 60,
+    "boughtForInstallmentId": "18843",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21092066",
+      "fullName": "YULYMAR ANDREINA PACHECO HERNANDEZ",
+      "phoneNumber": "+584129733102"
+    },
+    "installments": [
+      {
+        "id": "18843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:15:58.750Z",
+        "amount": 9.27,
+        "status": "DONE"
+      },
+      {
+        "id": "18844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:15:58.750Z",
+        "amount": 9.27,
+        "status": "DONE"
+      },
+      {
+        "id": "18845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:15:58.750Z",
+        "amount": 9.27,
+        "status": "DONE"
+      },
+      {
+        "id": "18842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:15:58.750Z",
+        "amount": 27.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

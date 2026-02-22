@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:15:10.840Z",
+  "id": "2335",
+  "amount": 32.99,
+  "invoiceId": "2468",
+  "paidToMerchant": false,
+  "identifierNumber": 2827,
+  "billingDate": "2022-12-18T22:15:10.840Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25232491",
+      "fullName": "KALANY ALEXANDRA SANZ ALFONZO",
+      "phoneNumber": "+584125524099"
+    },
+    "installments": [
+      {
+        "id": "7681",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:15:58.688Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7678",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:15:58.689Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "7679",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:15:58.688Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7680",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:15:58.688Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:29:06.113Z",
+  "id": "4097",
+  "amount": 58.46,
+  "invoiceId": "12947",
+  "paidToMerchant": false,
+  "identifierNumber": 4487,
+  "billingDate": "2022-12-23T20:29:06.113Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13137263",
+      "fullName": "DIEGO III DELGADO GONZALEZ",
+      "phoneNumber": "+584242399954"
+    },
+    "installments": [
+      {
+        "id": "13858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:30:58.083Z",
+        "amount": 29.23,
+        "status": "DONE"
+      },
+      {
+        "id": "13861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:30:58.083Z",
+        "amount": 9.743333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:30:58.083Z",
+        "amount": 9.743333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:30:58.083Z",
+        "amount": 9.743333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

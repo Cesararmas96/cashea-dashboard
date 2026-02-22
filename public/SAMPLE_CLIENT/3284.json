@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:33:53.544Z",
+  "id": "2831",
+  "amount": 30.46,
+  "invoiceId": "50197",
+  "paidToMerchant": false,
+  "identifierNumber": 3284,
+  "billingDate": "2022-12-20T20:33:53.544Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13348248",
+      "fullName": "CRISTINA DEL VALLE BRAVO HERNANDEZ",
+      "phoneNumber": "+584126328299"
+    },
+    "installments": [
+      {
+        "id": "9330",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:34:47.406Z",
+        "amount": 15.23,
+        "status": "DONE"
+      },
+      {
+        "id": "9333",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:34:47.406Z",
+        "amount": 5.076666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9332",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:34:47.406Z",
+        "amount": 5.076666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9331",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:34:47.406Z",
+        "amount": 5.076666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

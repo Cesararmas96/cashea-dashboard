@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-24T19:27:25.185Z",
+  "updatedAt": "2025-05-08T19:55:38.760Z",
+  "id": 5372,
+  "name": "Idolos Corporacion Internacional",
+  "ecommerceUrl": null,
+  "changePolicy": "No realizamos cambios ni devoluciones de dinero.",
+  "email": "idolosinternacionalesmkt@gmail.com",
+  "phoneNumber": "+584124365677",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f02e2632-ed99-40a2-8ce2-7170735e1b84",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "esgroupgold@gmail.com",
+    "legalName": "LUIS EDUARDO",
+    "phoneNumber": "4127079148"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T19:44:05.626Z",
+      "updatedAt": "2025-05-05T19:44:05.626Z",
+      "id": 13600,
+      "merchantId": 5372,
+      "name": "Idolos Corporacion Internacional Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5671,
+      "address": {
+        "name": "Idolos Corporación Internacional Puerto La Cruz",
+        "long": -64.63543750000001,
+        "lat": 10.222062499999993,
+        "location": "0101000020E6100000BB490C02AB2850C000560E2DB2712440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-25T21:08:01.018Z",
+      "updatedAt": "2025-04-25T21:08:01.018Z",
+      "id": 13297,
+      "merchantId": 5372,
+      "name": "VR Idolos Corporación Internacional",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5671,
+      "address": {
+        "name": "Idolos Corporación Internacional Puerto La Cruz",
+        "long": -64.63543750000001,
+        "lat": 10.222062499999993,
+        "location": "0101000020E6100000BB490C02AB2850C000560E2DB2712440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-24T19:29:44.495Z",
+      "updatedAt": "2025-04-24T19:29:44.495Z",
+      "id": 13256,
+      "merchantId": 5372,
+      "name": "Idolos Corporación Internacional Puerto La Cruz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5671,
+      "address": {
+        "name": "Idolos Corporación Internacional Puerto La Cruz",
+        "long": -64.63543750000001,
+        "lat": 10.222062499999993,
+        "location": "0101000020E6100000BB490C02AB2850C000560E2DB2712440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

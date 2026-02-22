@@ -1,0 +1,173 @@
+{
+  "createdAt": "2025-05-02T15:48:12.595Z",
+  "updatedAt": "2025-09-11T18:18:24.672Z",
+  "id": 5509,
+  "name": "ZIO",
+  "ecommerceUrl": null,
+  "changePolicy": "Políticas de Cambio y Devolución\n\nEn ZIO, nuestro compromiso es ofrecerte productos de la más alta calidad. Queremos asegurarnos de que tu experiencia de compra sea satisfactoria. Por favor, lee atentamente nuestras políticas de cambio y devolución:\n\n1. Cobertura por Defectos de Fábrica:\nNuestra garantía cubre exclusivamente los defectos de fabricación del producto. Si recibes un artículo con algún defecto de origen, por favor contáctanos de inmediato para procesar tu solicitud.\n\n2. Exclusiones de la Garantía:\nNo nos haremos responsables ni aplicaremos garantía o cambio en los siguientes casos:\n\nProductos que presenten daños o fallas debido a mal uso o manipulación inadecuada por parte del cliente.\nArtículos devueltos en mal estado general, diferente a un defecto de fábrica.\nProductos que no incluyan su empaque original completo y en buenas condiciones.\n\n3. Gastos de Envío en Garantía:\nLos gastos de envío asociados a la gestión de una garantía por defecto de fábrica (tanto el envío del producto de vuelta a nosotros como el envío del producto de reemplazo al cliente) no están incluidos en la garantía y deberán ser cubiertos por el cliente.\n\n4. Proceso de Cambio y Devolución (Crédito en Tienda):\nTodos los cambios o devoluciones aprobados (únicamente por defectos de fábrica) se realizarán a través de un crédito en la tienda. Este crédito podrá ser utilizado para adquirir otro producto de igual valor al artículo devuelto. No se realizarán reembolsos en efectivo.\n\nPara gestionar un cambio o devolución:\nPor favor, contáctanos a través de 04126158236 en un plazo máximo de 7 días a partir de la recepción de tu pedido, adjuntando la descripción del defecto y, si es posible, fotografías o videos del mismo.",
+  "email": "zio.ciulla@gmail.com",
+  "phoneNumber": "+584126158236",
+  "logoUrl": null,
+  "data": {
+    "rif": "J502516751"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b7a86d1e-ff15-46d8-93b7-19038e695a6c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "zio.ciulla@gmail.com",
+    "legalName": "Fabrizio",
+    "phoneNumber": "4241602491"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T15:51:46.965Z",
+      "updatedAt": "2025-05-02T15:51:46.965Z",
+      "id": 13533,
+      "merchantId": 5509,
+      "name": "Zio Altamira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8260,
+      "address": {
+        "name": "Av sur de altamira",
+        "long": -66.84875,
+        "lat": 10.518749999999997,
+        "location": "0101000020E6100000B81E85EB51B650C09899999999092540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-11T12:55:29.802Z",
+      "updatedAt": "2025-06-11T12:55:29.802Z",
+      "id": 15498,
+      "merchantId": 5509,
+      "name": "VR_ZIO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8260,
+      "address": {
+        "name": "Av sur de altamira",
+        "long": -66.84875,
+        "lat": 10.518749999999997,
+        "location": "0101000020E6100000B81E85EB51B650C09899999999092540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T21:34:57.892Z",
+      "updatedAt": "2025-09-11T18:18:24.671Z",
+      "id": 13840,
+      "merchantId": 5509,
+      "name": "ZIO Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8260,
+      "address": {
+        "name": "Municipio Libertador, Local 1, Los Símbolos, Residencia Cristal, Avenida El Parque, Caracas 1010, Distrito Capital",
+        "long": -66.90218750000001,
+        "lat": 10.484562499999996,
+        "location": "0101000020E61000000BD7A370BDB950C068BC749318F82440",
+        "shipmentsEnabled": true
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

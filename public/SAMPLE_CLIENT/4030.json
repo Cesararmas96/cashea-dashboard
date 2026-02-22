@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:17:06.355Z",
+  "id": "3634",
+  "amount": 80.58,
+  "invoiceId": "14867",
+  "paidToMerchant": false,
+  "identifierNumber": 4030,
+  "billingDate": "2022-12-22T22:17:06.355Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20302429",
+      "fullName": "ANDERSON JOSE TOVAR SUAREZ",
+      "phoneNumber": "+584122030242"
+    },
+    "installments": [
+      {
+        "id": "12186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:19:40.295Z",
+        "amount": 40.29,
+        "status": "DONE"
+      },
+      {
+        "id": "12189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:19:40.295Z",
+        "amount": 13.43,
+        "status": "DONE"
+      },
+      {
+        "id": "12188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:19:40.295Z",
+        "amount": 13.43,
+        "status": "DONE"
+      },
+      {
+        "id": "12187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:19:40.295Z",
+        "amount": 13.43,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

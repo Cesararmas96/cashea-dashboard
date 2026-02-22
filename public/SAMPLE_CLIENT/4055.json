@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:14:05.855Z",
+  "id": "3629",
+  "amount": 78.6,
+  "invoiceId": "12838",
+  "paidToMerchant": false,
+  "identifierNumber": 4055,
+  "billingDate": "2022-12-22T22:14:05.855Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9410468",
+      "fullName": "GEORDALY LUCIA GALVIS TORRES",
+      "phoneNumber": "+584142835057"
+    },
+    "installments": [
+      {
+        "id": "12154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:14:23.076Z",
+        "amount": 39.3,
+        "status": "DONE"
+      },
+      {
+        "id": "12156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:14:23.075Z",
+        "amount": 13.1,
+        "status": "DONE"
+      },
+      {
+        "id": "12157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:14:23.075Z",
+        "amount": 13.1,
+        "status": "DONE"
+      },
+      {
+        "id": "12155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:14:23.075Z",
+        "amount": 13.1,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

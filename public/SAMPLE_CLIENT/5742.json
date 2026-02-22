@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T17:47:02.144Z",
+  "id": "5438",
+  "amount": 190,
+  "invoiceId": "14416",
+  "paidToMerchant": false,
+  "identifierNumber": 5742,
+  "billingDate": "2022-12-28T17:47:02.144Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "46",
+    "buyDebtDate": "2023-02-11T04:00:01.280+00:00",
+    "lastStoreId": 32,
+    "boughtForInstallmentId": "18689",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17529838",
+      "fullName": "LUIS ALEXIS GIRON MALDONADO",
+      "phoneNumber": "+584241911329"
+    },
+    "installments": [
+      {
+        "id": "18689",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:50:21.997Z",
+        "amount": 31.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18686",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:50:21.998Z",
+        "amount": 95,
+        "status": "DONE"
+      },
+      {
+        "id": "18688",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:50:21.997Z",
+        "amount": 31.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18687",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:50:21.997Z",
+        "amount": 31.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

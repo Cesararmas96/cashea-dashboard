@@ -1,0 +1,128 @@
+[
+  {
+    "id": 8219,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J505056603",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "internalBankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "account": "01910098762198478998",
+    "accountType": "Corriente",
+    "phoneNumber": "4126938328",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8217,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J505056603",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "internalBankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "account": "01910098762198478998",
+    "accountType": "Corriente",
+    "phoneNumber": "4126938328",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8218,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J505056603",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "internalBankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "account": "01910098762198478998",
+    "accountType": "Corriente",
+    "phoneNumber": "4126938328",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8220,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J505056603",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "internalBankHolder": "REPRESENTACIONES ULAB 24, C.A.",
+    "account": "01910098752398342955",
+    "accountType": "Custodia",
+    "phoneNumber": "4126938328",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

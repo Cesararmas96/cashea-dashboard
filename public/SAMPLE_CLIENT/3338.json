@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T21:37:20.480Z",
+  "id": "2874",
+  "amount": 31.49,
+  "invoiceId": "12234",
+  "paidToMerchant": false,
+  "identifierNumber": 3338,
+  "billingDate": "2022-12-20T21:37:20.480Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "62",
+    "buyDebtDate": "2023-01-20T04:00:00.525+00:00",
+    "lastStoreId": 48,
+    "boughtForInstallmentId": "9464",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24792344",
+      "fullName": "ROSALBA ALEJANDRA CEDILLO BOLIVAR",
+      "phoneNumber": "+584140186575"
+    },
+    "installments": [
+      {
+        "id": "9462",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:37:42.944Z",
+        "amount": 15.74,
+        "status": "DONE"
+      },
+      {
+        "id": "9464",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:37:42.944Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9463",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:37:42.944Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9465",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:37:42.944Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

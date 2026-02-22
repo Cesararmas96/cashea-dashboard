@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T20:19:25.098Z",
+  "id": "5254",
+  "amount": 120,
+  "invoiceId": "10747",
+  "paidToMerchant": false,
+  "identifierNumber": 5567,
+  "billingDate": "2022-12-27T20:19:25.098Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20639851",
+      "fullName": "VICTORIA NATHALY CONTRERAS TURMERO",
+      "phoneNumber": "+584149279515"
+    },
+    "installments": [
+      {
+        "id": "18025",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T20:20:43.890Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "18022",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T20:20:43.891Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "18024",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T20:20:43.890Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "18023",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T20:20:43.890Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

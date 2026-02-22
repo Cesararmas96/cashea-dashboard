@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T15:50:30.430Z",
+  "id": "5196",
+  "amount": 110,
+  "invoiceId": "9559",
+  "paidToMerchant": false,
+  "identifierNumber": 5505,
+  "billingDate": "2022-12-27T15:50:30.430Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18004271",
+      "fullName": "CRISTIAN JAVIER MENDEZ RAMIREZ",
+      "phoneNumber": "+584123283894"
+    },
+    "installments": [
+      {
+        "id": "17801",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T15:51:17.650Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "17798",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T15:51:17.650Z",
+        "amount": 55,
+        "status": "DONE"
+      },
+      {
+        "id": "17800",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T15:51:17.650Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "17799",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T15:51:17.650Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

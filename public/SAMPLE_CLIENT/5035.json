@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T18:58:25.668Z",
+  "id": "4779",
+  "amount": 34.99,
+  "invoiceId": "00018500",
+  "paidToMerchant": false,
+  "identifierNumber": 5035,
+  "billingDate": "2022-12-24T18:58:25.668Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "40",
+    "buyDebtDate": "2023-01-24T04:00:01.457+00:00",
+    "lastStoreId": 26,
+    "boughtForInstallmentId": "16364",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11642764",
+      "fullName": "JOSE ENRIQUE ECHARRE DEBOURG",
+      "phoneNumber": "+584242070492"
+    },
+    "installments": [
+      {
+        "id": "16365",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:59:10.138Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16364",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:59:10.138Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16362",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:59:10.139Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16363",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:59:10.138Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

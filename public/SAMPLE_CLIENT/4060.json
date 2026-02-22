@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T22:27:08.053Z",
+  "id": "3649",
+  "amount": 105.04,
+  "invoiceId": "14066",
+  "paidToMerchant": false,
+  "identifierNumber": 4060,
+  "billingDate": "2022-12-22T22:27:08.053Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-02-05T04:00:00.514+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "12237",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6219328",
+      "fullName": "SUSE JOSEFINA CASTILLO",
+      "phoneNumber": "+584241936790"
+    },
+    "installments": [
+      {
+        "id": "12234",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:27:32.006Z",
+        "amount": 52.52,
+        "status": "DONE"
+      },
+      {
+        "id": "12237",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:27:32.006Z",
+        "amount": 17.506666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12236",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:27:32.006Z",
+        "amount": 17.506666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12235",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:27:32.006Z",
+        "amount": 17.506666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

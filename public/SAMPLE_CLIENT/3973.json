@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:02:37.386Z",
+  "id": "2754",
+  "amount": 30.29,
+  "invoiceId": "14605",
+  "paidToMerchant": false,
+  "identifierNumber": 3973,
+  "billingDate": "2022-12-20T18:02:37.386Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12387642",
+      "fullName": "SAUL MANUEL MARTINEZ LLINAS",
+      "phoneNumber": "+584141089915"
+    },
+    "installments": [
+      {
+        "id": "9074",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:03:11.042Z",
+        "amount": 15.14,
+        "status": "DONE"
+      },
+      {
+        "id": "9077",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:03:11.041Z",
+        "amount": 5.05,
+        "status": "DONE"
+      },
+      {
+        "id": "9075",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:03:11.041Z",
+        "amount": 5.05,
+        "status": "DONE"
+      },
+      {
+        "id": "9076",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:03:11.041Z",
+        "amount": 5.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

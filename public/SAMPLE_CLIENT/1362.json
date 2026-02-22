@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T23:30:30.642Z",
+  "id": "4336",
+  "amount": 104.72,
+  "invoiceId": "1065",
+  "paidToMerchant": false,
+  "identifierNumber": 1362,
+  "billingDate": "2022-12-23T23:30:30.642Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-09T04:00:01.523+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "14719",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17769631",
+      "fullName": "FRANCISCO JAVIER MANZANILLA PARRA",
+      "phoneNumber": "+584265202440"
+    },
+    "installments": [
+      {
+        "id": "14721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:30:57.324Z",
+        "amount": 17.453333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:30:57.324Z",
+        "amount": 17.453333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:30:57.324Z",
+        "amount": 52.36,
+        "status": "DONE"
+      },
+      {
+        "id": "14720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:30:57.324Z",
+        "amount": 17.453333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

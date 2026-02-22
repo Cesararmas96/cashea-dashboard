@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1476,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J412962221",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SUPERMARKET FIORELLA CITY. CA",
+    "internalBankHolder": "SUPERMARKET FIORELLA CITY, C.A",
+    "account": "01910032482132112410",
+    "accountType": "Corriente",
+    "phoneNumber": "4121075054",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1474,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J412962221",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SUPERMARKET FIORELLA CITY. CA",
+    "internalBankHolder": "SUPERMARKET FIORELLA CITY, C.A",
+    "account": "01910032482132112410",
+    "accountType": "Corriente",
+    "phoneNumber": "4121075054",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1475,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J412962221",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SUPERMARKET FIORELLA CITY. CA",
+    "internalBankHolder": "SUPERMARKET FIORELLA CITY, C.A",
+    "account": "01910032482132112410",
+    "accountType": "Corriente",
+    "phoneNumber": "4121075054",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1477,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J412962221",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SUPERMARKET FIORELLA CITY. CA",
+    "internalBankHolder": "SUPERMARKET FIORELLA CITY, C.A",
+    "account": "01910032472332030924",
+    "accountType": "Custodia",
+    "phoneNumber": "4121075054",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

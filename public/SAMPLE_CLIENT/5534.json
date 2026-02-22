@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T19:37:51.259Z",
+  "id": "5242",
+  "amount": 59.22,
+  "invoiceId": "18732",
+  "paidToMerchant": false,
+  "identifierNumber": 5534,
+  "billingDate": "2022-12-27T19:37:51.259Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22924400",
+      "fullName": "LUIS GABRIEL MARTINEZ TENIA",
+      "phoneNumber": "+584125930251"
+    },
+    "installments": [
+      {
+        "id": "17977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T19:38:39.842Z",
+        "amount": 9.87,
+        "status": "DONE"
+      },
+      {
+        "id": "17976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T19:38:39.842Z",
+        "amount": 9.87,
+        "status": "DONE"
+      },
+      {
+        "id": "17975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T19:38:39.842Z",
+        "amount": 9.87,
+        "status": "DONE"
+      },
+      {
+        "id": "17974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T19:38:39.843Z",
+        "amount": 29.61,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

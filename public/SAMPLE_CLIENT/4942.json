@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:29:39.880Z",
+  "id": "4605",
+  "amount": 32.18,
+  "invoiceId": "1301",
+  "paidToMerchant": false,
+  "identifierNumber": 4942,
+  "billingDate": "2022-12-24T16:29:39.880Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-24T04:00:00.907+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "15708",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14467781",
+      "fullName": "YENNY YECENIA COLMENAREZ ZABALETA",
+      "phoneNumber": "+584141469468"
+    },
+    "installments": [
+      {
+        "id": "15709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:30:00.408Z",
+        "amount": 5.363333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:30:00.408Z",
+        "amount": 5.363333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:30:00.408Z",
+        "amount": 16.09,
+        "status": "DONE"
+      },
+      {
+        "id": "15707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:30:00.408Z",
+        "amount": 5.363333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

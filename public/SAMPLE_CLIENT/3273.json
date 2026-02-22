@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:53:55.679Z",
+  "id": "2846",
+  "amount": 70,
+  "invoiceId": "10022",
+  "paidToMerchant": false,
+  "identifierNumber": 3273,
+  "billingDate": "2022-12-20T20:53:55.679Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16563151",
+      "fullName": "GABRIELE BIAGIO PALUMBO TALAMO",
+      "phoneNumber": "+584142211066"
+    },
+    "installments": [
+      {
+        "id": "9378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:54:28.938Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "9379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:54:28.937Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:54:28.937Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:54:28.937Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

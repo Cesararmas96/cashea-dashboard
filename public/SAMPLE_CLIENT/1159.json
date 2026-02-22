@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-11-05T15:25:37.918Z",
+  "id": "264",
+  "amount": 210,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1159,
+  "billingDate": "2022-11-05T15:25:37.918Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-15T19:58:04.044Z",
+  "updatedAt": "2025-04-24T20:12:25.605Z",
+  "id": 5257,
+  "name": "EL FOGON & SAZON",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "be4d67ae-42f8-4062-925a-86dddca54981",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "giselassg1@gmail.com",
+    "legalName": "Gisela Briceño",
+    "phoneNumber": "4129358789"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T20:02:02.772Z",
+      "updatedAt": "2025-04-15T20:02:02.772Z",
+      "id": 13027,
+      "merchantId": 5257,
+      "name": "EL FOGON & SAZON Av Monseñor",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5907,
+      "address": {
+        "name": "Av. Monseñor sendrea local 26 san juan de los morros estado Guarico",
+        "long": -67.3558125,
+        "lat": 9.911937500000008,
+        "location": "0101000020E610000083C0CAA1C5D650C0F8FDD478E9D22340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

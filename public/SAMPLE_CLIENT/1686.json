@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-07T01:46:01.501Z",
+  "id": "12634",
+  "amount": 99.2032,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1686,
+  "billingDate": "2023-02-07T01:46:01.501Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26825516",
+      "fullName": "DARYANA DE LOS ANGELES BREIDENBACH NEGRIN",
+      "phoneNumber": "+584123367113"
+    },
+    "installments": [
+      {
+        "id": "39264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-07T01:46:01.549Z",
+        "amount": 16.534399999999998,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-21T01:46:01.549Z",
+        "amount": 16.534399999999998,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-07T01:46:01.550Z",
+        "amount": 49.6,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-21T01:46:01.549Z",
+        "amount": 16.534399999999998,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 87,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 3646,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

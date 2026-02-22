@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-13T15:06:41.716Z",
+  "updatedAt": "2025-05-22T15:25:22.523Z",
+  "id": 5726,
+  "name": "eleka",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "94c89abf-65a2-46d8-9b2e-03ba922fc175",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "eleka@eleka.com.ve",
+    "legalName": "Giovanni",
+    "phoneNumber": "04248153438"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-24T18:20:53.884Z",
+      "updatedAt": "2025-07-24T18:20:53.884Z",
+      "id": 17943,
+      "merchantId": 5726,
+      "name": "VR_Eleka Av. 31 De Julio Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4842,
+      "address": {
+        "name": "av 31 de julio sector guatamare.",
+        "long": -63.86493750000001,
+        "lat": 10.980437500000008,
+        "location": "0101000020E6100000C2CAA145B6EE4FC0488B6CE7FBF52540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T15:07:52.054Z",
+      "updatedAt": "2025-05-13T15:07:52.054Z",
+      "id": 14033,
+      "merchantId": 5726,
+      "name": "Eleka, Av. 31 De Julio, Sector Guatamare, Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4842,
+      "address": {
+        "name": "av 31 de julio sector guatamare.",
+        "long": -63.86493750000001,
+        "lat": 10.980437500000008,
+        "location": "0101000020E6100000C2CAA145B6EE4FC0488B6CE7FBF52540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:58:38.051Z",
+  "id": "4066",
+  "amount": 59.16,
+  "invoiceId": "50475",
+  "paidToMerchant": false,
+  "identifierNumber": 4450,
+  "billingDate": "2022-12-23T19:58:38.051Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23610678",
+      "fullName": "ROSVYAN MARIA ALVIAREZ MIRANDA",
+      "phoneNumber": "+584142418921"
+    },
+    "installments": [
+      {
+        "id": "13738",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:59:30.807Z",
+        "amount": 29.58,
+        "status": "DONE"
+      },
+      {
+        "id": "13741",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:59:30.807Z",
+        "amount": 9.86,
+        "status": "DONE"
+      },
+      {
+        "id": "13740",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:59:30.807Z",
+        "amount": 9.86,
+        "status": "DONE"
+      },
+      {
+        "id": "13739",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:59:30.807Z",
+        "amount": 9.86,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

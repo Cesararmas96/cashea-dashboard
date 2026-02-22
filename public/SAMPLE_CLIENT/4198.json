@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T01:15:49.720Z",
+  "id": "3824",
+  "amount": 104.97,
+  "invoiceId": "14607",
+  "paidToMerchant": false,
+  "identifierNumber": 4198,
+  "billingDate": "2022-12-23T01:15:49.720Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25869610",
+      "fullName": "CARLOS DIXON MATAMOROS RANGEL",
+      "phoneNumber": "+584129995644"
+    },
+    "installments": [
+      {
+        "id": "12857",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:16:04.769Z",
+        "amount": 17.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12854",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:16:04.770Z",
+        "amount": 52.48,
+        "status": "DONE"
+      },
+      {
+        "id": "12856",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:16:04.769Z",
+        "amount": 17.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12855",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:16:04.769Z",
+        "amount": 17.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

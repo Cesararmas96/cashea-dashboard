@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T23:02:12.255Z",
+  "id": "1337",
+  "amount": 93.5,
+  "invoiceId": "11871",
+  "paidToMerchant": false,
+  "identifierNumber": 1827,
+  "billingDate": "2022-12-12T23:02:12.255Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25533134",
+      "fullName": "ERNESTO ISAIAS SOSA GUEVARA",
+      "phoneNumber": "+584242782121"
+    },
+    "installments": [
+      {
+        "id": "4306",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T23:02:21.220Z",
+        "amount": 46.75,
+        "status": "DONE"
+      },
+      {
+        "id": "4309",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T23:02:21.219Z",
+        "amount": 15.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4307",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T23:02:21.219Z",
+        "amount": 15.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4308",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T23:02:21.219Z",
+        "amount": 15.583333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

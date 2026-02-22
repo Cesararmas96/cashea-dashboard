@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T21:01:52.812Z",
+  "id": "7210",
+  "amount": 56.61,
+  "invoiceId": "15043",
+  "paidToMerchant": false,
+  "identifierNumber": 4386,
+  "billingDate": "2023-01-02T21:01:52.812Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26993467",
+      "fullName": "JOSE GREGORIO DIAZ SANCHEZ",
+      "phoneNumber": "+584142380253"
+    },
+    "installments": [
+      {
+        "id": "24982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T21:02:09.953Z",
+        "amount": 28.3,
+        "status": "DONE"
+      },
+      {
+        "id": "24985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T21:02:09.952Z",
+        "amount": 9.436666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "24984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T21:02:09.952Z",
+        "amount": 9.436666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "24983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T21:02:09.952Z",
+        "amount": 9.436666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

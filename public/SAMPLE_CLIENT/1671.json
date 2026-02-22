@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T22:36:36.054Z",
+  "id": "1012",
+  "amount": 30,
+  "invoiceId": "4494",
+  "paidToMerchant": false,
+  "identifierNumber": 1671,
+  "billingDate": "2022-12-09T22:36:36.054Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21601081",
+      "fullName": "ARTURO RAFAEL CASTILLO PENALVER",
+      "phoneNumber": "+584126351497"
+    },
+    "installments": [
+      {
+        "id": "3217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T22:37:25.771Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "3214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T22:37:25.771Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "3215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T22:37:25.771Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "3216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T22:37:25.771Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

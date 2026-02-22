@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-13T15:10:42.747Z",
+  "updatedAt": "2025-05-29T14:29:23.494Z",
+  "id": 5728,
+  "name": "Licoreria Rizzo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f6e5eafd-beb1-47c4-b89d-80ed304df89a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "licoreriarizzo@gmail.com",
+    "legalName": "Maria Rizzo",
+    "phoneNumber": "4166713911"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T15:12:45.246Z",
+      "updatedAt": "2025-05-13T15:12:45.246Z",
+      "id": 14035,
+      "merchantId": 5728,
+      "name": "Licoreria Rizzo Trujillo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6526,
+      "address": {
+        "name": "CALLE COMERCIO EDIF LIMINA PISO P/B 0-29 SECTOR CRUZ VERDE MUNICIPIO TRUJILLO EDO TRUJILLO",
+        "long": -70.4354375,
+        "lat": 9.367562499999991,
+        "location": "0101000020E6100000EE7C3F35DE9B51C0D078E92631BC2240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T18:21:03.110Z",
+  "id": "4724",
+  "amount": 493.65,
+  "invoiceId": "24796",
+  "paidToMerchant": false,
+  "identifierNumber": 4255,
+  "billingDate": "2022-12-24T18:21:03.110Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-10T04:00:00.906+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "16175",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12763649",
+      "fullName": "JEAN CARLOS PALACIOS",
+      "phoneNumber": "+584241908376"
+    },
+    "installments": [
+      {
+        "id": "16177",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:21:18.008Z",
+        "amount": 33.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16176",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:21:18.008Z",
+        "amount": 33.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16175",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:21:18.008Z",
+        "amount": 33.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16174",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:21:18.009Z",
+        "amount": 393.65,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

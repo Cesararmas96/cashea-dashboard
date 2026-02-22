@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T01:52:28.829Z",
+  "id": "3058",
+  "amount": 99.97,
+  "invoiceId": "00001701",
+  "paidToMerchant": false,
+  "identifierNumber": 3470,
+  "billingDate": "2022-12-21T01:52:28.829Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18094322",
+      "fullName": "ELIAS ALFONZO OLMOS SANABRIA",
+      "phoneNumber": "+584242538138"
+    },
+    "installments": [
+      {
+        "id": "10117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:52:56.996Z",
+        "amount": 16.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:52:56.996Z",
+        "amount": 49.98,
+        "status": "DONE"
+      },
+      {
+        "id": "10116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:52:56.996Z",
+        "amount": 16.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:52:56.996Z",
+        "amount": 16.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

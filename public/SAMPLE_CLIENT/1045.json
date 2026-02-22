@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-28T13:50:43.633Z",
+  "id": "538",
+  "amount": 120,
+  "invoiceId": "0000565",
+  "paidToMerchant": false,
+  "identifierNumber": 1045,
+  "billingDate": "2022-11-28T13:50:43.633Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24699513",
+      "fullName": "JHONAIKEL EDUANY PEREZ DUARTE",
+      "phoneNumber": "+584127336726"
+    },
+    "installments": [
+      {
+        "id": "1696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-26T13:51:23.750Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-28T13:51:23.751Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "1697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-09T13:51:23.750Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-12T13:51:23.750Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

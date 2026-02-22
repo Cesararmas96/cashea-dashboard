@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-16T15:31:41.546Z",
+  "updatedAt": "2025-05-27T15:27:24.650Z",
+  "id": 5811,
+  "name": "Centro Odontologico Tu Odontóloga en Ccs",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2587ae95-30a5-4b32-b293-3b81bcca0e32",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "consultaodontccs@gmail.com",
+    "legalName": "Hilda",
+    "phoneNumber": "04146412482"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T15:32:53.511Z",
+      "updatedAt": "2025-05-16T15:32:53.511Z",
+      "id": 14229,
+      "merchantId": 5811,
+      "name": "Centro Odontologico Tu Odontóloga en Ccs Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4101,
+      "address": {
+        "name": "Avenida  Francisco de Miranda. Chacao. Centro Prifesional Miranda. Puso 4. Oficina 4A",
+        "long": -66.8575625,
+        "lat": 10.492312500000011,
+        "location": "0101000020E6100000AAF1D24DE2B650C0F8D24D6210FC2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

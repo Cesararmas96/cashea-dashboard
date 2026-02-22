@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T23:07:18.868Z",
+  "id": "5306",
+  "amount": 52.18,
+  "invoiceId": "1714",
+  "paidToMerchant": false,
+  "identifierNumber": 5602,
+  "billingDate": "2022-12-27T23:07:18.868Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22014350",
+      "fullName": "JESSICA MARGARITA BERMUDEZ GARCIA",
+      "phoneNumber": "+584242484966"
+    },
+    "installments": [
+      {
+        "id": "18225",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T23:08:34.683Z",
+        "amount": 8.696666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18222",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T23:08:34.684Z",
+        "amount": 26.09,
+        "status": "DONE"
+      },
+      {
+        "id": "18223",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T23:08:34.683Z",
+        "amount": 8.696666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18224",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T23:08:34.683Z",
+        "amount": 8.696666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

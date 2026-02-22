@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T20:06:55.950Z",
+  "id": "1321",
+  "amount": 120,
+  "invoiceId": "000580",
+  "paidToMerchant": false,
+  "identifierNumber": 1793,
+  "billingDate": "2022-12-12T20:06:55.950Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21208133",
+      "fullName": "JHONERSY DEL CARMEN BARRIOS PERDOMO",
+      "phoneNumber": "+584168187596"
+    },
+    "installments": [
+      {
+        "id": "4254",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T20:14:31.144Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "4256",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T20:14:31.143Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "4255",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T20:14:31.143Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "4257",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T20:14:31.143Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

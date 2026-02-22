@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-15T20:20:19.860Z",
+  "id": "1569",
+  "amount": 63.66,
+  "invoiceId": "12096",
+  "paidToMerchant": false,
+  "identifierNumber": 5506,
+  "billingDate": "2022-12-15T20:20:19.860Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-01T04:00:00.170+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "5075",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30224376",
+      "fullName": "MARIA FERNANDA BRAZON SALINAS",
+      "phoneNumber": "+584241514953"
+    },
+    "installments": [
+      {
+        "id": "5077",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T20:20:41.107Z",
+        "amount": 10.61,
+        "status": "DONE"
+      },
+      {
+        "id": "5074",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T20:20:41.107Z",
+        "amount": 31.83,
+        "status": "DONE"
+      },
+      {
+        "id": "5075",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T20:20:41.107Z",
+        "amount": 10.61,
+        "status": "DONE"
+      },
+      {
+        "id": "5076",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T20:20:41.107Z",
+        "amount": 10.61,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

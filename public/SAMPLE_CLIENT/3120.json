@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:51:59.522Z",
+  "id": "2652",
+  "amount": 44.16,
+  "invoiceId": "13711",
+  "paidToMerchant": false,
+  "identifierNumber": 3120,
+  "billingDate": "2022-12-19T23:51:59.522Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21481797",
+      "fullName": "PAOLA PATRICIA PASTRANA PENATES",
+      "phoneNumber": "+584141398152"
+    },
+    "installments": [
+      {
+        "id": "8709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:53:00.446Z",
+        "amount": 7.359999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:53:00.447Z",
+        "amount": 22.08,
+        "status": "DONE"
+      },
+      {
+        "id": "8707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:53:00.446Z",
+        "amount": 7.359999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:53:00.446Z",
+        "amount": 7.359999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

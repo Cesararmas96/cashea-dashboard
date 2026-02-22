@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T01:19:00.090Z",
+  "id": "3372",
+  "amount": 32.83,
+  "invoiceId": "12727",
+  "paidToMerchant": false,
+  "identifierNumber": 3791,
+  "billingDate": "2022-12-22T01:19:00.090Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-07T04:00:00.512+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "11247",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18714229",
+      "fullName": "GABRIEL ALEXANDER GONZALEZ RAMIREZ",
+      "phoneNumber": "+584129761345"
+    },
+    "installments": [
+      {
+        "id": "11249",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:19:07.515Z",
+        "amount": 5.473333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "11248",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:19:07.515Z",
+        "amount": 5.473333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "11246",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:19:07.515Z",
+        "amount": 16.41,
+        "status": "DONE"
+      },
+      {
+        "id": "11247",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:19:07.515Z",
+        "amount": 5.473333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

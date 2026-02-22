@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-24T14:32:02.634Z",
+  "id": "175",
+  "amount": 40,
+  "invoiceId": "1270",
+  "paidToMerchant": false,
+  "identifierNumber": 1260,
+  "billingDate": "2022-10-24T14:32:02.634Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26308022",
+      "fullName": "OSWALDO JOSE FAJARDO VIDAL",
+      "phoneNumber": "+584123743034"
+    },
+    "installments": [
+      {
+        "id": "557",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-24T14:32:37.030Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "560",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-05T14:32:37.028Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "558",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-07T14:32:37.028Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "559",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-21T14:32:37.028Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

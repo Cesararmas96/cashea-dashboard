@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T17:47:03.508Z",
+  "id": "3959",
+  "amount": 141.71,
+  "invoiceId": "50459",
+  "paidToMerchant": false,
+  "identifierNumber": 4346,
+  "billingDate": "2022-12-23T17:47:03.508Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-09T04:00:00.976+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "13351",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24332378",
+      "fullName": "BRENDA PAOLA ARROYO CHARRY",
+      "phoneNumber": "+584241738062"
+    },
+    "installments": [
+      {
+        "id": "13353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:48:26.180Z",
+        "amount": 23.61666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:48:26.180Z",
+        "amount": 23.61666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:48:26.180Z",
+        "amount": 23.61666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:48:26.180Z",
+        "amount": 70.86,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

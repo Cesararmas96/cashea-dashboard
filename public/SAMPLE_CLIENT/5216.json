@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T19:53:07.034Z",
+  "id": "5902",
+  "amount": 60.99,
+  "invoiceId": "15409",
+  "paidToMerchant": false,
+  "identifierNumber": 5216,
+  "billingDate": "2022-12-29T19:53:07.034Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14977819",
+      "fullName": "CARLOS JAVIER TINEO MATA",
+      "phoneNumber": "+584148220720"
+    },
+    "installments": [
+      {
+        "id": "20350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T19:53:43.939Z",
+        "amount": 30.5,
+        "status": "DONE"
+      },
+      {
+        "id": "20353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T19:53:43.939Z",
+        "amount": 10.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T19:53:43.939Z",
+        "amount": 10.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T19:53:43.939Z",
+        "amount": 10.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

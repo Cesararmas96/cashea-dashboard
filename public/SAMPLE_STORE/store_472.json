@@ -1,0 +1,74 @@
+[
+  {
+    "id": 331,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J401118798",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES RITADO, C.A.",
+    "internalBankHolder": "INVERSIONES RITADO C.A",
+    "account": "01910098792198384271",
+    "accountType": "Corriente",
+    "phoneNumber": "04143331860",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 329,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J401118798",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES RITADO, C.A.",
+    "internalBankHolder": "INVERSIONES RITADO C.A",
+    "account": "01910098792198384271",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 330,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J401118798",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES RITADO, C.A.",
+    "internalBankHolder": "INVERSIONES RITADO C.A",
+    "account": "01910098792198384271",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 332,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J401118798",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES RITADO, C.A.",
+    "internalBankHolder": "INVERSIONES RITADO C.A",
+    "account": "01910098752398286807",
+    "accountType": "Custodia",
+    "phoneNumber": "",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

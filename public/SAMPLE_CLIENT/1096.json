@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-28T00:58:28.339Z",
+  "id": "536",
+  "amount": 96.9,
+  "invoiceId": "6982",
+  "paidToMerchant": false,
+  "identifierNumber": 1096,
+  "billingDate": "2022-11-28T00:58:28.339Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-01-11T06:00:00.506+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "1689",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13693173",
+      "fullName": "ODOARDO ASDRUBAL HERRADEZ MEJIAS",
+      "phoneNumber": "+584142200281"
+    },
+    "installments": [
+      {
+        "id": "1688",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-26T00:59:39.382Z",
+        "amount": 16.150000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "1686",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-28T00:59:39.383Z",
+        "amount": 48.45,
+        "status": "DONE"
+      },
+      {
+        "id": "1687",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-12T00:59:39.382Z",
+        "amount": 16.150000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "1689",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-09T00:59:39.382Z",
+        "amount": 16.150000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

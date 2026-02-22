@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T20:56:18.119Z",
+  "id": "7106",
+  "amount": 67.07,
+  "invoiceId": "9600",
+  "paidToMerchant": false,
+  "identifierNumber": 3192,
+  "billingDate": "2022-12-31T20:56:18.119Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-17T04:00:01.335+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "24619",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12293287",
+      "fullName": "YUBIRIS MILENA VEGAS MALDONADO",
+      "phoneNumber": "+584141251479"
+    },
+    "installments": [
+      {
+        "id": "24619",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T20:57:31.328Z",
+        "amount": 11.179999999999998,
+        "status": "DELAYED"
+      },
+      {
+        "id": "24620",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T20:57:31.328Z",
+        "amount": 11.179999999999998,
+        "status": "DELAYED"
+      },
+      {
+        "id": "24621",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T20:57:31.328Z",
+        "amount": 11.179999999999998,
+        "status": "DELAYED"
+      },
+      {
+        "id": "24618",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T20:57:31.328Z",
+        "amount": 33.53,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

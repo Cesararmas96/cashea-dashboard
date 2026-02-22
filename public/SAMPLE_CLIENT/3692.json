@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-23T00:39:09.430Z",
+  "id": "3788",
+  "amount": 140,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3692,
+  "billingDate": "2022-12-23T00:39:09.430Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

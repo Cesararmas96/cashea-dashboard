@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:18:11.659Z",
+  "id": "4592",
+  "amount": 68.93,
+  "invoiceId": "18532",
+  "paidToMerchant": false,
+  "identifierNumber": 4963,
+  "billingDate": "2022-12-24T16:18:11.659Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19557137",
+      "fullName": "EDUARDO SALVADOR ESPEJO LONGA",
+      "phoneNumber": "+584142121345"
+    },
+    "installments": [
+      {
+        "id": "15658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:18:30.485Z",
+        "amount": 34.47,
+        "status": "DONE"
+      },
+      {
+        "id": "15661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:18:30.484Z",
+        "amount": 11.48666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:18:30.484Z",
+        "amount": 11.48666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:18:30.484Z",
+        "amount": 11.48666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

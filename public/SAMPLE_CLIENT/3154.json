@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T00:11:32.691Z",
+  "id": "2667",
+  "amount": 157.48,
+  "invoiceId": "801",
+  "paidToMerchant": false,
+  "identifierNumber": 3154,
+  "billingDate": "2022-12-20T00:11:32.691Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "57",
+    "buyDebtDate": "2023-01-19T04:00:00.376+00:00",
+    "lastStoreId": 43,
+    "boughtForInstallmentId": "8760",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16491990",
+      "fullName": "DANIEL DE JESUS MEJIAS GONZALEZ",
+      "phoneNumber": "+584126315006"
+    },
+    "installments": [
+      {
+        "id": "8760",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:11:56.151Z",
+        "amount": 26.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8761",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:11:56.151Z",
+        "amount": 26.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8758",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:11:56.152Z",
+        "amount": 78.74,
+        "status": "DONE"
+      },
+      {
+        "id": "8759",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:11:56.151Z",
+        "amount": 26.246666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

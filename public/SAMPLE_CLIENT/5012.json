@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:52:21.004Z",
+  "id": "4631",
+  "amount": 44.9,
+  "invoiceId": "1662",
+  "paidToMerchant": false,
+  "identifierNumber": 5012,
+  "billingDate": "2022-12-24T16:52:21.004Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20611669",
+      "fullName": "JESUS RICARDO GONZALEZ GOMEZ",
+      "phoneNumber": "+584124523595"
+    },
+    "installments": [
+      {
+        "id": "15817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:55:23.661Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:55:23.661Z",
+        "amount": 22.45,
+        "status": "DONE"
+      },
+      {
+        "id": "15816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:55:23.661Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:55:23.661Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

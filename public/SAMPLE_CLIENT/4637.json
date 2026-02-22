@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:32:39.372Z",
+  "id": "4258",
+  "amount": 62.72,
+  "invoiceId": "12965",
+  "paidToMerchant": false,
+  "identifierNumber": 4637,
+  "billingDate": "2022-12-23T22:32:39.372Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26908945",
+      "fullName": "ILEIMY MICHELL BURGUILLOS RUZ",
+      "phoneNumber": "+584123662275"
+    },
+    "installments": [
+      {
+        "id": "14437",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:32:58.060Z",
+        "amount": 10.453333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14434",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:32:58.060Z",
+        "amount": 31.36,
+        "status": "DONE"
+      },
+      {
+        "id": "14435",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:32:58.060Z",
+        "amount": 10.453333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14436",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:32:58.060Z",
+        "amount": 10.453333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

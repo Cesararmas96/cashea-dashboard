@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:28:59.091Z",
+  "id": "3333",
+  "amount": 84.18,
+  "invoiceId": "14779",
+  "paidToMerchant": false,
+  "identifierNumber": 3758,
+  "billingDate": "2022-12-22T00:28:59.091Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22021133",
+      "fullName": "AMBAR ALEJANDRA DE LA LOPEZ HERNANDEZ",
+      "phoneNumber": "+584241601465"
+    },
+    "installments": [
+      {
+        "id": "11102",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:29:27.609Z",
+        "amount": 42.09,
+        "status": "DONE"
+      },
+      {
+        "id": "11104",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:29:27.608Z",
+        "amount": 14.030000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "11105",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:29:27.608Z",
+        "amount": 14.030000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "11103",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:29:27.608Z",
+        "amount": 14.030000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

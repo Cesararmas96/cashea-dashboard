@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-11T21:52:22.259Z",
+  "id": "358",
+  "amount": 126,
+  "invoiceId": "6601",
+  "paidToMerchant": false,
+  "identifierNumber": 1648,
+  "billingDate": "2022-11-11T21:52:22.259Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11900201",
+      "fullName": "SIRIANA DOREIBY CHACON RODRIGUEZ",
+      "phoneNumber": "+584141469051"
+    },
+    "installments": [
+      {
+        "id": "1085",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-11T21:53:40.246Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "1088",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-23T21:53:40.246Z",
+        "amount": 8.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1087",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-09T21:53:40.246Z",
+        "amount": 8.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1086",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-25T21:53:40.246Z",
+        "amount": 8.6666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T17:20:09.685Z",
+  "id": "5800",
+  "amount": 31.49,
+  "invoiceId": "00018695",
+  "paidToMerchant": false,
+  "identifierNumber": 3303,
+  "billingDate": "2022-12-29T17:20:09.685Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "5142574",
+      "fullName": "DILCIA BLANCO ALMENAR",
+      "phoneNumber": "+584243323032"
+    },
+    "installments": [
+      {
+        "id": "19990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:21:47.899Z",
+        "amount": 15.74,
+        "status": "DONE"
+      },
+      {
+        "id": "19993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:21:47.899Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "19992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:21:47.899Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "19991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:21:47.899Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

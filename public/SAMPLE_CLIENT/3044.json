@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:24:42.017Z",
+  "id": "2578",
+  "amount": 47.23,
+  "invoiceId": "13685",
+  "paidToMerchant": false,
+  "identifierNumber": 3044,
+  "billingDate": "2022-12-19T21:24:42.017Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17610085",
+      "fullName": "LEYDY NAILLIBY TORRES DURAN",
+      "phoneNumber": "+584242454537"
+    },
+    "installments": [
+      {
+        "id": "8474",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:24:56.021Z",
+        "amount": 23.61,
+        "status": "DONE"
+      },
+      {
+        "id": "8477",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:24:56.020Z",
+        "amount": 7.873333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8476",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:24:56.020Z",
+        "amount": 7.873333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8475",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:24:56.020Z",
+        "amount": 7.873333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

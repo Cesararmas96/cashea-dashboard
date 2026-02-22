@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T19:07:39.132Z",
+  "id": "6977",
+  "amount": 41.19,
+  "invoiceId": "9593",
+  "paidToMerchant": false,
+  "identifierNumber": 1891,
+  "billingDate": "2022-12-31T19:07:39.132Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-17T04:00:01.182+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "24131",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26089615",
+      "fullName": "GERALDINE JAQUELINE HERNANDEZ MARTINEZ",
+      "phoneNumber": "+584125410150"
+    },
+    "installments": [
+      {
+        "id": "24133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T19:08:19.272Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "24132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T19:08:19.272Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "24131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T19:08:19.272Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "24130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T19:08:19.272Z",
+        "amount": 20.59,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

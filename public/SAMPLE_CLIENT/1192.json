@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-16T20:21:45.534Z",
+  "id": "403",
+  "amount": 40,
+  "invoiceId": "6670",
+  "paidToMerchant": false,
+  "identifierNumber": 1192,
+  "billingDate": "2022-11-16T20:21:45.534Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14989077",
+      "fullName": "MARIA ELIZABETH CARRANZA ESPINAL",
+      "phoneNumber": "+584142879384"
+    },
+    "installments": [
+      {
+        "id": "1234",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-16T20:22:13.733Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1237",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-28T20:22:13.732Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1236",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-14T20:22:13.732Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1235",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-30T20:22:13.732Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

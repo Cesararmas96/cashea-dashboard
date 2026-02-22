@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T20:41:50.823Z",
+  "id": "5265",
+  "amount": 49,
+  "invoiceId": "785414",
+  "paidToMerchant": false,
+  "identifierNumber": 1557,
+  "billingDate": "2022-12-27T20:41:50.823Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16204937",
+      "fullName": "ROXANA EDITH GONZALEZ TORRES",
+      "phoneNumber": "+584241597575"
+    },
+    "installments": [
+      {
+        "id": "18070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T20:50:08.246Z",
+        "amount": 24.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T20:50:08.246Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T20:50:08.246Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T20:50:08.246Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

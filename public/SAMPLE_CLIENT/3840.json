@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T17:00:50.591Z",
+  "id": "3436",
+  "amount": 82.08,
+  "invoiceId": "13692",
+  "paidToMerchant": false,
+  "identifierNumber": 3840,
+  "billingDate": "2022-12-22T17:00:50.591Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-08T04:00:00.474+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "11491",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12624007",
+      "fullName": "DANILO RAMON OCHOA CONTRERAS",
+      "phoneNumber": "+584142832029"
+    },
+    "installments": [
+      {
+        "id": "11492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T17:12:31.811Z",
+        "amount": 13.68,
+        "status": "DONE"
+      },
+      {
+        "id": "11493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T17:12:31.811Z",
+        "amount": 13.68,
+        "status": "DONE"
+      },
+      {
+        "id": "11491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T17:12:31.811Z",
+        "amount": 13.68,
+        "status": "DONE"
+      },
+      {
+        "id": "11490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T17:12:31.811Z",
+        "amount": 41.04,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

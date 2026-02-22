@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-08T18:45:49.165Z",
+  "updatedAt": "2025-04-22T15:36:57.962Z",
+  "id": 5126,
+  "name": "Blue Import",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "80f2cc03-7318-4b9b-95f7-012e465245a3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mohamadhadaya89@gmail.com",
+    "legalName": "Mohamad",
+    "phoneNumber": "04142509066"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-10-03T13:51:06.921Z",
+      "updatedAt": "2025-10-03T13:51:06.921Z",
+      "id": 22952,
+      "merchantId": 5126,
+      "name": "vr_Blue Import CCS  Av Marron",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3821,
+      "address": {
+        "name": "Distrito Capital, Caracas, La hoyada Av Marrón, edificio Vilmar.",
+        "long": -71.60906250000001,
+        "lat": 10.6736875,
+        "location": "0101000020E610000015AE47E1FAE651C0B0726891ED582540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-08T18:49:44.032Z",
+      "updatedAt": "2025-04-08T18:49:44.032Z",
+      "id": 12712,
+      "merchantId": 5126,
+      "name": "Blue Import CCS  Av Marron",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3821,
+      "address": {
+        "name": "Distrito Capital, Caracas, La hoyada Av Marrón, edificio Vilmar.",
+        "long": -71.60906250000001,
+        "lat": 10.6736875,
+        "location": "0101000020E610000015AE47E1FAE651C0B0726891ED582540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

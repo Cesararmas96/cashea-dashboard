@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T19:17:28.623Z",
+  "id": "1195",
+  "amount": 52.97,
+  "invoiceId": "1051",
+  "paidToMerchant": false,
+  "identifierNumber": 1867,
+  "billingDate": "2022-12-11T19:17:28.623Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19155481",
+      "fullName": "HERENIA CAROLINA BENITEZ RANGEL",
+      "phoneNumber": "+584129074378"
+    },
+    "installments": [
+      {
+        "id": "3821",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:17:53.202Z",
+        "amount": 8.83,
+        "status": "DONE"
+      },
+      {
+        "id": "3819",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:17:53.202Z",
+        "amount": 8.83,
+        "status": "DONE"
+      },
+      {
+        "id": "3820",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:17:53.202Z",
+        "amount": 8.83,
+        "status": "DONE"
+      },
+      {
+        "id": "3818",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:17:53.203Z",
+        "amount": 26.48,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T20:27:48.179Z",
+  "id": "5256",
+  "amount": 83.12,
+  "invoiceId": "44721",
+  "paidToMerchant": false,
+  "identifierNumber": 5561,
+  "billingDate": "2022-12-27T20:27:48.179Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22904589",
+      "fullName": "YULEISY DEL VALLE GOMEZ PEREZ",
+      "phoneNumber": "+584149901587"
+    },
+    "installments": [
+      {
+        "id": "18030",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T20:28:06.377Z",
+        "amount": 41.56,
+        "status": "DONE"
+      },
+      {
+        "id": "18032",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T20:28:06.376Z",
+        "amount": 13.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18031",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T20:28:06.376Z",
+        "amount": 13.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18033",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T20:28:06.376Z",
+        "amount": 13.853333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

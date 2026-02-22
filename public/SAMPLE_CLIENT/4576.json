@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:30:49.715Z",
+  "id": "4182",
+  "amount": 243.75,
+  "invoiceId": "00013303",
+  "paidToMerchant": false,
+  "identifierNumber": 4576,
+  "billingDate": "2022-12-23T21:30:49.715Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12419538",
+      "fullName": "CAROLINA ORTEGA MORALES",
+      "phoneNumber": "+584141150024"
+    },
+    "installments": [
+      {
+        "id": "14166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:31:15.518Z",
+        "amount": 121.88,
+        "status": "DONE"
+      },
+      {
+        "id": "14169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:31:15.518Z",
+        "amount": 40.623333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "14168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:31:15.518Z",
+        "amount": 40.623333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "14167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:31:15.518Z",
+        "amount": 40.623333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

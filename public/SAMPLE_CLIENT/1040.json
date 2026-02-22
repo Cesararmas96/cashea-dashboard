@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-25T15:33:20.762Z",
+  "id": "477",
+  "amount": 90,
+  "invoiceId": "558",
+  "paidToMerchant": false,
+  "identifierNumber": 1040,
+  "billingDate": "2022-11-25T15:33:20.762Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20857126",
+      "fullName": "YAILISETH BETANIA GONZALEZ RODRIGUEZ",
+      "phoneNumber": "+584246463555"
+    },
+    "installments": [
+      {
+        "id": "1474",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-25T15:35:41.672Z",
+        "amount": 53,
+        "status": "DONE"
+      },
+      {
+        "id": "1475",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-09T15:35:41.671Z",
+        "amount": 12.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1476",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-23T15:35:41.671Z",
+        "amount": 12.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1477",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-06T15:35:41.671Z",
+        "amount": 12.3333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 5,
+    "name": "Doctor Lente Los Palos Grandes"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

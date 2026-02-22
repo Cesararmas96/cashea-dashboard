@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-02T21:12:41.643Z",
+  "updatedAt": "2025-04-04T12:15:21.545Z",
+  "id": 5013,
+  "name": "Centro Óptico María & José",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a95cb17b-5483-4378-a106-39ba2a6b82d2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "centropticomariayjose@gmail.com",
+    "legalName": "Jose",
+    "phoneNumber": "4124012060"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T21:13:50.773Z",
+      "updatedAt": "2025-04-02T21:13:50.773Z",
+      "id": 12558,
+      "merchantId": 5013,
+      "name": "Centro Óptico María & José CC Plaza Mayor",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4110,
+      "address": {
+        "name": "AV CAMEJO OCTAVIO CC PLAZA MAYOR NIVEL GALERIA LOCAL MT 7 COMPLEJO TURISTICO EL MORRO LECHERIA EDO ANZOATEGUI",
+        "long": -64.6828125,
+        "lat": 10.18106250000001,
+        "location": "0101000020E610000033333333B32B50C068105839B45C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

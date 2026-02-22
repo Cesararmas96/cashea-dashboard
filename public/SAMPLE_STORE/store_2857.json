@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1611,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J402385471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GUUAO, C.A.",
+    "internalBankHolder": "GUUAO, C.A.",
+    "account": "01910146132100183202",
+    "accountType": "Corriente",
+    "phoneNumber": "4123861823",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1609,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J402385471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GUUAO, C.A.",
+    "internalBankHolder": "GUUAO, C.A.",
+    "account": "01910146132100183202",
+    "accountType": "Corriente",
+    "phoneNumber": "4123861823",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1610,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J402385471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GUUAO, C.A.",
+    "internalBankHolder": "GUUAO, C.A.",
+    "account": "01910146132100183202",
+    "accountType": "Corriente",
+    "phoneNumber": "4123861823",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1612,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J402385471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GUUAO, C.A.",
+    "internalBankHolder": "GUUAO, C.A.",
+    "account": "01910146182300052639",
+    "accountType": "Custodia",
+    "phoneNumber": "4123861823",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

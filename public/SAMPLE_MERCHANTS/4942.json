@@ -1,0 +1,190 @@
+{
+  "createdAt": "2025-04-01T13:16:02.056Z",
+  "updatedAt": "2025-07-31T15:55:47.702Z",
+  "id": 4942,
+  "name": "TALLER DE LATONERIA Y PINTURA VV 5000",
+  "ecommerceUrl": null,
+  "changePolicy": "Nos complace informar a nuestros clientes que todos los trabajos realizados por nuestro equipo cuentan con una garantía de un año.",
+  "email": "tallervv5000@gmail.com",
+  "phoneNumber": "+584126052660",
+  "logoUrl": null,
+  "data": {
+    "rif": "J504951633",
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "81de5774-b2d3-46ed-8f50-12ea68d53696",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tallervv5000@gmail.com",
+    "legalName": "Victor De palo",
+    "phoneNumber": "4126052660"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T13:18:18.654Z",
+      "updatedAt": "2025-04-01T13:18:18.654Z",
+      "id": 12451,
+      "merchantId": 4942,
+      "name": "TALLER DE LATONERIA Y PINTURA VV 5000 El Paraiso",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7865,
+      "address": {
+        "name": "Caracas, Av principal el paraíso con callejón Machado, quinta San carlos...",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-16T19:38:20.938Z",
+      "updatedAt": "2025-06-16T19:38:20.938Z",
+      "id": 15740,
+      "merchantId": 4942,
+      "name": "VR_TALLER DE LATONERIA Y PINTURA VV 5000",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7865,
+      "address": {
+        "name": "Caracas, Av principal el paraíso con callejón Machado, quinta San carlos...",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-03T18:56:30.917Z",
+      "updatedAt": "2025-09-15T13:38:36.662Z",
+      "id": 12583,
+      "merchantId": 4942,
+      "name": "TALLER DE LATONERIA Y PINTURA VV 5000 Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7865,
+      "address": {
+        "name": "tallervv5000@gmail.com",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

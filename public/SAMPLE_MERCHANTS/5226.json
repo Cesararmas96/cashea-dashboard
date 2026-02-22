@@ -1,0 +1,133 @@
+{
+  "createdAt": "2025-04-14T17:12:41.574Z",
+  "updatedAt": "2025-04-14T17:15:36.639Z",
+  "id": 5226,
+  "name": "Royal Auto Market",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "10b406fa-21b7-48ed-931e-0cb74db03c86",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "royalautomarket@gmail.com",
+    "legalName": "Hui Qin Hung Liu",
+    "phoneNumber": "4147695247"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-15T21:14:40.319Z",
+      "updatedAt": "2025-09-15T21:14:40.319Z",
+      "id": 21523,
+      "merchantId": 5226,
+      "name": "VR Royal Auto Market",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7519,
+      "address": {
+        "name": "Royal Auto Market Cumaná",
+        "long": -64.1678125,
+        "lat": 10.473812499999994,
+        "location": "0101000020E61000000AD7A370BD0A50C038DF4F8D97F22440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T17:16:27.377Z",
+      "updatedAt": "2025-04-14T17:16:27.377Z",
+      "id": 12956,
+      "merchantId": 5226,
+      "name": "Royal Auto Market Cumaná",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7519,
+      "address": {
+        "name": "Royal Auto Market Cumaná",
+        "long": -64.1678125,
+        "lat": 10.473812499999994,
+        "location": "0101000020E61000000AD7A370BD0A50C038DF4F8D97F22440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

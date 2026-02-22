@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:37:30.368Z",
+  "id": "3019",
+  "amount": 137.2,
+  "invoiceId": "13865",
+  "paidToMerchant": false,
+  "identifierNumber": 1953,
+  "billingDate": "2022-12-21T00:37:30.368Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25664144",
+      "fullName": "JOSE ALFREDO CORDERO MARQUEZ",
+      "phoneNumber": "+584126391854"
+    },
+    "installments": [
+      {
+        "id": "9985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:41:23.394Z",
+        "amount": 22.866666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "9982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:41:23.394Z",
+        "amount": 68.6,
+        "status": "DONE"
+      },
+      {
+        "id": "9984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:41:23.394Z",
+        "amount": 22.866666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "9983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:41:23.394Z",
+        "amount": 22.866666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:49:37.494Z",
+  "id": "4625",
+  "amount": 32.53,
+  "invoiceId": "7109",
+  "paidToMerchant": false,
+  "identifierNumber": 4995,
+  "billingDate": "2022-12-24T16:49:37.494Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22798062",
+      "fullName": "LUDVY PATRICIA GUTIERREZ LOPEZ",
+      "phoneNumber": "+584241927073"
+    },
+    "installments": [
+      {
+        "id": "15785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:50:18.584Z",
+        "amount": 5.420000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:50:18.585Z",
+        "amount": 16.27,
+        "status": "DONE"
+      },
+      {
+        "id": "15784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:50:18.584Z",
+        "amount": 5.420000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:50:18.584Z",
+        "amount": 5.420000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:46:10.028Z",
+  "id": "4571",
+  "amount": 65,
+  "invoiceId": "9480",
+  "paidToMerchant": false,
+  "identifierNumber": 4947,
+  "billingDate": "2022-12-24T15:46:10.028Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27254368",
+      "fullName": "FRANK ALEJANDRO ESCALONA ROSATI",
+      "phoneNumber": "+584122486926"
+    },
+    "installments": [
+      {
+        "id": "15593",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:47:12.393Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15590",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:47:12.394Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15592",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:47:12.393Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15591",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:47:12.393Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

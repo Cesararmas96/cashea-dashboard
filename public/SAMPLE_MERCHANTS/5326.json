@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-23T13:06:27.450Z",
+  "updatedAt": "2025-04-24T19:07:17.001Z",
+  "id": 5326,
+  "name": "Samys Center",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7a2a6a4d-1f0b-42d2-a32a-c0a15eebd5ca",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "huellasshoesca01@gmail.com",
+    "legalName": "SAMY",
+    "phoneNumber": "04148469329"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T13:08:54.511Z",
+      "updatedAt": "2025-04-23T13:08:54.511Z",
+      "id": 13167,
+      "merchantId": 5326,
+      "name": "Samys Center El Tigre",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7564,
+      "address": {
+        "name": "CALLE MIRANDA Nº 25. SECTOR CASCO VIEJO. EL TIGRE. EDO. ANZOATEGUI",
+        "long": -64.23343750000001,
+        "lat": 8.895687499999994,
+        "location": "0101000020E61000003E0AD7A3F00E50C038DF4F8D97CA2140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

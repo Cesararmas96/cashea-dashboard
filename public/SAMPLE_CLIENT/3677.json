@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:11:24.420Z",
+  "id": "3245",
+  "amount": 67.7,
+  "invoiceId": "12699",
+  "paidToMerchant": false,
+  "identifierNumber": 3677,
+  "billingDate": "2022-12-21T22:11:24.420Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13339165",
+      "fullName": "YADRIANA JOSEFINA PALACIOS RODRIGUEZ",
+      "phoneNumber": "+584263167988"
+    },
+    "installments": [
+      {
+        "id": "10770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:12:02.050Z",
+        "amount": 33.85,
+        "status": "DONE"
+      },
+      {
+        "id": "10773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:12:02.050Z",
+        "amount": 11.283333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:12:02.050Z",
+        "amount": 11.283333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:12:02.050Z",
+        "amount": 11.283333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

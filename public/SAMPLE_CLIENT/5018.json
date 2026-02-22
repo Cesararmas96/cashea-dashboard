@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-31T00:33:58.034Z",
+  "id": "11560",
+  "amount": 38.36,
+  "invoiceId": "21043",
+  "paidToMerchant": false,
+  "identifierNumber": 5018,
+  "billingDate": "2023-01-31T00:33:58.034Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-04-26T04:00:00.396+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": 35461,
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31416493",
+      "fullName": "JOSEYBER ALEJANDRO PADUANI GARCIA",
+      "phoneNumber": "+584241987004"
+    },
+    "installments": [
+      {
+        "id": "35461",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T00:35:43.920Z",
+        "amount": 6.3933333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "35460",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T00:35:43.920Z",
+        "amount": 6.3933333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "35459",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T00:35:43.920Z",
+        "amount": 6.3933333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "35458",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T00:35:43.922Z",
+        "amount": 19.18,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

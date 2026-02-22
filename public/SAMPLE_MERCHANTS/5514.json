@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-02T19:12:50.409Z",
+  "updatedAt": "2025-05-05T19:48:40.296Z",
+  "id": 5514,
+  "name": "Soluciones Mundo Salud",
+  "ecommerceUrl": null,
+  "changePolicy": "No realizamos cambios ni devoluciones de dinero",
+  "email": "ANTOUNHOEPP2@GMAIL.COM",
+  "phoneNumber": "+584141236417",
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0ff4b794-e67d-4fa6-9afd-c74813bda52d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ANTOUNHOEPP2@GMAIL.COM",
+    "legalName": "BRYAN ANTOUN HOEPP ",
+    "phoneNumber": "04241236417"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T19:50:38.508Z",
+      "updatedAt": "2025-05-02T19:50:38.508Z",
+      "id": 13547,
+      "merchantId": 5514,
+      "name": "Soluciones Mundo Salud Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7697,
+      "address": {
+        "name": "Caracas Mundo Salud",
+        "long": -66.9398125,
+        "lat": 10.484687500000007,
+        "location": "0101000020E6100000CFF753E325BC50C0608FC2F528F82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:41:19.207Z",
+      "updatedAt": "2025-05-13T20:41:19.207Z",
+      "id": 14076,
+      "merchantId": 5514,
+      "name": "VR_Soluciones Mundo Salud",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7697,
+      "address": {
+        "name": "Caracas Mundo Salud",
+        "long": -66.9398125,
+        "lat": 10.484687500000007,
+        "location": "0101000020E6100000CFF753E325BC50C0608FC2F528F82440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

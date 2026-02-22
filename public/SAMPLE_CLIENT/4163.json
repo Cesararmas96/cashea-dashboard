@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T00:48:23.765Z",
+  "id": "3800",
+  "amount": 81.44,
+  "invoiceId": "14600",
+  "paidToMerchant": false,
+  "identifierNumber": 4163,
+  "billingDate": "2022-12-23T00:48:23.765Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "84",
+    "buyDebtDate": "2023-02-05T04:00:00.694+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "12785",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28152557",
+      "fullName": "VALERY DANIELA CARDONA VIVAS",
+      "phoneNumber": "+584123848284"
+    },
+    "installments": [
+      {
+        "id": "12785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:50:06.244Z",
+        "amount": 13.573333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "12782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:50:06.245Z",
+        "amount": 40.72,
+        "status": "DONE"
+      },
+      {
+        "id": "12784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:50:06.244Z",
+        "amount": 13.573333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "12783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:50:06.244Z",
+        "amount": 13.573333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

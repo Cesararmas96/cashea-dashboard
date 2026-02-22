@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-16T20:40:42.797Z",
+  "updatedAt": "2025-05-22T15:58:44.936Z",
+  "id": 5834,
+  "name": "FRIGORIFICO LA TERESEÑA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e359c0f6-143f-4418-96c8-a01dd4a57957",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "disvenca16@hotmail.com",
+    "legalName": "Frank Acosta",
+    "phoneNumber": "4166732833"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T20:43:46.547Z",
+      "updatedAt": "2025-05-16T20:43:46.547Z",
+      "id": 14266,
+      "merchantId": 5834,
+      "name": "FRIGORIFICO LA TERESEÑA Santa Teresa del Tuy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5366,
+      "address": {
+        "name": "CALLE PRINCIPAL EL ALTO DE SOAPIRE LOCAL NRO 40SECTOR EL ALTO SANTA TERESA DEL TUY MIRANDA ZONA POSTAL",
+        "long": -66.725,
+        "lat": 10.274999999999999,
+        "location": "0101000020E61000006666666666AE50C0CCCCCCCCCC8C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

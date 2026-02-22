@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T21:44:35.872Z",
+  "id": "4936",
+  "amount": 32.98,
+  "invoiceId": "14778",
+  "paidToMerchant": false,
+  "identifierNumber": 5153,
+  "billingDate": "2022-12-24T21:44:35.872Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "84",
+    "buyDebtDate": "2023-01-10T04:00:01.123+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "16919",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26022616",
+      "fullName": "LINA VALERIA ESCALANTE REINA",
+      "phoneNumber": "+584120736086"
+    },
+    "installments": [
+      {
+        "id": "16921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:47:31.610Z",
+        "amount": 5.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:47:31.610Z",
+        "amount": 5.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:47:31.610Z",
+        "amount": 5.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:47:31.610Z",
+        "amount": 16.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

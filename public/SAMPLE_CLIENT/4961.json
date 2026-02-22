@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:22:53.024Z",
+  "id": "4597",
+  "amount": 66.06,
+  "invoiceId": "18533",
+  "paidToMerchant": false,
+  "identifierNumber": 4961,
+  "billingDate": "2022-12-24T16:22:53.024Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12460068",
+      "fullName": "BDUARDO EMILIO OSTOS SANCHEZ",
+      "phoneNumber": "+584122959035"
+    },
+    "installments": [
+      {
+        "id": "15677",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:23:09.416Z",
+        "amount": 11.01,
+        "status": "DONE"
+      },
+      {
+        "id": "15674",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:23:09.416Z",
+        "amount": 33.03,
+        "status": "DONE"
+      },
+      {
+        "id": "15675",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:23:09.416Z",
+        "amount": 11.01,
+        "status": "DONE"
+      },
+      {
+        "id": "15676",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:23:09.416Z",
+        "amount": 11.01,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

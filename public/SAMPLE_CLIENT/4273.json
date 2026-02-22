@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T03:13:38.143Z",
+  "id": "3879",
+  "amount": 37.8,
+  "invoiceId": "12880",
+  "paidToMerchant": false,
+  "identifierNumber": 4273,
+  "billingDate": "2022-12-23T03:13:38.143Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-22T04:00:01.179+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "13076",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26747687",
+      "fullName": "JOSE GREGORIO MARTINEZ CARABALLO",
+      "phoneNumber": "+584125830352"
+    },
+    "installments": [
+      {
+        "id": "13077",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T03:13:54.997Z",
+        "amount": 6.3,
+        "status": "DELAYED"
+      },
+      {
+        "id": "13076",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T03:13:54.997Z",
+        "amount": 6.3,
+        "status": "DELAYED"
+      },
+      {
+        "id": "13074",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T03:13:54.997Z",
+        "amount": 18.9,
+        "status": "DONE"
+      },
+      {
+        "id": "13075",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T03:13:54.997Z",
+        "amount": 6.3,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

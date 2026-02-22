@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T23:23:53.789Z",
+  "id": "1628",
+  "amount": 65,
+  "invoiceId": "00003255",
+  "paidToMerchant": false,
+  "identifierNumber": 2257,
+  "billingDate": "2022-12-15T23:23:53.789Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19985127",
+      "fullName": "ERIK GUSTAVO ZERPA MUJICA",
+      "phoneNumber": "+584243298448"
+    },
+    "installments": [
+      {
+        "id": "5257",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T23:24:19.996Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5254",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T23:24:19.996Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "5255",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T23:24:19.996Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5256",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T23:24:19.996Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

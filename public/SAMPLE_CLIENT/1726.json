@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T17:49:07.409Z",
+  "id": "1062",
+  "amount": 146.36,
+  "invoiceId": "4530",
+  "paidToMerchant": false,
+  "identifierNumber": 1726,
+  "billingDate": "2022-12-10T17:49:07.409Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14215453",
+      "fullName": "JESSIKA ALEXANDRA QUINTERO CORRO",
+      "phoneNumber": "+584126298324"
+    },
+    "installments": [
+      {
+        "id": "3378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T17:51:40.840Z",
+        "amount": 73.18,
+        "status": "DONE"
+      },
+      {
+        "id": "3379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T17:51:40.839Z",
+        "amount": 24.393333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T17:51:40.839Z",
+        "amount": 24.393333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T17:51:40.839Z",
+        "amount": 24.393333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

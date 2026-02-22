@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-21T22:31:52.494Z",
+  "updatedAt": "2025-04-21T22:31:52.494Z",
+  "id": 5309,
+  "name": "Punto Top",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 6885,
+  "tags": [],
+  "uuid": "933e36a1-610c-42a8-8dad-af905312c76b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "abbasfrayde24@gmail.com",
+    "legalName": "Rosi Tirado",
+    "phoneNumber": "4149924510"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-21T22:39:08.498Z",
+      "updatedAt": "2025-04-21T22:39:08.498Z",
+      "id": 13123,
+      "merchantId": 5309,
+      "name": "Punto Top Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 15315,
+      "address": {
+        "name": "Punto Top Maturin",
+        "long": -63.181937500000004,
+        "lat": 9.746562499999996,
+        "location": "0101000020E610000040355EBA49974FC008D7A3703D7E2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

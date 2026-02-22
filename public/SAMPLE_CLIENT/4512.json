@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:26:34.583Z",
+  "id": "4094",
+  "amount": 57.48,
+  "invoiceId": "14649",
+  "paidToMerchant": false,
+  "identifierNumber": 4512,
+  "billingDate": "2022-12-23T20:26:34.583Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24635201",
+      "fullName": "ADONAY JESUS CISNEROS ALVAREZ",
+      "phoneNumber": "+584242043164"
+    },
+    "installments": [
+      {
+        "id": "13845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:29:16.030Z",
+        "amount": 9.58,
+        "status": "DONE"
+      },
+      {
+        "id": "13842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:29:16.030Z",
+        "amount": 28.74,
+        "status": "DONE"
+      },
+      {
+        "id": "13844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:29:16.030Z",
+        "amount": 9.58,
+        "status": "DONE"
+      },
+      {
+        "id": "13843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:29:16.030Z",
+        "amount": 9.58,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

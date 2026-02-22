@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-08T13:03:47.765Z",
+  "updatedAt": "2025-05-23T22:22:59.098Z",
+  "id": 5615,
+  "name": "Lobo Store",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "10ad7244-d02c-4ad8-9678-9cc0453f49f7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "kwshop.ve@gmail.com",
+    "legalName": "William",
+    "phoneNumber": "4126120265"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T13:05:52.610Z",
+      "updatedAt": "2025-05-08T13:05:52.610Z",
+      "id": 13776,
+      "merchantId": 5615,
+      "name": "Lobo Store CC Merpoeste",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4452,
+      "address": {
+        "name": "Centro Comercial Merpoeste, piso 1 Local 19,Calle Chico Carrasquel,Chacao, Caracas",
+        "long": -66.8558125,
+        "lat": 10.489937499999996,
+        "location": "0101000020E610000083C0CAA1C5B650C0002B8716D9FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T22:27:19.057Z",
+      "updatedAt": "2025-05-14T22:27:19.057Z",
+      "id": 14137,
+      "merchantId": 5615,
+      "name": "VR_Lobo Store",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4452,
+      "address": {
+        "name": "Centro Comercial Merpoeste, piso 1 Local 19,Calle Chico Carrasquel,Chacao, Caracas",
+        "long": -66.8558125,
+        "lat": 10.489937499999996,
+        "location": "0101000020E610000083C0CAA1C5B650C0002B8716D9FA2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

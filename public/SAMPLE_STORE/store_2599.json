@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1279,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J504281727",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "FRAGANCIAS BOUTIQUE 1999,C.A",
+    "internalBankHolder": "FRAGANCIAS BOUTIQUE 1999, C.A",
+    "account": "01910098702198432293",
+    "accountType": "Corriente",
+    "phoneNumber": "4242857182",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1277,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J504281727",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "FRAGANCIAS BOUTIQUE 1999,C.A",
+    "internalBankHolder": "FRAGANCIAS BOUTIQUE 1999, C.A",
+    "account": "01910098702198432293",
+    "accountType": "Corriente",
+    "phoneNumber": "4242857182",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1280,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J504281727",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "FRAGANCIAS BOUTIQUE 1999,C.A",
+    "internalBankHolder": "FRAGANCIAS BOUTIQUE 1999, C.A",
+    "account": "01910098722398344067",
+    "accountType": "Custodia",
+    "phoneNumber": "4242857182",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

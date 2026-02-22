@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T19:10:28.533Z",
+  "id": "2230",
+  "amount": 100,
+  "invoiceId": "00001643",
+  "paidToMerchant": false,
+  "identifierNumber": 2743,
+  "billingDate": "2022-12-18T19:10:28.533Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25014439",
+      "fullName": "STEPHANY MICHELLE CENTENO CHAMORRO",
+      "phoneNumber": "+584248934666"
+    },
+    "installments": [
+      {
+        "id": "7297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T19:11:21.705Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "7295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T19:11:21.705Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "7296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T19:11:21.705Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "7294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T19:11:21.706Z",
+        "amount": 50,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

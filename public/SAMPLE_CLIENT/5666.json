@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T00:19:01.031Z",
+  "id": "5338",
+  "amount": 160,
+  "invoiceId": "14409",
+  "paidToMerchant": false,
+  "identifierNumber": 5666,
+  "billingDate": "2022-12-28T00:19:01.031Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26846848",
+      "fullName": "ALANNIS DANIELA TOVAR VILLEGAS",
+      "phoneNumber": "+584121379416"
+    },
+    "installments": [
+      {
+        "id": "18342",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T00:20:07.036Z",
+        "amount": 80,
+        "status": "DONE"
+      },
+      {
+        "id": "18345",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T00:20:07.036Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18344",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T00:20:07.036Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18343",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T00:20:07.036Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

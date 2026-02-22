@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T17:00:59.449Z",
+  "id": "4637",
+  "amount": 148.01,
+  "invoiceId": "49258",
+  "paidToMerchant": false,
+  "identifierNumber": 4968,
+  "billingDate": "2022-12-24T17:00:59.449Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-24T04:00:01.411+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "15836",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14291115",
+      "fullName": "JULIAN VICTOR MATA HERNANDEZ",
+      "phoneNumber": "+584143030643"
+    },
+    "installments": [
+      {
+        "id": "15836",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:01:21.496Z",
+        "amount": 24.669999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "15837",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:01:21.496Z",
+        "amount": 24.669999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "15834",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:01:21.496Z",
+        "amount": 74,
+        "status": "DONE"
+      },
+      {
+        "id": "15835",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:01:21.496Z",
+        "amount": 24.669999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

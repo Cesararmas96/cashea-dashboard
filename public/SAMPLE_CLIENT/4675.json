@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:09:03.432Z",
+  "id": "4305",
+  "amount": 54.97,
+  "invoiceId": "9976",
+  "paidToMerchant": false,
+  "identifierNumber": 4675,
+  "billingDate": "2022-12-23T23:09:03.432Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23567134",
+      "fullName": "RICARDO DAVID BARBAR COELHO",
+      "phoneNumber": "+584122520756"
+    },
+    "installments": [
+      {
+        "id": "14610",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:09:51.501Z",
+        "amount": 27.48,
+        "status": "DONE"
+      },
+      {
+        "id": "14612",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:09:51.500Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14611",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:09:51.500Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14613",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:09:51.500Z",
+        "amount": 9.163333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 59,
+    "name": "Mango Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

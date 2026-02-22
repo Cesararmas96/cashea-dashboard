@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-02T15:40:10.415Z",
+  "updatedAt": "2025-06-05T21:21:41.774Z",
+  "id": 5508,
+  "name": "BOdegon gran barcelona",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "34b2e35b-13d6-4599-b1ef-1b14cd871f2e",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "bodegongranbna@gmail.com",
+    "legalName": "eva",
+    "phoneNumber": "04248447193"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T15:42:13.829Z",
+      "updatedAt": "2025-05-02T15:42:13.829Z",
+      "id": 13532,
+      "merchantId": 5508,
+      "name": "BOdegon gran barcelona Av 5 De Julio",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3835,
+      "address": {
+        "name": "AV BOULEVAR 5 DE JULIO LOCAL 5-69 SECTOR CASCO CENTRAL BARCELONA ESTADO ANZOATEGUI",
+        "long": -64.6860625,
+        "lat": 10.134312499999993,
+        "location": "0101000020E6100000C520B072E82B50C050E3A59BC4442440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

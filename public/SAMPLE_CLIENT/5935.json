@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:04:37.311Z",
+  "id": "5636",
+  "amount": 374.46,
+  "invoiceId": "13946",
+  "paidToMerchant": false,
+  "identifierNumber": 5935,
+  "billingDate": "2022-12-28T23:04:37.311Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13161812",
+      "fullName": "WILMER ALEXANDER GUAURA VERA",
+      "phoneNumber": "+584120238270"
+    },
+    "installments": [
+      {
+        "id": "19389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:05:22.195Z",
+        "amount": 62.41,
+        "status": "DONE"
+      },
+      {
+        "id": "19386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:05:22.195Z",
+        "amount": 187.23,
+        "status": "DONE"
+      },
+      {
+        "id": "19388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:05:22.195Z",
+        "amount": 62.41,
+        "status": "DONE"
+      },
+      {
+        "id": "19387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:05:22.195Z",
+        "amount": 62.41,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-23T23:15:42.679Z",
+  "id": "4310",
+  "amount": 70.98,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4692,
+  "billingDate": "2022-12-23T23:15:42.679Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

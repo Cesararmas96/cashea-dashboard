@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T00:34:20.230Z",
+  "id": "3783",
+  "amount": 232.11,
+  "invoiceId": "20746",
+  "paidToMerchant": false,
+  "identifierNumber": 3742,
+  "billingDate": "2022-12-23T00:34:20.230Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "75",
+    "buyDebtDate": "2023-01-08T04:00:00.849+00:00",
+    "lastStoreId": 62,
+    "boughtForInstallmentId": "12731",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26741864",
+      "fullName": "KEILYN NAVARRO VALLEJO",
+      "phoneNumber": "+584242060516"
+    },
+    "installments": [
+      {
+        "id": "12731",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:39:22.772Z",
+        "amount": 23.333333333333332,
+        "status": "DELAYED"
+      },
+      {
+        "id": "12733",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:39:22.772Z",
+        "amount": 23.333333333333332,
+        "status": "DELAYED"
+      },
+      {
+        "id": "12732",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:39:22.772Z",
+        "amount": 23.333333333333332,
+        "status": "DELAYED"
+      },
+      {
+        "id": "12730",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:39:22.772Z",
+        "amount": 162.11,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

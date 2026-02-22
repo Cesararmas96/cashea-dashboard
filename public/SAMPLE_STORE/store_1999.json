@@ -1,0 +1,74 @@
+[
+  {
+    "id": 648,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J502502564",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "internalBankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "account": "01910098722198415807",
+    "accountType": "Corriente",
+    "phoneNumber": "4241274771",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 646,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502502564",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "internalBankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "account": "01910098722198415807",
+    "accountType": "Corriente",
+    "phoneNumber": "4241274771",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 647,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502502564",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "internalBankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "account": "01910098722198415807",
+    "accountType": "Corriente",
+    "phoneNumber": "4241274771",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 649,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502502564",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "internalBankHolder": "REPRESENTACIONES AMOBLANDO C.A.",
+    "account": "01910098782398322808",
+    "accountType": "Custodia",
+    "phoneNumber": "4241274771",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

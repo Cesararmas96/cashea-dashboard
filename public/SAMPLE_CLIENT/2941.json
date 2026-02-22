@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T01:24:32.250Z",
+  "id": "2458",
+  "amount": 32.06,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2941,
+  "billingDate": "2022-12-19T01:24:32.250Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23718572",
+      "fullName": "MARLE CECILIA RAMIREZ GRATEROL",
+      "phoneNumber": "+584127517548"
+    },
+    "installments": [
+      {
+        "id": "8110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T01:25:02.976Z",
+        "amount": 16.03,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T01:25:02.976Z",
+        "amount": 5.343333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T01:25:02.976Z",
+        "amount": 5.343333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "8113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T01:25:02.976Z",
+        "amount": 5.343333333333334,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

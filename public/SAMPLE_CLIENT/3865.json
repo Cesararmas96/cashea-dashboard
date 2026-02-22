@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T15:54:56.250Z",
+  "id": "3413",
+  "amount": 48.47,
+  "invoiceId": "7012",
+  "paidToMerchant": false,
+  "identifierNumber": 3865,
+  "billingDate": "2022-12-22T15:54:56.250Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12929465",
+      "fullName": "LENNER ZUA GUTIERREZ CARRERO",
+      "phoneNumber": "+584243504923"
+    },
+    "installments": [
+      {
+        "id": "11402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T15:55:05.457Z",
+        "amount": 24.23,
+        "status": "DONE"
+      },
+      {
+        "id": "11405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T15:55:05.456Z",
+        "amount": 8.08,
+        "status": "DONE"
+      },
+      {
+        "id": "11404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T15:55:05.456Z",
+        "amount": 8.08,
+        "status": "DONE"
+      },
+      {
+        "id": "11403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T15:55:05.456Z",
+        "amount": 8.08,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

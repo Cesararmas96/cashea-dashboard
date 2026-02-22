@@ -1,0 +1,128 @@
+[
+  {
+    "id": 292,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J413005719",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MOA TOYS CSI, C.A.",
+    "internalBankHolder": "MOA TOYS CSI, C.A.",
+    "account": "01910098742198382080",
+    "accountType": "Corriente",
+    "phoneNumber": "4241501316",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 290,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J413005719",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MOA TOYS CSI, C.A.",
+    "internalBankHolder": "MOA TOYS CSI, C.A.",
+    "account": "01910098742198382080",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 291,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J413005719",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MOA TOYS CSI, C.A.",
+    "internalBankHolder": "MOA TOYS CSI, C.A.",
+    "account": "01910098742198382080",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 293,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J413005719",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MOA TOYS CSI, C.A.",
+    "internalBankHolder": "MOA TOYS CSI, C.A.",
+    "account": "01910098762398282666",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

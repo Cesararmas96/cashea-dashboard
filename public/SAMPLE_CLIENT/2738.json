@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T17:43:56.458Z",
+  "id": "2210",
+  "amount": 64.98,
+  "invoiceId": "6465",
+  "paidToMerchant": false,
+  "identifierNumber": 2738,
+  "billingDate": "2022-12-18T17:43:56.458Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13424020",
+      "fullName": "CLAUDIA PATRICIA MURCIA VARGAS",
+      "phoneNumber": "+584122029478"
+    },
+    "installments": [
+      {
+        "id": "7226",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T17:45:09.316Z",
+        "amount": 32.49,
+        "status": "DONE"
+      },
+      {
+        "id": "7227",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T17:45:09.316Z",
+        "amount": 10.83,
+        "status": "DONE"
+      },
+      {
+        "id": "7229",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T17:45:09.316Z",
+        "amount": 10.83,
+        "status": "DONE"
+      },
+      {
+        "id": "7228",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T17:45:09.316Z",
+        "amount": 10.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

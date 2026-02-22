@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-14T23:04:57.044Z",
+  "id": "1492",
+  "amount": 33.74,
+  "invoiceId": "49695",
+  "paidToMerchant": false,
+  "identifierNumber": 4614,
+  "billingDate": "2022-12-14T23:04:57.044Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-28T04:00:00.455+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "4825",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19399776",
+      "fullName": "HENRY ALBERTO REINA",
+      "phoneNumber": "+584242058915"
+    },
+    "installments": [
+      {
+        "id": "4822",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T23:05:14.876Z",
+        "amount": 16.87,
+        "status": "DONE"
+      },
+      {
+        "id": "4825",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T23:05:14.874Z",
+        "amount": 5.623333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4823",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T23:05:14.874Z",
+        "amount": 5.623333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4824",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T23:05:14.874Z",
+        "amount": 5.623333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

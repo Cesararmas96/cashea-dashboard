@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1351,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J316371514",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A.",
+    "internalBankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A",
+    "account": "01910142812100085967",
+    "accountType": "Corriente",
+    "phoneNumber": "4242063388",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1349,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J316371514",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A.",
+    "internalBankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A",
+    "account": "01910142812100085967",
+    "accountType": "Corriente",
+    "phoneNumber": "4242063388",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1350,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J316371514",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A.",
+    "internalBankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A",
+    "account": "01910142812100085967",
+    "accountType": "Corriente",
+    "phoneNumber": "4242063388",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1352,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J316371514",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A.",
+    "internalBankHolder": "INVERSIONES BEAUTIFUL HOUSE C.A",
+    "account": "01910142852300029180",
+    "accountType": "Custodia",
+    "phoneNumber": "4242063388",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:07:56.716Z",
+  "id": "2565",
+  "amount": 45.98,
+  "invoiceId": "14520",
+  "paidToMerchant": false,
+  "identifierNumber": 3060,
+  "billingDate": "2022-12-19T21:07:56.716Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24206511",
+      "fullName": "WILLIAM RAFAEL PINATE LEON",
+      "phoneNumber": "+584241505066"
+    },
+    "installments": [
+      {
+        "id": "8433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:08:11.398Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:08:11.399Z",
+        "amount": 22.99,
+        "status": "DONE"
+      },
+      {
+        "id": "8431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:08:11.398Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:08:11.398Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:44:44.499Z",
+  "id": "4879",
+  "amount": 75.87,
+  "invoiceId": "7145",
+  "paidToMerchant": false,
+  "identifierNumber": 5137,
+  "billingDate": "2022-12-24T20:44:44.499Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28437082",
+      "fullName": "NAZARETH DEL CARMEN RODRIGUEZ RENGIFO",
+      "phoneNumber": "+584128047893"
+    },
+    "installments": [
+      {
+        "id": "16718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:44:53.610Z",
+        "amount": 37.94,
+        "status": "DONE"
+      },
+      {
+        "id": "16721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:44:53.610Z",
+        "amount": 12.643333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "16720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:44:53.610Z",
+        "amount": 12.643333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "16719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:44:53.610Z",
+        "amount": 12.643333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-18T21:32:42.477Z",
+  "id": "2306",
+  "amount": 33.23,
+  "invoiceId": "6702",
+  "paidToMerchant": false,
+  "identifierNumber": 2806,
+  "billingDate": "2022-12-18T21:32:42.477Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-07T04:00:00.336+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": 7579,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26454122",
+      "fullName": "KERLING JOVANA GONZALEZ RODRIGUEZ",
+      "phoneNumber": "+584142019572"
+    },
+    "installments": [
+      {
+        "id": "7580",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T21:33:58.490Z",
+        "amount": 5.539999999999999,
+        "status": "DELAYED"
+      },
+      {
+        "id": "7581",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T21:33:58.490Z",
+        "amount": 5.539999999999999,
+        "status": "DELAYED"
+      },
+      {
+        "id": "7579",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T21:33:58.490Z",
+        "amount": 5.539999999999999,
+        "status": "DELAYED"
+      },
+      {
+        "id": "7578",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T21:33:58.490Z",
+        "amount": 16.61,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

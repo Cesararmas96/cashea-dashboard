@@ -1,0 +1,74 @@
+[
+  {
+    "id": 888,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J409847110",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRAMADO CORP, C.A. ",
+    "internalBankHolder": "GRAMADO CORP, C.A. ",
+    "account": "01910273412100025635",
+    "accountType": "Corriente",
+    "phoneNumber": "4242812495",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 886,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J409847110",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRAMADO CORP, C.A. ",
+    "internalBankHolder": "GRAMADO CORP, C.A. ",
+    "account": "01910273412100025635",
+    "accountType": "Corriente",
+    "phoneNumber": "4242812495",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 887,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J409847110",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRAMADO CORP, C.A. ",
+    "internalBankHolder": "GRAMADO CORP, C.A. ",
+    "account": "01910273412100025635",
+    "accountType": "Corriente",
+    "phoneNumber": "4242812495",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 889,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J409847110",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRAMADO CORP, C.A. ",
+    "internalBankHolder": "GRAMADO CORP, C.A. ",
+    "account": "01910273402300008076",
+    "accountType": "Custodia",
+    "phoneNumber": "4242812495",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

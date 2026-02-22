@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:53:47.288Z",
+  "id": "3611",
+  "amount": 216,
+  "invoiceId": "40001731",
+  "paidToMerchant": false,
+  "identifierNumber": 4039,
+  "billingDate": "2022-12-22T21:53:47.288Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14500661",
+      "fullName": "ALEJANDRO ELUARD MARQUEZ MORILLO",
+      "phoneNumber": "+584141861965"
+    },
+    "installments": [
+      {
+        "id": "12102",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:54:08.898Z",
+        "amount": 110.97,
+        "status": "DONE"
+      },
+      {
+        "id": "12105",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:54:08.898Z",
+        "amount": 35.01,
+        "status": "DONE"
+      },
+      {
+        "id": "12103",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:54:08.898Z",
+        "amount": 35.01,
+        "status": "DONE"
+      },
+      {
+        "id": "12104",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:54:08.898Z",
+        "amount": 35.01,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

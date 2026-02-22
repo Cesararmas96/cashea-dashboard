@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-06T15:21:39.737Z",
+  "updatedAt": "2025-06-04T14:20:20.528Z",
+  "id": 5563,
+  "name": "Puro kuero",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "43875337-1259-465f-9b2f-4046e3024203",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "purokueropzo@gmail.com",
+    "legalName": "Luis",
+    "phoneNumber": "04249263017"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T15:24:19.955Z",
+      "updatedAt": "2025-05-06T15:24:19.955Z",
+      "id": 13645,
+      "merchantId": 5563,
+      "name": "Puro kuero CC Ciudad Alta Vista",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7606,
+      "address": {
+        "name": "C.c.ciudad alta vista 1 planta baja",
+        "long": -62.736562500000005,
+        "lat": 8.293312499999999,
+        "location": "0101000020E6100000E27A14AE475E4FC01804560E2D962040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

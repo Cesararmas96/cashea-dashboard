@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T22:01:49.321Z",
+  "id": "1793",
+  "amount": 57.61,
+  "invoiceId": "00012704",
+  "paidToMerchant": false,
+  "identifierNumber": 2391,
+  "billingDate": "2022-12-16T22:01:49.321Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12641745",
+      "fullName": "JULIMAR DELGADO CAME O",
+      "phoneNumber": "+584166303918"
+    },
+    "installments": [
+      {
+        "id": "5793",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T22:02:41.170Z",
+        "amount": 9.603333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5790",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T22:02:41.171Z",
+        "amount": 28.8,
+        "status": "DONE"
+      },
+      {
+        "id": "5791",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T22:02:41.170Z",
+        "amount": 9.603333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5792",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T22:02:41.170Z",
+        "amount": 9.603333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

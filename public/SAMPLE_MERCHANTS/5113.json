@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-08T01:32:57.483Z",
+  "updatedAt": "2025-04-08T14:41:01.728Z",
+  "id": 5113,
+  "name": "Automercado Le Marché",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "59dde286-72f2-4b5a-90b7-ba37e3a2f9de",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "insiemesa2@gmail.com",
+    "legalName": "Grismar",
+    "phoneNumber": "4122728403"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-08T01:46:33.654Z",
+      "updatedAt": "2025-04-08T01:46:33.654Z",
+      "id": 12694,
+      "merchantId": 5113,
+      "name": "Automercado Le Marché Lechería",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5731,
+      "address": {
+        "name": "Automercado Le Marché Lechería",
+        "long": -64.68875,
+        "lat": 10.19125000000001,
+        "location": "0101000020E6100000AE47E17A142C50C058B81E85EB612440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

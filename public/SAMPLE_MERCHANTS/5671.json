@@ -1,0 +1,191 @@
+{
+  "createdAt": "2025-05-09T15:51:23.260Z",
+  "updatedAt": "2025-09-10T13:26:09.025Z",
+  "id": 5671,
+  "name": "Servicio Técnico de Fumigaciones JK",
+  "ecommerceUrl": null,
+  "changePolicy": "Para solicitar el cambio de producto, debe haber pasado un mínimo de 15 días.\nPara realizar el proceso de cambio, debe comunicarse vía WhatsApp, para gestionar su avería o reclamación de compra.\nEn caso de que el cliente haya violentado o abierto el equipo para su verificación, la garantía de cambio quedará sin efecto.\nNo se realizan reembolsos de dinero; solo se realiza el cambio del producto.",
+  "email": "fumigacionesjkventas@gmail.com",
+  "phoneNumber": "+584143224012",
+  "logoUrl": null,
+  "data": {
+    "rif": "J411130133"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c009324f-fe38-4c3c-9f6d-0022274b1cc2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:30",
+    "to": "16:00"
+  },
+  "contact": {
+    "email": "fumigacionesjk@gmail.com",
+    "legalName": "Kevin Calderon",
+    "phoneNumber": "4143224012"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T19:13:53.540Z",
+      "updatedAt": "2025-08-12T19:19:01.674Z",
+      "id": 14255,
+      "merchantId": 5671,
+      "name": "Servicio Técnico de Fumigaciones JK Markterplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7629,
+      "address": {
+        "name": "Municipio Libertador, Urb. El paraíso, Av Paez con calle la montaña, edificio victoria II piso 1 oficina 1-B",
+        "long": -66.9331875,
+        "lat": 10.486562499999991,
+        "location": "0101000020E61000004E621058B9BB50C080EB51B81EF92440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-05-27T18:25:13.779Z",
+      "updatedAt": "2025-05-27T18:25:13.779Z",
+      "id": 14755,
+      "merchantId": 5671,
+      "name": "VR_Servicio Técnico de Fumigaciones JK",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7629,
+      "address": {
+        "name": "urbanizacion del paraiso, avenida paez con calle la montaña  edif. victoria",
+        "long": -66.9331875,
+        "lat": 10.486562499999991,
+        "location": "0101000020E61000004E621058B9BB50C080EB51B81EF92440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T20:00:48.485Z",
+      "updatedAt": "2025-05-09T20:00:48.485Z",
+      "id": 13904,
+      "merchantId": 5671,
+      "name": "Servicio técnico de fumigaciónes jk El Paraiso",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7629,
+      "address": {
+        "name": "urbanizacion del paraiso, avenida paez con calle la montaña  edif. victoria",
+        "long": -66.9331875,
+        "lat": 10.486562499999991,
+        "location": "0101000020E61000004E621058B9BB50C080EB51B81EF92440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

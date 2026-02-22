@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T22:28:07.610Z",
+  "id": "4963",
+  "amount": 178.4,
+  "invoiceId": "50573",
+  "paidToMerchant": false,
+  "identifierNumber": 5236,
+  "billingDate": "2022-12-24T22:28:07.610Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25234764",
+      "fullName": "DIEGO MERINO ESCOBAR",
+      "phoneNumber": "+584241330194"
+    },
+    "installments": [
+      {
+        "id": "17013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:28:28.364Z",
+        "amount": 29.733333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:28:28.364Z",
+        "amount": 29.733333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:28:28.364Z",
+        "amount": 89.2,
+        "status": "DONE"
+      },
+      {
+        "id": "17011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:28:28.364Z",
+        "amount": 29.733333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

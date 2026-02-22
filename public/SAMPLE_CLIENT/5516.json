@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T20:29:23.247Z",
+  "id": "3535",
+  "amount": 50.4,
+  "invoiceId": "8498",
+  "paidToMerchant": false,
+  "identifierNumber": 5516,
+  "billingDate": "2022-12-22T20:29:23.247Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "73",
+    "buyDebtDate": "2023-02-05T04:00:00.484+00:00",
+    "lastStoreId": 60,
+    "boughtForInstallmentId": "11837",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14034036",
+      "fullName": "JOSE LUIS SANTANA BLANCO",
+      "phoneNumber": "+584143896553"
+    },
+    "installments": [
+      {
+        "id": "11834",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:29:49.493Z",
+        "amount": 25.2,
+        "status": "DONE"
+      },
+      {
+        "id": "11837",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:29:49.492Z",
+        "amount": 8.4,
+        "status": "DONE"
+      },
+      {
+        "id": "11836",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:29:49.492Z",
+        "amount": 8.4,
+        "status": "DONE"
+      },
+      {
+        "id": "11835",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:29:49.492Z",
+        "amount": 8.4,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

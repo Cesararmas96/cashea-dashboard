@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-25T15:17:34.719Z",
+  "updatedAt": "2025-04-25T15:17:34.719Z",
+  "id": 5390,
+  "name": "wakanda forever",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 748,
+  "tags": [],
+  "uuid": "cb820a9b-a5ba-4c01-88ce-ba3bccc9a0cf",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "souna_hamoud_07@hotmail.com",
+    "legalName": "Hussein Hamoud youssef",
+    "phoneNumber": "04249153234"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T15:20:09.415Z",
+      "updatedAt": "2025-04-25T15:20:09.415Z",
+      "id": 13280,
+      "merchantId": 5390,
+      "name": "wakanda forever monagas",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8241,
+      "address": {
+        "name": "calle monagas sector centro local nro 179",
+        "long": -63.175000000000004,
+        "lat": 9.725000000000001,
+        "location": "0101000020E61000006766666666964FC03433333333732340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

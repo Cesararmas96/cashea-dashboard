@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-13T17:14:53.003Z",
+  "updatedAt": "2025-12-22T20:07:33.316Z",
+  "id": 5746,
+  "name": "Veinte Quince",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 867,
+  "tags": [],
+  "uuid": "7ece18e2-a544-43d3-b79c-10ab4c457007",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gerenciarrhh.grupomon@gmail.com",
+    "legalName": "Maria Herrera",
+    "phoneNumber": "+584241783911"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-30T16:11:34.860Z",
+      "updatedAt": "2025-05-30T16:11:34.860Z",
+      "id": 14982,
+      "merchantId": 5746,
+      "name": "VR_Veinte Quince",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6787,
+      "address": {
+        "name": "CALLE LA GUARITA EDIF HOTEL EUROBUILDING PISO NIVEL (- 1) SOTANO LOCAL S1L-6 URB CHUAO -CARACAS MIRANDA ",
+        "long": -66.8501875,
+        "lat": 10.482437500000003,
+        "location": "0101000020E6100000F4FDD47869B650C060BA490C02F72440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T17:18:02.862Z",
+      "updatedAt": "2025-05-13T17:18:02.862Z",
+      "id": 14060,
+      "merchantId": 5746,
+      "name": "Veinte Quince Eurobuilding",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6787,
+      "address": {
+        "name": "CALLE LA GUARITA EDIF HOTEL EUROBUILDING PISO NIVEL (- 1)\tCARACAS \tSOTANO LOCAL S1L-5 URB CHUAO -CARACAS MIRANDA \t",
+        "long": -66.8501875,
+        "lat": 10.482437500000003,
+        "location": "0101000020E6100000F4FDD47869B650C060BA490C02F72440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

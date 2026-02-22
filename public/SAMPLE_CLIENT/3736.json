@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:06:57.968Z",
+  "id": "3316",
+  "amount": 122.73,
+  "invoiceId": "00001906",
+  "paidToMerchant": false,
+  "identifierNumber": 3736,
+  "billingDate": "2022-12-22T00:06:57.968Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11738318",
+      "fullName": "YELITZA DEL CARMEN VAZQUEZ TERAN",
+      "phoneNumber": "+584241772982"
+    },
+    "installments": [
+      {
+        "id": "11034",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:07:32.657Z",
+        "amount": 61.37,
+        "status": "DONE"
+      },
+      {
+        "id": "11037",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:07:32.657Z",
+        "amount": 20.453333333333337,
+        "status": "DONE"
+      },
+      {
+        "id": "11036",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:07:32.657Z",
+        "amount": 20.453333333333337,
+        "status": "DONE"
+      },
+      {
+        "id": "11035",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:07:32.657Z",
+        "amount": 20.453333333333337,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

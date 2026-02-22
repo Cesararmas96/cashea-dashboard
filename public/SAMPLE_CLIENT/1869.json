@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T18:15:44.996Z",
+  "id": "1182",
+  "amount": 46.8,
+  "invoiceId": "17240",
+  "paidToMerchant": false,
+  "identifierNumber": 1869,
+  "billingDate": "2022-12-11T18:15:44.996Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18933404",
+      "fullName": "GARVY GERARDO URIBE MARTINEZ",
+      "phoneNumber": "+584241717791"
+    },
+    "installments": [
+      {
+        "id": "3773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T18:16:07.925Z",
+        "amount": 7.8,
+        "status": "DONE"
+      },
+      {
+        "id": "3771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T18:16:07.925Z",
+        "amount": 7.8,
+        "status": "DONE"
+      },
+      {
+        "id": "3772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T18:16:07.925Z",
+        "amount": 7.8,
+        "status": "DONE"
+      },
+      {
+        "id": "3770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T18:16:07.926Z",
+        "amount": 23.4,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T22:03:55.029Z",
+  "id": "4951",
+  "amount": 52.98,
+  "invoiceId": "14781",
+  "paidToMerchant": false,
+  "identifierNumber": 5149,
+  "billingDate": "2022-12-24T22:03:55.029Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28434725",
+      "fullName": "LUIS MANUEL HERNANDEZ CARRANZA",
+      "phoneNumber": "+584241306897"
+    },
+    "installments": [
+      {
+        "id": "16965",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:04:21.620Z",
+        "amount": 8.83,
+        "status": "DONE"
+      },
+      {
+        "id": "16962",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:04:21.620Z",
+        "amount": 26.49,
+        "status": "DONE"
+      },
+      {
+        "id": "16964",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:04:21.620Z",
+        "amount": 8.83,
+        "status": "DONE"
+      },
+      {
+        "id": "16963",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:04:21.620Z",
+        "amount": 8.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-30T02:18:34.217Z",
+  "id": "11469",
+  "amount": 38.396,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1699,
+  "billingDate": "2023-01-30T02:18:34.217Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25368792",
+      "fullName": "GUILLERMO ANTONIO IZQUIERDO OMAÑA",
+      "phoneNumber": "+584120440878"
+    },
+    "installments": [
+      {
+        "id": "35126",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T02:18:34.262Z",
+        "amount": 19.2,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35129",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T02:18:34.261Z",
+        "amount": 6.398666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35127",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T02:18:34.261Z",
+        "amount": 6.398666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35128",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T02:18:34.261Z",
+        "amount": 6.398666666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 127,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 4148,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

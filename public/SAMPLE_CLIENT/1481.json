@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:49:35.867Z",
+  "id": "2408",
+  "amount": 30.09,
+  "invoiceId": "12088",
+  "paidToMerchant": false,
+  "identifierNumber": 1481,
+  "billingDate": "2022-12-18T23:49:35.867Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18269638",
+      "fullName": "LIZ KARLA SANCHEZ GUZMAN",
+      "phoneNumber": "+584120156548"
+    },
+    "installments": [
+      {
+        "id": "7921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:50:01.238Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:50:01.238Z",
+        "amount": 15.04,
+        "status": "DONE"
+      },
+      {
+        "id": "7919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:50:01.238Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:50:01.238Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

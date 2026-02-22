@@ -1,0 +1,110 @@
+[
+  {
+    "id": 36,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J307040734",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES FERRE-ING BOLEITA, C.A.",
+    "internalBankHolder": "INVERSIONES FERRE-ING BOLEITA, C.A.",
+    "account": "01910098752198330729",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J307040734",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES FERRE-ING BOLEITA, C.A.",
+    "internalBankHolder": "INVERSIONES FERRE-ING BOLEITA, C.A.",
+    "account": "01910098752198330729",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J307040734",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES FERRE-ING BOLEITA, C.A.",
+    "internalBankHolder": "INVERSIONES FERRE-ING BOLEITA, C.A.",
+    "account": "01910098732398209999",
+    "accountType": "Custodia ",
+    "phoneNumber": "",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

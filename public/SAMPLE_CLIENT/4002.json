@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:10:14.377Z",
+  "id": "3571",
+  "amount": 38.45,
+  "invoiceId": "14857",
+  "paidToMerchant": false,
+  "identifierNumber": 4002,
+  "billingDate": "2022-12-22T21:10:14.377Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14527088",
+      "fullName": "HERNAN ANTONIO NASPE PEREZ",
+      "phoneNumber": "+584164119647"
+    },
+    "installments": [
+      {
+        "id": "11954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:10:42.792Z",
+        "amount": 19.23,
+        "status": "DONE"
+      },
+      {
+        "id": "11957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:10:42.792Z",
+        "amount": 6.406666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:10:42.792Z",
+        "amount": 6.406666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:10:42.792Z",
+        "amount": 6.406666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-29T23:25:41.253Z",
+  "id": "11463",
+  "amount": 54.95,
+  "invoiceId": "12040",
+  "paidToMerchant": false,
+  "identifierNumber": 1397,
+  "billingDate": "2023-01-29T23:25:41.253Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12962356",
+      "fullName": "MARLING ALEXANDRA DUC NOGUERA",
+      "phoneNumber": "+584241199636"
+    },
+    "installments": [
+      {
+        "id": "35113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-12T23:32:30.725Z",
+        "amount": 9.156666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "35112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-26T23:32:30.725Z",
+        "amount": 9.156666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "35110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-29T23:32:30.726Z",
+        "amount": 27.48,
+        "status": "DONE"
+      },
+      {
+        "id": "35111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-12T23:32:30.725Z",
+        "amount": 9.156666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

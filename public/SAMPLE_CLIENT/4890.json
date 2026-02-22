@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T14:31:32.911Z",
+  "id": "4531",
+  "amount": 43.68,
+  "invoiceId": "7074",
+  "paidToMerchant": false,
+  "identifierNumber": 4890,
+  "billingDate": "2022-12-24T14:31:32.911Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25234299",
+      "fullName": "RODOLFO LEONARDO CARVALLO HUNG",
+      "phoneNumber": "+584140203121"
+    },
+    "installments": [
+      {
+        "id": "15454",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T14:32:41.631Z",
+        "amount": 21.84,
+        "status": "DONE"
+      },
+      {
+        "id": "15457",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T14:32:41.630Z",
+        "amount": 7.28,
+        "status": "DONE"
+      },
+      {
+        "id": "15455",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T14:32:41.630Z",
+        "amount": 7.28,
+        "status": "DONE"
+      },
+      {
+        "id": "15456",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T14:32:41.630Z",
+        "amount": 7.28,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

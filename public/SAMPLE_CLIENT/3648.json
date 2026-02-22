@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T21:44:46.401Z",
+  "id": "3226",
+  "amount": 56.1,
+  "invoiceId": "12695",
+  "paidToMerchant": false,
+  "identifierNumber": 3648,
+  "billingDate": "2022-12-21T21:44:46.401Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-07T04:00:00.444+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "10707",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26343561",
+      "fullName": "JEFFERSON JOHANDRIX CARABALLO MOLINA",
+      "phoneNumber": "+584241885476"
+    },
+    "installments": [
+      {
+        "id": "10709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:45:21.936Z",
+        "amount": 9.35,
+        "status": "DONE"
+      },
+      {
+        "id": "10708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:45:21.936Z",
+        "amount": 9.35,
+        "status": "DONE"
+      },
+      {
+        "id": "10707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:45:21.936Z",
+        "amount": 9.35,
+        "status": "DONE"
+      },
+      {
+        "id": "10706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:45:21.936Z",
+        "amount": 28.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

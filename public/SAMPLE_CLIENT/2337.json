@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-16T19:15:48.470Z",
+  "id": "1719",
+  "amount": 50.73,
+  "invoiceId": "49838",
+  "paidToMerchant": false,
+  "identifierNumber": 2337,
+  "billingDate": "2022-12-16T19:15:48.470Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-02T04:00:00.342+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "5531",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13053685",
+      "fullName": "OSCARINA ELVIRA MALAVE MILLAN",
+      "phoneNumber": "+584142698353"
+    },
+    "installments": [
+      {
+        "id": "5533",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T19:17:46.741Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "5531",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T19:17:46.741Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "5530",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T19:17:46.742Z",
+        "amount": 25.36,
+        "status": "DONE"
+      },
+      {
+        "id": "5532",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T19:17:46.741Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

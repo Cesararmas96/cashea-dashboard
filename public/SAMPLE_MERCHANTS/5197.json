@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-12T16:23:08.756Z",
+  "updatedAt": "2025-04-24T14:16:49.280Z",
+  "id": 5197,
+  "name": "daycar Importadora",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "29783e3d-c952-408e-af53-17eb6efe3854",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "patricia.gelvis@icloud.com",
+    "legalName": "Patricia Galvys",
+    "phoneNumber": "4129589861"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-12T16:26:12.907Z",
+      "updatedAt": "2025-04-12T16:26:12.907Z",
+      "id": 12890,
+      "merchantId": 5197,
+      "name": "daycar Importadora CC Don Lorenzo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5691,
+      "address": {
+        "name": "Calle petion centro comercial don Lorenzo nivel P/b local 6 centro Turmero Aragua",
+        "long": -67.4734375,
+        "lat": 10.227687500000002,
+        "location": "0101000020E6100000CDCCCCCC4CDE50C0806ABC7493742440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-16T19:17:06.850Z",
+  "id": "1720",
+  "amount": 104.8,
+  "invoiceId": "00001538",
+  "paidToMerchant": false,
+  "identifierNumber": 2321,
+  "billingDate": "2022-12-16T19:17:06.850Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-16T04:00:00.753+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "5536",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25268133",
+      "fullName": "JESUS EDUARDO MELCHOR YAGUARE",
+      "phoneNumber": "+584241264734"
+    },
+    "installments": [
+      {
+        "id": "5537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T19:20:04.428Z",
+        "amount": 17.466666666666665,
+        "status": "DELAYED"
+      },
+      {
+        "id": "5536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T19:20:04.428Z",
+        "amount": 17.466666666666665,
+        "status": "DELAYED"
+      },
+      {
+        "id": "5534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T19:20:04.429Z",
+        "amount": 52.4,
+        "status": "DONE"
+      },
+      {
+        "id": "5535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T19:20:04.428Z",
+        "amount": 17.466666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

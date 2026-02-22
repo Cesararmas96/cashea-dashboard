@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T21:06:31.539Z",
+  "id": "1001",
+  "amount": 90,
+  "invoiceId": "00000821",
+  "paidToMerchant": false,
+  "identifierNumber": 1654,
+  "billingDate": "2022-12-09T21:06:31.539Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25584044",
+      "fullName": "BLAS ANTONIO JOSE GALINDEZ HERRERA",
+      "phoneNumber": "+584143516800"
+    },
+    "installments": [
+      {
+        "id": "3173",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T21:06:51.590Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "3171",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T21:06:51.590Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "3172",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T21:06:51.590Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "3170",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T21:06:51.591Z",
+        "amount": 45,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

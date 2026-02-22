@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:10:16.562Z",
+  "id": "3165",
+  "amount": 136.38,
+  "invoiceId": "00013024",
+  "paidToMerchant": false,
+  "identifierNumber": 3578,
+  "billingDate": "2022-12-21T20:10:16.562Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14362536",
+      "fullName": "GIOVANNI ANTONIO DE SANTIS GOMEZ",
+      "phoneNumber": "+584143210334"
+    },
+    "installments": [
+      {
+        "id": "10478",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:10:42.834Z",
+        "amount": 68.19,
+        "status": "DONE"
+      },
+      {
+        "id": "10481",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:10:42.834Z",
+        "amount": 22.73,
+        "status": "DONE"
+      },
+      {
+        "id": "10480",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:10:42.834Z",
+        "amount": 22.73,
+        "status": "DONE"
+      },
+      {
+        "id": "10479",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:10:42.834Z",
+        "amount": 22.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:36:01.215Z",
+  "id": "2796",
+  "amount": 45.98,
+  "invoiceId": "14619",
+  "paidToMerchant": false,
+  "identifierNumber": 3293,
+  "billingDate": "2022-12-20T19:36:01.215Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29677518",
+      "fullName": "DYLAN MANUEL BARRAZA OROZCO",
+      "phoneNumber": "+584123693452"
+    },
+    "installments": [
+      {
+        "id": "9214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:36:33.997Z",
+        "amount": 22.99,
+        "status": "DONE"
+      },
+      {
+        "id": "9215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:36:33.997Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:36:33.997Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:36:33.997Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

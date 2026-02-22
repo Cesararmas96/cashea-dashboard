@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:54:32.032Z",
+  "id": "4690",
+  "amount": 158.05,
+  "invoiceId": "14736",
+  "paidToMerchant": false,
+  "identifierNumber": 1860,
+  "billingDate": "2022-12-24T17:54:32.032Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14454748",
+      "fullName": "VICTOR AUGUSTO MONROY OJEDA",
+      "phoneNumber": "+584141397776"
+    },
+    "installments": [
+      {
+        "id": "16040",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:55:12.025Z",
+        "amount": 26.340000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16038",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:55:12.025Z",
+        "amount": 79.03,
+        "status": "DONE"
+      },
+      {
+        "id": "16041",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:55:12.025Z",
+        "amount": 26.340000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16039",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:55:12.025Z",
+        "amount": 26.340000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

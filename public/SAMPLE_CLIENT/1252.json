@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-23T19:48:50.262Z",
+  "id": "169",
+  "amount": 265,
+  "invoiceId": "9895",
+  "paidToMerchant": false,
+  "identifierNumber": 1252,
+  "billingDate": "2022-10-23T19:48:50.262Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10538352",
+      "fullName": "EGLIS DUMELYS OVIEDO MEDINA",
+      "phoneNumber": "+584143233754"
+    },
+    "installments": [
+      {
+        "id": "533",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-23T19:52:28.316Z",
+        "amount": 165,
+        "status": "DONE"
+      },
+      {
+        "id": "536",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-04T19:52:28.315Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "534",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-06T19:52:28.315Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "535",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-20T19:52:28.315Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

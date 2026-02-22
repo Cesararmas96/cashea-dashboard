@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:47:43.262Z",
+  "id": "5573",
+  "amount": 106.43,
+  "invoiceId": "18867",
+  "paidToMerchant": false,
+  "identifierNumber": 5848,
+  "billingDate": "2022-12-28T21:47:43.262Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26255657",
+      "fullName": "ROSELYN PADILLA TARRA",
+      "phoneNumber": "+584121992666"
+    },
+    "installments": [
+      {
+        "id": "19154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:48:20.556Z",
+        "amount": 53.22,
+        "status": "DONE"
+      },
+      {
+        "id": "19157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:48:20.556Z",
+        "amount": 17.736666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:48:20.556Z",
+        "amount": 17.736666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "19155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:48:20.556Z",
+        "amount": 17.736666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

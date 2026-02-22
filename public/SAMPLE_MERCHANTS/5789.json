@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-15T15:40:13.610Z",
+  "updatedAt": "2025-12-17T03:16:51.596Z",
+  "id": 5789,
+  "name": "Comercializadora Mari Milla 2024",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "166cf65b-5103-49c0-9abb-abb2e02be04a",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "comercializadoramarimillasrlca@gmail.com",
+    "legalName": "Comercializadora",
+    "phoneNumber": "+584242765062"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T17:09:16.012Z",
+      "updatedAt": "2025-06-18T17:09:16.012Z",
+      "id": 15917,
+      "merchantId": 5789,
+      "name": "VR_Comercializadora Mari Millas 2024",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4296,
+      "address": {
+        "name": "AV SIMON BOLIVAR EDIF PROPATRIA PISO PB LOCAL 1-A Y 2-BURB PROPATRIA CARACAS DISTRITO CAPITAL ZONA POSTAL 103",
+        "long": -66.9513125,
+        "lat": 10.504437499999995,
+        "location": "0101000020E6100000AAF1D24DE2BC50C080C0CAA145022540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T15:42:30.940Z",
+      "updatedAt": "2025-05-15T15:42:30.940Z",
+      "id": 14179,
+      "merchantId": 5789,
+      "name": "Comercializadora Mari Millas 2024 Propatria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4296,
+      "address": {
+        "name": "AV SIMON BOLIVAR EDIF PROPATRIA PISO PB LOCAL 1-A Y 2-BURB PROPATRIA CARACAS DISTRITO CAPITAL ZONA POSTAL 103",
+        "long": -66.9513125,
+        "lat": 10.504437499999995,
+        "location": "0101000020E6100000AAF1D24DE2BC50C080C0CAA145022540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

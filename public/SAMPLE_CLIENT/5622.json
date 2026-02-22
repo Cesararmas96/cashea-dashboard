@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T23:35:09.579Z",
+  "id": "5320",
+  "amount": 35.16,
+  "invoiceId": "00018780",
+  "paidToMerchant": false,
+  "identifierNumber": 5622,
+  "billingDate": "2022-12-27T23:35:09.579Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-02-10T04:00:00.360+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "18273",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18461107",
+      "fullName": "MARGARET CAROLINA ROA VALLENILLA",
+      "phoneNumber": "+584126114082"
+    },
+    "installments": [
+      {
+        "id": "18273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T23:35:26.374Z",
+        "amount": 5.859999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "18270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T23:35:26.374Z",
+        "amount": 17.58,
+        "status": "DONE"
+      },
+      {
+        "id": "18271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T23:35:26.374Z",
+        "amount": 5.859999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "18272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T23:35:26.374Z",
+        "amount": 5.859999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

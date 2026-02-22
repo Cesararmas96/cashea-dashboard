@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:13:20.489Z",
+  "id": "2786",
+  "amount": 58.71,
+  "invoiceId": "784821",
+  "paidToMerchant": false,
+  "identifierNumber": 3258,
+  "billingDate": "2022-12-20T19:13:20.489Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16379112",
+      "fullName": "JACKSON LEONARDO CAMPOS ALTUVES",
+      "phoneNumber": "+584123639529"
+    },
+    "installments": [
+      {
+        "id": "9189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:13:40.046Z",
+        "amount": 9.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:13:40.046Z",
+        "amount": 29.36,
+        "status": "DONE"
+      },
+      {
+        "id": "9187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:13:40.046Z",
+        "amount": 9.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:13:40.046Z",
+        "amount": 9.783333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

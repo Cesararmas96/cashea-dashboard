@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-14T04:41:29.848Z",
+  "id": "1402",
+  "amount": 102.4,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1980,
+  "billingDate": "2022-12-14T04:41:29.848Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26497631",
+      "fullName": "DANIEL EDUARDO BEHRENS HERNANDEZ",
+      "phoneNumber": "+584123330956"
+    },
+    "installments": [
+      {
+        "id": "4520",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T04:41:29.898Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4521",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T04:41:29.898Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4518",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T04:41:29.899Z",
+        "amount": 51.2,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4519",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T04:41:29.898Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 49,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

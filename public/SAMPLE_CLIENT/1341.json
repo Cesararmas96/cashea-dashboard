@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T16:19:00.917Z",
+  "id": "420",
+  "amount": 55,
+  "invoiceId": "00000369",
+  "paidToMerchant": false,
+  "identifierNumber": 1341,
+  "billingDate": "2022-11-19T16:19:00.917Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14989077",
+      "fullName": "MARIA ELIZABETH CARRANZA ESPINAL",
+      "phoneNumber": "+584142879384"
+    },
+    "installments": [
+      {
+        "id": "1286",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T16:19:42.766Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1289",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T16:19:42.764Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1288",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T16:19:42.764Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1287",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T16:19:42.764Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 14,
+    "name": "Pintacasa Boleita Sur"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

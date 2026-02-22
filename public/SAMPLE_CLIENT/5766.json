@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-28T18:33:33.948Z",
+  "id": "5465",
+  "amount": 38.49,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5766,
+  "billingDate": "2022-12-28T18:33:33.948Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

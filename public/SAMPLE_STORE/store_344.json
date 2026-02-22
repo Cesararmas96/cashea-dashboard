@@ -1,0 +1,128 @@
+[
+  {
+    "id": 276,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J406333565",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DEPOFIT BARQUISIMETO CA",
+    "internalBankHolder": "DEPOFIT BARQUISIMETO CA",
+    "account": "01910098712198376234",
+    "accountType": "Corriente",
+    "phoneNumber": "4145652035",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 274,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J406333565",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DEPOFIT BARQUISIMETO CA",
+    "internalBankHolder": "DEPOFIT BARQUISIMETO CA",
+    "account": "01910098712198376234",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 275,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J406333565",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DEPOFIT BARQUISIMETO CA",
+    "internalBankHolder": "DEPOFIT BARQUISIMETO CA",
+    "account": "01910098712198376234",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 277,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J406333565",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DEPOFIT BARQUISIMETO CA",
+    "internalBankHolder": "DEPOFIT BARQUISIMETO CA",
+    "account": "01910098772398273845",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

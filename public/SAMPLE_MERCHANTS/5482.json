@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-01T15:12:13.349Z",
+  "updatedAt": "2025-05-09T15:29:32.691Z",
+  "id": 5482,
+  "name": "MADERO’S BODEGON CLUB",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e5e36fce-a2cc-48da-a0a3-f74d62be246e",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "maderosbodegonclub@gmail.com",
+    "legalName": "DANGELO BRITO",
+    "phoneNumber": "4123679259"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-01T15:14:46.518Z",
+      "updatedAt": "2025-05-01T15:14:46.518Z",
+      "id": 13500,
+      "merchantId": 5482,
+      "name": "MADERO’S BODEGON CLUB Cumana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6584,
+      "address": {
+        "name": "QUINTA TRANSVERSAL SANTA ROSA , AL LADO DE HAKUNA MATATA",
+        "long": -64.16606250000001,
+        "lat": 10.470937499999991,
+        "location": "0101000020E6100000E4A59BC4A00A50C080EB51B81EF12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

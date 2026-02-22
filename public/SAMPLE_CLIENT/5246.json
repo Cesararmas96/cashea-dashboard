@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T17:40:37.666Z",
+  "id": "5813",
+  "amount": 80,
+  "invoiceId": "3443",
+  "paidToMerchant": false,
+  "identifierNumber": 5246,
+  "billingDate": "2022-12-29T17:40:37.666Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24222408",
+      "fullName": "ITAMAR MADAI SALAZAR PAVIQUE",
+      "phoneNumber": "+584241909271"
+    },
+    "installments": [
+      {
+        "id": "20049",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:41:00.616Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20046",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:41:00.616Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "20048",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:41:00.616Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20047",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:41:00.616Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

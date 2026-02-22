@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-07T18:52:39.524Z",
+  "id": "841",
+  "amount": 87.47,
+  "invoiceId": "11415",
+  "paidToMerchant": false,
+  "identifierNumber": 1579,
+  "billingDate": "2022-12-07T18:52:39.524Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-21T04:00:00.393+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "2697",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23622657",
+      "fullName": "ENDINYER JOSE BOLAÑO ZAMBRANO",
+      "phoneNumber": "+584241257031"
+    },
+    "installments": [
+      {
+        "id": "2696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T18:53:10.515Z",
+        "amount": 14.58,
+        "status": "DONE"
+      },
+      {
+        "id": "2695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T18:53:10.515Z",
+        "amount": 14.58,
+        "status": "DONE"
+      },
+      {
+        "id": "2697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T18:53:10.515Z",
+        "amount": 14.58,
+        "status": "DONE"
+      },
+      {
+        "id": "2694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T18:53:10.515Z",
+        "amount": 43.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

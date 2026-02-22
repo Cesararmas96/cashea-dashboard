@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:43:06.199Z",
+  "id": "4616",
+  "amount": 39.84,
+  "invoiceId": "91,05",
+  "paidToMerchant": false,
+  "identifierNumber": 4955,
+  "billingDate": "2022-12-24T16:43:06.199Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10626026",
+      "fullName": "AUROKLISDER MARIN ORTIZ",
+      "phoneNumber": "+584142498933"
+    },
+    "installments": [
+      {
+        "id": "15764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:47:08.152Z",
+        "amount": 6.640000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:47:08.153Z",
+        "amount": 19.92,
+        "status": "DONE"
+      },
+      {
+        "id": "15765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:47:08.152Z",
+        "amount": 6.640000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "15763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:47:08.152Z",
+        "amount": 6.640000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

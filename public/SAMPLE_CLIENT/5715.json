@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:21:18.188Z",
+  "id": "5425",
+  "amount": 120,
+  "invoiceId": "0000590",
+  "paidToMerchant": false,
+  "identifierNumber": 5715,
+  "billingDate": "2022-12-28T17:21:18.188Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10484180",
+      "fullName": "WILMER JOSE PAMPLONA FERNANDEZ",
+      "phoneNumber": "+584129023904"
+    },
+    "installments": [
+      {
+        "id": "19266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:19:29.266Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "19269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:19:29.265Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "19268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:19:29.265Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "19267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:19:29.265Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T22:17:21.110Z",
+  "id": "5103",
+  "amount": 220,
+  "invoiceId": "10728",
+  "paidToMerchant": false,
+  "identifierNumber": 5428,
+  "billingDate": "2022-12-26T22:17:21.110Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-02-09T04:00:00.523+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "17501",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21471575",
+      "fullName": "ADRIAN DANIEL PAJARO MORALES",
+      "phoneNumber": "+584241807928"
+    },
+    "installments": [
+      {
+        "id": "17501",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:21:07.481Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "17500",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:21:07.481Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "17498",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:21:07.482Z",
+        "amount": 120,
+        "status": "DONE"
+      },
+      {
+        "id": "17499",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:21:07.481Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

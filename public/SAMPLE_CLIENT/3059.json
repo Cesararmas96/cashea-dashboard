@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:19:07.160Z",
+  "id": "2574",
+  "amount": 35.99,
+  "invoiceId": "6654",
+  "paidToMerchant": false,
+  "identifierNumber": 3059,
+  "billingDate": "2022-12-19T21:19:07.160Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21117333",
+      "fullName": "ANDREA DEL CARMEN CHACON ALVIAREZ",
+      "phoneNumber": "+584123279984"
+    },
+    "installments": [
+      {
+        "id": "8469",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:21:39.076Z",
+        "amount": 5.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8466",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:21:39.076Z",
+        "amount": 18,
+        "status": "DONE"
+      },
+      {
+        "id": "8467",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:21:39.076Z",
+        "amount": 5.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8468",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:21:39.076Z",
+        "amount": 5.996666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

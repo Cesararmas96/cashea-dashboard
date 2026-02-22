@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-30T19:03:52.331Z",
+  "id": "6362",
+  "amount": 33.05,
+  "invoiceId": "17582",
+  "paidToMerchant": false,
+  "identifierNumber": 1981,
+  "billingDate": "2022-12-30T19:03:52.331Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "42",
+    "buyDebtDate": "2023-01-30T04:00:01.000+00:00",
+    "lastStoreId": 28,
+    "boughtForInstallmentId": "21904",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26946488",
+      "fullName": "JOSELIS ELINID MALDONADO CANTILLO",
+      "phoneNumber": "+584242035076"
+    },
+    "installments": [
+      {
+        "id": "21905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-10T19:06:24.369Z",
+        "amount": 5.509999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "21904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-27T19:06:24.369Z",
+        "amount": 5.509999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "21902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-30T19:06:24.369Z",
+        "amount": 16.52,
+        "status": "DONE"
+      },
+      {
+        "id": "21903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-13T19:06:24.369Z",
+        "amount": 5.509999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

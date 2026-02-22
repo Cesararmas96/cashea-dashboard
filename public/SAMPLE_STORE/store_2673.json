@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1230,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J502689320",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SOHO DESIGN C.A.",
+    "internalBankHolder": "GRUPO SOHO DESING, C.A. ",
+    "account": "01910166592100044396",
+    "accountType": "Corriente",
+    "phoneNumber": "4129813212",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1228,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502689320",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SOHO DESIGN C.A.",
+    "internalBankHolder": "GRUPO SOHO DESING, C.A. ",
+    "account": "01910166592100044396",
+    "accountType": "Corriente",
+    "phoneNumber": "4129813212",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1229,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502689320",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SOHO DESIGN C.A.",
+    "internalBankHolder": "GRUPO SOHO DESING, C.A. ",
+    "account": "01910166592100044396",
+    "accountType": "Corriente",
+    "phoneNumber": "4129813212",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1231,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502689320",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SOHO DESIGN C.A.",
+    "internalBankHolder": "GRUPO SOHO DESING, C.A. ",
+    "account": "01910166502300020245",
+    "accountType": "Custodia",
+    "phoneNumber": "4129813212",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

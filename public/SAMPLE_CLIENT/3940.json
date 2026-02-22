@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T20:54:17.307Z",
+  "id": "3556",
+  "amount": 96.33,
+  "invoiceId": "12824",
+  "paidToMerchant": false,
+  "identifierNumber": 3940,
+  "billingDate": "2022-12-22T20:54:17.307Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-08T04:00:00.589+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "11907",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10788946",
+      "fullName": "MARIA ELENA SOSA",
+      "phoneNumber": "+584263173951"
+    },
+    "installments": [
+      {
+        "id": "11908",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:55:07.464Z",
+        "amount": 16.05666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11906",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:55:07.464Z",
+        "amount": 48.16,
+        "status": "DONE"
+      },
+      {
+        "id": "11907",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:55:07.464Z",
+        "amount": 16.05666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11909",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:55:07.464Z",
+        "amount": 16.05666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

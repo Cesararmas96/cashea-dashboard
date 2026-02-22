@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T18:26:29.868Z",
+  "id": "2517",
+  "amount": 95,
+  "invoiceId": "0000584",
+  "paidToMerchant": false,
+  "identifierNumber": 3007,
+  "billingDate": "2022-12-19T18:26:29.868Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13824219",
+      "fullName": "EDUARDO YEROHAN LOPEZ GONZALEZ",
+      "phoneNumber": "+584241162428"
+    },
+    "installments": [
+      {
+        "id": "8286",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T18:27:59.163Z",
+        "amount": 47.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8287",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T18:27:59.162Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8289",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T18:27:59.162Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8288",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T18:27:59.162Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:00:47.562Z",
+  "id": "4892",
+  "amount": 53.4,
+  "invoiceId": "50565",
+  "paidToMerchant": false,
+  "identifierNumber": 5124,
+  "billingDate": "2022-12-24T21:00:47.562Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17123418",
+      "fullName": "CARLOS EDUARDO QUINTERO QUINTERO",
+      "phoneNumber": "+584241397042"
+    },
+    "installments": [
+      {
+        "id": "16762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:01:01.026Z",
+        "amount": 26.7,
+        "status": "DONE"
+      },
+      {
+        "id": "16765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:01:01.026Z",
+        "amount": 8.9,
+        "status": "DONE"
+      },
+      {
+        "id": "16764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:01:01.026Z",
+        "amount": 8.9,
+        "status": "DONE"
+      },
+      {
+        "id": "16763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:01:01.026Z",
+        "amount": 8.9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

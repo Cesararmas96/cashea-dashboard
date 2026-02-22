@@ -1,0 +1,23 @@
+{
+  "createdAt": "2023-01-30T17:02:56.792Z",
+  "id": "11490",
+  "amount": 32.41,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5387,
+  "billingDate": "2023-01-30T17:02:56.792Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

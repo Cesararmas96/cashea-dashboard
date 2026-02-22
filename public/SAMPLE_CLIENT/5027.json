@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-17T20:28:00.327Z",
+  "id": "10093",
+  "amount": 49.996,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5027,
+  "billingDate": "2023-01-17T20:28:00.327Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30052996",
+      "fullName": "ASHLEY DE LOS ANGELES CAMARGO GARZON",
+      "phoneNumber": "+584241860541"
+    },
+    "installments": [
+      {
+        "id": "30201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T20:28:00.372Z",
+        "amount": 8.332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "30200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T20:28:00.372Z",
+        "amount": 8.332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "30198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T20:28:00.373Z",
+        "amount": 25,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "30199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T20:28:00.372Z",
+        "amount": 8.332,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 154,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

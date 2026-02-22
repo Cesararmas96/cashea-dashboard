@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T20:24:23.112Z",
+  "id": "1364",
+  "amount": 67,
+  "invoiceId": "40001583",
+  "paidToMerchant": false,
+  "identifierNumber": 2012,
+  "billingDate": "2022-12-13T20:24:23.112Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28053485",
+      "fullName": "CHRISTOPHER DE JESUS LERMO COLAN",
+      "phoneNumber": "+584129018757"
+    },
+    "installments": [
+      {
+        "id": "4407",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T20:25:02.621Z",
+        "amount": 11.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4408",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T20:25:02.621Z",
+        "amount": 11.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4406",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T20:25:02.622Z",
+        "amount": 33.5,
+        "status": "DONE"
+      },
+      {
+        "id": "4409",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T20:25:02.621Z",
+        "amount": 11.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

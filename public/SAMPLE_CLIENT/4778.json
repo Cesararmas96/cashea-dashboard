@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:55:34.231Z",
+  "id": "4377",
+  "amount": 130,
+  "invoiceId": "0422",
+  "paidToMerchant": false,
+  "identifierNumber": 4778,
+  "billingDate": "2022-12-23T23:55:34.231Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19060927",
+      "fullName": "RAYMOND DANIEL PABON FENA",
+      "phoneNumber": "+584241428992"
+    },
+    "installments": [
+      {
+        "id": "14856",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:56:07.534Z",
+        "amount": 21.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14854",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:56:07.534Z",
+        "amount": 65,
+        "status": "DONE"
+      },
+      {
+        "id": "14857",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:56:07.534Z",
+        "amount": 21.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14855",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:56:07.534Z",
+        "amount": 21.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

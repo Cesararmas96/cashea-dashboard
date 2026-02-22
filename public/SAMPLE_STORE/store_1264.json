@@ -1,0 +1,128 @@
+[
+  {
+    "id": 587,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J000721211",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "internalBankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "account": "01910098752198401878",
+    "accountType": "Corriente",
+    "phoneNumber": "4140141695",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 585,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J000721211",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "internalBankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "account": "01910098752198401878",
+    "accountType": "Corriente",
+    "phoneNumber": "4140141695",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 586,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J000721211",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "internalBankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "account": "01910098752198401878",
+    "accountType": "Corriente",
+    "phoneNumber": "4140141695",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 588,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J000721211",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "internalBankHolder": "SALAS DE SONIDO Y VISION, C.A.",
+    "account": "01910098782398307418",
+    "accountType": "Custodia",
+    "phoneNumber": "4140141695",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

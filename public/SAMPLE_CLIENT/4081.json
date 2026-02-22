@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T23:07:36.474Z",
+  "id": "3697",
+  "amount": 98.8,
+  "invoiceId": "13733",
+  "paidToMerchant": false,
+  "identifierNumber": 4081,
+  "billingDate": "2022-12-22T23:07:36.474Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-22T04:00:00.958+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "12404",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25327300",
+      "fullName": "SIMONE YERENA CASTILLO",
+      "phoneNumber": "+584241957435"
+    },
+    "installments": [
+      {
+        "id": "12405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:09:19.893Z",
+        "amount": 16.466666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "12404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:09:19.893Z",
+        "amount": 16.466666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "12402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:09:19.893Z",
+        "amount": 49.4,
+        "status": "DONE"
+      },
+      {
+        "id": "12403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:09:19.893Z",
+        "amount": 16.466666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

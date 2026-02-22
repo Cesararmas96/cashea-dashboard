@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T15:39:06.817Z",
+  "id": "5388",
+  "amount": 54.97,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5691,
+  "billingDate": "2022-12-28T15:39:06.817Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6336559",
+      "fullName": "MARCELYS DEL CARMEN TORRES VARGAS",
+      "phoneNumber": "+584143204432"
+    },
+    "installments": [
+      {
+        "id": "18512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T15:39:33.497Z",
+        "amount": 9.163333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T15:39:33.497Z",
+        "amount": 9.163333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T15:39:33.497Z",
+        "amount": 27.48,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T15:39:33.497Z",
+        "amount": 9.163333333333332,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,152 @@
+{
+  "createdAt": "2025-05-02T14:18:03.084Z",
+  "updatedAt": "2025-05-13T14:58:11.269Z",
+  "id": 5500,
+  "name": "800 Mascotas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 784,
+  "tags": [],
+  "uuid": "3dddb8f0-5514-4a83-a64b-71eddd1d40ed",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ferre800mascotas@gmail.com",
+    "legalName": "Jesus Manuel",
+    "phoneNumber": "4125326482"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T14:20:05.541Z",
+      "updatedAt": "2025-05-02T14:20:05.541Z",
+      "id": 13524,
+      "merchantId": 5500,
+      "name": "ferre agro 800 mascotas I CC Multicentro Isabelica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 784,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5199,
+      "address": {
+        "name": "CC Multicentro Isabelica (Local 76)",
+        "long": -67.9705625,
+        "lat": 10.162937500000012,
+        "location": "0101000020E6100000560E2DB21DFE50C08895438B6C532440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T14:49:49.346Z",
+      "updatedAt": "2025-05-02T14:49:49.346Z",
+      "id": 13527,
+      "merchantId": 5500,
+      "name": "Agropecuaria 800 Mascotas - CC fundacion",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 784,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5199,
+      "address": {
+        "name": "Av. Principal de Flor Amarillo  CC fundacion Local 09",
+        "long": -67.93375,
+        "lat": 10.138749999999987,
+        "location": "0101000020E6100000F6285C8FC2FB50C0D0A3703D0A472440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T14:37:46.764Z",
+      "updatedAt": "2025-05-02T14:37:46.764Z",
+      "id": 13526,
+      "merchantId": 5500,
+      "name": "800 Mascotas - Urb. la Isabelica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 784,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5199,
+      "address": {
+        "name": "urb. la Isabelica, Sector 10, Avenida 04, n18, Valencia",
+        "long": -67.97456249999999,
+        "lat": 10.164562500000002,
+        "location": "0101000020E61000001C5A643B5FFE50C0C84B378941542440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 540,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J003684937",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACION F. B. K., C.A.",
+    "internalBankHolder": "CORPORACION F.B.K, C.A",
+    "account": "01910098732198409898",
+    "accountType": "Corriente",
+    "phoneNumber": "4148996340",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 538,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J003684937",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACION F. B. K., C.A.",
+    "internalBankHolder": "CORPORACION F.B.K, C.A",
+    "account": "01910098732198409898",
+    "accountType": "Corriente",
+    "phoneNumber": "4148996340",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 539,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J003684937",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACION F. B. K., C.A.",
+    "internalBankHolder": "CORPORACION F.B.K, C.A",
+    "account": "01910098732198409898",
+    "accountType": "Corriente",
+    "phoneNumber": "4148996340",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-15T14:52:24.102Z",
+  "updatedAt": "2025-04-28T17:42:14.497Z",
+  "id": 5241,
+  "name": "El Safiro Center",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 697,
+  "tags": [],
+  "uuid": "441aaeed-7bd3-4ec2-aa95-103433fef081",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "hamude.r@hotmail.com",
+    "legalName": "MOHAMED RMEITI",
+    "phoneNumber": "04147876576"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T14:44:29.555Z",
+      "updatedAt": "2025-05-06T14:44:29.555Z",
+      "id": 13634,
+      "merchantId": 5241,
+      "name": "VR_El Safiro Center",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 697,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4891,
+      "address": {
+        "name": "CALLE FRATERNIDAD EDIFICIO DOÑA JUANITA PLANTA BAJA PORLAMAR",
+        "long": -63.92375,
+        "lat": 10.946250000000006,
+        "location": "0101000020E61000000AD7A3703DF64FC018AE47E17AE42540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-15T15:08:50.784Z",
+      "updatedAt": "2025-04-15T15:08:50.784Z",
+      "id": 13000,
+      "merchantId": 5241,
+      "name": "El Safiro Center CALLE VELASQUEZ",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 697,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4891,
+      "address": {
+        "name": "CALLE VELASQUEZ PORLAMAR SECTOR CENTRO",
+        "long": -63.84943749999999,
+        "lat": 10.956062500000002,
+        "location": "0101000020E61000007C3F355EBAEC4FC030DD240681E92540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

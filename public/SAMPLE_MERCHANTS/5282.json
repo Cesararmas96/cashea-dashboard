@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-17T13:13:24.383Z",
+  "updatedAt": "2025-04-24T20:04:02.590Z",
+  "id": 5282,
+  "name": "Novedades Fantasy",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "81d8ae26-dbb0-43da-9cfb-52a76c4ada91",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "arelysbaez@gmail.com",
+    "legalName": "Arelys",
+    "phoneNumber": "04241528710"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-17T13:14:52.593Z",
+      "updatedAt": "2025-04-17T13:14:52.593Z",
+      "id": 13068,
+      "merchantId": 5282,
+      "name": "Novedades Fantasy CC Hito",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6994,
+      "address": {
+        "name": "Av. Bermudez con calle Carabobo C.C. Hito Piso 1 LOCAL 1LC4",
+        "long": -67.0399375,
+        "lat": 10.342437500000003,
+        "location": "0101000020E6100000931804568EC250C018D9CEF753AF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

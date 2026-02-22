@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-24T18:46:18.404Z",
+  "id": "180",
+  "amount": 110,
+  "invoiceId": "00000530",
+  "paidToMerchant": false,
+  "identifierNumber": 1276,
+  "billingDate": "2022-10-24T18:46:18.404Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25771701",
+      "fullName": "ROMMEL UBENCIO CISNEROS GONZALEZ",
+      "phoneNumber": "+584140181628"
+    },
+    "installments": [
+      {
+        "id": "561",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-24T18:47:16.184Z",
+        "amount": 55,
+        "status": "DONE"
+      },
+      {
+        "id": "564",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-05T18:47:16.182Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "562",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-07T18:47:16.182Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "563",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-21T18:47:16.182Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 5,
+    "name": "Doctor Lente Los Palos Grandes"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

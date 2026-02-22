@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T14:21:28.914Z",
+  "id": "9943",
+  "amount": 30.1,
+  "invoiceId": "20132",
+  "paidToMerchant": false,
+  "identifierNumber": 4258,
+  "billingDate": "2023-01-17T14:21:28.914Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17977463",
+      "fullName": "JENNIFER ROSMARY PEREZ MORALES",
+      "phoneNumber": "+584125528872"
+    },
+    "installments": [
+      {
+        "id": "30081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T14:21:40.821Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "30080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T14:21:40.821Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "30079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T14:21:40.821Z",
+        "amount": 5.016666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "30078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T14:21:40.822Z",
+        "amount": 15.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

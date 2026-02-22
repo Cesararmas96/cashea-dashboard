@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T19:51:49.125Z",
+  "id": "4058",
+  "amount": 105.72,
+  "invoiceId": "50474",
+  "paidToMerchant": false,
+  "identifierNumber": 4471,
+  "billingDate": "2022-12-23T19:51:49.125Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-06T04:00:01.275+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "13709",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10802967",
+      "fullName": "GRICELDA LOURDES GOMEZ",
+      "phoneNumber": "+584123695499"
+    },
+    "installments": [
+      {
+        "id": "13709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:52:17.470Z",
+        "amount": 17.62,
+        "status": "DONE"
+      },
+      {
+        "id": "13706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:52:17.470Z",
+        "amount": 52.86,
+        "status": "DONE"
+      },
+      {
+        "id": "13708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:52:17.470Z",
+        "amount": 17.62,
+        "status": "DONE"
+      },
+      {
+        "id": "13707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:52:17.470Z",
+        "amount": 17.62,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

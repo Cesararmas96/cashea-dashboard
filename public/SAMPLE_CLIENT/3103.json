@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T22:55:09.789Z",
+  "id": "2622",
+  "amount": 100,
+  "invoiceId": "9993",
+  "paidToMerchant": false,
+  "identifierNumber": 3103,
+  "billingDate": "2022-12-19T22:55:09.789Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12166478",
+      "fullName": "ANY DEL VALLE ESCOBAR ANDARA",
+      "phoneNumber": "+584242744846"
+    },
+    "installments": [
+      {
+        "id": "8610",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:55:44.866Z",
+        "amount": 50,
+        "status": "DONE"
+      },
+      {
+        "id": "8613",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:55:44.865Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "8611",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:55:44.865Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "8612",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:55:44.865Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

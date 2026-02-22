@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:04:19.298Z",
+  "id": "4583",
+  "amount": 35,
+  "invoiceId": "1984",
+  "paidToMerchant": false,
+  "identifierNumber": 4941,
+  "billingDate": "2022-12-24T16:04:19.298Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25154945",
+      "fullName": "CRISMARY DEL CARMEN TOVAR BORREGALES",
+      "phoneNumber": "+584120204973"
+    },
+    "installments": [
+      {
+        "id": "15634",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:05:26.635Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15637",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:05:26.634Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15636",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:05:26.634Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15635",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:05:26.634Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

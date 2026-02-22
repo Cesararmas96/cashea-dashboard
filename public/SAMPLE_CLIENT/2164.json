@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-15T18:51:16.840Z",
+  "id": "1550",
+  "amount": 35.52,
+  "invoiceId": "8262",
+  "paidToMerchant": false,
+  "identifierNumber": 2164,
+  "billingDate": "2022-12-15T18:51:16.840Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-29T04:00:00.510+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "5009",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14689125",
+      "fullName": "NADIA MICHELL BASMADJI ANGULO",
+      "phoneNumber": "+584141317415"
+    },
+    "installments": [
+      {
+        "id": "5009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T18:52:33.621Z",
+        "amount": 5.920000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "5007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T18:52:33.621Z",
+        "amount": 5.920000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "5008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T18:52:33.621Z",
+        "amount": 5.920000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "5006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T18:52:33.622Z",
+        "amount": 17.76,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

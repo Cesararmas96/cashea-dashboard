@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T16:14:22.688Z",
+  "id": "5399",
+  "amount": 31.9,
+  "invoiceId": "13918",
+  "paidToMerchant": false,
+  "identifierNumber": 5695,
+  "billingDate": "2022-12-28T16:14:22.688Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-28T04:00:00.585+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "18552",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16605266",
+      "fullName": "MARILIN YUDITH CLAVIJO GARZON",
+      "phoneNumber": "+584243161731"
+    },
+    "installments": [
+      {
+        "id": "18552",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:15:45.795Z",
+        "amount": 5.316666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18550",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:15:45.796Z",
+        "amount": 15.95,
+        "status": "DONE"
+      },
+      {
+        "id": "18551",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:15:45.795Z",
+        "amount": 5.316666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18553",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:15:45.795Z",
+        "amount": 5.316666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

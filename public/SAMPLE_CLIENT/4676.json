@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:48:47.527Z",
+  "id": "4278",
+  "amount": 37.8,
+  "invoiceId": "1076",
+  "paidToMerchant": false,
+  "identifierNumber": 4676,
+  "billingDate": "2022-12-23T22:48:47.527Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20128767",
+      "fullName": "GEORGINA JOSEFINA ASCANIO GARCIA",
+      "phoneNumber": "+584123091076"
+    },
+    "installments": [
+      {
+        "id": "14514",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:50:25.390Z",
+        "amount": 18.9,
+        "status": "DONE"
+      },
+      {
+        "id": "14515",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:50:25.389Z",
+        "amount": 6.3,
+        "status": "DONE"
+      },
+      {
+        "id": "14517",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:50:25.389Z",
+        "amount": 6.3,
+        "status": "DONE"
+      },
+      {
+        "id": "14516",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:50:25.389Z",
+        "amount": 6.3,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

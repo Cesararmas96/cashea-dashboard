@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T18:49:16.686Z",
+  "id": "5475",
+  "amount": 85.55,
+  "invoiceId": "14572",
+  "paidToMerchant": false,
+  "identifierNumber": 5771,
+  "billingDate": "2022-12-28T18:49:16.686Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-02-11T04:00:00.985+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "18809",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15024097",
+      "fullName": "EGLYS VIBIANA RODRIGUEZ VERGARA",
+      "phoneNumber": "+584242760613"
+    },
+    "installments": [
+      {
+        "id": "18809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:51:15.906Z",
+        "amount": 14.259999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "18806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:51:15.908Z",
+        "amount": 42.77,
+        "status": "DONE"
+      },
+      {
+        "id": "18808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:51:15.906Z",
+        "amount": 14.259999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "18807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:51:15.906Z",
+        "amount": 14.259999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

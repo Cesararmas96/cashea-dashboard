@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-13T17:49:08.757Z",
+  "id": "368",
+  "amount": 290,
+  "invoiceId": "10108",
+  "paidToMerchant": false,
+  "identifierNumber": 1314,
+  "billingDate": "2022-11-13T17:49:08.757Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25663271",
+      "fullName": "KEVIN ALEXANDER TRUYOL MARQUEZ",
+      "phoneNumber": "+584241251441"
+    },
+    "installments": [
+      {
+        "id": "1121",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-13T17:51:19.598Z",
+        "amount": 190,
+        "status": "DONE"
+      },
+      {
+        "id": "1124",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-25T17:51:19.597Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1123",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-11T17:51:19.597Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1122",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-27T17:51:19.597Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T23:29:56.035Z",
+  "id": "2966",
+  "amount": 31.47,
+  "invoiceId": "3689",
+  "paidToMerchant": false,
+  "identifierNumber": 3415,
+  "billingDate": "2022-12-20T23:29:56.035Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-06T04:00:01.021+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "9787",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17059759",
+      "fullName": "KEVIN YAVIER MONSALVE CISNEROS",
+      "phoneNumber": "+584122102916"
+    },
+    "installments": [
+      {
+        "id": "9789",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:30:13.081Z",
+        "amount": 5.246666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9788",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:30:13.081Z",
+        "amount": 5.246666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9787",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:30:13.081Z",
+        "amount": 5.246666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9786",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:30:13.082Z",
+        "amount": 15.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

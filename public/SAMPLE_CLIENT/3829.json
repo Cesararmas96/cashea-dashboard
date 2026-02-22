@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:43:29.520Z",
+  "id": "3795",
+  "amount": 93.99,
+  "invoiceId": "44396",
+  "paidToMerchant": false,
+  "identifierNumber": 3829,
+  "billingDate": "2022-12-23T00:43:29.520Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25561708",
+      "fullName": "EDGAR ENRIQUE ZAMBRANO TERAN",
+      "phoneNumber": "+584140263673"
+    },
+    "installments": [
+      {
+        "id": "12753",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:44:02.755Z",
+        "amount": 15.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "12750",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:44:02.755Z",
+        "amount": 46.99,
+        "status": "DONE"
+      },
+      {
+        "id": "12752",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:44:02.755Z",
+        "amount": 15.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "12751",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:44:02.755Z",
+        "amount": 15.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

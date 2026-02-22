@@ -1,0 +1,90 @@
+{
+  "createdAt": "2025-04-09T21:52:51.304Z",
+  "updatedAt": "2025-04-10T21:50:38.648Z",
+  "id": 5158,
+  "name": "Ohana",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": "inversionesserenanv@gmail.com",
+  "phoneNumber": "+584120974524",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "be7d65de-10bc-460c-8b08-2ae9842366f4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gwrosmerygonzalez@gmail.com",
+    "legalName": "ROSMERY GONZALEZ",
+    "phoneNumber": "04125962665"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-09T21:57:30.498Z",
+      "updatedAt": "2025-04-09T21:57:30.498Z",
+      "id": 12788,
+      "merchantId": 5158,
+      "name": "Ohana Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6204,
+      "address": {
+        "name": "AV PRINCIPAL DE LA CIUDAD DE LECHERÍA QTA NRO NO APLICA ZONA AVENIDA PRINCIPAL DE LA CIUDAD DE LECHERÍA, MUNICIPIO TURÍSTICO LICENCIADO DIEGO BAUTISTA URBANEJA D LECHERIAS ANZOATEGUI ZONA POSTAL 6016",
+        "long": -64.6908125,
+        "lat": 10.181187500000007,
+        "location": "0101000020E6100000C1CAA145362C50C058E3A59BC45C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

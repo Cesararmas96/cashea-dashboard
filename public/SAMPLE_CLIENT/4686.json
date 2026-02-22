@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:08:00.881Z",
+  "id": "4301",
+  "amount": 123.33,
+  "invoiceId": "13807",
+  "paidToMerchant": false,
+  "identifierNumber": 4686,
+  "billingDate": "2022-12-23T23:08:00.881Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17146832",
+      "fullName": "MARLON ENRIQUE CABEZA DE AGUAS",
+      "phoneNumber": "+584142000248"
+    },
+    "installments": [
+      {
+        "id": "14596",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:08:07.828Z",
+        "amount": 20.55666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14594",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:08:07.828Z",
+        "amount": 61.66,
+        "status": "DONE"
+      },
+      {
+        "id": "14597",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:08:07.828Z",
+        "amount": 20.55666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14595",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:08:07.828Z",
+        "amount": 20.55666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

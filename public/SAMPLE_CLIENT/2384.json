@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T21:29:59.168Z",
+  "id": "1782",
+  "amount": 63.94,
+  "invoiceId": "49859",
+  "paidToMerchant": false,
+  "identifierNumber": 2384,
+  "billingDate": "2022-12-16T21:29:59.168Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23707273",
+      "fullName": "ROXANA COROMOTO JAIMES BARRIOS",
+      "phoneNumber": "+584120206046"
+    },
+    "installments": [
+      {
+        "id": "5753",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T21:30:29.398Z",
+        "amount": 10.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5751",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T21:30:29.398Z",
+        "amount": 10.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5752",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T21:30:29.398Z",
+        "amount": 10.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5750",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T21:30:29.399Z",
+        "amount": 31.97,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

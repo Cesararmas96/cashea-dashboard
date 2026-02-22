@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T18:41:42.563Z",
+  "id": "5854",
+  "amount": 120.46,
+  "invoiceId": "6329",
+  "paidToMerchant": false,
+  "identifierNumber": 5235,
+  "billingDate": "2022-12-29T18:41:42.563Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21632115",
+      "fullName": "ARNALDO MIGUEL BENITEZ MONTERO",
+      "phoneNumber": "+584242969879"
+    },
+    "installments": [
+      {
+        "id": "20190",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T18:43:10.070Z",
+        "amount": 60.23,
+        "status": "DONE"
+      },
+      {
+        "id": "20193",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T18:43:10.070Z",
+        "amount": 20.076666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "20192",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T18:43:10.070Z",
+        "amount": 20.076666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "20191",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T18:43:10.070Z",
+        "amount": 20.076666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

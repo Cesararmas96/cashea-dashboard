@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T21:17:29.182Z",
+  "id": "2859",
+  "amount": 39.69,
+  "invoiceId": "50204",
+  "paidToMerchant": false,
+  "identifierNumber": 3344,
+  "billingDate": "2022-12-20T21:17:29.182Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-20T04:00:00.444+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "9420",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14559090",
+      "fullName": "GUSTAVO ANTONIO GOMEZ VILLA",
+      "phoneNumber": "+584140127296"
+    },
+    "installments": [
+      {
+        "id": "9418",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:18:07.982Z",
+        "amount": 19.84,
+        "status": "DONE"
+      },
+      {
+        "id": "9421",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:18:07.981Z",
+        "amount": 6.616666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9420",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:18:07.981Z",
+        "amount": 6.616666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9419",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:18:07.981Z",
+        "amount": 6.616666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

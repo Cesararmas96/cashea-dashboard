@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:32:05.966Z",
+  "id": "4476",
+  "amount": 152.34,
+  "invoiceId": "12995",
+  "paidToMerchant": false,
+  "identifierNumber": 4863,
+  "billingDate": "2022-12-24T01:32:05.966Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15160217",
+      "fullName": "ALBERT ADRIAN MEJIA BRITO",
+      "phoneNumber": "+584122968284"
+    },
+    "installments": [
+      {
+        "id": "15241",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:32:18.871Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15240",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:32:18.871Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15238",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:32:18.871Z",
+        "amount": 117.34,
+        "status": "DONE"
+      },
+      {
+        "id": "15239",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:32:18.871Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

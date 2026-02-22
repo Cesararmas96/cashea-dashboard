@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-14T15:45:03.093Z",
+  "updatedAt": "2025-04-14T15:45:03.093Z",
+  "id": 5223,
+  "name": "Optica Sarah Lens",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "89e36cb5-9839-46c1-81d4-ee5c527056c9",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sara2797@gmail.com",
+    "legalName": "Sara",
+    "phoneNumber": "04249120585"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T15:48:23.853Z",
+      "updatedAt": "2025-04-14T15:48:23.853Z",
+      "id": 12947,
+      "merchantId": 5223,
+      "name": "Optica Sarah Lens CC Galerias las Trinitarias",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7572,
+      "address": {
+        "name": "ctra upata cc galerias las trinitarias nivel piso 1 local 14zona centro",
+        "long": -69.2816875,
+        "lat": 10.078062500000001,
+        "location": "0101000020E61000004A0C022B075251C08816D9CEF7272440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

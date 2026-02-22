@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-29T23:51:00.086Z",
+  "id": "11467",
+  "amount": 95.12,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1613,
+  "billingDate": "2023-01-29T23:51:00.086Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27467386",
+      "fullName": "CARLOS EDUARDO PEREZ QUERALES",
+      "phoneNumber": "+584123795920"
+    },
+    "installments": [
+      {
+        "id": "35120",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-26T23:51:00.126Z",
+        "amount": 15.853333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35118",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-29T23:51:00.127Z",
+        "amount": 47.56,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35121",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-12T23:51:00.126Z",
+        "amount": 15.853333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35119",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-12T23:51:00.126Z",
+        "amount": 15.853333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 114,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2775,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

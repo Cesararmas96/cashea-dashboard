@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T01:13:29.866Z",
+  "id": "2693",
+  "amount": 51.99,
+  "invoiceId": "1521",
+  "paidToMerchant": false,
+  "identifierNumber": 3155,
+  "billingDate": "2022-12-20T01:13:29.866Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-05T04:00:00.531+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "8859",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29625624",
+      "fullName": "VALERIA AURORA VARELA MATAMOROS",
+      "phoneNumber": "+584242992588"
+    },
+    "installments": [
+      {
+        "id": "8859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:13:50.102Z",
+        "amount": 8.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:13:50.102Z",
+        "amount": 8.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:13:50.103Z",
+        "amount": 26,
+        "status": "DONE"
+      },
+      {
+        "id": "8861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:13:50.102Z",
+        "amount": 8.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-24T19:44:31.381Z",
+  "updatedAt": "2025-04-24T19:44:31.381Z",
+  "id": 5373,
+  "name": "INVERSIONES DOÑA PEPA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b743c5e3-06cf-466f-89bc-4d87f760b942",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "junkoxpress@gmail.com",
+    "legalName": "ALEXANDER BUENAHORA",
+    "phoneNumber": "4242715561"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T20:14:32.805Z",
+      "updatedAt": "2025-04-02T20:14:32.805Z",
+      "id": 12549,
+      "merchantId": 5373,
+      "name": "INVERSIONES DOÑA PEPA Edif Alamo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5893,
+      "address": {
+        "name": "AV ALAMO, EDIF. ALAMO NIVEL P/B, LOCAL N°1, URB TELEFERICO, MACUTO, EDO LA GUAIRA",
+        "long": -66.9045625,
+        "lat": 10.60256249999999,
+        "location": "0101000020E610000008AC1C5AE4B950C088976E1283342540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

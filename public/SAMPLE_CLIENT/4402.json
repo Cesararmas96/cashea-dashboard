@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T15:23:21.275Z",
+  "id": "11476",
+  "amount": 144,
+  "invoiceId": "40001987",
+  "paidToMerchant": false,
+  "identifierNumber": 4402,
+  "billingDate": "2023-01-30T15:23:21.275Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12512111",
+      "fullName": "FREDDY ALEXANDER REVERON ARVELO",
+      "phoneNumber": "+584125942764"
+    },
+    "installments": [
+      {
+        "id": "35153",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T15:23:52.278Z",
+        "amount": 24,
+        "status": "DONE"
+      },
+      {
+        "id": "35152",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T15:23:52.278Z",
+        "amount": 24,
+        "status": "DONE"
+      },
+      {
+        "id": "35150",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T15:23:52.279Z",
+        "amount": 72,
+        "status": "DONE"
+      },
+      {
+        "id": "35151",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T15:23:52.278Z",
+        "amount": 24,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

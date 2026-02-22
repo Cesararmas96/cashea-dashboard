@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T17:59:54.667Z",
+  "id": "1181",
+  "amount": 74.58,
+  "invoiceId": "00201",
+  "paidToMerchant": false,
+  "identifierNumber": 1870,
+  "billingDate": "2022-12-11T17:59:54.667Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-11T06:00:00.605+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "3768",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16521337",
+      "fullName": "CARLOS DAVID MARTINEZ MORA",
+      "phoneNumber": "+584166060344"
+    },
+    "installments": [
+      {
+        "id": "3769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T18:01:04.333Z",
+        "amount": 12.43,
+        "status": "DONE"
+      },
+      {
+        "id": "3766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T18:01:04.334Z",
+        "amount": 37.29,
+        "status": "DONE"
+      },
+      {
+        "id": "3768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T18:01:04.333Z",
+        "amount": 12.43,
+        "status": "DONE"
+      },
+      {
+        "id": "3767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T18:01:04.333Z",
+        "amount": 12.43,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

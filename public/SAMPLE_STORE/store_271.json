@@ -1,0 +1,128 @@
+[
+  {
+    "id": 204,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J401145582",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "internalBankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "account": "01910098792198353814",
+    "accountType": "Corriente",
+    "phoneNumber": "4122476049",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J401145582",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "internalBankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "account": "01910098792198353814",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 203,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J401145582",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "internalBankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "account": "01910098792198353814",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 205,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J401145582",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "internalBankHolder": "INVERSIONES MAGICAL MYSTERY, C.A.",
+    "account": "01910098792398245011",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

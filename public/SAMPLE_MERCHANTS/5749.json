@@ -1,0 +1,569 @@
+{
+  "createdAt": "2025-05-13T20:34:24.031Z",
+  "updatedAt": "2025-05-13T20:36:15.022Z",
+  "id": 5749,
+  "name": "Megafarma",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cd6c0c09-8bf2-4e9f-a8a7-19d12f09f589",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gerencia_administracion@megafarmaca.com",
+    "legalName": "SALMA ELIAS DE EL CHAER",
+    "phoneNumber": "4121017322"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-23T17:43:51.066Z",
+      "updatedAt": "2025-09-23T17:43:51.066Z",
+      "id": 22170,
+      "merchantId": 5749,
+      "name": "Megafarma CC Bello Campo Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "CARRETERA VIA VIBORAL C.C BELLO CAMPO L-19 SECTOR TIPURO",
+        "long": -63.189062500000006,
+        "lat": 9.784437499999996,
+        "location": "0101000020E61000003433333333984FC01083C0CAA1912340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-23T17:47:43.614Z",
+      "updatedAt": "2025-09-23T17:47:43.614Z",
+      "id": 22171,
+      "merchantId": 5749,
+      "name": "Megafarma Calle Sucre Hospital Simon Bolivar Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "CALLE SUCRE, HOSPITAL SIMON BOLIVAR, LOCAL S/N SECTOR LA CRUZ EDO MONAGAS",
+        "long": -63.25331249999999,
+        "lat": 9.727187500000014,
+        "location": "0101000020E61000008095438B6CA04FC0C01E85EB51742340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-23T17:50:40.448Z",
+      "updatedAt": "2025-09-23T17:50:40.448Z",
+      "id": 22174,
+      "merchantId": 5749,
+      "name": "Megafarma Av. Bolivar Punta de Mata",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "AV BOLIVAR EDIF LOS KHOURY, PB LOCAL 2-C. PTA DE MATA EDO MONAGAS",
+        "long": -63.613312500000006,
+        "lat": 9.6893125,
+        "location": "0101000020E610000030DD240681CE4FC0B0726891ED602340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-26T19:41:00.315Z",
+      "updatedAt": "2025-06-26T19:41:00.315Z",
+      "id": 16379,
+      "merchantId": 5749,
+      "name": "VR Megafarma Av. Juncal Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Megafarma Av. Juncal",
+        "long": -63.18375,
+        "lat": 9.741250000000008,
+        "location": "0101000020E6100000EC51B81E85974FC0F051B81E857B2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T01:11:58.490Z",
+      "updatedAt": "2025-06-24T01:11:58.490Z",
+      "id": 16211,
+      "merchantId": 5749,
+      "name": "Megafarma Chimborazo Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Calle Chimborazo, Sector Centro, Maturin",
+        "long": -63.1789375,
+        "lat": 9.746687500000007,
+        "location": "0101000020E610000096438B6CE7964FC000AAF1D24D7E2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T01:13:00.867Z",
+      "updatedAt": "2025-06-24T01:13:00.867Z",
+      "id": 16212,
+      "merchantId": 5749,
+      "name": "Megafarma Av. Bolivar Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Av. Bolivar, detras de la gobernacion, Maturin",
+        "long": -63.182437500000006,
+        "lat": 9.747062499999998,
+        "location": "0101000020E61000003208AC1C5A974FC0D022DBF97E7E2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T01:14:20.667Z",
+      "updatedAt": "2025-06-24T01:14:20.667Z",
+      "id": 16213,
+      "merchantId": 5749,
+      "name": "Megafarma Luis del Valle Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Av. Luis del Valle, Edif Moriche, Maturin",
+        "long": -63.169312500000004,
+        "lat": 9.743312500000002,
+        "location": "0101000020E6100000EA263108AC954FC0806ABC74937C2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T01:15:26.798Z",
+      "updatedAt": "2025-06-24T01:15:26.798Z",
+      "id": 16214,
+      "merchantId": 5749,
+      "name": "Megafarma Plaza 7 Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Av. Bolivar, frente a la plaza 7, Maturin",
+        "long": -63.17693750000001,
+        "lat": 9.745312499999997,
+        "location": "0101000020E6100000D0F753E3A5964FC098999999997D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T01:17:04.148Z",
+      "updatedAt": "2025-06-24T01:17:04.148Z",
+      "id": 16215,
+      "merchantId": 5749,
+      "name": "Megafarma CC Punto Express Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "CC Punto Express, Maturin",
+        "long": -63.253187499999996,
+        "lat": 9.696312500000005,
+        "location": "0101000020E6100000C420B07268A04FC090976E1283642340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T01:18:15.467Z",
+      "updatedAt": "2025-06-24T01:18:15.467Z",
+      "id": 16216,
+      "merchantId": 5749,
+      "name": "Megafarma Wrapper Calle Monagas Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Calle Monagas, Edif. Wrapper, Centro Maturin",
+        "long": -63.17506250000001,
+        "lat": 9.745687500000003,
+        "location": "0101000020E6100000C620B07268964FC0701283C0CA7D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-24T01:24:09.117Z",
+      "updatedAt": "2025-06-24T01:24:09.117Z",
+      "id": 16218,
+      "merchantId": 5749,
+      "name": "Megafarma Los Cortijos Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Via La Pica, Edif America, Sector Los Cortijos, Maturin",
+        "long": -63.14231250000002,
+        "lat": 9.765437500000004,
+        "location": "0101000020E6100000F2A7C64B37924FC098438B6CE7872340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:44:31.595Z",
+      "updatedAt": "2025-05-13T20:44:31.595Z",
+      "id": 14077,
+      "merchantId": 5749,
+      "name": "Megafarma Av. La Paz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Megafarma Av. La Paz",
+        "long": -63.170437500000006,
+        "lat": 9.74118750000001,
+        "location": "0101000020E61000008A4160E5D0954FC0786891ED7C7B2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:46:19.231Z",
+      "updatedAt": "2025-05-13T20:46:19.231Z",
+      "id": 14078,
+      "merchantId": 5749,
+      "name": "Megafarma C.C. Campo Claro",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Megafarma C.C. Campo Claro",
+        "long": -63.252562499999996,
+        "lat": 9.717687499999997,
+        "location": "0101000020E610000016D9CEF753A04FC0F87E6ABC746F2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:47:22.090Z",
+      "updatedAt": "2025-05-13T20:47:22.090Z",
+      "id": 14079,
+      "merchantId": 5749,
+      "name": "Megafarma Av. Bicentenario",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Megafarma Av. Bicentenario",
+        "long": -63.191062500000015,
+        "lat": 9.744437500000004,
+        "location": "0101000020E6100000FC7E6ABC74984FC000D578E9267D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:48:23.916Z",
+      "updatedAt": "2025-05-13T20:48:23.916Z",
+      "id": 14080,
+      "merchantId": 5749,
+      "name": "Megafarma Calle Monagas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Megafarma Calle Monagas",
+        "long": -63.17506250000001,
+        "lat": 9.7458125,
+        "location": "0101000020E6100000C620B07268964FC060E5D022DB7D2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:49:00.978Z",
+      "updatedAt": "2025-05-13T20:49:00.978Z",
+      "id": 14081,
+      "merchantId": 5749,
+      "name": "Megafarma Av. Juncal",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Megafarma Av. Juncal",
+        "long": -63.18375,
+        "lat": 9.741250000000008,
+        "location": "0101000020E6100000EC51B81E85974FC0F051B81E857B2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T20:49:55.081Z",
+      "updatedAt": "2025-05-13T20:49:55.081Z",
+      "id": 14082,
+      "merchantId": 5749,
+      "name": "Megafarma Av. Alirio Ugarte Pelayo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6699,
+      "address": {
+        "name": "Megafarma Av. Alirio Ugarte Pelayo",
+        "long": -63.1994375,
+        "lat": 9.784937499999998,
+        "location": "0101000020E61000004A0C022B87994FC0D8CEF753E3912340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

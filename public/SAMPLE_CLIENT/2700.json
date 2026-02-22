@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:35:07.117Z",
+  "id": "2154",
+  "amount": 93.66,
+  "invoiceId": "1655",
+  "paidToMerchant": false,
+  "identifierNumber": 2700,
+  "billingDate": "2022-12-18T00:35:07.117Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12912910",
+      "fullName": "EDGAR ABRAHAM MOLERO TOVAR",
+      "phoneNumber": "+584125964903"
+    },
+    "installments": [
+      {
+        "id": "7033",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:35:30.953Z",
+        "amount": 15.61,
+        "status": "DONE"
+      },
+      {
+        "id": "7032",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:35:30.953Z",
+        "amount": 15.61,
+        "status": "DONE"
+      },
+      {
+        "id": "7031",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:35:30.953Z",
+        "amount": 15.61,
+        "status": "DONE"
+      },
+      {
+        "id": "7030",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:35:30.954Z",
+        "amount": 46.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

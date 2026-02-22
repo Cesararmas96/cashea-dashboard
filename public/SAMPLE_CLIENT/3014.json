@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T18:41:48.852Z",
+  "id": "2522",
+  "amount": 45,
+  "invoiceId": "1520",
+  "paidToMerchant": false,
+  "identifierNumber": 3014,
+  "billingDate": "2022-12-19T18:41:48.852Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11308764",
+      "fullName": "SILVIA ADAMICEK DLESTIL",
+      "phoneNumber": "+584242972391"
+    },
+    "installments": [
+      {
+        "id": "8294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T18:42:14.560Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T18:42:14.559Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T18:42:14.559Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T18:42:14.559Z",
+        "amount": 7.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

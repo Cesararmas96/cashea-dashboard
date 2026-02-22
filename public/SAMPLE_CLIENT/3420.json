@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:51:17.343Z",
+  "id": "2985",
+  "amount": 111.28,
+  "invoiceId": "12611",
+  "paidToMerchant": false,
+  "identifierNumber": 3420,
+  "billingDate": "2022-12-20T23:51:17.343Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13112491",
+      "fullName": "JOHANNA MARGARET ALVAREZ PADRON",
+      "phoneNumber": "+584242526699"
+    },
+    "installments": [
+      {
+        "id": "9846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:51:27.282Z",
+        "amount": 55.64,
+        "status": "DONE"
+      },
+      {
+        "id": "9847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:51:27.281Z",
+        "amount": 18.546666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:51:27.281Z",
+        "amount": 18.546666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:51:27.281Z",
+        "amount": 18.546666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

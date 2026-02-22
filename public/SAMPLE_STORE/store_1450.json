@@ -1,0 +1,74 @@
+[
+  {
+    "id": 488,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501249997",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES V.D 204, C.A.",
+    "internalBankHolder": "INVERSIONES V.D 204, C.A",
+    "account": "01910098712198402041",
+    "accountType": "Corriente",
+    "phoneNumber": "4142058633",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 486,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501249997",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES V.D 204, C.A.",
+    "internalBankHolder": "INVERSIONES V.D 204, C.A",
+    "account": "01910098712198402041",
+    "accountType": "Corriente",
+    "phoneNumber": "4142058633",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 487,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501249997",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES V.D 204, C.A.",
+    "internalBankHolder": "INVERSIONES V.D 204, C.A",
+    "account": "01910098712198402041",
+    "accountType": "Corriente",
+    "phoneNumber": "4142058633",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 489,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501249997",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES V.D 204, C.A.",
+    "internalBankHolder": "INVERSIONES V.D 204, C.A",
+    "account": "01910098782398307533",
+    "accountType": "Custodia",
+    "phoneNumber": "4142058633",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

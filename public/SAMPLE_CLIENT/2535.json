@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:35:11.972Z",
+  "id": "2022",
+  "amount": 43.29,
+  "invoiceId": "00017788",
+  "paidToMerchant": false,
+  "identifierNumber": 2535,
+  "billingDate": "2022-12-17T20:35:11.972Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13110884",
+      "fullName": "YELITZA MILAGROS VEROES MEZA",
+      "phoneNumber": "+584123613229"
+    },
+    "installments": [
+      {
+        "id": "6561",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:36:35.413Z",
+        "amount": 7.216666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6560",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:36:35.413Z",
+        "amount": 7.216666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6559",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:36:35.413Z",
+        "amount": 7.216666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6558",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:36:35.414Z",
+        "amount": 21.64,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

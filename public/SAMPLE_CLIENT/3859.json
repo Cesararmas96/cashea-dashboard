@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T16:01:48.613Z",
+  "id": "3415",
+  "amount": 43.66,
+  "invoiceId": "13995",
+  "paidToMerchant": false,
+  "identifierNumber": 3859,
+  "billingDate": "2022-12-22T16:01:48.613Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-02-15T04:00:00.912+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": 11411,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15345249",
+      "fullName": "MAYELYN JOSEFINA DIAZ SALAZAR",
+      "phoneNumber": "+584142047142"
+    },
+    "installments": [
+      {
+        "id": "11413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T16:02:30.011Z",
+        "amount": 7.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T16:02:30.011Z",
+        "amount": 7.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T16:02:30.011Z",
+        "amount": 7.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T16:02:30.012Z",
+        "amount": 21.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

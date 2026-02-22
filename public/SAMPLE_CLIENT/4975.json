@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:48:59.103Z",
+  "id": "4623",
+  "amount": 66.5,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4975,
+  "billingDate": "2022-12-24T16:48:59.103Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18557364",
+      "fullName": "THAIS VICTORIA CASTELLANOS CANIZARES",
+      "phoneNumber": "+584142533845"
+    },
+    "installments": [
+      {
+        "id": "15778",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:49:45.635Z",
+        "amount": 33.25,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15781",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:49:45.635Z",
+        "amount": 11.083333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15779",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:49:45.635Z",
+        "amount": 11.083333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15780",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:49:45.635Z",
+        "amount": 11.083333333333334,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

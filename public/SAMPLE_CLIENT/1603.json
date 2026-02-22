@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T18:51:19.775Z",
+  "id": "6958",
+  "amount": 36.05,
+  "invoiceId": "9590",
+  "paidToMerchant": false,
+  "identifierNumber": 1603,
+  "billingDate": "2022-12-31T18:51:19.775Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-17T04:00:01.165+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "24071",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26254177",
+      "fullName": "JOEL EDUARDO JULIO BERDUGO",
+      "phoneNumber": "+584242340740"
+    },
+    "installments": [
+      {
+        "id": "24072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T18:53:28.238Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "24071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T18:53:28.238Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "24073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T18:53:28.238Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "24070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T18:53:28.238Z",
+        "amount": 18.02,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

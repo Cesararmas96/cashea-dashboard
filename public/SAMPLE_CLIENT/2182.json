@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T21:51:19.814Z",
+  "id": "1591",
+  "amount": 162.95,
+  "invoiceId": "26326",
+  "paidToMerchant": false,
+  "identifierNumber": 2182,
+  "billingDate": "2022-12-15T21:51:19.814Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9223298",
+      "fullName": "MARITZA DE JESUS RAMIREZ",
+      "phoneNumber": "+584123811541"
+    },
+    "installments": [
+      {
+        "id": "5143",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T21:52:53.350Z",
+        "amount": 27.159999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "5142",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T21:52:53.350Z",
+        "amount": 81.47,
+        "status": "DONE"
+      },
+      {
+        "id": "5145",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T21:52:53.350Z",
+        "amount": 27.159999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "5144",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T21:52:53.350Z",
+        "amount": 27.159999999999997,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

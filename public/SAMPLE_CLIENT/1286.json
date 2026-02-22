@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-29T23:21:05.274Z",
+  "id": "11460",
+  "amount": 63.85,
+  "invoiceId": "3820",
+  "paidToMerchant": false,
+  "identifierNumber": 1286,
+  "billingDate": "2023-01-29T23:21:05.274Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18460666",
+      "fullName": "ODUAL JOSE OROZCO MOTA",
+      "phoneNumber": "+584122342307"
+    },
+    "installments": [
+      {
+        "id": "35101",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-12T23:22:48.101Z",
+        "amount": 10.64,
+        "status": "DONE"
+      },
+      {
+        "id": "35100",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-26T23:22:48.101Z",
+        "amount": 10.64,
+        "status": "DONE"
+      },
+      {
+        "id": "35098",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-29T23:22:48.102Z",
+        "amount": 31.93,
+        "status": "DONE"
+      },
+      {
+        "id": "35099",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-12T23:22:48.101Z",
+        "amount": 10.64,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

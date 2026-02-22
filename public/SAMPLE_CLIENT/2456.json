@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T01:23:26.542Z",
+  "id": "1885",
+  "amount": 158.95,
+  "invoiceId": "6298",
+  "paidToMerchant": false,
+  "identifierNumber": 2456,
+  "billingDate": "2022-12-17T01:23:26.542Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-02T04:00:00.413+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "6123",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28052988",
+      "fullName": "RAFAEL ALEJANDRO BRIZUELA VEROES",
+      "phoneNumber": "+584241855388"
+    },
+    "installments": [
+      {
+        "id": "6125",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T01:24:02.884Z",
+        "amount": 26.49333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "6122",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T01:24:02.884Z",
+        "amount": 79.47,
+        "status": "DONE"
+      },
+      {
+        "id": "6123",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T01:24:02.884Z",
+        "amount": 26.49333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6124",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T01:24:02.884Z",
+        "amount": 26.49333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

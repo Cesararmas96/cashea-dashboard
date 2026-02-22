@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-09T14:40:57.867Z",
+  "updatedAt": "2025-05-28T12:57:02.054Z",
+  "id": 5660,
+  "name": "Materiales la Nueva Venezuela",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "19b534dd-b0be-4db0-942d-cc260029f142",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ferrek.mat2017@gmail.com",
+    "legalName": "Fida",
+    "phoneNumber": "04148957746"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T14:42:18.808Z",
+      "updatedAt": "2025-05-09T14:42:18.808Z",
+      "id": 13870,
+      "merchantId": 5660,
+      "name": "Materiales la Nueva Venezuela Puerto Ordaz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6651,
+      "address": {
+        "name": "CALLE PRINCIPAL CASA NRO. 01 UNARE II SECTOR II PUERTO ORDAZ ESTADO BOLIVAR",
+        "long": -62.7639375,
+        "lat": 8.272437499999995,
+        "location": "0101000020E6100000105839B4C8614FC0706891ED7C8B2040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

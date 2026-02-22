@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T23:26:50.595Z",
+  "id": "4976",
+  "amount": 35.56,
+  "invoiceId": "00005777",
+  "paidToMerchant": false,
+  "identifierNumber": 5219,
+  "billingDate": "2022-12-24T23:26:50.595Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27441761",
+      "fullName": "CRISTIAN ENRIQUE GARCIA CASTILLO",
+      "phoneNumber": "+584141236142"
+    },
+    "installments": [
+      {
+        "id": "17062",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T23:27:07.353Z",
+        "amount": 17.78,
+        "status": "DONE"
+      },
+      {
+        "id": "17065",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T23:27:07.352Z",
+        "amount": 5.926666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17064",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T23:27:07.352Z",
+        "amount": 5.926666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17063",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T23:27:07.352Z",
+        "amount": 5.926666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

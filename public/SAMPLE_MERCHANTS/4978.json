@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-02T15:01:31.368Z",
+  "updatedAt": "2025-04-04T17:59:09.177Z",
+  "id": 4978,
+  "name": "SHYLOH",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c4e913e2-4849-4f87-810d-7af50fdc1daf",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "batistakatia1989@gmail.com",
+    "legalName": "KATIA",
+    "phoneNumber": "4248376686"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T13:49:04.313Z",
+      "updatedAt": "2025-05-13T13:49:04.313Z",
+      "id": 14018,
+      "merchantId": 4978,
+      "name": "VR_SHYLOH",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5902,
+      "address": {
+        "name": "Av.Bermúdez local Nro67 Sector Centro . Diagonal  al Banco Mercantil Cumaná Estado Sucre",
+        "long": -64.1800625,
+        "lat": 10.463062500000007,
+        "location": "0101000020E61000001B2FDD24860B50C010022B8716ED2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T15:04:09.978Z",
+      "updatedAt": "2025-04-02T15:04:09.978Z",
+      "id": 12511,
+      "merchantId": 4978,
+      "name": "SHYLOH Cumaná",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5902,
+      "address": {
+        "name": "Av.Bermúdez local Nro67 Sector Centro . Diagonal  al Banco Mercantil Cumaná Estado Sucre",
+        "long": -64.1800625,
+        "lat": 10.463062500000007,
+        "location": "0101000020E61000001B2FDD24860B50C010022B8716ED2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

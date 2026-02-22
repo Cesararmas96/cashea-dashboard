@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-16T16:11:10.952Z",
+  "id": "1692",
+  "amount": 100,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2299,
+  "billingDate": "2022-12-16T16:11:10.952Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 35,
+    "name": "A1WIN Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

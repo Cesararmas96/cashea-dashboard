@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-03T03:02:30.526Z",
+  "updatedAt": "2025-04-03T03:02:30.526Z",
+  "id": 5018,
+  "name": "Shopi Shop",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 615,
+  "tags": [],
+  "uuid": "f78560c6-1694-4698-bb8a-ccd0808ee6f1",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "daligmarmota03@gmail.com",
+    "legalName": "Daligmar",
+    "phoneNumber": "4120905648"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-03T03:04:01.306Z",
+      "updatedAt": "2025-04-03T03:04:01.306Z",
+      "id": 12567,
+      "merchantId": 5018,
+      "name": "Shopi Shop CC La Cascada Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7642,
+      "address": {
+        "name": "CC La Cascada Maturin",
+        "long": -63.1555625,
+        "lat": 9.703062500000001,
+        "location": "0101000020E6100000F4FDD478E9934FC08816D9CEF7672340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-15T16:03:07.944Z",
+      "updatedAt": "2025-04-15T16:03:07.944Z",
+      "id": 13015,
+      "merchantId": 5018,
+      "name": "VR_Shopi Shop",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7642,
+      "address": {
+        "name": "CC La Cascada Maturin",
+        "long": -63.1555625,
+        "lat": 9.703062500000001,
+        "location": "0101000020E6100000F4FDD478E9934FC08816D9CEF7672340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

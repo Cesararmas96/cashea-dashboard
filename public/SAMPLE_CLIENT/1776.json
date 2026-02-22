@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T22:52:37.089Z",
+  "id": "1126",
+  "amount": 49.5,
+  "invoiceId": "13999",
+  "paidToMerchant": false,
+  "identifierNumber": 1776,
+  "billingDate": "2022-12-10T22:52:37.089Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19254891",
+      "fullName": "GRAY HIROMI ARTEAGA PEREZ",
+      "phoneNumber": "+584242084134"
+    },
+    "installments": [
+      {
+        "id": "3595",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T22:54:59.857Z",
+        "amount": 8.25,
+        "status": "DONE"
+      },
+      {
+        "id": "3597",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T22:54:59.857Z",
+        "amount": 8.25,
+        "status": "DONE"
+      },
+      {
+        "id": "3596",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T22:54:59.857Z",
+        "amount": 8.25,
+        "status": "DONE"
+      },
+      {
+        "id": "3594",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T22:54:59.857Z",
+        "amount": 24.75,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

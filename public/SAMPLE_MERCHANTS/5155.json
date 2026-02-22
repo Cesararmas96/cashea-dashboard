@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-09T20:56:50.983Z",
+  "updatedAt": "2025-09-27T21:00:39.474Z",
+  "id": 5155,
+  "name": "Lucette Optica",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 553,
+  "tags": [],
+  "uuid": "62835391-02d7-4c26-a38e-e58c2a5dd94c",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "queralesnarcelys@gmail.com",
+    "legalName": "Yoselin",
+    "phoneNumber": "04245697226"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-11-24T19:14:42.189Z",
+      "updatedAt": "2024-11-24T19:14:42.189Z",
+      "id": 7637,
+      "merchantId": 5155,
+      "name": "Lucette Optica Carrera 19 Esquina Calle 28 Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 553,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8192,
+      "address": {
+        "name": "Lucette Optica Carrera 19 Esquina Calle 28 Barquisimeto",
+        "long": -69.31943749999999,
+        "lat": 10.065812499999993,
+        "location": "0101000020E61000006CE7FBA9715451C000560E2DB2212440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

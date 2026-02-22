@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:36:21.948Z",
+  "id": "4927",
+  "amount": 56.09,
+  "invoiceId": "4123",
+  "paidToMerchant": false,
+  "identifierNumber": 2272,
+  "billingDate": "2022-12-24T21:36:21.948Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26576896",
+      "fullName": "MARIA VALENTINA LEON MEDINA",
+      "phoneNumber": "+584123978329"
+    },
+    "installments": [
+      {
+        "id": "16890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:37:06.687Z",
+        "amount": 28.05,
+        "status": "DONE"
+      },
+      {
+        "id": "16893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:37:06.686Z",
+        "amount": 9.346666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "16892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:37:06.686Z",
+        "amount": 9.346666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "16891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:37:06.686Z",
+        "amount": 9.346666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

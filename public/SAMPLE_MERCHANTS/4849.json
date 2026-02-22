@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-03-26T14:21:25.025Z",
+  "updatedAt": "2025-03-26T14:21:25.025Z",
+  "id": 4849,
+  "name": "Zafiro Store",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "41e4cb8a-d444-487f-bd4f-be344bb5687d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "nelmaryperez65@gmail.com",
+    "legalName": "Nelmary Perez",
+    "phoneNumber": "04144499018"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-26T14:22:39.435Z",
+      "updatedAt": "2025-03-26T14:22:39.435Z",
+      "id": 12213,
+      "merchantId": 4849,
+      "name": "Zafiro Store CC Stae Center",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8236,
+      "address": {
+        "name": "Calle González Padrón, Centro Comercial Star Center, nivel PB local Nº08",
+        "long": -65.97875,
+        "lat": 9.221249999999998,
+        "location": "0101000020E6100000713D0AD7A37E50C0E07A14AE47712240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

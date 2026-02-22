@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T19:54:50.659Z",
+  "id": "5245",
+  "amount": 90.99,
+  "invoiceId": "00018577",
+  "paidToMerchant": false,
+  "identifierNumber": 5563,
+  "billingDate": "2022-12-27T19:54:50.659Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13112089",
+      "fullName": "JACKELINE ZAMBRANO DIAZ",
+      "phoneNumber": "+584141354447"
+    },
+    "installments": [
+      {
+        "id": "17986",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T19:55:48.568Z",
+        "amount": 45.49,
+        "status": "DONE"
+      },
+      {
+        "id": "17989",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T19:55:48.567Z",
+        "amount": 15.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "17988",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T19:55:48.567Z",
+        "amount": 15.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "17987",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T19:55:48.567Z",
+        "amount": 15.166666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

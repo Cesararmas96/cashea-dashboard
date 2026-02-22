@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:19:45.489Z",
+  "id": "4322",
+  "amount": 90.72,
+  "invoiceId": "49204",
+  "paidToMerchant": false,
+  "identifierNumber": 4735,
+  "billingDate": "2022-12-23T23:19:45.489Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25037420",
+      "fullName": "STEFANO DANIEL SAVANI VAN WOERKOM",
+      "phoneNumber": "+584123652627"
+    },
+    "installments": [
+      {
+        "id": "14662",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:20:13.025Z",
+        "amount": 45.36,
+        "status": "DONE"
+      },
+      {
+        "id": "14665",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:20:13.025Z",
+        "amount": 15.12,
+        "status": "DONE"
+      },
+      {
+        "id": "14664",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:20:13.025Z",
+        "amount": 15.12,
+        "status": "DONE"
+      },
+      {
+        "id": "14663",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:20:13.025Z",
+        "amount": 15.12,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

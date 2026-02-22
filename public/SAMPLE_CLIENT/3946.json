@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:11:07.325Z",
+  "id": "3522",
+  "amount": 56.28,
+  "invoiceId": "44356",
+  "paidToMerchant": false,
+  "identifierNumber": 3946,
+  "billingDate": "2022-12-22T20:11:07.325Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10545583",
+      "fullName": "JULIETA ELISA RODRIGUEZ VILLALOBOS",
+      "phoneNumber": "+584143379916"
+    },
+    "installments": [
+      {
+        "id": "11794",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:17:54.032Z",
+        "amount": 28.14,
+        "status": "DONE"
+      },
+      {
+        "id": "11797",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:17:54.032Z",
+        "amount": 9.38,
+        "status": "DONE"
+      },
+      {
+        "id": "11796",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:17:54.032Z",
+        "amount": 9.38,
+        "status": "DONE"
+      },
+      {
+        "id": "11795",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:17:54.032Z",
+        "amount": 9.38,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

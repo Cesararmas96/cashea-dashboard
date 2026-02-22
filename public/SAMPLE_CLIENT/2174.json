@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T18:36:16.737Z",
+  "id": "1943",
+  "amount": 60,
+  "invoiceId": "10530",
+  "paidToMerchant": false,
+  "identifierNumber": 2174,
+  "billingDate": "2022-12-17T18:36:16.737Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25426137",
+      "fullName": "ANDREA FABIOLLA CASTRO PORRAS",
+      "phoneNumber": "+584124782585"
+    },
+    "installments": [
+      {
+        "id": "6321",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T18:37:01.606Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6320",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T18:37:01.606Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6319",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T18:37:01.606Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6318",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T18:37:01.606Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

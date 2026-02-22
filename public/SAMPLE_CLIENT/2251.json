@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T18:46:05.602Z",
+  "id": "1952",
+  "amount": 51.5,
+  "invoiceId": "307231",
+  "paidToMerchant": false,
+  "identifierNumber": 2251,
+  "billingDate": "2022-12-17T18:46:05.602Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6708350",
+      "fullName": "FRANCIS JACQUELINE BLANCO DELGADO",
+      "phoneNumber": "+584142406641"
+    },
+    "installments": [
+      {
+        "id": "6337",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T18:46:19.076Z",
+        "amount": 8.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6335",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T18:46:19.076Z",
+        "amount": 8.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6336",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T18:46:19.076Z",
+        "amount": 8.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6334",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T18:46:19.076Z",
+        "amount": 25.75,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

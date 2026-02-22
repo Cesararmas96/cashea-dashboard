@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:45:00.906Z",
+  "id": "4430",
+  "amount": 35,
+  "invoiceId": "000315",
+  "paidToMerchant": false,
+  "identifierNumber": 4799,
+  "billingDate": "2022-12-24T00:45:00.906Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13533419",
+      "fullName": "YENNY MARGARITA GONZALEZ MARQUEZ",
+      "phoneNumber": "+584243353006"
+    },
+    "installments": [
+      {
+        "id": "15072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:45:21.789Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:45:21.789Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:45:21.789Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:45:21.789Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 68,
+    "name": "ProPlayer Sambil - Nivel Libertador"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

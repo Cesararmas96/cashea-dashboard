@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-26T22:55:36.755Z",
+  "id": "5136",
+  "amount": 430.41,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5438,
+  "billingDate": "2022-12-26T22:55:36.755Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

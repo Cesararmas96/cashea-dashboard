@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:43:24.995Z",
+  "id": "4119",
+  "amount": 60.15,
+  "invoiceId": "7226",
+  "paidToMerchant": false,
+  "identifierNumber": 4492,
+  "billingDate": "2022-12-23T20:43:24.995Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-23T04:00:00.987+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "13956",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28444780",
+      "fullName": "FREDDY ANTHONY MARTINEZ RODRIGUEZ",
+      "phoneNumber": "+584242248699"
+    },
+    "installments": [
+      {
+        "id": "13956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:48:07.930Z",
+        "amount": 10.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:48:07.930Z",
+        "amount": 10.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:48:07.930Z",
+        "amount": 30.07,
+        "status": "DONE"
+      },
+      {
+        "id": "13955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:48:07.930Z",
+        "amount": 10.026666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

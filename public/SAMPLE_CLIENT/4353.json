@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T17:47:55.588Z",
+  "id": "3960",
+  "amount": 34.53,
+  "invoiceId": "12919",
+  "paidToMerchant": false,
+  "identifierNumber": 4353,
+  "billingDate": "2022-12-23T17:47:55.588Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9208672",
+      "fullName": "PEDRO ANTONIO CACERES RODRIGUEZ",
+      "phoneNumber": "+584247344152"
+    },
+    "installments": [
+      {
+        "id": "13346",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:48:12.241Z",
+        "amount": 17.27,
+        "status": "DONE"
+      },
+      {
+        "id": "13348",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:48:12.241Z",
+        "amount": 5.753333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13347",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:48:12.241Z",
+        "amount": 5.753333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13349",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:48:12.241Z",
+        "amount": 5.753333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

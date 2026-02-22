@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T23:38:06.687Z",
+  "id": "2119",
+  "amount": 124.98,
+  "invoiceId": "6398",
+  "paidToMerchant": false,
+  "identifierNumber": 2627,
+  "billingDate": "2022-12-17T23:38:06.687Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-03T04:00:00.415+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "6903",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6878429",
+      "fullName": "MARIA DEL CARMEN ANDELO PARADA",
+      "phoneNumber": "+584166815380"
+    },
+    "installments": [
+      {
+        "id": "6903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T23:38:44.484Z",
+        "amount": 20.830000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T23:38:44.484Z",
+        "amount": 20.830000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T23:38:44.484Z",
+        "amount": 20.830000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T23:38:44.485Z",
+        "amount": 62.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

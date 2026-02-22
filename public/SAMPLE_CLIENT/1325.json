@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-11T22:00:11.207Z",
+  "id": "359",
+  "amount": 240,
+  "invoiceId": "10081",
+  "paidToMerchant": false,
+  "identifierNumber": 1325,
+  "billingDate": "2022-11-11T22:00:11.207Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18270107",
+      "fullName": "JOHANNA CLAIRET MORA BRITO",
+      "phoneNumber": "+584142799945"
+    },
+    "installments": [
+      {
+        "id": "1089",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-11T22:00:31.535Z",
+        "amount": 120,
+        "status": "DONE"
+      },
+      {
+        "id": "1092",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-23T22:00:31.534Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "1091",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-09T22:00:31.534Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "1090",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-25T22:00:31.534Z",
+        "amount": 40,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

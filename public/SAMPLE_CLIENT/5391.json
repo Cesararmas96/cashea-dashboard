@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T21:34:01.026Z",
+  "id": "5080",
+  "amount": 67,
+  "invoiceId": "0476",
+  "paidToMerchant": false,
+  "identifierNumber": 5391,
+  "billingDate": "2022-12-26T21:34:01.026Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-02-09T04:00:00.407+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "17425",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24523498",
+      "fullName": "YUBERLIN KARINA CHAVEZ BARRIENTOS",
+      "phoneNumber": "+584241535919"
+    },
+    "installments": [
+      {
+        "id": "17422",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T21:34:25.010Z",
+        "amount": 33.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17425",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T21:34:25.008Z",
+        "amount": 11.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "17424",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T21:34:25.008Z",
+        "amount": 11.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "17423",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T21:34:25.008Z",
+        "amount": 11.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-13T15:06:47.836Z",
+  "updatedAt": "2025-05-23T22:44:27.749Z",
+  "id": 5727,
+  "name": "Variedades de todo un poco y algo mas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "777a5b32-8548-4478-98b2-fab9623adc41",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "neolenru@gmail.com",
+    "legalName": "NEOLEN YEAMOR",
+    "phoneNumber": "04127752841"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T15:08:03.496Z",
+      "updatedAt": "2025-05-13T15:08:03.496Z",
+      "id": 14034,
+      "merchantId": 5727,
+      "name": "Variedades de todo un poco y algo mas Av Independencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8113,
+      "address": {
+        "name": "AV. INDEPRENDENCIA LOCAL S/N, SECTOR DELICIAS, MENE GRANDE - ESTADO ZULIA",
+        "long": -70.9300625,
+        "lat": 9.816312499999995,
+        "location": "0101000020E61000001B2FDD2486BB51C0C8A145B6F3A12340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

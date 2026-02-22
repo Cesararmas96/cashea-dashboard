@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-08T16:42:04.250Z",
+  "updatedAt": "2025-04-21T20:48:44.681Z",
+  "id": 5121,
+  "name": "FranelaShop",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2e1cfbbb-f91b-4f4a-a8a0-3f795c9a9f16",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "franelashop@hotmail.com",
+    "legalName": "Carlos eduardo",
+    "phoneNumber": "04245595570"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T17:22:55.201Z",
+      "updatedAt": "2025-05-02T17:22:55.201Z",
+      "id": 13535,
+      "merchantId": 5121,
+      "name": "VR_FranelaShop",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5349,
+      "address": {
+        "name": "CALLE 31 ENTRE AV. 27 Y 28 EDIF ANADOVI PISO 1 APT NRO 2 SECTOR CENTRO ACARIGUA",
+        "long": -69.2041875,
+        "lat": 9.560937499999994,
+        "location": "0101000020E610000021B07268114D51C030333333331F2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-08T16:44:08.198Z",
+      "updatedAt": "2025-04-08T16:44:08.198Z",
+      "id": 12709,
+      "merchantId": 5121,
+      "name": "FranelaShop Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5349,
+      "address": {
+        "name": "CALLE 31 ENTRE AV. 27 Y 28 EDIF ANADOVI PISO 1 APT NRO 2 SECTOR CENTRO ACARIGUA",
+        "long": -69.2041875,
+        "lat": 9.560937499999994,
+        "location": "0101000020E610000021B07268114D51C030333333331F2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

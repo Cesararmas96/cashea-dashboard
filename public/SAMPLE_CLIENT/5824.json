@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T20:39:31.637Z",
+  "id": "5533",
+  "amount": 43.08,
+  "invoiceId": "9304",
+  "paidToMerchant": false,
+  "identifierNumber": 5824,
+  "billingDate": "2022-12-28T20:39:31.637Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-14T04:00:00.509+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "19015",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20793896",
+      "fullName": "GENESIS MICHELL URBINA SIRA",
+      "phoneNumber": "+584123907601"
+    },
+    "installments": [
+      {
+        "id": "19015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:44:44.329Z",
+        "amount": 7.18,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:44:44.329Z",
+        "amount": 7.18,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:44:44.329Z",
+        "amount": 7.18,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:44:44.329Z",
+        "amount": 21.54,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

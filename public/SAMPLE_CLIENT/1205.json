@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-10-23T16:52:25.740Z",
+  "id": "165",
+  "amount": 44,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1205,
+  "billingDate": "2022-10-23T16:52:25.740Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:30:24.742Z",
+  "id": "4670",
+  "amount": 41.16,
+  "invoiceId": "18549",
+  "paidToMerchant": false,
+  "identifierNumber": 2030,
+  "billingDate": "2022-12-24T17:30:24.742Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25214096",
+      "fullName": "DELWIS DANIEL VALDERRAMA VILORIA",
+      "phoneNumber": "+584126156547"
+    },
+    "installments": [
+      {
+        "id": "15958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:30:54.867Z",
+        "amount": 20.58,
+        "status": "DONE"
+      },
+      {
+        "id": "15961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:30:54.866Z",
+        "amount": 6.859999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:30:54.866Z",
+        "amount": 6.859999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "15959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:30:54.866Z",
+        "amount": 6.859999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

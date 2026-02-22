@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T22:10:58.309Z",
+  "id": "1798",
+  "amount": 31.46,
+  "invoiceId": "6267",
+  "paidToMerchant": false,
+  "identifierNumber": 4920,
+  "billingDate": "2022-12-16T22:10:58.309Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20825233",
+      "fullName": "YORKENDY ALEXAM MARQUEZ BEAUMONT",
+      "phoneNumber": "+584149009008"
+    },
+    "installments": [
+      {
+        "id": "5803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T22:11:16.122Z",
+        "amount": 5.243333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T22:11:16.122Z",
+        "amount": 15.73,
+        "status": "DONE"
+      },
+      {
+        "id": "5804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T22:11:16.122Z",
+        "amount": 5.243333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T22:11:16.122Z",
+        "amount": 5.243333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-02T16:00:36.077Z",
+  "updatedAt": "2025-05-05T13:58:53.420Z",
+  "id": 5510,
+  "name": "Capillas Velatorias La Asunción",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a7558399-b61d-469a-a8ad-1c0946849aae",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "henrysnchz2@gmail.com",
+    "legalName": "Henry Jose Sanchez",
+    "phoneNumber": "+584126618583"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T17:59:47.034Z",
+      "updatedAt": "2025-05-02T17:59:47.034Z",
+      "id": 13536,
+      "merchantId": 5510,
+      "name": "Capillas Velatorias La Asunción",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3916,
+      "address": {
+        "name": "Capillas Velatorias La Asunción",
+        "long": -71.63156250000002,
+        "lat": 10.668562500000007,
+        "location": "0101000020E610000053B81E856BE851C000AAF1D24D562540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

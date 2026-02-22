@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-05T14:40:42.190Z",
+  "updatedAt": "2025-05-21T18:51:20.625Z",
+  "id": 5516,
+  "name": "DISTRIBUIDORA DANFER",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "31063cff-23be-429b-9824-acf71d30ee5b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "casioservicio@gmail.com",
+    "legalName": "Fernando",
+    "phoneNumber": "04241623174"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T14:42:07.865Z",
+      "updatedAt": "2025-05-05T14:42:07.865Z",
+      "id": 13563,
+      "merchantId": 5516,
+      "name": "Casio Service Montalban",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4660,
+      "address": {
+        "name": "CALLE PRINCIPAL CC USLAR (MINI USLAR) NIVEL AVENIDA LOCAL A-13 URB MONTALBAN 1 CARACAS DISTRITO CAPITAL ZONA POSTAL 1020​",
+        "long": -66.94906250000001,
+        "lat": 10.47556250000001,
+        "location": "0101000020E61000000BD7A370BDBC50C0786891ED7CF32440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-16T14:49:59.530Z",
+  "updatedAt": "2025-05-29T15:03:09.728Z",
+  "id": 5807,
+  "name": "Frío X",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "52d9a036-c692-4da8-b531-8c606fc855d7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "abrahamtarek@hotmail.com",
+    "legalName": "Abraham Tarek",
+    "phoneNumber": "4147997429"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-10T21:32:59.755Z",
+      "updatedAt": "2025-06-10T21:32:59.755Z",
+      "id": 15476,
+      "merchantId": 5807,
+      "name": "VR_Frío X",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5379,
+      "address": {
+        "name": "CALLE CASTELLON CON AVENIDA MARIÑO LOCAL NRO 03 SECTOR CENTRO CUMANA SUCRE ZONA POSTAL 6101",
+        "long": -64.17500000000001,
+        "lat": 10.425000000000004,
+        "location": "0101000020E610000034333333330B50C09C99999999D92440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T17:51:34.113Z",
+      "updatedAt": "2025-05-16T17:51:34.113Z",
+      "id": 14247,
+      "merchantId": 5807,
+      "name": "Frío X Cumana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5379,
+      "address": {
+        "name": "CALLE CASTELLON CON AVENIDA MARIÑO LOCAL NRO 03 SECTOR CENTRO CUMANA SUCRE ZONA POSTAL 6101",
+        "long": -64.17500000000001,
+        "lat": 10.425000000000004,
+        "location": "0101000020E610000034333333330B50C09C99999999D92440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

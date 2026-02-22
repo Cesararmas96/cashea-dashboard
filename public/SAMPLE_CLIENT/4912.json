@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-02T21:48:33.666Z",
+  "id": "11897",
+  "amount": 37.12,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4912,
+  "billingDate": "2023-02-02T21:48:33.666Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27007658",
+      "fullName": "LAURA VALENTINA SANABRIA FLORES",
+      "phoneNumber": "+584125572030"
+    },
+    "installments": [
+      {
+        "id": "36656",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-02T21:48:33.714Z",
+        "amount": 6.1866666666666665,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36654",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-02T21:48:33.717Z",
+        "amount": 18.56,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36657",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-16T21:48:33.714Z",
+        "amount": 6.1866666666666665,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36655",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-16T21:48:33.714Z",
+        "amount": 6.1866666666666665,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 103,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2558,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

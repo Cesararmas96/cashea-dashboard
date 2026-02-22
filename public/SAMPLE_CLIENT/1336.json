@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-21T22:02:59.852Z",
+  "id": "453",
+  "amount": 82.4,
+  "invoiceId": "783524",
+  "paidToMerchant": false,
+  "identifierNumber": 1336,
+  "billingDate": "2022-11-21T22:02:59.852Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27449954",
+      "fullName": "LUIS MIGUEL YEPES DIAZ",
+      "phoneNumber": "+584128253016"
+    },
+    "installments": [
+      {
+        "id": "1398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-21T22:04:15.638Z",
+        "amount": 41.2,
+        "status": "DONE"
+      },
+      {
+        "id": "1401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-02T22:04:15.637Z",
+        "amount": 13.733333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "1400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-19T22:04:15.637Z",
+        "amount": 13.733333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "1399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-05T22:04:15.637Z",
+        "amount": 13.733333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

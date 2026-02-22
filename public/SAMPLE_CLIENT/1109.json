@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-10T20:16:58.496Z",
+  "id": "336",
+  "amount": 96.64,
+  "invoiceId": "6584",
+  "paidToMerchant": false,
+  "identifierNumber": 1109,
+  "billingDate": "2022-11-10T20:16:58.496Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26672503",
+      "fullName": "LAURA CLARISSA MENDEZ SARRAMERA",
+      "phoneNumber": "+584128165208"
+    },
+    "installments": [
+      {
+        "id": "1033",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-10T20:17:40.113Z",
+        "amount": 48.32,
+        "status": "DONE"
+      },
+      {
+        "id": "1035",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-08T20:17:40.113Z",
+        "amount": 16.106666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1036",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-22T20:17:40.113Z",
+        "amount": 16.106666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1034",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-24T20:17:40.113Z",
+        "amount": 16.106666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

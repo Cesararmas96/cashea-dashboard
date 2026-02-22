@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1548,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J293828368",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALPHA-SIGMA, C.A.",
+    "internalBankHolder": "ALPHA-SIGMA, C.A.",
+    "account": "01910273462100027056",
+    "accountType": "Corriente",
+    "phoneNumber": "4144378465",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1546,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J293828368",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALPHA-SIGMA, C.A.",
+    "internalBankHolder": "ALPHA-SIGMA, C.A.",
+    "account": "01910273462100027056",
+    "accountType": "Corriente",
+    "phoneNumber": "4144378465",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1547,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J293828368",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALPHA-SIGMA, C.A.",
+    "internalBankHolder": "ALPHA-SIGMA, C.A.",
+    "account": "01910273462100027056",
+    "accountType": "Corriente",
+    "phoneNumber": "4144378465",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1549,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J293828368",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALPHA-SIGMA, C.A.",
+    "internalBankHolder": "ALPHA-SIGMA, C.A.",
+    "account": "01910273482300010279",
+    "accountType": "Custodia",
+    "phoneNumber": "4144378465",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

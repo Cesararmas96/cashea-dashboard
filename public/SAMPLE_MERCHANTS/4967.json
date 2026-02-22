@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-02T13:25:29.342Z",
+  "updatedAt": "2025-04-21T19:13:21.979Z",
+  "id": 4967,
+  "name": "El toldito 17 market",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "455ffb12-ae08-4912-ba8d-1ff88bbf3534",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "inversioneseltoldito17@gmail.com",
+    "legalName": "Anderson Antonio",
+    "phoneNumber": "04241763293"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T14:15:54.075Z",
+      "updatedAt": "2025-05-13T14:15:54.075Z",
+      "id": 14021,
+      "merchantId": 4967,
+      "name": "VR_El toldito 17 market",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5917,
+      "address": {
+        "name": "Avenida principal la hacienda Ud 3 mercado sepade.",
+        "long": -66.9723125,
+        "lat": 10.433937499999999,
+        "location": "0101000020E61000007D3F355E3ABE50C01804560E2DDE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T13:27:36.455Z",
+      "updatedAt": "2025-04-02T13:27:36.455Z",
+      "id": 12493,
+      "merchantId": 4967,
+      "name": "El toldito 17 market Mercado Sepade Caricuao CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5917,
+      "address": {
+        "name": "Avenida principal la hacienda Ud 3 mercado sepade.",
+        "long": -66.9723125,
+        "lat": 10.433937499999999,
+        "location": "0101000020E61000007D3F355E3ABE50C01804560E2DDE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

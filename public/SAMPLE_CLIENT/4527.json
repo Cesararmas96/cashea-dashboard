@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:14:41.791Z",
+  "id": "4162",
+  "amount": 57.97,
+  "invoiceId": "7232",
+  "paidToMerchant": false,
+  "identifierNumber": 4527,
+  "billingDate": "2022-12-23T21:14:41.791Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-09T04:00:01.254+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "14091",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "3022437211",
+      "fullName": "EDIMAR ARIANNA COLMENARES DEPABLOS",
+      "phoneNumber": "+584241934251"
+    },
+    "installments": [
+      {
+        "id": "14092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:15:24.446Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:15:24.446Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "14090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:15:24.447Z",
+        "amount": 28.98,
+        "status": "DONE"
+      },
+      {
+        "id": "14091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:15:24.446Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

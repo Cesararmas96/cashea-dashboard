@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-27T13:41:33.491Z",
+  "updatedAt": "2025-03-28T13:49:19.432Z",
+  "id": 4872,
+  "name": "El mundo de la Carne",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ee34a694-5009-42c6-a400-68068db1fcc8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gerenciamundodelacarne@gmail.com",
+    "legalName": "Walter Rojas ",
+    "phoneNumber": "04144255190"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-27T13:44:56.855Z",
+      "updatedAt": "2025-03-27T13:44:56.855Z",
+      "id": 12265,
+      "merchantId": 4872,
+      "name": "El mundo de la Carne Av Escalona",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3500,
+      "address": {
+        "name": "El mundo de la Carne Av Escalona.",
+        "long": -68.0103125,
+        "lat": 10.175562500000012,
+        "location": "0101000020E61000005C8FC2F5A80051C0E0CEF753E3592440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-11T18:34:51.248Z",
+      "updatedAt": "2025-04-11T18:34:51.248Z",
+      "id": 12863,
+      "merchantId": 4872,
+      "name": "VR_El mundo de la Carne",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3500,
+      "address": {
+        "name": "El mundo de la Carne Av Escalona.",
+        "long": -68.0103125,
+        "lat": 10.175562500000012,
+        "location": "0101000020E61000005C8FC2F5A80051C0E0CEF753E3592440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

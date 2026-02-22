@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T14:39:20.848Z",
+  "id": "2716",
+  "amount": 60,
+  "invoiceId": "0000585",
+  "paidToMerchant": false,
+  "identifierNumber": 3199,
+  "billingDate": "2022-12-20T14:39:20.848Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19888996",
+      "fullName": "DARWIN JOSE CABAÑA BENITEZ",
+      "phoneNumber": "+584124782454"
+    },
+    "installments": [
+      {
+        "id": "8946",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T14:39:48.687Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "8949",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T14:39:48.686Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "8948",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T14:39:48.686Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "8947",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T14:39:48.686Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

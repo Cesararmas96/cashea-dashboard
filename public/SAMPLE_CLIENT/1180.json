@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-26T17:33:59.713Z",
+  "id": "192",
+  "amount": 51,
+  "invoiceId": "1278",
+  "paidToMerchant": false,
+  "identifierNumber": 1180,
+  "billingDate": "2022-10-26T17:33:59.713Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25367849",
+      "fullName": "MARISE DEL VALLE MORALES CAVANIER",
+      "phoneNumber": "+584242528343"
+    },
+    "installments": [
+      {
+        "id": "589",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-26T17:37:36.618Z",
+        "amount": 25.5,
+        "status": "DONE"
+      },
+      {
+        "id": "590",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-09T17:37:36.617Z",
+        "amount": 8.5,
+        "status": "DONE"
+      },
+      {
+        "id": "591",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-23T17:37:36.617Z",
+        "amount": 8.5,
+        "status": "DONE"
+      },
+      {
+        "id": "592",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-07T17:37:36.617Z",
+        "amount": 8.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

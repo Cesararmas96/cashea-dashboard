@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:53:35.883Z",
+  "id": "2988",
+  "amount": 81.69,
+  "invoiceId": "3693",
+  "paidToMerchant": false,
+  "identifierNumber": 3554,
+  "billingDate": "2022-12-20T23:53:35.883Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24309022",
+      "fullName": "ALAYNET GABRIELA MANZANILLA ARCIA",
+      "phoneNumber": "+584142869004"
+    },
+    "installments": [
+      {
+        "id": "9850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:53:56.046Z",
+        "amount": 40.84,
+        "status": "DONE"
+      },
+      {
+        "id": "9853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:53:56.045Z",
+        "amount": 13.616666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "9851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:53:56.045Z",
+        "amount": 13.616666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "9852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:53:56.045Z",
+        "amount": 13.616666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

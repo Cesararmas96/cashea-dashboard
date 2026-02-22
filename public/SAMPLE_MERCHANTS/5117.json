@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-08T14:28:42.215Z",
+  "updatedAt": "2025-04-08T14:28:42.215Z",
+  "id": 5117,
+  "name": "Policlinica de Especialidades",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE",
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "fbcb5e45-32e9-47e1-83a7-6d6d0ed3753c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "diradmpeca@gmail.com",
+    "legalName": "Héctor Hernández ",
+    "phoneNumber": "04124274384"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-08T14:32:48.506Z",
+      "updatedAt": "2025-04-08T14:32:48.506Z",
+      "id": 12700,
+      "merchantId": 5117,
+      "name": "Policlinica de Especialidades Pto Fijo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11641,
+      "address": {
+        "name": "Policlinica de Especialidades Pto Fijo.",
+        "long": -70.19168750000001,
+        "lat": 11.701437499999997,
+        "location": "0101000020E610000055E3A59B448C51C04060E5D022672740",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

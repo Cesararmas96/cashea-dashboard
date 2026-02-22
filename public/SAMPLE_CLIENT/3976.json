@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T21:04:58.242Z",
+  "id": "3566",
+  "amount": 112.6,
+  "invoiceId": "00001979",
+  "paidToMerchant": false,
+  "identifierNumber": 3976,
+  "billingDate": "2022-12-22T21:04:58.242Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-08T04:00:00.594+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "11935",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11738098",
+      "fullName": "ALVIN GABRIEL HARTING MACHADO",
+      "phoneNumber": "+584142998997"
+    },
+    "installments": [
+      {
+        "id": "11937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:05:53.157Z",
+        "amount": 18.766666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "11935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:05:53.157Z",
+        "amount": 18.766666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "11936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:05:53.157Z",
+        "amount": 18.766666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "11934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:05:53.157Z",
+        "amount": 56.3,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

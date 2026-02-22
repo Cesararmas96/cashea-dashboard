@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T20:18:08.371Z",
+  "id": "2549",
+  "amount": 37.86,
+  "invoiceId": "50108",
+  "paidToMerchant": false,
+  "identifierNumber": 3016,
+  "billingDate": "2022-12-19T20:18:08.371Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22020228",
+      "fullName": "ESTEFANY RUSBELY BOLIVAR ROJAS",
+      "phoneNumber": "+584164033368"
+    },
+    "installments": [
+      {
+        "id": "8373",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T20:18:40.132Z",
+        "amount": 6.31,
+        "status": "DONE"
+      },
+      {
+        "id": "8370",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T20:18:40.132Z",
+        "amount": 18.93,
+        "status": "DONE"
+      },
+      {
+        "id": "8371",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T20:18:40.132Z",
+        "amount": 6.31,
+        "status": "DONE"
+      },
+      {
+        "id": "8372",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T20:18:40.132Z",
+        "amount": 6.31,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

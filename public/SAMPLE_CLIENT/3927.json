@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T18:07:17.509Z",
+  "id": "3459",
+  "amount": 62.4,
+  "invoiceId": "13694",
+  "paidToMerchant": false,
+  "identifierNumber": 3927,
+  "billingDate": "2022-12-22T18:07:17.509Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-05T04:00:00.467+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "11573",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12160933",
+      "fullName": "GIPSY ALEJANDRA CHIMIENTI BLANCA",
+      "phoneNumber": "+584123901596"
+    },
+    "installments": [
+      {
+        "id": "11573",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:10:31.906Z",
+        "amount": 10.4,
+        "status": "DONE"
+      },
+      {
+        "id": "11570",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:10:31.907Z",
+        "amount": 31.2,
+        "status": "DONE"
+      },
+      {
+        "id": "11572",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:10:31.906Z",
+        "amount": 10.4,
+        "status": "DONE"
+      },
+      {
+        "id": "11571",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:10:31.906Z",
+        "amount": 10.4,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

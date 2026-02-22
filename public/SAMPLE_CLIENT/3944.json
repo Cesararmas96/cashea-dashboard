@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:40:32.807Z",
+  "id": "3543",
+  "amount": 44.27,
+  "invoiceId": "17349",
+  "paidToMerchant": false,
+  "identifierNumber": 3944,
+  "billingDate": "2022-12-22T20:40:32.807Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19274470",
+      "fullName": "DANIEL JESUS CACUA IDLER",
+      "phoneNumber": "+584127346013"
+    },
+    "installments": [
+      {
+        "id": "11866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:41:23.073Z",
+        "amount": 22.14,
+        "status": "DONE"
+      },
+      {
+        "id": "11869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:41:23.072Z",
+        "amount": 7.376666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:41:23.072Z",
+        "amount": 7.376666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:41:23.072Z",
+        "amount": 7.376666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

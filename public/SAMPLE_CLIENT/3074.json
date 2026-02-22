@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:08:43.819Z",
+  "id": "2566",
+  "amount": 142.36,
+  "invoiceId": "12487",
+  "paidToMerchant": false,
+  "identifierNumber": 3074,
+  "billingDate": "2022-12-19T21:08:43.819Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18224520",
+      "fullName": "GARWIN MADDIEL CALLES MEJIAS",
+      "phoneNumber": "+584245807187"
+    },
+    "installments": [
+      {
+        "id": "8434",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:09:01.574Z",
+        "amount": 71.18,
+        "status": "DONE"
+      },
+      {
+        "id": "8437",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:09:01.573Z",
+        "amount": 23.72666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8436",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:09:01.573Z",
+        "amount": 23.72666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8435",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:09:01.573Z",
+        "amount": 23.72666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

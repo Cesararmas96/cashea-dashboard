@@ -1,0 +1,243 @@
+{
+  "createdAt": "2025-04-10T13:40:42.669Z",
+  "updatedAt": "2025-11-04T15:21:51.932Z",
+  "id": 5165,
+  "name": "Mifarma +",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 788,
+  "tags": [],
+  "uuid": "6d9e22fd-f3f5-4d33-932b-db72cf2ca42d",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "rrhhfarmacialaceiba@gmail.com",
+    "legalName": "Dilbert",
+    "phoneNumber": "+584125978862"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-29T23:10:03.080Z",
+      "updatedAt": "2025-04-29T23:10:03.080Z",
+      "id": 13449,
+      "merchantId": 5165,
+      "name": "Mifarma + Av Intercomunal El Cuji Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 788,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5077,
+      "address": {
+        "name": "Mifarma + Av Intercomunal El Cuji Barquisimeto",
+        "long": -69.31643749999999,
+        "lat": 10.154312500000003,
+        "location": "0101000020E6100000976E1283405451C060BA490C024F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T21:21:57.033Z",
+      "updatedAt": "2025-05-09T21:21:57.033Z",
+      "id": 13914,
+      "merchantId": 5165,
+      "name": "Mifarma + Av Intercomunal Duaca Barquisimeto",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5077,
+      "address": {
+        "name": "Local S/N, Sector, Av Intercomunal Duaca, Km 10 C. Guallaquil Con Marilo, Barquisimeto 3001, Lara",
+        "long": -69.3163125,
+        "lat": 10.154312500000003,
+        "location": "0101000020E610000039B4C8763E5451C060BA490C024F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T18:07:47.968Z",
+      "updatedAt": "2025-05-06T18:07:47.968Z",
+      "id": 13657,
+      "merchantId": 5165,
+      "name": "VR_Mifarma + Av Intercomunal El Cuji Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 788,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5077,
+      "address": {
+        "name": "Mifarma + Av Intercomunal El Cuji Barquisimeto",
+        "long": -69.31643749999999,
+        "lat": 10.154312500000003,
+        "location": "0101000020E6100000976E1283405451C060BA490C024F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T23:28:25.711Z",
+      "updatedAt": "2025-04-29T23:28:25.711Z",
+      "id": 13450,
+      "merchantId": 5165,
+      "name": "Mifarma + San Jacinto Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 788,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5077,
+      "address": {
+        "name": "Mifarma + San Jacinto Barquisimeto",
+        "long": -69.3130625,
+        "lat": 10.093812499999999,
+        "location": "0101000020E6100000A8C64B37095451C078E9263108302440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-10T13:42:18.693Z",
+      "updatedAt": "2025-04-10T13:42:18.693Z",
+      "id": 12798,
+      "merchantId": 5165,
+      "name": "Mifarma +  Sector San Benito Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 788,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5077,
+      "address": {
+        "name": "Mifarma + Sector San Benito Barquisimeto",
+        "long": -69.32143749999999,
+        "lat": 10.101812499999994,
+        "location": "0101000020E61000004F8D976E925451C0E0A59BC420342440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T19:29:11.617Z",
+      "updatedAt": "2025-05-08T19:29:11.617Z",
+      "id": 13836,
+      "merchantId": 5165,
+      "name": "VR_Mifarma + Sector San Benito Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5077,
+      "address": {
+        "name": "Mifarma + Sector San Benito Barquisimeto",
+        "long": -69.32143749999999,
+        "lat": 10.101812499999994,
+        "location": "0101000020E61000004F8D976E925451C0E0A59BC420342440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

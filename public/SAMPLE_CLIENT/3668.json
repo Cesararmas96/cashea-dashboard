@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:36:38.997Z",
+  "id": "3220",
+  "amount": 36.63,
+  "invoiceId": "44267",
+  "paidToMerchant": false,
+  "identifierNumber": 3668,
+  "billingDate": "2022-12-21T21:36:38.997Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27659192",
+      "fullName": "YORFRAN JOSE FLORES ACOSTA",
+      "phoneNumber": "+584241237531"
+    },
+    "installments": [
+      {
+        "id": "10686",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:40:01.228Z",
+        "amount": 18.32,
+        "status": "DONE"
+      },
+      {
+        "id": "10689",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:40:01.228Z",
+        "amount": 6.103333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10687",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:40:01.228Z",
+        "amount": 6.103333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10688",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:40:01.228Z",
+        "amount": 6.103333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

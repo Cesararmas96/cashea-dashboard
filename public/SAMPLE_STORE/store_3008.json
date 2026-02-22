@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1853,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J504361496",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "internalBankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "account": "01910171112100083150",
+    "accountType": "Corriente",
+    "phoneNumber": "4149078818",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1851,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J504361496",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "internalBankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "account": "01910171112100083150",
+    "accountType": "Corriente",
+    "phoneNumber": "4149078818",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1852,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J504361496",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "internalBankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "account": "01910171112100083150",
+    "accountType": "Corriente",
+    "phoneNumber": "4149078818",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1854,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J504361496",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "internalBankHolder": "OPTIAHORRO CHACAITO, C.A",
+    "account": "01910171122300033205",
+    "accountType": "Custodia",
+    "phoneNumber": "4149078818",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

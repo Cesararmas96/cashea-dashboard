@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T19:51:45.337Z",
+  "id": "5511",
+  "amount": 60,
+  "invoiceId": "949",
+  "paidToMerchant": false,
+  "identifierNumber": 5815,
+  "billingDate": "2022-12-28T19:51:45.337Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "36",
+    "buyDebtDate": "2023-02-11T04:00:01.146+00:00",
+    "lastStoreId": 20,
+    "boughtForInstallmentId": "18929",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19628951",
+      "fullName": "ELIZABETH CORINA CASTELLANO VARGAS",
+      "phoneNumber": "+584122688734"
+    },
+    "installments": [
+      {
+        "id": "18929",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:52:17.650Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "18926",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:52:17.651Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "18927",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:52:17.650Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "18928",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:52:17.650Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:22:16.126Z",
+  "id": "2961",
+  "amount": 71.82,
+  "invoiceId": "12608",
+  "paidToMerchant": false,
+  "identifierNumber": 3441,
+  "billingDate": "2022-12-20T23:22:16.126Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10633639",
+      "fullName": "HENRY ARNALDO URIBE BRICENO",
+      "phoneNumber": "+584143169371"
+    },
+    "installments": [
+      {
+        "id": "9773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:23:02.448Z",
+        "amount": 11.969999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:23:02.449Z",
+        "amount": 35.91,
+        "status": "DONE"
+      },
+      {
+        "id": "9771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:23:02.448Z",
+        "amount": 11.969999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:23:02.448Z",
+        "amount": 11.969999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

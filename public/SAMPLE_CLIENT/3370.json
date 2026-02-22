@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:08:06.293Z",
+  "id": "2947",
+  "amount": 32,
+  "invoiceId": "50223",
+  "paidToMerchant": false,
+  "identifierNumber": 3370,
+  "billingDate": "2022-12-20T23:08:06.293Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17427993",
+      "fullName": "ELEINMAR TERAN RAMIREZ",
+      "phoneNumber": "+584140109850"
+    },
+    "installments": [
+      {
+        "id": "9730",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:08:44.418Z",
+        "amount": 16,
+        "status": "DONE"
+      },
+      {
+        "id": "9733",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:08:44.417Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9731",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:08:44.417Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9732",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:08:44.417Z",
+        "amount": 5.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-28T00:08:00.948Z",
+  "id": "534",
+  "amount": 43.26,
+  "invoiceId": "783831",
+  "paidToMerchant": false,
+  "identifierNumber": 1130,
+  "billingDate": "2022-11-28T00:08:00.948Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27671634",
+      "fullName": "MARIA ANGELY CORDERO GRATEROL",
+      "phoneNumber": "+584123089288"
+    },
+    "installments": [
+      {
+        "id": "1681",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-09T00:08:41.990Z",
+        "amount": 7.21,
+        "status": "DONE"
+      },
+      {
+        "id": "1680",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-26T00:08:41.990Z",
+        "amount": 7.21,
+        "status": "DONE"
+      },
+      {
+        "id": "1678",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-28T00:08:41.990Z",
+        "amount": 21.63,
+        "status": "DONE"
+      },
+      {
+        "id": "1679",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-12T00:08:41.990Z",
+        "amount": 7.21,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

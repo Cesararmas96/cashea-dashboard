@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:03:52.290Z",
+  "id": "2629",
+  "amount": 69.7,
+  "invoiceId": "12498",
+  "paidToMerchant": false,
+  "identifierNumber": 3121,
+  "billingDate": "2022-12-19T23:03:52.290Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19224107",
+      "fullName": "KARLA CAROLINA AHUMEDO VALDELAMAR",
+      "phoneNumber": "+584149178447"
+    },
+    "installments": [
+      {
+        "id": "8629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:04:10.105Z",
+        "amount": 11.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:04:10.105Z",
+        "amount": 11.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:04:10.106Z",
+        "amount": 34.85,
+        "status": "DONE"
+      },
+      {
+        "id": "8628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:04:10.105Z",
+        "amount": 11.616666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

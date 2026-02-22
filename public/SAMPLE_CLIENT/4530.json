@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:05:38.321Z",
+  "id": "4147",
+  "amount": 41.99,
+  "invoiceId": "7230",
+  "paidToMerchant": false,
+  "identifierNumber": 4530,
+  "billingDate": "2022-12-23T21:05:38.321Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13408867",
+      "fullName": "JOHNNY ALEXANDER PRATO MEZA",
+      "phoneNumber": "+584122890714"
+    },
+    "installments": [
+      {
+        "id": "14038",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:06:15.220Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "14040",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:06:15.219Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14039",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:06:15.219Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14041",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:06:15.219Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

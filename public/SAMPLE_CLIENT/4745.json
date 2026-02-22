@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T00:03:05.432Z",
+  "id": "4384",
+  "amount": 65.98,
+  "invoiceId": "15021",
+  "paidToMerchant": false,
+  "identifierNumber": 4745,
+  "billingDate": "2022-12-24T00:03:05.432Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-09T04:00:01.535+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "14887",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15699937",
+      "fullName": "GERMAN EDUARDO CASTRO MANZO",
+      "phoneNumber": "+584142769654"
+    },
+    "installments": [
+      {
+        "id": "14889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:03:32.555Z",
+        "amount": 10.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:03:32.555Z",
+        "amount": 10.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:03:32.555Z",
+        "amount": 10.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:03:32.556Z",
+        "amount": 32.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T16:40:18.621Z",
+  "id": "5406",
+  "amount": 32.1,
+  "invoiceId": "533",
+  "paidToMerchant": false,
+  "identifierNumber": 5687,
+  "billingDate": "2022-12-28T16:40:18.621Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21033462",
+      "fullName": "ROBEN DAVID ACEVEDO CASTELLANO",
+      "phoneNumber": "+584147411167"
+    },
+    "installments": [
+      {
+        "id": "18574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:41:01.085Z",
+        "amount": 16.05,
+        "status": "DONE"
+      },
+      {
+        "id": "18577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:41:01.084Z",
+        "amount": 5.3500000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "18575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:41:01.084Z",
+        "amount": 5.3500000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "18576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:41:01.084Z",
+        "amount": 5.3500000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 856,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J504543373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COLORAMA 1A, C.A",
+    "internalBankHolder": "COLORAMA 1A, C.A",
+    "account": "01910268822100059760",
+    "accountType": "Corriente",
+    "phoneNumber": "4129802109",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 854,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J504543373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COLORAMA 1A, C.A",
+    "internalBankHolder": "COLORAMA 1A, C.A",
+    "account": "01910268822100059760",
+    "accountType": "Corriente",
+    "phoneNumber": "4129802109",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 855,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J504543373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COLORAMA 1A, C.A",
+    "internalBankHolder": "COLORAMA 1A, C.A",
+    "account": "01910268822100059760",
+    "accountType": "Corriente",
+    "phoneNumber": "4129802109",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 857,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J504543373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COLORAMA 1A, C.A",
+    "internalBankHolder": "COLORAMA 1A, C.A",
+    "account": "01910268832300010768",
+    "accountType": "Custodia",
+    "phoneNumber": "4129802109",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

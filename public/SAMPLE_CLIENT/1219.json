@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-22T21:16:46.965Z",
+  "id": "150",
+  "amount": 199,
+  "invoiceId": "1265",
+  "paidToMerchant": false,
+  "identifierNumber": 1219,
+  "billingDate": "2022-10-22T21:16:46.965Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10544084",
+      "fullName": "SIUDY ELENA PINEDA GRATEROL",
+      "phoneNumber": "+584142144989"
+    },
+    "installments": [
+      {
+        "id": "469",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-22T21:17:55.732Z",
+        "amount": 99.5,
+        "status": "DONE"
+      },
+      {
+        "id": "472",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-03T21:17:55.731Z",
+        "amount": 33.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "470",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-05T21:17:55.731Z",
+        "amount": 33.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "471",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-19T21:17:55.731Z",
+        "amount": 33.166666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

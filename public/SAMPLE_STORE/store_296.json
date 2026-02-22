@@ -1,0 +1,128 @@
+[
+  {
+    "id": 224,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500146183",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "internalBankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "account": "01910098772198370128",
+    "accountType": "Corriente",
+    "phoneNumber": "4241510807",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 222,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500146183",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "internalBankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "account": "01910098772198370128",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 223,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500146183",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "internalBankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "account": "01910098772198370128",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 225,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500146183",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "internalBankHolder": "GRUPO SUPER BOLETOS 101, CA",
+    "account": "01910098732398262539",
+    "accountType": "Custodia ",
+    "phoneNumber": "",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

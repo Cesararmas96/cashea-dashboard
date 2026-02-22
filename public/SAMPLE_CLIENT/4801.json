@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-30T16:07:12.999Z",
+  "id": "11481",
+  "amount": 111.94,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4801,
+  "billingDate": "2023-01-30T16:07:12.999Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "5425793",
+      "fullName": "YOLANDA RODRIGUEZ LUCERO",
+      "phoneNumber": "+584141112398"
+    },
+    "installments": [
+      {
+        "id": "35170",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T16:07:13.040Z",
+        "amount": 55.97,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35173",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T16:07:13.039Z",
+        "amount": 18.656666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35172",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T16:07:13.039Z",
+        "amount": 18.656666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35171",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T16:07:13.039Z",
+        "amount": 18.656666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 114,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2772,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

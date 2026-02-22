@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T18:49:13.197Z",
+  "id": "8555",
+  "amount": 61.34,
+  "invoiceId": "16337",
+  "paidToMerchant": false,
+  "identifierNumber": 3603,
+  "billingDate": "2023-01-16T18:49:13.197Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11944965",
+      "fullName": "ARAYBEL PALMA CONCEPCION",
+      "phoneNumber": "+584164076057"
+    },
+    "installments": [
+      {
+        "id": "29861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T18:49:55.565Z",
+        "amount": 10.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "29858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T18:49:55.566Z",
+        "amount": 30.67,
+        "status": "DONE"
+      },
+      {
+        "id": "29860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T18:49:55.565Z",
+        "amount": 10.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "29859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T18:49:55.565Z",
+        "amount": 10.223333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

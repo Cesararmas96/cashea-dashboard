@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:41:49.497Z",
+  "id": "4756",
+  "amount": 33.33,
+  "invoiceId": "7126",
+  "paidToMerchant": false,
+  "identifierNumber": 4217,
+  "billingDate": "2022-12-24T18:41:49.497Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26576426",
+      "fullName": "EDWARD GUSTAVO CRUZ YANEZ",
+      "phoneNumber": "+584129025755"
+    },
+    "installments": [
+      {
+        "id": "16286",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:42:40.373Z",
+        "amount": 16.66,
+        "status": "DONE"
+      },
+      {
+        "id": "16289",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:42:40.373Z",
+        "amount": 5.556666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16288",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:42:40.373Z",
+        "amount": 5.556666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16287",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:42:40.373Z",
+        "amount": 5.556666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

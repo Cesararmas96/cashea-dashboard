@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T15:10:57.346Z",
+  "id": "3407",
+  "amount": 42.37,
+  "invoiceId": "44319",
+  "paidToMerchant": false,
+  "identifierNumber": 3818,
+  "billingDate": "2022-12-22T15:10:57.346Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20154941",
+      "fullName": "FRANKLIN SABAS VARGAS NAVARRO",
+      "phoneNumber": "+584242926172"
+    },
+    "installments": [
+      {
+        "id": "11397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T15:36:15.740Z",
+        "amount": 7.063333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T15:36:15.740Z",
+        "amount": 7.063333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T15:36:15.740Z",
+        "amount": 7.063333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T15:36:15.741Z",
+        "amount": 21.18,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

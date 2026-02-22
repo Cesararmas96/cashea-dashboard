@@ -1,0 +1,150 @@
+{
+  "createdAt": "2025-04-19T12:08:41.823Z",
+  "updatedAt": "2025-04-28T14:05:26.626Z",
+  "id": 5298,
+  "name": "El Mundo de tu Belleza",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f4511dc2-17fe-49e7-9284-f683ee7085f7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "elmundodeltectico21@gmail.com",
+    "legalName": "José Fuentes ",
+    "phoneNumber": "04145843741"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-12-29T13:01:48.366Z",
+      "updatedAt": "2025-12-29T13:01:48.366Z",
+      "id": 28564,
+      "merchantId": 5298,
+      "name": "El Mundo de tu Belleza Av Bolívar",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4876,
+      "address": {
+        "name": "Avenida Bolivar Sur Edificio Mary Piso P/B Local 1 Sector Santa Rosa Valencia Carabobo",
+        "long": -68.0019375,
+        "lat": 10.171062500000005,
+        "location": "0101000020E6100000B4C876BE1F0051C0E024068195572440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-29T12:50:39.605Z",
+      "updatedAt": "2025-12-29T12:50:39.605Z",
+      "id": 28563,
+      "merchantId": 5298,
+      "name": "EL MUNDO DE TU BELLEZA Calle comercio",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 19146,
+      "address": {
+        "name": "Calle Comercio Centro Comercial Gran Bazar Centro Local NRO LC 17 Sector Centro de Valencia Carabobo",
+        "long": -68.0025625,
+        "lat": 10.180062500000005,
+        "location": "0101000020E61000008B6CE7FB290051C0D878E926315C2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-19T12:40:08.277Z",
+      "updatedAt": "2025-04-19T12:40:08.277Z",
+      "id": 13087,
+      "merchantId": 5298,
+      "name": "El Mundo de tu Belleza C.C. Gran Bazar Centro Val",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4876,
+      "address": {
+        "name": "El Mundo de tu Belleza C.C. Gran Bazar Centro Val.",
+        "long": -68.00581249999999,
+        "lat": 10.180062500000005,
+        "location": "0101000020E61000001C5A643B5F0051C0D878E926315C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

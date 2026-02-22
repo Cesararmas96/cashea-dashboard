@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:40:36.707Z",
+  "id": "4195",
+  "amount": 50.26,
+  "invoiceId": "44912",
+  "paidToMerchant": false,
+  "identifierNumber": 4562,
+  "billingDate": "2022-12-23T21:40:36.707Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "75",
+    "buyDebtDate": "2023-01-09T04:00:01.295+00:00",
+    "lastStoreId": 62,
+    "boughtForInstallmentId": "14203",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11900018",
+      "fullName": "YURAIMA DEL CARMEN MOLINA GIL",
+      "phoneNumber": "+584123365629"
+    },
+    "installments": [
+      {
+        "id": "14205",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:40:54.436Z",
+        "amount": 8.376666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14204",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:40:54.436Z",
+        "amount": 8.376666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14202",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:40:54.436Z",
+        "amount": 25.13,
+        "status": "DONE"
+      },
+      {
+        "id": "14203",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:40:54.436Z",
+        "amount": 8.376666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

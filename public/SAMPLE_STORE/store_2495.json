@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1218,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J315226936",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "account": "01910328572100129538",
+    "accountType": "Corriente",
+    "phoneNumber": "4144018339",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1216,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J315226936",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "account": "01910328572100129538",
+    "accountType": "Corriente",
+    "phoneNumber": "4144018339",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1217,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J315226936",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "account": "01910328572100129538",
+    "accountType": "Corriente",
+    "phoneNumber": "4144018339",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1219,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J315226936",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "internalBankHolder": "DISTRIBUIDORA TAMA 2021, C.A.",
+    "account": "01910328572300020801",
+    "accountType": "Custodia",
+    "phoneNumber": "4144018339",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

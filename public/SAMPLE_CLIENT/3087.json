@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T22:26:11.990Z",
+  "id": "2607",
+  "amount": 121.31,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3087,
+  "billingDate": "2022-12-19T22:26:11.990Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

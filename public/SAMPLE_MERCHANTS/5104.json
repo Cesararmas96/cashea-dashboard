@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-07T15:48:01.606Z",
+  "updatedAt": "2025-04-15T20:36:02.777Z",
+  "id": 5104,
+  "name": "GLOBAL PHARMACY",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ac519268-164f-4b99-9eda-64a961ef80e8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "aruca.maquinarias@gmail.com",
+    "legalName": "ALBERTO BONETTI",
+    "phoneNumber": "4129547321"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T15:55:39.992Z",
+      "updatedAt": "2025-04-07T15:55:39.992Z",
+      "id": 12680,
+      "merchantId": 5104,
+      "name": "GLOBAL PHARMACY Puerto La Cruz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11453,
+      "address": {
+        "name": "AVENIDA PPAL PARAISO S/N SECTOR EL PARAISO PUERTO LA CRUZ",
+        "long": -64.6574375,
+        "lat": 10.203062500000001,
+        "location": "0101000020E61000007F6ABC74132A50C08816D9CEF7672440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-22T16:25:59.835Z",
+      "updatedAt": "2025-05-22T16:25:59.835Z",
+      "id": 14531,
+      "merchantId": 5104,
+      "name": "VR_GLOBAL PHARMACY",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11453,
+      "address": {
+        "name": "AVENIDA PPAL PARAISO S/N SECTOR EL PARAISO PUERTO LA CRUZ",
+        "long": -64.6574375,
+        "lat": 10.203062500000001,
+        "location": "0101000020E61000007F6ABC74132A50C08816D9CEF7672440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:04:35.438Z",
+  "id": "2070",
+  "amount": 80.3,
+  "invoiceId": "00001609",
+  "paidToMerchant": false,
+  "identifierNumber": 2589,
+  "billingDate": "2022-12-17T22:04:35.438Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22386586",
+      "fullName": "YASMIN EGLEE ESTEVES",
+      "phoneNumber": "+584242044613"
+    },
+    "installments": [
+      {
+        "id": "6723",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:05:50.537Z",
+        "amount": 13.383333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6725",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:05:50.537Z",
+        "amount": 13.383333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6724",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:05:50.537Z",
+        "amount": 13.383333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6722",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:05:50.537Z",
+        "amount": 40.15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

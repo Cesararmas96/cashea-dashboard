@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:50:23.982Z",
+  "id": "4884",
+  "amount": 39.94,
+  "invoiceId": "00002222",
+  "paidToMerchant": false,
+  "identifierNumber": 5141,
+  "billingDate": "2022-12-24T20:50:23.982Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24700108",
+      "fullName": "YELMAIN ISRAEL BASTIDAS FERMIN",
+      "phoneNumber": "+584241665314"
+    },
+    "installments": [
+      {
+        "id": "16737",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:50:31.313Z",
+        "amount": 6.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16734",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:50:31.314Z",
+        "amount": 19.97,
+        "status": "DONE"
+      },
+      {
+        "id": "16736",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:50:31.313Z",
+        "amount": 6.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16735",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:50:31.313Z",
+        "amount": 6.656666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

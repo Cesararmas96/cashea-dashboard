@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T18:21:59.430Z",
+  "id": "5027",
+  "amount": 120,
+  "invoiceId": "10709",
+  "paidToMerchant": false,
+  "identifierNumber": 5299,
+  "billingDate": "2022-12-26T18:21:59.430Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-01-26T04:00:00.310+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "17244",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17312721",
+      "fullName": "MAYERLIN CAROLINA ALVAREZ BORGES",
+      "phoneNumber": "+584126155821"
+    },
+    "installments": [
+      {
+        "id": "17245",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T18:31:19.350Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "17242",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T18:31:19.351Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "17244",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T18:31:19.350Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "17243",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T18:31:19.350Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

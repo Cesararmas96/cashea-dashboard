@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:27:56.920Z",
+  "id": "3215",
+  "amount": 81.31,
+  "invoiceId": "677",
+  "paidToMerchant": false,
+  "identifierNumber": 3622,
+  "billingDate": "2022-12-21T21:27:56.920Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13159095",
+      "fullName": "JHON JAIRO NAVARRO GAMEZ",
+      "phoneNumber": "+584241519500"
+    },
+    "installments": [
+      {
+        "id": "10658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:28:18.983Z",
+        "amount": 40.66,
+        "status": "DONE"
+      },
+      {
+        "id": "10661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:28:18.982Z",
+        "amount": 13.550000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "10660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:28:18.982Z",
+        "amount": 13.550000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "10659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:28:18.982Z",
+        "amount": 13.550000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 46,
+    "name": "Swarovski Tolón / IN"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

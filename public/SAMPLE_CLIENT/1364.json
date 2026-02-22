@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T20:54:47.104Z",
+  "id": "618",
+  "amount": 57.8,
+  "invoiceId": "16663",
+  "paidToMerchant": false,
+  "identifierNumber": 1364,
+  "billingDate": "2022-12-03T20:54:47.104Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12072834",
+      "fullName": "YAJAIVI YOLEIDY TORRES MANRIQUE",
+      "phoneNumber": "+584142247174"
+    },
+    "installments": [
+      {
+        "id": "1970",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T20:55:08.062Z",
+        "amount": 28.9,
+        "status": "DONE"
+      },
+      {
+        "id": "1972",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T20:55:08.062Z",
+        "amount": 9.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1971",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T20:55:08.062Z",
+        "amount": 9.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1973",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T20:55:08.062Z",
+        "amount": 9.633333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

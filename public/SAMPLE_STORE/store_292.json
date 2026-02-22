@@ -1,0 +1,128 @@
+[
+  {
+    "id": 220,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J317420934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "internalBankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "account": "01910098732198366535",
+    "accountType": "Corriente",
+    "phoneNumber": "4123225219",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 218,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J317420934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "internalBankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "account": "01910098732198366535",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 219,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J317420934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "internalBankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "account": "01910098732198366535",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 221,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J317420934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "internalBankHolder": "COMERCIALIZADORA EGEO, C.A.",
+    "account": "01910098712398257142",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

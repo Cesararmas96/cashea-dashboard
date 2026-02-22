@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:17:16.208Z",
+  "id": "3325",
+  "amount": 42.16,
+  "invoiceId": "20678",
+  "paidToMerchant": false,
+  "identifierNumber": 3779,
+  "billingDate": "2022-12-22T00:17:16.208Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15831342",
+      "fullName": "YEZNER EDWIN RIQUETT GONZALEZ",
+      "phoneNumber": "+584142159410"
+    },
+    "installments": [
+      {
+        "id": "11070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:18:00.023Z",
+        "amount": 21.08,
+        "status": "DONE"
+      },
+      {
+        "id": "11073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:18:00.023Z",
+        "amount": 7.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:18:00.023Z",
+        "amount": 7.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:18:00.023Z",
+        "amount": 7.026666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

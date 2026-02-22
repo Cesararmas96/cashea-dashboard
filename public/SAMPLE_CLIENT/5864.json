@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T21:58:50.138Z",
+  "id": "5582",
+  "amount": 62.72,
+  "invoiceId": "18869",
+  "paidToMerchant": false,
+  "identifierNumber": 5864,
+  "billingDate": "2022-12-28T21:58:50.138Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-14T04:00:00.540+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "19187",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24315235",
+      "fullName": "DONEL MCREINOLD LOPEZ GOYENECHE",
+      "phoneNumber": "+584142500361"
+    },
+    "installments": [
+      {
+        "id": "19187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:59:15.747Z",
+        "amount": 10.453333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:59:15.747Z",
+        "amount": 10.453333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:59:15.747Z",
+        "amount": 31.36,
+        "status": "DONE"
+      },
+      {
+        "id": "19189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:59:15.747Z",
+        "amount": 10.453333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T01:17:42.058Z",
+  "id": "1883",
+  "amount": 105.78,
+  "invoiceId": "12225",
+  "paidToMerchant": false,
+  "identifierNumber": 2464,
+  "billingDate": "2022-12-17T01:17:42.058Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-16T04:00:00.953+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "6116",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14194870",
+      "fullName": "EDWIN EDIMIR CARRILLO GUZMAN",
+      "phoneNumber": "+584241141947"
+    },
+    "installments": [
+      {
+        "id": "6117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T01:17:58.486Z",
+        "amount": 17.63,
+        "status": "DONE"
+      },
+      {
+        "id": "6114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T01:17:58.487Z",
+        "amount": 52.89,
+        "status": "DONE"
+      },
+      {
+        "id": "6115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T01:17:58.486Z",
+        "amount": 17.63,
+        "status": "DONE"
+      },
+      {
+        "id": "6116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T01:17:58.486Z",
+        "amount": 17.63,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

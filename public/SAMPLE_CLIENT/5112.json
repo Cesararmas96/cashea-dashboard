@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-24T20:34:16.501Z",
+  "id": "4868",
+  "amount": 30.49,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5112,
+  "billingDate": "2022-12-24T20:34:16.501Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

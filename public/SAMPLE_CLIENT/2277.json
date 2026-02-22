@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T15:50:15.801Z",
+  "id": "1688",
+  "amount": 109.09,
+  "invoiceId": "00012672",
+  "paidToMerchant": false,
+  "identifierNumber": 2277,
+  "billingDate": "2022-12-16T15:50:15.801Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15147418",
+      "fullName": "ROSANA ESPERANZA DUARTE RONDON",
+      "phoneNumber": "+584265172557"
+    },
+    "installments": [
+      {
+        "id": "5443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T15:50:30.900Z",
+        "amount": 18.180000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "5445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T15:50:30.900Z",
+        "amount": 18.180000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "5444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T15:50:30.900Z",
+        "amount": 18.180000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "5442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T15:50:30.901Z",
+        "amount": 54.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

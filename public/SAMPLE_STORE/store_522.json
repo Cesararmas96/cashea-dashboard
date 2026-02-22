@@ -1,0 +1,74 @@
+[
+  {
+    "id": 280,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500968639",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Grupo Casamed 18, C.A.",
+    "internalBankHolder": "Grupo Casamed 18, C.A.",
+    "account": "01910098712198378095",
+    "accountType": "Corriente",
+    "phoneNumber": "4122010132",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 278,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500968639",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Grupo Casamed 18, C.A.",
+    "internalBankHolder": "Grupo Casamed 18, C.A.",
+    "account": "01910098712198378095",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 279,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500968639",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Grupo Casamed 18, C.A.",
+    "internalBankHolder": "Grupo Casamed 18, C.A.",
+    "account": "01910098712198378095",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 281,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500968639",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Grupo Casamed 18, C.A.",
+    "internalBankHolder": "Grupo Casamed 18, C.A.",
+    "account": "01910098752398278691",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

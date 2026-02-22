@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T21:37:14.929Z",
+  "id": "1107",
+  "amount": 30,
+  "invoiceId": "1216",
+  "paidToMerchant": false,
+  "identifierNumber": 1768,
+  "billingDate": "2022-12-10T21:37:14.929Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26489145",
+      "fullName": "MAICOL JOEL SANTANDER COLMENAREZ",
+      "phoneNumber": "+584241777952"
+    },
+    "installments": [
+      {
+        "id": "3521",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T21:37:46.077Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "3518",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T21:37:46.077Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "3519",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T21:37:46.077Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "3520",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T21:37:46.077Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:51:56.378Z",
+  "id": "4282",
+  "amount": 73.14,
+  "invoiceId": "9073",
+  "paidToMerchant": false,
+  "identifierNumber": 4685,
+  "billingDate": "2022-12-23T22:51:56.378Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18676461",
+      "fullName": "KLIBERLYN AGUSTINA MALDONADO MARIN",
+      "phoneNumber": "+584123267684"
+    },
+    "installments": [
+      {
+        "id": "14538",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:57:41.926Z",
+        "amount": 36.57,
+        "status": "DONE"
+      },
+      {
+        "id": "14541",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:57:41.925Z",
+        "amount": 12.19,
+        "status": "DONE"
+      },
+      {
+        "id": "14540",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:57:41.925Z",
+        "amount": 12.19,
+        "status": "DONE"
+      },
+      {
+        "id": "14539",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:57:41.925Z",
+        "amount": 12.19,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

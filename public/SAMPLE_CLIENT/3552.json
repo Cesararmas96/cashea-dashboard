@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T19:56:15.806Z",
+  "id": "3159",
+  "amount": 44.9,
+  "invoiceId": "11440",
+  "paidToMerchant": false,
+  "identifierNumber": 3552,
+  "billingDate": "2022-12-21T19:56:15.806Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23182197",
+      "fullName": "LUIS HORACIO MARQUEZ CHANG",
+      "phoneNumber": "+584147963292"
+    },
+    "installments": [
+      {
+        "id": "10462",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:03:14.259Z",
+        "amount": 22.45,
+        "status": "DONE"
+      },
+      {
+        "id": "10463",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:03:14.259Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10465",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:03:14.259Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10464",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:03:14.259Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

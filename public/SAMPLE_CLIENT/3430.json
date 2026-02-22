@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:47:53.904Z",
+  "id": "2979",
+  "amount": 84.97,
+  "invoiceId": "6815",
+  "paidToMerchant": false,
+  "identifierNumber": 3430,
+  "billingDate": "2022-12-20T23:47:53.904Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26648773",
+      "fullName": "DANIELLYS ALEJANDRA PEREZ PINERO",
+      "phoneNumber": "+584141744156"
+    },
+    "installments": [
+      {
+        "id": "9834",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:48:16.134Z",
+        "amount": 42.48,
+        "status": "DONE"
+      },
+      {
+        "id": "9837",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:48:16.133Z",
+        "amount": 14.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9835",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:48:16.133Z",
+        "amount": 14.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9836",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:48:16.133Z",
+        "amount": 14.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:37:22.470Z",
+  "id": "3345",
+  "amount": 72.09,
+  "invoiceId": "000206",
+  "paidToMerchant": false,
+  "identifierNumber": 3751,
+  "billingDate": "2022-12-22T00:37:22.470Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12725789",
+      "fullName": "GIOTTO JESUS HERNANDEZ HERNANDEZ",
+      "phoneNumber": "+584122775286"
+    },
+    "installments": [
+      {
+        "id": "11142",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:38:56.300Z",
+        "amount": 36.05,
+        "status": "DONE"
+      },
+      {
+        "id": "11145",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:38:56.300Z",
+        "amount": 12.013333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "11144",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:38:56.300Z",
+        "amount": 12.013333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "11143",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:38:56.300Z",
+        "amount": 12.013333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 68,
+    "name": "ProPlayer Sambil - Nivel Libertador"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

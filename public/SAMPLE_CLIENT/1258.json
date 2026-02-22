@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-10-31T13:25:26.994Z",
+  "id": "218",
+  "amount": 526.53,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1258,
+  "billingDate": "2022-10-31T13:25:26.994Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

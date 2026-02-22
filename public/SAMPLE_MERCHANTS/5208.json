@@ -1,0 +1,173 @@
+{
+  "createdAt": "2025-04-14T13:54:59.861Z",
+  "updatedAt": "2025-09-05T15:30:21.278Z",
+  "id": 5208,
+  "name": "Distribuidora Garceb",
+  "ecommerceUrl": null,
+  "changePolicy": "Políticas de Garantía \nTodos los equipos, partes y piezas comercializados por Distribuidora Garceb, gozan de una \nGARANTÍA LIMITADA, que es única y exclusiva contra defectos en su fabricación, ofreciendo una \nreparación o sustitución del equipo dentro del periodo de vigencia de dicha garantía, siempre y \ncuando se encuentren bajo condiciones de uso normal y de acuerdo al manual que acompaña a \ncada uno de nuestros productos. \nTodo producto está sujeto a revisión y diagnóstico para el trámite de garantía. \nEn caso de que la parte o pieza a garantía no presente falla por defecto de fábrica, la empresa no \nestá obligada a realizar ningún cambio del producto o devolución de efectivo. \nPara hacer valida la garantía de un producto el cliente deberá: \n•  Presentar ticket o factura que avale la compra del producto. \n•  Presentar el producto completo con su empaque, accesorios, manual, piezas , etc. \nLa GARANTÍA SE INVALIDARA en los siguientes casos: \n•  Cuando el producto presenta daño físico por mal uso, uso excesivo, manipulación, transporte o \ndescuido. \n•  Cuando los sellos de garantía o número de serie se encuentren rotos, manipulados, cambiados, \nremovidos. \n•  Daños causados por descargas eléctricas o uso con voltaje incorrecto. \n•  Daños generados  por presencia de elementos nocivos (líquidos, acido, polvo, cuerpos orgánicos \no inorgánicos, sustancias químicas, etc.) que no forman parte del equipos. \n•  Daños ocasionados por accesorios o equipos externos no diseñados específicamente para dicho \nproducto. \n•  Cuando el producto haya sido alterado o reparado por personas no autorizadas por Distribuidora \nGarceb.  \nLa Empresa no se hace responsable por daño,  mal uso o manipulación de los productos , esta es \nexclusiva responsabilidad del cliente. \nPOR POLÍTICA DE LA EMPRESA: \n•  No se aceptan equipos sin comprobante de compra, ticket o factura sin excepción. \n•  No se hacen devoluciones de efectivo. \n•  No se recibe a garantía ningún equipo con daño físico (roto, quebrado, golpeado, mojado, \nquemado o con manipulación no autorizada, etc.). \nTodo equipo está sujeto a la revisión y diagnostico sin excepción. Y se entrega de vuelta sólo \npresentando su comprobante de recepción.",
+  "email": "ventas1.garceb@gmail.com",
+  "phoneNumber": "+584122491442",
+  "logoUrl": null,
+  "data": {
+    "rif": "J501236909"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0a636e1e-4426-4e1e-bf45-b004dc971616",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ventas1.garceb@gmail.com",
+    "legalName": "Yaimar Garcia",
+    "phoneNumber": "+584122491442"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T14:24:39.330Z",
+      "updatedAt": "2025-09-05T15:30:21.287Z",
+      "id": 12928,
+      "merchantId": 5208,
+      "name": "Distribuidora Garceb Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4695,
+      "address": {
+        "name": "Municipio Libertador, 1050, Caracas 1050, Distrito Capital",
+        "long": -66.8945625,
+        "lat": 10.507312499999998,
+        "location": "0101000020E6100000986E128340B950C038B4C876BE032540",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-05-15T14:42:47.120Z",
+      "updatedAt": "2025-05-15T14:42:47.120Z",
+      "id": 14169,
+      "merchantId": 5208,
+      "name": "VR_Distribuidora Garceb",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4695,
+      "address": {
+        "name": "Municipio Libertador, 1050, Caracas 1050, Distrito Capital",
+        "long": -66.8945625,
+        "lat": 10.507312499999998,
+        "location": "0101000020E6100000986E128340B950C038B4C876BE032540",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-05-28T20:25:20.250Z",
+      "updatedAt": "2025-05-28T20:25:20.250Z",
+      "id": 14884,
+      "merchantId": 5208,
+      "name": "Distribuidora Garceb Av. Andres Bello / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4695,
+      "address": {
+        "name": "CALLE TACHIRA QTA AMALIA NRO 42 URB GUAICAIPURO CARACAS DISTRITO CAPITAL ZONA POSTAL 1083",
+        "long": -66.8945625,
+        "lat": 10.507312499999998,
+        "location": "0101000020E6100000986E128340B950C038B4C876BE032540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 2,
+      "channel": "MERCHANT_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": null
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

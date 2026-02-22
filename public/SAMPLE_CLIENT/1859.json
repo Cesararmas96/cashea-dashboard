@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-11T19:35:31.713Z",
+  "id": "1202",
+  "amount": 60,
+  "invoiceId": "08792",
+  "paidToMerchant": false,
+  "identifierNumber": 1859,
+  "billingDate": "2022-12-11T19:35:31.713Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "52",
+    "buyDebtDate": "2023-01-11T06:00:00.636+00:00",
+    "lastStoreId": 38,
+    "boughtForInstallmentId": "3856",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12292653",
+      "fullName": "MARIA BEATRIZ LOMBARDI URAY",
+      "phoneNumber": "+584242383346"
+    },
+    "installments": [
+      {
+        "id": "3857",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:49:13.717Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "3855",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:49:13.717Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "3856",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:49:13.717Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "3854",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:49:13.718Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

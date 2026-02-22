@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T20:48:32.884Z",
+  "id": "2277",
+  "amount": 51.91,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2803,
+  "billingDate": "2022-12-18T20:48:32.884Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15255989",
+      "fullName": "CARLOS ALBERTO LEAL DACOSTA",
+      "phoneNumber": "+584127128061"
+    },
+    "installments": [
+      {
+        "id": "7472",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T20:49:10.081Z",
+        "amount": 8.653333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7471",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T20:49:10.081Z",
+        "amount": 8.653333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7473",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T20:49:10.081Z",
+        "amount": 8.653333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7470",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T20:49:10.081Z",
+        "amount": 25.95,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

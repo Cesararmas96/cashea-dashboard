@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T16:32:10.186Z",
+  "id": "664",
+  "amount": 50,
+  "invoiceId": "5020",
+  "paidToMerchant": false,
+  "identifierNumber": 1417,
+  "billingDate": "2022-12-04T16:32:10.186Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27678977",
+      "fullName": "MARIANGEL ALEJANDRA CARRERA PACHECO",
+      "phoneNumber": "+584241606623"
+    },
+    "installments": [
+      {
+        "id": "2137",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T16:32:52.539Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2134",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T16:32:52.539Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "2136",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T16:32:52.539Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2135",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T16:32:52.539Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:50:11.147Z",
+  "id": "4129",
+  "amount": 40,
+  "invoiceId": "00018399",
+  "paidToMerchant": false,
+  "identifierNumber": 4542,
+  "billingDate": "2022-12-23T20:50:11.147Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16472302",
+      "fullName": "NESTOR ALEJANDRO CALLES BASTIDAS",
+      "phoneNumber": "+584129623867"
+    },
+    "installments": [
+      {
+        "id": "13970",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:51:53.359Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "13972",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:51:53.359Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13973",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:51:53.359Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13971",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:51:53.359Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

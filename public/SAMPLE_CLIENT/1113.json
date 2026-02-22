@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-11-27T23:13:56.024Z",
+  "id": "531",
+  "amount": 166.86,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1113,
+  "billingDate": "2022-11-27T23:13:56.024Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

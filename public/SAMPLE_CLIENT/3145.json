@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:00:00.059Z",
+  "id": "2662",
+  "amount": 40,
+  "invoiceId": "00001564",
+  "paidToMerchant": false,
+  "identifierNumber": 3145,
+  "billingDate": "2022-12-20T00:00:00.059Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22770253",
+      "fullName": "VANESSA CHERINA BAKIT ARIAS",
+      "phoneNumber": "+584129601995"
+    },
+    "installments": [
+      {
+        "id": "8740",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:00:13.042Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8738",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:00:13.042Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "8741",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:00:13.042Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8739",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:00:13.042Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

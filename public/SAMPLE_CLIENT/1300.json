@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-03T14:49:47.926Z",
+  "id": "246",
+  "amount": 115,
+  "invoiceId": "004",
+  "paidToMerchant": false,
+  "identifierNumber": 1300,
+  "billingDate": "2022-11-03T14:49:47.926Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12372407",
+      "fullName": "ANGELICA MARIA MADRIZ DE MORAOS",
+      "phoneNumber": "+584142709805"
+    },
+    "installments": [
+      {
+        "id": "757",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-03T14:49:58.724Z",
+        "amount": 57.5,
+        "status": "DONE"
+      },
+      {
+        "id": "760",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-15T14:49:58.723Z",
+        "amount": 19.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "759",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-01T14:49:58.723Z",
+        "amount": 19.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "758",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-17T14:49:58.723Z",
+        "amount": 19.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

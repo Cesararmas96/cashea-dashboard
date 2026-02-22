@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:45:42.157Z",
+  "id": "4684",
+  "amount": 189.92,
+  "invoiceId": "12690",
+  "paidToMerchant": false,
+  "identifierNumber": 4281,
+  "billingDate": "2022-12-24T17:45:42.157Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19062728",
+      "fullName": "AGNI YAKELINE MARTINEZ VASQUEZ",
+      "phoneNumber": "+584145341877"
+    },
+    "installments": [
+      {
+        "id": "16018",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:46:29.709Z",
+        "amount": 94.96,
+        "status": "DONE"
+      },
+      {
+        "id": "16021",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:46:29.709Z",
+        "amount": 31.653333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "16020",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:46:29.709Z",
+        "amount": 31.653333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "16019",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:46:29.709Z",
+        "amount": 31.653333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

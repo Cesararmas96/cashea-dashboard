@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-02T17:23:52.803Z",
+  "updatedAt": "2025-04-22T14:34:41.225Z",
+  "id": 4994,
+  "name": "SSL GLOBAL SERVICES BR-99",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b7a1033a-7161-4ae8-91fd-1bded29b2c8a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "garcia.ronal@gmail.com",
+    "legalName": "Ronal",
+    "phoneNumber": "4143008470"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T17:25:36.150Z",
+      "updatedAt": "2025-04-02T17:25:36.150Z",
+      "id": 12530,
+      "merchantId": 4994,
+      "name": "SSL GLOBAL SERVICES BR-99 CC LAILA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7721,
+      "address": {
+        "name": "AV SUCRE, CC LAILA PISO 1 LOCAL 1 GUACARA ESTADO CARABOBO",
+        "long": -67.87556250000002,
+        "lat": 10.228312500000001,
+        "location": "0101000020E6100000A9C64B3709F850C038894160E5742440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T19:48:28.628Z",
+      "updatedAt": "2025-05-15T19:48:28.628Z",
+      "id": 14204,
+      "merchantId": 4994,
+      "name": "VR_SSL GLOBAL SERVICES BR-99",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7721,
+      "address": {
+        "name": "AV SUCRE, CC LAILA PISO 1 LOCAL 1 GUACARA ESTADO CARABOBO",
+        "long": -67.87556250000002,
+        "lat": 10.228312500000001,
+        "location": "0101000020E6100000A9C64B3709F850C038894160E5742440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

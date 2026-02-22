@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T22:16:24.828Z",
+  "id": "4235",
+  "amount": 245.02,
+  "invoiceId": "13800",
+  "paidToMerchant": false,
+  "identifierNumber": 4612,
+  "billingDate": "2022-12-23T22:16:24.828Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-09T04:00:01.377+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "14347",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26040387",
+      "fullName": "NEWFRAN OMAR LUGO COBIS",
+      "phoneNumber": "+584242750714"
+    },
+    "installments": [
+      {
+        "id": "14349",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:16:42.303Z",
+        "amount": 40.836666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14346",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:16:42.303Z",
+        "amount": 122.51,
+        "status": "DONE"
+      },
+      {
+        "id": "14348",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:16:42.303Z",
+        "amount": 40.836666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14347",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:16:42.303Z",
+        "amount": 40.836666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

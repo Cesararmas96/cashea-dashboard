@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T15:28:48.149Z",
+  "id": "4554",
+  "amount": 33.39,
+  "invoiceId": "50527",
+  "paidToMerchant": false,
+  "identifierNumber": 4889,
+  "billingDate": "2022-12-24T15:28:48.149Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-10T04:00:00.778+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "15535",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31873121",
+      "fullName": "ESCARLETS DANIELA QUINTERO PENA",
+      "phoneNumber": "+584129290811"
+    },
+    "installments": [
+      {
+        "id": "15537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:28:56.418Z",
+        "amount": 5.5633333333333335,
+        "status": "DELAYED"
+      },
+      {
+        "id": "15536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:28:56.418Z",
+        "amount": 5.5633333333333335,
+        "status": "DELAYED"
+      },
+      {
+        "id": "15534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:28:56.418Z",
+        "amount": 16.7,
+        "status": "DONE"
+      },
+      {
+        "id": "15535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:28:56.418Z",
+        "amount": 5.5633333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

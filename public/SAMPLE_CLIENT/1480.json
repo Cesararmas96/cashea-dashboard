@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T22:23:35.953Z",
+  "id": "735",
+  "amount": 66,
+  "invoiceId": "7109",
+  "paidToMerchant": false,
+  "identifierNumber": 1480,
+  "billingDate": "2022-12-05T22:23:35.953Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22694157",
+      "fullName": "RIGENSON YOHJAN REYES RODRIGUEZ",
+      "phoneNumber": "+584241696499"
+    },
+    "installments": [
+      {
+        "id": "2392",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T22:24:25.160Z",
+        "amount": 11,
+        "status": "DONE"
+      },
+      {
+        "id": "2390",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T22:24:25.161Z",
+        "amount": 33,
+        "status": "DONE"
+      },
+      {
+        "id": "2393",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T22:24:25.160Z",
+        "amount": 11,
+        "status": "DONE"
+      },
+      {
+        "id": "2391",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T22:24:25.160Z",
+        "amount": 11,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

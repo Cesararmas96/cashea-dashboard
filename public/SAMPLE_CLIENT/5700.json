@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T15:52:08.139Z",
+  "id": "5394",
+  "amount": 45.5,
+  "invoiceId": "10418",
+  "paidToMerchant": false,
+  "identifierNumber": 5700,
+  "billingDate": "2022-12-28T15:52:08.139Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20327682",
+      "fullName": "ENGERBERT ALEJANDRO LUCES MANRIQUE",
+      "phoneNumber": "+584123704642"
+    },
+    "installments": [
+      {
+        "id": "18533",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T15:52:39.979Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18530",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T15:52:39.979Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "18532",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T15:52:39.979Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18531",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T15:52:39.979Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

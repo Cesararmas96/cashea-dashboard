@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:12:44.197Z",
+  "id": "2898",
+  "amount": 45.48,
+  "invoiceId": "13831",
+  "paidToMerchant": false,
+  "identifierNumber": 3381,
+  "billingDate": "2022-12-20T22:12:44.197Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20051373",
+      "fullName": "THAYMARA NAHIL HENRIQUEZ BLANCO",
+      "phoneNumber": "+584164196489"
+    },
+    "installments": [
+      {
+        "id": "9546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:13:10.616Z",
+        "amount": 22.74,
+        "status": "DONE"
+      },
+      {
+        "id": "9549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:13:10.615Z",
+        "amount": 7.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:13:10.615Z",
+        "amount": 7.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:13:10.615Z",
+        "amount": 7.579999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

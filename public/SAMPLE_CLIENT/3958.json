@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:04:16.565Z",
+  "id": "3517",
+  "amount": 34.16,
+  "invoiceId": "00001966",
+  "paidToMerchant": false,
+  "identifierNumber": 3958,
+  "billingDate": "2022-12-22T20:04:16.565Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23947806",
+      "fullName": "EDWIN JOSE BASTIDAS HERRERA",
+      "phoneNumber": "+584120247020"
+    },
+    "installments": [
+      {
+        "id": "11762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:04:32.994Z",
+        "amount": 17.08,
+        "status": "DONE"
+      },
+      {
+        "id": "11764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:04:32.994Z",
+        "amount": 5.6933333333333325,
+        "status": "DONE"
+      },
+      {
+        "id": "11763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:04:32.994Z",
+        "amount": 5.6933333333333325,
+        "status": "DONE"
+      },
+      {
+        "id": "11765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:04:32.994Z",
+        "amount": 5.6933333333333325,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

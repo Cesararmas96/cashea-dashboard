@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-09T00:43:10.742Z",
+  "id": "962",
+  "amount": 216.9,
+  "invoiceId": "13857",
+  "paidToMerchant": false,
+  "identifierNumber": 1682,
+  "billingDate": "2022-12-09T00:43:10.742Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-08T04:00:00.426+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "3056",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18094322",
+      "fullName": "ELIAS ALFONZO OLMOS SANABRIA",
+      "phoneNumber": "+584242538138"
+    },
+    "installments": [
+      {
+        "id": "3057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T00:43:39.504Z",
+        "amount": 36.15,
+        "status": "DONE"
+      },
+      {
+        "id": "3056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T00:43:39.504Z",
+        "amount": 36.15,
+        "status": "DONE"
+      },
+      {
+        "id": "3055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T00:43:39.504Z",
+        "amount": 36.15,
+        "status": "DONE"
+      },
+      {
+        "id": "3054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T00:43:39.505Z",
+        "amount": 108.45,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

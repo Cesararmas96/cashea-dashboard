@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T18:14:09.377Z",
+  "id": "5838",
+  "amount": 79.46,
+  "invoiceId": "14698",
+  "paidToMerchant": false,
+  "identifierNumber": 5313,
+  "billingDate": "2022-12-29T18:14:09.377Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10547010",
+      "fullName": "LISYEIDY JOSEFINA PENA LAURES",
+      "phoneNumber": "+584241004766"
+    },
+    "installments": [
+      {
+        "id": "20130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T18:15:47.516Z",
+        "amount": 39.73,
+        "status": "DONE"
+      },
+      {
+        "id": "20133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T18:15:47.516Z",
+        "amount": 13.243333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "20131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T18:15:47.516Z",
+        "amount": 13.243333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "20132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T18:15:47.516Z",
+        "amount": 13.243333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

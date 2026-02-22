@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-09T20:33:44.545Z",
+  "updatedAt": "2025-05-09T20:33:44.545Z",
+  "id": 5679,
+  "name": "Ink Service",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "40030845-9363-429f-94bf-36a0e08bdb2c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "pinedatholerr@gmail.com",
+    "legalName": "Jaime Montes",
+    "phoneNumber": "04120157741"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-02-25T20:53:24.188Z",
+      "updatedAt": "2025-02-25T20:53:24.188Z",
+      "id": 11106,
+      "merchantId": 5679,
+      "name": "Ink Service Centro Empresarial Caracas Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 504,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6350,
+      "address": {
+        "name": "Ink Service Centro Empresarial Caracas Barquisimeto",
+        "long": -69.2839375,
+        "lat": 10.0679375,
+        "location": "0101000020E6100000E92631082C5251C0105839B4C8222440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Tecnología",
+  "shipmentOptionsAvailable": []
+}

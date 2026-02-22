@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T17:28:31.412Z",
+  "id": "5806",
+  "amount": 34.79,
+  "invoiceId": "14686",
+  "paidToMerchant": false,
+  "identifierNumber": 3884,
+  "billingDate": "2022-12-29T17:28:31.412Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-02-12T04:00:01.111+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "20017",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18028622",
+      "fullName": "JONATHAN ENRIQUE CASTILLO NIETO",
+      "phoneNumber": "+584142308119"
+    },
+    "installments": [
+      {
+        "id": "20017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:28:41.024Z",
+        "amount": 5.8,
+        "status": "DONE"
+      },
+      {
+        "id": "20014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:28:41.025Z",
+        "amount": 17.39,
+        "status": "DONE"
+      },
+      {
+        "id": "20015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:28:41.024Z",
+        "amount": 5.8,
+        "status": "DONE"
+      },
+      {
+        "id": "20016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:28:41.024Z",
+        "amount": 5.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

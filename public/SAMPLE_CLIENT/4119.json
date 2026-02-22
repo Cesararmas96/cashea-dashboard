@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:40:20.302Z",
+  "id": "4679",
+  "amount": 65,
+  "invoiceId": "1688",
+  "paidToMerchant": false,
+  "identifierNumber": 4119,
+  "billingDate": "2022-12-24T17:40:20.302Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11308220",
+      "fullName": "VICTOR HUGO GONZALEZ MAIOLINO",
+      "phoneNumber": "+584142390419"
+    },
+    "installments": [
+      {
+        "id": "16002",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:41:05.575Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16003",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:41:05.574Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16005",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:41:05.574Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16004",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:41:05.574Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

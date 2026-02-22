@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:07:05.465Z",
+  "id": "2756",
+  "amount": 79.1,
+  "invoiceId": "17452",
+  "paidToMerchant": false,
+  "identifierNumber": 3243,
+  "billingDate": "2022-12-20T18:07:05.465Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17610085",
+      "fullName": "LEYDY NAILLIBY TORRES DURAN",
+      "phoneNumber": "+584242454537"
+    },
+    "installments": [
+      {
+        "id": "9078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:08:06.069Z",
+        "amount": 39.55,
+        "status": "DONE"
+      },
+      {
+        "id": "9081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:08:06.068Z",
+        "amount": 13.183333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:08:06.068Z",
+        "amount": 13.183333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "9079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:08:06.068Z",
+        "amount": 13.183333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

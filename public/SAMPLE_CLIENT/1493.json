@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T01:02:22.315Z",
+  "id": "749",
+  "amount": 39.99,
+  "invoiceId": "5188",
+  "paidToMerchant": false,
+  "identifierNumber": 1493,
+  "billingDate": "2022-12-06T01:02:22.315Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27377880",
+      "fullName": "YEFFERSON DANIEL RODRIGUEZ MORENO",
+      "phoneNumber": "+584122238269"
+    },
+    "installments": [
+      {
+        "id": "2438",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T01:02:40.429Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "2441",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T01:02:40.428Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2440",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T01:02:40.428Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2439",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T01:02:40.428Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

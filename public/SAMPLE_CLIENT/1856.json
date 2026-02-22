@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T19:03:54.779Z",
+  "id": "1191",
+  "amount": 62.38,
+  "invoiceId": "11585",
+  "paidToMerchant": false,
+  "identifierNumber": 1856,
+  "billingDate": "2022-12-11T19:03:54.779Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17576642",
+      "fullName": "CESAR GREGORIO TORRES MATO",
+      "phoneNumber": "+584243223165"
+    },
+    "installments": [
+      {
+        "id": "3804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:04:16.910Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:04:16.911Z",
+        "amount": 31.19,
+        "status": "DONE"
+      },
+      {
+        "id": "3803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:04:16.910Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "3805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:04:16.910Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

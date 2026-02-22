@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:21:53.299Z",
+  "id": "4595",
+  "amount": 41.58,
+  "invoiceId": "17456",
+  "paidToMerchant": false,
+  "identifierNumber": 4924,
+  "billingDate": "2022-12-24T16:21:53.299Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "42",
+    "buyDebtDate": "2023-01-10T04:00:00.798+00:00",
+    "lastStoreId": 28,
+    "boughtForInstallmentId": "15671",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17303153",
+      "fullName": "ELSA MARIA ORTEGA VANEGAS",
+      "phoneNumber": "+584241116052"
+    },
+    "installments": [
+      {
+        "id": "15673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:23:04.173Z",
+        "amount": 6.93,
+        "status": "DELAYED"
+      },
+      {
+        "id": "15670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:23:04.174Z",
+        "amount": 20.79,
+        "status": "DONE"
+      },
+      {
+        "id": "15672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:23:04.173Z",
+        "amount": 6.93,
+        "status": "DONE"
+      },
+      {
+        "id": "15671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:23:04.173Z",
+        "amount": 6.93,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

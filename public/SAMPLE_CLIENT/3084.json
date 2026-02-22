@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T22:07:59.616Z",
+  "id": "2592",
+  "amount": 44.9,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3084,
+  "billingDate": "2022-12-19T22:07:59.616Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

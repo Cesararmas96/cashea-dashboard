@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-05-02T13:46:38.375Z",
+  "updatedAt": "2025-08-20T19:16:56.465Z",
+  "id": 5496,
+  "name": "Aps Visual",
+  "ecommerceUrl": null,
+  "changePolicy": "Condiciones del Producto: Los productos deben estar en perfectas condiciones, sin daños visibles.\nPlazo para Cambios: Los cambios deben realizarse dentro de un plazo máximo de 15 días a partir de la fecha de compra.\nContacto: Para solicitar un cambio, por favor comuníquese directamente con la encargada, Maisbeli Rausseo.\nTipo de Cambios: Solo se aceptarán cambios de mercancía; no se realizarán devoluciones de dinero.\nLentes de Contacto: No se aceptarán cambios en lentes de contacto que hayan sido abiertos.",
+  "email": "aps.visual04@gmail.com",
+  "phoneNumber": "+58241787902",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "3f464328-d01c-4ef2-9c5a-1faf5fdcf8e6",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "aps.visual04@gmail.com",
+    "legalName": "Maisbeli Rausseo",
+    "phoneNumber": "4241787902"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-01T20:10:15.850Z",
+      "updatedAt": "2025-09-01T20:10:15.850Z",
+      "id": 20440,
+      "merchantId": 5496,
+      "name": "VR_APS VISUAL",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3600,
+      "address": {
+        "name": "Centro comercial bicentenario zona rental plaza nivel automercado local L04",
+        "long": -66.88468750000001,
+        "lat": 10.494312500000007,
+        "location": "0101000020E610000086EB51B89EB850C010022B8716FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-18T17:58:38.937Z",
+      "updatedAt": "2025-08-18T17:58:38.937Z",
+      "id": 19389,
+      "merchantId": 5496,
+      "name": "Aps Visual Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3600,
+      "address": {
+        "name": "Centro comercial bicentenario zona rental plaza nivel automercado local L04",
+        "long": -66.88468750000001,
+        "lat": 10.494312500000007,
+        "location": "0101000020E610000086EB51B89EB850C010022B8716FD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T13:54:01.482Z",
+      "updatedAt": "2025-05-02T13:54:01.482Z",
+      "id": 13519,
+      "merchantId": 5496,
+      "name": "Aps Visual CC Bicentenario",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3600,
+      "address": {
+        "name": "Centro comercial bicentenario zona rental plaza nivel automercado local L04",
+        "long": -66.88468750000001,
+        "lat": 10.494312500000007,
+        "location": "0101000020E610000086EB51B89EB850C010022B8716FD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T00:05:14.021Z",
+  "id": "1848",
+  "amount": 59.98,
+  "invoiceId": "00017776",
+  "paidToMerchant": false,
+  "identifierNumber": 2432,
+  "billingDate": "2022-12-17T00:05:14.021Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15250372",
+      "fullName": "GUSTAVO ADOLFO HERGUETA",
+      "phoneNumber": "+584129837413"
+    },
+    "installments": [
+      {
+        "id": "5989",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T00:05:32.808Z",
+        "amount": 9.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5986",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T00:05:32.808Z",
+        "amount": 29.99,
+        "status": "DONE"
+      },
+      {
+        "id": "5988",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T00:05:32.808Z",
+        "amount": 9.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5987",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T00:05:32.808Z",
+        "amount": 9.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

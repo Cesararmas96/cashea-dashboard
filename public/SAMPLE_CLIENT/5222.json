@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:14:35.894Z",
+  "id": "5919",
+  "amount": 38.48,
+  "invoiceId": "4327",
+  "paidToMerchant": false,
+  "identifierNumber": 5222,
+  "billingDate": "2022-12-29T20:14:35.894Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27916181",
+      "fullName": "JUAN PABLO SANCHEZ SANCHEZ",
+      "phoneNumber": "+584143976973"
+    },
+    "installments": [
+      {
+        "id": "20414",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:15:09.428Z",
+        "amount": 19.24,
+        "status": "DONE"
+      },
+      {
+        "id": "20417",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:15:09.427Z",
+        "amount": 6.413333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20415",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:15:09.427Z",
+        "amount": 6.413333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20416",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:15:09.427Z",
+        "amount": 6.413333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

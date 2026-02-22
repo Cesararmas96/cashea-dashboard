@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T19:53:35.689Z",
+  "id": "1206",
+  "amount": 101.6,
+  "invoiceId": "17259",
+  "paidToMerchant": false,
+  "identifierNumber": 1848,
+  "billingDate": "2022-12-11T19:53:35.689Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22749514",
+      "fullName": "ALBERT GABRIEL BERNAL PARRA",
+      "phoneNumber": "+584242243697"
+    },
+    "installments": [
+      {
+        "id": "3861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:54:56.250Z",
+        "amount": 16.933333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:54:56.250Z",
+        "amount": 16.933333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:54:56.250Z",
+        "amount": 16.933333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:54:56.250Z",
+        "amount": 50.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

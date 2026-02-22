@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:51:26.004Z",
+  "id": "2750",
+  "amount": 43.82,
+  "invoiceId": "13773",
+  "paidToMerchant": false,
+  "identifierNumber": 3226,
+  "billingDate": "2022-12-20T17:51:26.004Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19508248",
+      "fullName": "ELIO ABILIO ROJAS HERRERA",
+      "phoneNumber": "+584142448258"
+    },
+    "installments": [
+      {
+        "id": "9066",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:52:09.299Z",
+        "amount": 21.91,
+        "status": "DONE"
+      },
+      {
+        "id": "9067",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:52:09.299Z",
+        "amount": 7.303333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9069",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:52:09.299Z",
+        "amount": 7.303333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9068",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:52:09.299Z",
+        "amount": 7.303333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

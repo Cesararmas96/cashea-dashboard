@@ -1,0 +1,23 @@
+{
+  "createdAt": "2023-01-17T23:33:54.011Z",
+  "id": "10113",
+  "amount": 66.43,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4074,
+  "billingDate": "2023-01-17T23:33:54.011Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

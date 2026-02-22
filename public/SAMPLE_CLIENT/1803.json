@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T01:14:52.332Z",
+  "id": "1171",
+  "amount": 119.99,
+  "invoiceId": "00000941",
+  "paidToMerchant": false,
+  "identifierNumber": 1803,
+  "billingDate": "2022-12-11T01:14:52.332Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19932908",
+      "fullName": "PEDRO MANUEL MONTOYA MARQUEZ",
+      "phoneNumber": "+584125887466"
+    },
+    "installments": [
+      {
+        "id": "3730",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T01:15:39.209Z",
+        "amount": 79.99,
+        "status": "DONE"
+      },
+      {
+        "id": "3733",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T01:15:39.208Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3731",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T01:15:39.208Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3732",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T01:15:39.208Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

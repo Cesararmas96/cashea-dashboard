@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T20:56:03.809Z",
+  "id": "3560",
+  "amount": 191.15,
+  "invoiceId": "14558",
+  "paidToMerchant": false,
+  "identifierNumber": 4004,
+  "billingDate": "2022-12-22T20:56:03.809Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "84",
+    "buyDebtDate": "2023-01-22T04:00:01.251+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "11920",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14096500",
+      "fullName": "BLAS WRAYAN HERNANDEZ LOSADA",
+      "phoneNumber": "+584123719913"
+    },
+    "installments": [
+      {
+        "id": "11920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:58:08.210Z",
+        "amount": 31.85666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:58:08.210Z",
+        "amount": 31.85666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:58:08.210Z",
+        "amount": 95.58,
+        "status": "DONE"
+      },
+      {
+        "id": "11919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:58:08.210Z",
+        "amount": 31.85666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

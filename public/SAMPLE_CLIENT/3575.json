@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:05:35.429Z",
+  "id": "3163",
+  "amount": 65.73,
+  "invoiceId": "00001861",
+  "paidToMerchant": false,
+  "identifierNumber": 3575,
+  "billingDate": "2022-12-21T20:05:35.429Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30057049",
+      "fullName": "DIONISMARY ANDREINA RANGEL LUNA",
+      "phoneNumber": "+584143967478"
+    },
+    "installments": [
+      {
+        "id": "10470",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:05:57.822Z",
+        "amount": 32.87,
+        "status": "DONE"
+      },
+      {
+        "id": "10473",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:05:57.822Z",
+        "amount": 10.953333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "10472",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:05:57.822Z",
+        "amount": 10.953333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "10471",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:05:57.822Z",
+        "amount": 10.953333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

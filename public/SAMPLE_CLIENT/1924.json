@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T21:13:41.357Z",
+  "id": "1236",
+  "amount": 90,
+  "invoiceId": "00047798",
+  "paidToMerchant": false,
+  "identifierNumber": 1924,
+  "billingDate": "2022-12-11T21:13:41.357Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17215169",
+      "fullName": "NIDIA DEL CARMEN GONZALEZ IBANEZ",
+      "phoneNumber": "+584129154634"
+    },
+    "installments": [
+      {
+        "id": "3970",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T21:14:14.749Z",
+        "amount": 45,
+        "status": "DONE"
+      },
+      {
+        "id": "3971",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T21:14:14.748Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "3973",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T21:14:14.748Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "3972",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T21:14:14.748Z",
+        "amount": 15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

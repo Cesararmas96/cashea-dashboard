@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:50:43.636Z",
+  "id": "5939",
+  "amount": 61.13,
+  "invoiceId": "14716",
+  "paidToMerchant": false,
+  "identifierNumber": 5268,
+  "billingDate": "2022-12-29T20:50:43.636Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20065992",
+      "fullName": "NANCY LEIDY MUNAICO RAMIREZ",
+      "phoneNumber": "+584148181400"
+    },
+    "installments": [
+      {
+        "id": "20490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:52:21.335Z",
+        "amount": 30.57,
+        "status": "DONE"
+      },
+      {
+        "id": "20493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:52:21.334Z",
+        "amount": 10.186666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:52:21.334Z",
+        "amount": 10.186666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:52:21.334Z",
+        "amount": 10.186666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

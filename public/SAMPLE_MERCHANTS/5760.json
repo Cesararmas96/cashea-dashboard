@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-14T15:29:47.144Z",
+  "updatedAt": "2025-05-23T21:40:26.008Z",
+  "id": 5760,
+  "name": "Multiservicios freez cars",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b2d9c472-0775-4b66-b5d9-2e1845710978",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "multiserviciosfreezcars@outlook.com",
+    "legalName": "Ivan Martinex",
+    "phoneNumber": "4243773953"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T15:32:07.028Z",
+      "updatedAt": "2025-05-14T15:32:07.028Z",
+      "id": 14113,
+      "merchantId": 5760,
+      "name": "Multiservicios freez cars Calle Paez Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6878,
+      "address": {
+        "name": "Calle Paez local Nro. A,B,C nro 241 barrio 23 de enero oeste Maracay Aragua",
+        "long": -67.6153125,
+        "lat": 10.252312500000002,
+        "location": "0101000020E61000007B14AE4761E750C078BE9F1A2F812440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

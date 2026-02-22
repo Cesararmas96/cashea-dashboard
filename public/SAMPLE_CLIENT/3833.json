@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-07T13:02:35.271Z",
+  "id": "12636",
+  "amount": 134.096,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3833,
+  "billingDate": "2023-02-07T13:02:35.271Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24455921",
+      "fullName": "AILEEN CRISTINA SERRANO FREITES",
+      "phoneNumber": "+584129097217"
+    },
+    "installments": [
+      {
+        "id": "39273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-21T13:02:35.409Z",
+        "amount": 22.34866666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-21T13:02:35.409Z",
+        "amount": 22.34866666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-07T13:02:35.409Z",
+        "amount": 22.34866666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-07T13:02:35.412Z",
+        "amount": 67.05,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 105,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2592,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

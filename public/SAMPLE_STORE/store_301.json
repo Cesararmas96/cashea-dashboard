@@ -1,0 +1,128 @@
+[
+  {
+    "id": 4224,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J299108766",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVILA SPORT 11, C.A.",
+    "internalBankHolder": "AVILA SPORT 11, C.A.",
+    "account": "01910098782198372842",
+    "accountType": "Corriente",
+    "phoneNumber": "4142277484",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 4222,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J299108766",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVILA SPORT 11, C.A.",
+    "internalBankHolder": "AVILA SPORT 11, C.A.",
+    "account": "01910098782198372842",
+    "accountType": "Corriente",
+    "phoneNumber": "4142277484",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 4223,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J299108766",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVILA SPORT 11, C.A.",
+    "internalBankHolder": "AVILA SPORT 11, C.A.",
+    "account": "01910098782198372842",
+    "accountType": "Corriente",
+    "phoneNumber": "4142277484",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 4225,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J299108766",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVILA SPORT 11, C.A.",
+    "internalBankHolder": "AVILA SPORT 11, C.A.",
+    "account": "01910098702398267632",
+    "accountType": "Custodia",
+    "phoneNumber": "4142277484",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

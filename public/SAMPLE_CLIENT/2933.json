@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T00:19:25.363Z",
+  "id": "2426",
+  "amount": 82.33,
+  "invoiceId": "771",
+  "paidToMerchant": false,
+  "identifierNumber": 2933,
+  "billingDate": "2022-12-19T00:19:25.363Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18235215",
+      "fullName": "ZAMIRA CRISTINA MARCANO CHIQUIN",
+      "phoneNumber": "+584123748588"
+    },
+    "installments": [
+      {
+        "id": "7993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T00:21:56.136Z",
+        "amount": 13.723333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T00:21:56.137Z",
+        "amount": 41.16,
+        "status": "DONE"
+      },
+      {
+        "id": "7991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T00:21:56.136Z",
+        "amount": 13.723333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T00:21:56.136Z",
+        "amount": 13.723333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

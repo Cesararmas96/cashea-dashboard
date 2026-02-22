@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:11:22.177Z",
+  "id": "3627",
+  "amount": 76.97,
+  "invoiceId": "7096",
+  "paidToMerchant": false,
+  "identifierNumber": 4029,
+  "billingDate": "2022-12-22T22:11:22.177Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22031109",
+      "fullName": "JULIO CESAR PENA CHANTRE",
+      "phoneNumber": "+584129271265"
+    },
+    "installments": [
+      {
+        "id": "12166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:15:08.200Z",
+        "amount": 38.48,
+        "status": "DONE"
+      },
+      {
+        "id": "12169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:15:08.199Z",
+        "amount": 12.83,
+        "status": "DONE"
+      },
+      {
+        "id": "12168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:15:08.199Z",
+        "amount": 12.83,
+        "status": "DONE"
+      },
+      {
+        "id": "12167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:15:08.199Z",
+        "amount": 12.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

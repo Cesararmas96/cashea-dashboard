@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T20:54:24.884Z",
+  "id": "1347",
+  "amount": 33,
+  "invoiceId": "911",
+  "paidToMerchant": false,
+  "identifierNumber": 1938,
+  "billingDate": "2022-12-12T20:54:24.884Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23198468",
+      "fullName": "ORLENYS DEL CARMEN ROBLES",
+      "phoneNumber": "+584242923989"
+    },
+    "installments": [
+      {
+        "id": "4346",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T20:54:24.884Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "4349",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T20:54:24.884Z",
+        "amount": 5.5,
+        "status": "DONE"
+      },
+      {
+        "id": "4347",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T20:54:24.884Z",
+        "amount": 5.5,
+        "status": "DONE"
+      },
+      {
+        "id": "4348",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T20:54:24.884Z",
+        "amount": 5.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

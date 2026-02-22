@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T19:29:53.578Z",
+  "id": "5496",
+  "amount": 87.5,
+  "invoiceId": "00942",
+  "paidToMerchant": false,
+  "identifierNumber": 5810,
+  "billingDate": "2022-12-28T19:29:53.578Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-02-11T04:00:01.286+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "18881",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12395726",
+      "fullName": "ALEJANDRO ANTONIO UBIEDA MORAN",
+      "phoneNumber": "+584129009062"
+    },
+    "installments": [
+      {
+        "id": "18878",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:30:14.697Z",
+        "amount": 43.75,
+        "status": "DONE"
+      },
+      {
+        "id": "18881",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:30:14.696Z",
+        "amount": 14.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18880",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:30:14.696Z",
+        "amount": 14.583333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18879",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:30:14.696Z",
+        "amount": 14.583333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

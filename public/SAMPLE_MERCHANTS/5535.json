@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-05T18:36:38.029Z",
+  "updatedAt": "2025-05-15T13:43:13.217Z",
+  "id": 5535,
+  "name": "Autopartes El Tranvía",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2e9a464e-4f79-4af5-9d70-bbcca66cac11",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "juanccandurinb@gmail.com",
+    "legalName": "Juan",
+    "phoneNumber": "4241885050"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T18:37:39.792Z",
+      "updatedAt": "2025-05-05T18:37:39.792Z",
+      "id": 13596,
+      "merchantId": 5535,
+      "name": "Autopartes El Tranvía Monagas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3688,
+      "address": {
+        "name": "Av libertador galpón 2 sector la muralla",
+        "long": -63.2019375,
+        "lat": 9.738187499999995,
+        "location": "0101000020E6100000022B8716D9994FC0C8A145B6F3792340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

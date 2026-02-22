@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T19:52:41.605Z",
+  "id": "2537",
+  "amount": 59.4,
+  "invoiceId": "9504",
+  "paidToMerchant": false,
+  "identifierNumber": 3024,
+  "billingDate": "2022-12-19T19:52:41.605Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23693901",
+      "fullName": "SERGIO DUBALIEL SILVA BRACHO",
+      "phoneNumber": "+584242626246"
+    },
+    "installments": [
+      {
+        "id": "8334",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T19:53:23.961Z",
+        "amount": 29.7,
+        "status": "DONE"
+      },
+      {
+        "id": "8337",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T19:53:23.960Z",
+        "amount": 9.9,
+        "status": "DONE"
+      },
+      {
+        "id": "8335",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T19:53:23.960Z",
+        "amount": 9.9,
+        "status": "DONE"
+      },
+      {
+        "id": "8336",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T19:53:23.960Z",
+        "amount": 9.9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 63,
+    "name": "Timberland CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

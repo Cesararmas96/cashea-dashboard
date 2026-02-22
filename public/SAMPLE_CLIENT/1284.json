@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-05T23:00:43.908Z",
+  "id": "280",
+  "amount": 145,
+  "invoiceId": "10013",
+  "paidToMerchant": false,
+  "identifierNumber": 1284,
+  "billingDate": "2022-11-05T23:00:43.908Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25706440",
+      "fullName": "ERICK ALEXANDER HENDERSON GARVOSA",
+      "phoneNumber": "+584129926812"
+    },
+    "installments": [
+      {
+        "id": "881",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-05T23:04:10.495Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "884",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-17T23:04:10.494Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "883",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-03T23:04:10.494Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "882",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-19T23:04:10.494Z",
+        "amount": 15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-12T20:49:27.427Z",
+  "id": "106",
+  "amount": 114,
+  "invoiceId": "6143",
+  "paidToMerchant": false,
+  "identifierNumber": 1199,
+  "billingDate": "2022-10-12T20:49:27.427Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13613553",
+      "fullName": "TINERFE GONZALEZ ALVAREZ",
+      "phoneNumber": "+584141147796"
+    },
+    "installments": [
+      {
+        "id": "333",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-12T20:49:42.895Z",
+        "amount": 57,
+        "status": "DONE"
+      },
+      {
+        "id": "334",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-26T20:49:42.892Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "336",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-23T20:49:42.892Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "335",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-09T20:49:42.892Z",
+        "amount": 19,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

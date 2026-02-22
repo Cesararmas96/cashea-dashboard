@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:05:39.476Z",
+  "id": "3519",
+  "amount": 61.8,
+  "invoiceId": "785003",
+  "paidToMerchant": false,
+  "identifierNumber": 3933,
+  "billingDate": "2022-12-22T20:05:39.476Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9880998",
+      "fullName": "HECTOR FRANCISCO DELGADO LIRA",
+      "phoneNumber": "+584143383127"
+    },
+    "installments": [
+      {
+        "id": "11777",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:06:11.323Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11774",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:06:11.323Z",
+        "amount": 30.9,
+        "status": "DONE"
+      },
+      {
+        "id": "11775",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:06:11.323Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11776",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:06:11.323Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

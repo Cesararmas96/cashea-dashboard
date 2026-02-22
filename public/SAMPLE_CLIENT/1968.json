@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-05T21:00:06.483Z",
+  "id": "275",
+  "amount": 55,
+  "invoiceId": "007",
+  "paidToMerchant": false,
+  "identifierNumber": 1968,
+  "billingDate": "2022-11-05T21:00:06.483Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "21",
+    "buyDebtDate": "2022-11-19T04:00:00.119+00:00",
+    "lastStoreId": 6,
+    "boughtForInstallmentId": 866,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23689639",
+      "fullName": "ERIKA RAFAELA GOLDBERG URDANETA",
+      "phoneNumber": "+584243408501"
+    },
+    "installments": [
+      {
+        "id": "867",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-03T21:00:23.243Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "865",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-05T21:00:23.243Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "868",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-17T21:00:23.243Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "866",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-19T21:00:23.243Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T23:13:56.687Z",
+  "id": "10111",
+  "amount": 36.15,
+  "invoiceId": "14696",
+  "paidToMerchant": false,
+  "identifierNumber": 3050,
+  "billingDate": "2023-01-17T23:13:56.687Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19371989",
+      "fullName": "JOSE DAVID BRICENO",
+      "phoneNumber": "+584123294595"
+    },
+    "installments": [
+      {
+        "id": "30269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T23:14:29.090Z",
+        "amount": 6.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "30266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T23:14:29.092Z",
+        "amount": 18.07,
+        "status": "DONE"
+      },
+      {
+        "id": "30268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T23:14:29.090Z",
+        "amount": 6.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "30267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T23:14:29.090Z",
+        "amount": 6.026666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:00:29.185Z",
+  "id": "5092",
+  "amount": 245,
+  "invoiceId": "10725",
+  "paidToMerchant": false,
+  "identifierNumber": 5425,
+  "billingDate": "2022-12-26T22:00:29.185Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15844264",
+      "fullName": "HENDRID EDINSON TORREALBA OCHOA",
+      "phoneNumber": "+584265103765"
+    },
+    "installments": [
+      {
+        "id": "17462",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:00:41.360Z",
+        "amount": 122.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17464",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:00:41.360Z",
+        "amount": 40.833333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "17465",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:00:41.360Z",
+        "amount": 40.833333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "17463",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:00:41.360Z",
+        "amount": 40.833333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

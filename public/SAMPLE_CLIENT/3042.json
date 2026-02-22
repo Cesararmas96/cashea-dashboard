@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:13:21.358Z",
+  "id": "2570",
+  "amount": 56.35,
+  "invoiceId": "44586",
+  "paidToMerchant": false,
+  "identifierNumber": 3042,
+  "billingDate": "2022-12-19T21:13:21.358Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24758974",
+      "fullName": "DAVID OBADIS TORRECILLA ARCE",
+      "phoneNumber": "+584123632371"
+    },
+    "installments": [
+      {
+        "id": "8447",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:13:43.466Z",
+        "amount": 9.39,
+        "status": "DONE"
+      },
+      {
+        "id": "8448",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:13:43.466Z",
+        "amount": 9.39,
+        "status": "DONE"
+      },
+      {
+        "id": "8449",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:13:43.466Z",
+        "amount": 9.39,
+        "status": "DONE"
+      },
+      {
+        "id": "8446",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:13:43.466Z",
+        "amount": 28.18,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

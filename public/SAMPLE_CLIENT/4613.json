@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T22:20:39.679Z",
+  "id": "4241",
+  "amount": 90.3,
+  "invoiceId": "15004",
+  "paidToMerchant": false,
+  "identifierNumber": 4613,
+  "billingDate": "2022-12-23T22:20:39.679Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-09T04:00:01.388+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "14367",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29966966",
+      "fullName": "GINESKA CAROLINA CARABALLO CABARCA",
+      "phoneNumber": "+584242081114"
+    },
+    "installments": [
+      {
+        "id": "14369",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:21:02.828Z",
+        "amount": 15.049999999999999,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14367",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:21:02.828Z",
+        "amount": 15.049999999999999,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14368",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:21:02.828Z",
+        "amount": 15.049999999999999,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14366",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:21:02.828Z",
+        "amount": 45.15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

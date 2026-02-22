@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-06T17:24:04.176Z",
+  "id": "283",
+  "amount": 31,
+  "invoiceId": "1305",
+  "paidToMerchant": false,
+  "identifierNumber": 1178,
+  "billingDate": "2022-11-06T17:24:04.176Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25626607",
+      "fullName": "ANDRES EDUARDO NUNEZ HERRERA",
+      "phoneNumber": "+584142775161"
+    },
+    "installments": [
+      {
+        "id": "893",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-06T17:24:35.740Z",
+        "amount": 15.5,
+        "status": "DONE"
+      },
+      {
+        "id": "896",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-18T17:24:35.739Z",
+        "amount": 5.166666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "895",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-04T17:24:35.739Z",
+        "amount": 5.166666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "894",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-20T17:24:35.739Z",
+        "amount": 5.166666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

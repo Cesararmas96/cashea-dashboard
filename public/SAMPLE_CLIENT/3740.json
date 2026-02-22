@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:11:03.894Z",
+  "id": "3319",
+  "amount": 80.76,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3740,
+  "billingDate": "2022-12-22T00:11:03.894Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25411871",
+      "fullName": "ALEXSO ALEJANDRO AGUIAR SANTANA",
+      "phoneNumber": "+584124799872"
+    },
+    "installments": [
+      {
+        "id": "11043",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:11:27.222Z",
+        "amount": 13.46,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11045",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:11:27.222Z",
+        "amount": 13.46,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11042",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:11:27.222Z",
+        "amount": 40.38,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11044",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:11:27.222Z",
+        "amount": 13.46,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

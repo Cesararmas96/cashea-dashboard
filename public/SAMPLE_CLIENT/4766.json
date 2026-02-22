@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T16:02:09.223Z",
+  "id": "11480",
+  "amount": 37.35,
+  "invoiceId": "46458",
+  "paidToMerchant": false,
+  "identifierNumber": 4766,
+  "billingDate": "2023-01-30T16:02:09.223Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18994006",
+      "fullName": "KAREN KATHERINE PRIETO MENDOZA",
+      "phoneNumber": "+584142306334"
+    },
+    "installments": [
+      {
+        "id": "35169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T16:03:47.319Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T16:03:47.319Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T16:03:47.320Z",
+        "amount": 18.68,
+        "status": "DONE"
+      },
+      {
+        "id": "35167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T16:03:47.319Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

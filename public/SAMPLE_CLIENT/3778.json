@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:58:27.539Z",
+  "id": "3359",
+  "amount": 109.05,
+  "invoiceId": "1629",
+  "paidToMerchant": false,
+  "identifierNumber": 3778,
+  "billingDate": "2022-12-22T00:58:27.539Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9940513",
+      "fullName": "YANIRA DEL JESUS MARCANO",
+      "phoneNumber": "+584168268431"
+    },
+    "installments": [
+      {
+        "id": "11198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:00:15.956Z",
+        "amount": 54.52,
+        "status": "DONE"
+      },
+      {
+        "id": "11201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:00:15.955Z",
+        "amount": 18.176666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:00:15.955Z",
+        "amount": 18.176666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:00:15.955Z",
+        "amount": 18.176666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

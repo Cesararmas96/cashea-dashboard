@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T14:52:29.015Z",
+  "id": "660",
+  "amount": 77.03,
+  "invoiceId": "00062191",
+  "paidToMerchant": false,
+  "identifierNumber": 1412,
+  "billingDate": "2022-12-04T14:52:29.015Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17920851",
+      "fullName": "CARLOS AUGUSTO CHAPELLIN HERRERA",
+      "phoneNumber": "+584125437154"
+    },
+    "installments": [
+      {
+        "id": "2120",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T14:53:21.559Z",
+        "amount": 12.836666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2118",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T14:53:21.560Z",
+        "amount": 38.52,
+        "status": "DONE"
+      },
+      {
+        "id": "2119",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T14:53:21.559Z",
+        "amount": 12.836666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2121",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T14:53:21.559Z",
+        "amount": 12.836666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

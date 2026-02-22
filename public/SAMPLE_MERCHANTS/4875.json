@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-27T14:39:46.331Z",
+  "updatedAt": "2025-04-02T22:23:31.543Z",
+  "id": 4875,
+  "name": "Mediesthetic",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "afb23ebc-ed16-41cc-80f2-6a5f61541dd6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "danieljesusbarrios@gmail.com",
+    "legalName": "Daniel Barrios",
+    "phoneNumber": "4243684896"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-21T17:07:36.038Z",
+      "updatedAt": "2025-04-21T17:07:36.038Z",
+      "id": 13109,
+      "merchantId": 4875,
+      "name": "VR_Mediesthetic",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3782,
+      "address": {
+        "name": "Calle El Canal 1era Av.Rotaria Local Nro Sn SectorSede De La FundacionRecreacional RaulVillanueva Maracay ",
+        "long": -67.5805625,
+        "lat": 10.282187500000006,
+        "location": "0101000020E61000002DB29DEF27E550C018AE47E17A902440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-27T14:44:32.713Z",
+      "updatedAt": "2025-03-27T14:44:32.713Z",
+      "id": 12271,
+      "merchantId": 4875,
+      "name": "Mediesthetic Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3782,
+      "address": {
+        "name": "Calle El Canal 1era Av.Rotaria Local Nro Sn SectorSede De La FundacionRecreacional RaulVillanueva Maracay ",
+        "long": -67.5805625,
+        "lat": 10.282187500000006,
+        "location": "0101000020E61000002DB29DEF27E550C018AE47E17A902440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

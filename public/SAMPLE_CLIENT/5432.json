@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T23:12:04.282Z",
+  "id": "5143",
+  "amount": 39.99,
+  "invoiceId": "18679",
+  "paidToMerchant": false,
+  "identifierNumber": 5432,
+  "billingDate": "2022-12-26T23:12:04.282Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-12T04:00:00.254+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "17623",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19569502",
+      "fullName": "YUNETXY DEL VALLE MORALES GONZALEZ",
+      "phoneNumber": "+584124174834"
+    },
+    "installments": [
+      {
+        "id": "17625",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:12:36.065Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17624",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:12:36.065Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17623",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:12:36.065Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17622",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:12:36.066Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

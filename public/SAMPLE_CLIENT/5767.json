@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-28T18:45:53.444Z",
+  "id": "5473",
+  "amount": 30,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5767,
+  "billingDate": "2022-12-28T18:45:53.444Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 58,
+    "name": "Opera Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

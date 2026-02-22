@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T19:15:44.462Z",
+  "id": "5485",
+  "amount": 31.46,
+  "invoiceId": "14576",
+  "paidToMerchant": false,
+  "identifierNumber": 5773,
+  "billingDate": "2022-12-28T19:15:44.462Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-14T04:00:00.459+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "18847",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14277982",
+      "fullName": "JONATHA ROBERTO AMARO RODRIGUEZ",
+      "phoneNumber": "+584241817297"
+    },
+    "installments": [
+      {
+        "id": "18849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:16:15.572Z",
+        "amount": 5.243333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:16:15.572Z",
+        "amount": 5.243333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:16:15.572Z",
+        "amount": 15.73,
+        "status": "DONE"
+      },
+      {
+        "id": "18848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:16:15.572Z",
+        "amount": 5.243333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

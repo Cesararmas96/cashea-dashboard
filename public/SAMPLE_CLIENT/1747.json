@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-10T22:52:53.726Z",
+  "id": "1127",
+  "amount": 91.48,
+  "invoiceId": "7189",
+  "paidToMerchant": false,
+  "identifierNumber": 1747,
+  "billingDate": "2022-12-10T22:52:53.726Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-01-10T04:00:01.208+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "3588",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25948747",
+      "fullName": "CARLOS LUIS ROMERO BARRERA",
+      "phoneNumber": "+584242111887"
+    },
+    "installments": [
+      {
+        "id": "3588",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T22:53:16.022Z",
+        "amount": 15.246666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3589",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T22:53:16.022Z",
+        "amount": 15.246666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3587",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T22:53:16.022Z",
+        "amount": 15.246666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3586",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T22:53:16.022Z",
+        "amount": 45.74,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

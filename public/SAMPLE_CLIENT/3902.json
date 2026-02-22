@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:18:09.190Z",
+  "id": "3464",
+  "amount": 51.9,
+  "invoiceId": "00001940",
+  "paidToMerchant": false,
+  "identifierNumber": 3902,
+  "billingDate": "2022-12-22T18:18:09.190Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27571110",
+      "fullName": "ALEJANDRO PASQUAL CEFALO MOREIRA",
+      "phoneNumber": "+584149182242"
+    },
+    "installments": [
+      {
+        "id": "11580",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:18:25.795Z",
+        "amount": 8.65,
+        "status": "DONE"
+      },
+      {
+        "id": "11578",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:18:25.796Z",
+        "amount": 25.95,
+        "status": "DONE"
+      },
+      {
+        "id": "11581",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:18:25.795Z",
+        "amount": 8.65,
+        "status": "DONE"
+      },
+      {
+        "id": "11579",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:18:25.795Z",
+        "amount": 8.65,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

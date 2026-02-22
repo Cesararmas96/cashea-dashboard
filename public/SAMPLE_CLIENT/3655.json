@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:57:19.683Z",
+  "id": "3238",
+  "amount": 72.73,
+  "invoiceId": "12697",
+  "paidToMerchant": false,
+  "identifierNumber": 3655,
+  "billingDate": "2022-12-21T21:57:19.683Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27007853",
+      "fullName": "WILKERMAN EDUARDO FREITES DIAZ",
+      "phoneNumber": "+584142580171"
+    },
+    "installments": [
+      {
+        "id": "10746",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:57:57.760Z",
+        "amount": 36.37,
+        "status": "DONE"
+      },
+      {
+        "id": "10749",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:57:57.759Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "10748",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:57:57.759Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "10747",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:57:57.759Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

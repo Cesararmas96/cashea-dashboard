@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-18T01:28:11.109Z",
+  "id": "2171",
+  "amount": 45.98,
+  "invoiceId": "6418",
+  "paidToMerchant": false,
+  "identifierNumber": 2694,
+  "billingDate": "2022-12-18T01:28:11.109Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-06T04:00:00.411+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": 7095,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25561727",
+      "fullName": "AMANDA BEATRICE BLANCO LEON",
+      "phoneNumber": "+584242749417"
+    },
+    "installments": [
+      {
+        "id": "7097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T01:29:02.550Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T01:29:02.550Z",
+        "amount": 22.99,
+        "status": "DONE"
+      },
+      {
+        "id": "7096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T01:29:02.550Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "7095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T01:29:02.550Z",
+        "amount": 7.663333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

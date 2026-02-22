@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T19:05:34.599Z",
+  "id": "4788",
+  "amount": 270,
+  "invoiceId": "48400",
+  "paidToMerchant": false,
+  "identifierNumber": 5019,
+  "billingDate": "2022-12-24T19:05:34.599Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "74",
+    "buyDebtDate": "2023-01-10T04:00:00.979+00:00",
+    "lastStoreId": 61,
+    "boughtForInstallmentId": "16395",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20067342",
+      "fullName": "HENRY RAMON BLANCO SALCEDO",
+      "phoneNumber": "+584243647639"
+    },
+    "installments": [
+      {
+        "id": "16396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:05:50.220Z",
+        "amount": 33.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:05:50.220Z",
+        "amount": 33.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:05:50.220Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "16394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:05:50.221Z",
+        "amount": 170,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

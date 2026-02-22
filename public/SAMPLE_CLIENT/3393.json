@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:31:12.181Z",
+  "id": "2920",
+  "amount": 120,
+  "invoiceId": "9151",
+  "paidToMerchant": false,
+  "identifierNumber": 3393,
+  "billingDate": "2022-12-20T22:31:12.181Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29697540",
+      "fullName": "SANTIAGNY NAZARETH ACEVEDO GUILLEN",
+      "phoneNumber": "+584242775110"
+    },
+    "installments": [
+      {
+        "id": "9662",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:45:40.563Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "9665",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:45:40.563Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "9663",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:45:40.563Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "9664",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:45:40.563Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

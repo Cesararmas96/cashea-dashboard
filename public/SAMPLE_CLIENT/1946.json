@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:39:45.045Z",
+  "id": "1292",
+  "amount": 43.8,
+  "invoiceId": "17293",
+  "paidToMerchant": false,
+  "identifierNumber": 1946,
+  "billingDate": "2022-12-11T23:39:45.045Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12960747",
+      "fullName": "EDGARDO ENRIQUE GODOY PEREZ",
+      "phoneNumber": "+584120162259"
+    },
+    "installments": [
+      {
+        "id": "4159",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:40:54.334Z",
+        "amount": 7.3,
+        "status": "DONE"
+      },
+      {
+        "id": "4161",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:40:54.334Z",
+        "amount": 7.3,
+        "status": "DONE"
+      },
+      {
+        "id": "4160",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:40:54.334Z",
+        "amount": 7.3,
+        "status": "DONE"
+      },
+      {
+        "id": "4158",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:40:54.335Z",
+        "amount": 21.9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

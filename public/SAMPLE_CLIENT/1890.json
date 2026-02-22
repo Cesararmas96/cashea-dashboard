@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T22:47:44.403Z",
+  "id": "1267",
+  "amount": 35.8,
+  "invoiceId": "17288",
+  "paidToMerchant": false,
+  "identifierNumber": 1890,
+  "billingDate": "2022-12-11T22:47:44.403Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11932925",
+      "fullName": "FRANK VICENTE RAMOS ARTEAGA",
+      "phoneNumber": "+584265163534"
+    },
+    "installments": [
+      {
+        "id": "4082",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T22:49:17.578Z",
+        "amount": 17.9,
+        "status": "DONE"
+      },
+      {
+        "id": "4083",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T22:49:17.578Z",
+        "amount": 5.966666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4085",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T22:49:17.578Z",
+        "amount": 5.966666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4084",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T22:49:17.578Z",
+        "amount": 5.966666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

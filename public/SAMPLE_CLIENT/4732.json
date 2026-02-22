@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:41:17.118Z",
+  "id": "4360",
+  "amount": 90,
+  "invoiceId": "860",
+  "paidToMerchant": false,
+  "identifierNumber": 4732,
+  "billingDate": "2022-12-23T23:41:17.118Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18359456",
+      "fullName": "MIGUEL EDUARDO LORENZO GONZALEZ",
+      "phoneNumber": "+584241702332"
+    },
+    "installments": [
+      {
+        "id": "14789",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:41:30.275Z",
+        "amount": 13.33,
+        "status": "DONE"
+      },
+      {
+        "id": "14786",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:41:30.275Z",
+        "amount": 50.01,
+        "status": "DONE"
+      },
+      {
+        "id": "14788",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:41:30.275Z",
+        "amount": 13.33,
+        "status": "DONE"
+      },
+      {
+        "id": "14787",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:41:30.275Z",
+        "amount": 13.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

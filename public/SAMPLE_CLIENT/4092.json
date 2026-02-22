@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:00:17.227Z",
+  "id": "3691",
+  "amount": 76.39,
+  "invoiceId": "00001999",
+  "paidToMerchant": false,
+  "identifierNumber": 4092,
+  "billingDate": "2022-12-22T23:00:17.227Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15007770",
+      "fullName": "DIEGO JAVIER ALCALA GOMEZ",
+      "phoneNumber": "+584140279709"
+    },
+    "installments": [
+      {
+        "id": "12382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:00:48.941Z",
+        "amount": 38.2,
+        "status": "DONE"
+      },
+      {
+        "id": "12385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:00:48.940Z",
+        "amount": 12.729999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "12384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:00:48.940Z",
+        "amount": 12.729999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "12383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:00:48.940Z",
+        "amount": 12.729999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

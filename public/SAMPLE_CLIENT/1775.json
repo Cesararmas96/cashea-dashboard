@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T21:13:22.513Z",
+  "id": "1103",
+  "amount": 73.56,
+  "invoiceId": "4566",
+  "paidToMerchant": false,
+  "identifierNumber": 1775,
+  "billingDate": "2022-12-10T21:13:22.513Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24210335",
+      "fullName": "SAMANTHA CECILIA PENA VALENZUELA",
+      "phoneNumber": "+584241675623"
+    },
+    "installments": [
+      {
+        "id": "3506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T21:14:00.774Z",
+        "amount": 36.78,
+        "status": "DONE"
+      },
+      {
+        "id": "3509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T21:14:00.774Z",
+        "amount": 12.26,
+        "status": "DONE"
+      },
+      {
+        "id": "3507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T21:14:00.774Z",
+        "amount": 12.26,
+        "status": "DONE"
+      },
+      {
+        "id": "3508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T21:14:00.774Z",
+        "amount": 12.26,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

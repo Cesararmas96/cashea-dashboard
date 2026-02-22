@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:57:55.086Z",
+  "id": "2850",
+  "amount": 51.09,
+  "invoiceId": "14634",
+  "paidToMerchant": false,
+  "identifierNumber": 3333,
+  "billingDate": "2022-12-20T20:57:55.086Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18966854",
+      "fullName": "SAMANTHA ABIGAIL UZCATEGUI MORILLO",
+      "phoneNumber": "+584248711234"
+    },
+    "installments": [
+      {
+        "id": "9394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:58:44.584Z",
+        "amount": 25.55,
+        "status": "DONE"
+      },
+      {
+        "id": "9397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:58:44.584Z",
+        "amount": 8.513333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:58:44.584Z",
+        "amount": 8.513333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:58:44.584Z",
+        "amount": 8.513333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

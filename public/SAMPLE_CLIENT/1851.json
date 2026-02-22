@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T19:34:34.573Z",
+  "id": "1201",
+  "amount": 151.46,
+  "invoiceId": "5720",
+  "paidToMerchant": false,
+  "identifierNumber": 1851,
+  "billingDate": "2022-12-11T19:34:34.573Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17631077",
+      "fullName": "LUSMARIEL CAROLINA LAZAR MATOS",
+      "phoneNumber": "+584148753589"
+    },
+    "installments": [
+      {
+        "id": "3845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:35:37.483Z",
+        "amount": 25.243333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "3842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:35:37.484Z",
+        "amount": 75.73,
+        "status": "DONE"
+      },
+      {
+        "id": "3843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:35:37.483Z",
+        "amount": 25.243333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "3844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:35:37.483Z",
+        "amount": 25.243333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

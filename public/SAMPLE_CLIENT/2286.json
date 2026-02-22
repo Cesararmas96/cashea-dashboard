@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T00:24:45.505Z",
+  "id": "1661",
+  "amount": 88.98,
+  "invoiceId": "14343",
+  "paidToMerchant": false,
+  "identifierNumber": 2286,
+  "billingDate": "2022-12-16T00:24:45.505Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24700108",
+      "fullName": "YELMAIN ISRAEL BASTIDAS FERMIN",
+      "phoneNumber": "+584241665314"
+    },
+    "installments": [
+      {
+        "id": "5341",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T00:25:17.740Z",
+        "amount": 14.83,
+        "status": "DONE"
+      },
+      {
+        "id": "5339",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T00:25:17.740Z",
+        "amount": 14.83,
+        "status": "DONE"
+      },
+      {
+        "id": "5340",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T00:25:17.740Z",
+        "amount": 14.83,
+        "status": "DONE"
+      },
+      {
+        "id": "5338",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T00:25:17.741Z",
+        "amount": 44.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

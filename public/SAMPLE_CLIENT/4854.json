@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T22:39:47.056Z",
+  "id": "11646",
+  "amount": 65.08,
+  "invoiceId": "27725",
+  "paidToMerchant": false,
+  "identifierNumber": 4854,
+  "billingDate": "2023-01-31T22:39:47.056Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18143538",
+      "fullName": "ISBERT MARIAN ESCALONA MOLINA",
+      "phoneNumber": "+584242089143"
+    },
+    "installments": [
+      {
+        "id": "35769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T22:41:11.106Z",
+        "amount": 10.846666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T22:41:11.106Z",
+        "amount": 10.846666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T22:41:11.107Z",
+        "amount": 32.54,
+        "status": "DONE"
+      },
+      {
+        "id": "35767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T22:41:11.106Z",
+        "amount": 10.846666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

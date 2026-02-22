@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T23:00:13.985Z",
+  "id": "4290",
+  "amount": 34.8,
+  "invoiceId": "1059",
+  "paidToMerchant": false,
+  "identifierNumber": 4654,
+  "billingDate": "2022-12-23T23:00:13.985Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-09T04:00:01.443+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "14559",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18761223",
+      "fullName": "DELIA ANDREINA ROSSI TORREALBA",
+      "phoneNumber": "+584142906886"
+    },
+    "installments": [
+      {
+        "id": "14561",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:00:53.868Z",
+        "amount": 5.8,
+        "status": "DONE"
+      },
+      {
+        "id": "14560",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:00:53.868Z",
+        "amount": 5.8,
+        "status": "DONE"
+      },
+      {
+        "id": "14558",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:00:53.868Z",
+        "amount": 17.4,
+        "status": "DONE"
+      },
+      {
+        "id": "14559",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:00:53.868Z",
+        "amount": 5.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

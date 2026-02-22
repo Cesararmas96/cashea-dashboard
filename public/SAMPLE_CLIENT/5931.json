@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T23:35:24.514Z",
+  "id": "5665",
+  "amount": 48.98,
+  "invoiceId": "9324",
+  "paidToMerchant": false,
+  "identifierNumber": 5931,
+  "billingDate": "2022-12-28T23:35:24.514Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-28T04:00:00.384+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "19496",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25579850",
+      "fullName": "LUIS ALEJANDRO JOSE OSIO ARMAS",
+      "phoneNumber": "+584142647044"
+    },
+    "installments": [
+      {
+        "id": "19496",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:36:54.256Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19497",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:36:54.256Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19495",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:36:54.256Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19494",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:36:54.257Z",
+        "amount": 24.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1668,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J412584634",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "internalBankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "account": "01910235152100070879",
+    "accountType": "Corriente",
+    "phoneNumber": "4147886896",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1666,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J412584634",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "internalBankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "account": "01910235152100070879",
+    "accountType": "Corriente",
+    "phoneNumber": "4147886896",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1667,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J412584634",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "internalBankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "account": "01910235152100070879",
+    "accountType": "Corriente",
+    "phoneNumber": "4147886896",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1669,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J412584634",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "internalBankHolder": "ESSENZA CLINICA ESTETICA Y LASER, C.A",
+    "account": "01910235172300025739",
+    "accountType": "Custodia",
+    "phoneNumber": "4147886896",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

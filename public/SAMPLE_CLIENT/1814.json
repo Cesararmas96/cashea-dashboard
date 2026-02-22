@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-01-13T20:41:02.644Z",
+  "id": "8186",
+  "amount": 64.9948,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1814,
+  "billingDate": "2023-01-13T20:41:02.644Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28028210",
+      "fullName": "URIMARE MALENA DIAZ PLANCHART",
+      "phoneNumber": "+584124092403"
+    },
+    "installments": [
+      {
+        "id": "28490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-13T20:41:02.688Z",
+        "amount": 32.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "28491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-27T20:41:02.687Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "28493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-24T20:41:02.687Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "28492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-10T20:41:02.687Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 152,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

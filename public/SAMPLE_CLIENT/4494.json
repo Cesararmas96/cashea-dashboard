@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:41:01.376Z",
+  "id": "4112",
+  "amount": 60,
+  "invoiceId": "3012",
+  "paidToMerchant": false,
+  "identifierNumber": 4494,
+  "billingDate": "2022-12-23T20:41:01.376Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "46",
+    "buyDebtDate": "2023-01-23T04:00:01.338+00:00",
+    "lastStoreId": 32,
+    "boughtForInstallmentId": "13932",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20190626",
+      "fullName": "GREDERY JOSE CARABALLO GUILARTE",
+      "phoneNumber": "+584141371133"
+    },
+    "installments": [
+      {
+        "id": "13931",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:44:45.387Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "13932",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:44:45.387Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "13930",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:44:45.387Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "13933",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:44:45.387Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

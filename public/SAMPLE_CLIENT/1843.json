@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T00:36:03.121Z",
+  "id": "3785",
+  "amount": 227.85,
+  "invoiceId": "49043",
+  "paidToMerchant": false,
+  "identifierNumber": 1843,
+  "billingDate": "2022-12-23T00:36:03.121Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-08T04:00:00.854+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "12715",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10378790",
+      "fullName": "JAVIER ALEXANDER GARCES PENALOZA",
+      "phoneNumber": "+584142827995"
+    },
+    "installments": [
+      {
+        "id": "12715",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:37:15.375Z",
+        "amount": 37.97666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12717",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:37:15.375Z",
+        "amount": 37.97666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12716",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:37:15.375Z",
+        "amount": 37.97666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12714",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:37:15.376Z",
+        "amount": 113.92,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

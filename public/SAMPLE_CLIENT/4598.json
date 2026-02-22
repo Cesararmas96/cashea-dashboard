@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:34:33.941Z",
+  "id": "4185",
+  "amount": 114.19,
+  "invoiceId": "50489",
+  "paidToMerchant": false,
+  "identifierNumber": 4598,
+  "billingDate": "2022-12-23T21:34:33.941Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15820407",
+      "fullName": "JOHANA MARISELL CHAVEZ CONTRERAS",
+      "phoneNumber": "+584129528989"
+    },
+    "installments": [
+      {
+        "id": "14174",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:35:20.487Z",
+        "amount": 57.09,
+        "status": "DONE"
+      },
+      {
+        "id": "14177",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:35:20.487Z",
+        "amount": 19.03333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14176",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:35:20.487Z",
+        "amount": 19.03333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14175",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:35:20.487Z",
+        "amount": 19.03333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

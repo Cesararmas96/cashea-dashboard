@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-15T16:27:32.849Z",
+  "updatedAt": "2025-06-06T11:48:55.560Z",
+  "id": 5793,
+  "name": "Sao miguel",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "70221a98-0f1c-40d4-9cfd-f8a375eb421d",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sharkbarbosa87@gmail.com",
+    "legalName": "Frank",
+    "phoneNumber": "4243610701"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T16:28:39.132Z",
+      "updatedAt": "2025-05-15T16:28:39.132Z",
+      "id": 14185,
+      "merchantId": 5793,
+      "name": "Sao miguel Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7188,
+      "address": {
+        "name": "Av 11 casa nro14 urb ña isabelica sector 11  valencia estado carabobo",
+        "long": -67.9748125,
+        "lat": 10.15906249999999,
+        "location": "0101000020E6100000D9CEF75363FE50C0380AD7A370512440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

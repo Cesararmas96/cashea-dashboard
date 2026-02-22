@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-23T12:25:21.787Z",
+  "id": "3880",
+  "amount": 64.9948,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4303,
+  "billingDate": "2022-12-23T12:25:21.787Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29708605",
+      "fullName": "JOSE DANIEL VILORIA BRICENO",
+      "phoneNumber": "+584127211759"
+    },
+    "installments": [
+      {
+        "id": "13078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T12:25:21.834Z",
+        "amount": 32.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T12:25:21.833Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T12:25:21.833Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T12:25:21.833Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 152,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

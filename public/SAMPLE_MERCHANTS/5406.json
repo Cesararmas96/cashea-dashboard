@@ -1,0 +1,86 @@
+{
+  "createdAt": "2025-04-28T12:56:32.769Z",
+  "updatedAt": "2025-04-28T12:56:32.769Z",
+  "id": 5406,
+  "name": "Optica Valcast",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "933d0543-5c03-46e2-ae73-1f68151c869c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "valcastcabudare_2@hotmail.com",
+    "legalName": "Yelitza",
+    "phoneNumber": "04245367528"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T13:00:37.763Z",
+      "updatedAt": "2025-04-28T13:00:37.763Z",
+      "id": 13321,
+      "merchantId": 5406,
+      "name": "Optica Valcast Cabudare",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": 0.2,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4120,
+      "address": {
+        "name": "AV. LIBERTADOR ESQ. CALLE LA CRUZ, C.C. LA CANDELARIA, NIVEL PB. LOCAL E-1,  SECTOR CABUDARE CENTRO",
+        "long": -69.25881249999999,
+        "lat": 10.031937499999998,
+        "location": "0101000020E6100000F1D24D62905051C03008AC1C5A102440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

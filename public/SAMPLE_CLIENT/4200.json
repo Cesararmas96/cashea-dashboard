@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T00:45:54.348Z",
+  "id": "3797",
+  "amount": 186.05,
+  "invoiceId": "12856",
+  "paidToMerchant": false,
+  "identifierNumber": 4200,
+  "billingDate": "2022-12-23T00:45:54.348Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-08T04:00:00.859+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "12763",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13125762",
+      "fullName": "RAFAEL AUGUSTO PENA POMPA",
+      "phoneNumber": "+584140155636"
+    },
+    "installments": [
+      {
+        "id": "12765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:46:08.686Z",
+        "amount": 31.00666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:46:08.686Z",
+        "amount": 93.03,
+        "status": "DONE"
+      },
+      {
+        "id": "12764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:46:08.686Z",
+        "amount": 31.00666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:46:08.686Z",
+        "amount": 31.00666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

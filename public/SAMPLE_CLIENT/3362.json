@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:08:00.318Z",
+  "id": "2889",
+  "amount": 87.55,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3362,
+  "billingDate": "2022-12-20T22:08:00.318Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14484922",
+      "fullName": "MARITZA COROMOTO RAMIREZ PEREZ",
+      "phoneNumber": "+584142267086"
+    },
+    "installments": [
+      {
+        "id": "9516",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:08:14.172Z",
+        "amount": 14.593333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9514",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:08:14.172Z",
+        "amount": 43.77,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9517",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:08:14.172Z",
+        "amount": 14.593333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9515",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:08:14.172Z",
+        "amount": 14.593333333333332,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 31,
+    "name": "Swarovski Sambil / IN"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:01:04.866Z",
+  "id": "4783",
+  "amount": 59.8,
+  "invoiceId": "9527",
+  "paidToMerchant": false,
+  "identifierNumber": 5053,
+  "billingDate": "2022-12-24T19:01:04.866Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25386480",
+      "fullName": "CAMILA GOMEZ ACOSTA",
+      "phoneNumber": "+584120291522"
+    },
+    "installments": [
+      {
+        "id": "16377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:01:41.599Z",
+        "amount": 9.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:01:41.599Z",
+        "amount": 9.966666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:01:41.599Z",
+        "amount": 29.9,
+        "status": "DONE"
+      },
+      {
+        "id": "16375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:01:41.599Z",
+        "amount": 9.966666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

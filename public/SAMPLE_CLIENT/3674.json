@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:31:30.454Z",
+  "id": "3257",
+  "amount": 149.99,
+  "invoiceId": "00018172",
+  "paidToMerchant": false,
+  "identifierNumber": 3674,
+  "billingDate": "2022-12-21T22:31:30.454Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27441803",
+      "fullName": "CARLOS AUGUSTO REA FIGUEROA",
+      "phoneNumber": "+584241686435"
+    },
+    "installments": [
+      {
+        "id": "10806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:31:53.366Z",
+        "amount": 75,
+        "status": "DONE"
+      },
+      {
+        "id": "10809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:31:53.365Z",
+        "amount": 24.99666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:31:53.365Z",
+        "amount": 24.99666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:31:53.365Z",
+        "amount": 24.99666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

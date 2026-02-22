@@ -1,0 +1,208 @@
+{
+  "createdAt": "2025-05-13T15:24:06.028Z",
+  "updatedAt": "2025-05-23T22:56:50.191Z",
+  "id": 5731,
+  "name": "Aya Shopinnig",
+  "ecommerceUrl": null,
+  "changePolicy": "En caso de defecto de fábrica, se sustituye el producto en un plazo de 7 días.",
+  "email": "Ayashopinnig@hotmail.com",
+  "phoneNumber": "+584145901111",
+  "logoUrl": null,
+  "data": {
+    "rif": "J505079980",
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ef66cb52-5b96-4190-ac56-c9389c92a3da",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ayashopinnig@hotmail.com",
+    "legalName": "Fatima",
+    "phoneNumber": "04145901111"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-10-31T16:56:28.263Z",
+      "updatedAt": "2025-10-31T16:56:28.263Z",
+      "id": 24818,
+      "merchantId": 5731,
+      "name": "Aya Shopinnig Ciudad Guayana Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3751,
+      "address": {
+        "name": "Calle cuchillero, CC, ciudad Altavista, nivel planta baja local 07-08urbanización Altavista, ciudad Guayana Bolivar zona postal 8050",
+        "long": -62.7324375,
+        "lat": 8.294812500000006,
+        "location": "0101000020E6100000986E1283C05D4FC070E7FBA9F1962040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-27T18:15:38.673Z",
+      "updatedAt": "2025-05-27T18:15:38.673Z",
+      "id": 14753,
+      "merchantId": 5731,
+      "name": "VR_Aya Shopinnig",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3751,
+      "address": {
+        "name": "Calle cuchillero, CC, ciudad Altavista, nivel planta baja local 07-08urbanización Altavista, ciudad Guayana Bolivar zona postal 8050",
+        "long": -62.7324375,
+        "lat": 8.294812500000006,
+        "location": "0101000020E6100000986E1283C05D4FC070E7FBA9F1962040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T15:39:18.093Z",
+      "updatedAt": "2025-05-13T15:39:18.093Z",
+      "id": 14040,
+      "merchantId": 5731,
+      "name": "Aya shopinnig CC Ciudad Alta Vista",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3751,
+      "address": {
+        "name": "Calle cuchillero, CC, ciudad Altavista, nivel planta baja local 07-08urbanización Altavista, ciudad Guayana Bolivar zona postal 8050",
+        "long": -62.7324375,
+        "lat": 8.294812500000006,
+        "location": "0101000020E6100000986E1283C05D4FC070E7FBA9F1962040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    },
+    {
+      "id": 5,
+      "name": "SPLIT_12",
+      "data": {
+        "minimumLevel": 6,
+        "installmentsAmount": 13,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 12 cuotas"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

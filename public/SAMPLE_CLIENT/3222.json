@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T16:50:16.053Z",
+  "id": "2734",
+  "amount": 124.96,
+  "invoiceId": "14359",
+  "paidToMerchant": false,
+  "identifierNumber": 3222,
+  "billingDate": "2022-12-20T16:50:16.053Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10628014",
+      "fullName": "GREISY JOSEFINA YEPEZ TREJO",
+      "phoneNumber": "+584142542396"
+    },
+    "installments": [
+      {
+        "id": "9006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T16:50:43.043Z",
+        "amount": 62.48,
+        "status": "DONE"
+      },
+      {
+        "id": "9009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T16:50:43.042Z",
+        "amount": 20.826666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "9007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T16:50:43.042Z",
+        "amount": 20.826666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "9008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T16:50:43.042Z",
+        "amount": 20.826666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

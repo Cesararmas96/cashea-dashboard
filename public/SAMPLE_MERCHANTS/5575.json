@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-05-07T12:59:32.529Z",
+  "updatedAt": "2025-05-22T21:47:26.409Z",
+  "id": 5575,
+  "name": "Je'ss Filter",
+  "ecommerceUrl": null,
+  "changePolicy": "Los cambios deben realizarse con el producto en buen estado y en su caja. El plazo máximo para hacerlo es de 3 días.",
+  "email": "jess.filter.ca@gmail.com",
+  "phoneNumber": "+584121393818",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a8f56fcb-d769-46de-becf-190250396f45",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jess.filter.ca@gmail.com",
+    "legalName": "Jesus",
+    "phoneNumber": "4243134859"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T13:00:54.676Z",
+      "updatedAt": "2025-05-07T13:00:54.676Z",
+      "id": 13694,
+      "merchantId": 5575,
+      "name": "Je'ss Filter Turmero",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6328,
+      "address": {
+        "name": "Calle atanasio Girardot sector sorocaima III Turmero Estado Aragu",
+        "long": -67.5234375,
+        "lat": 10.227687500000002,
+        "location": "0101000020E61000000000000080E150C0806ABC7493742440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T13:40:11.824Z",
+      "updatedAt": "2025-05-16T13:40:11.824Z",
+      "id": 14221,
+      "merchantId": 5575,
+      "name": "Je'ss Filter Markterplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6328,
+      "address": {
+        "name": "jess.filter.ca@gmail.com",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-23T12:42:02.451Z",
+      "updatedAt": "2025-05-23T12:42:02.451Z",
+      "id": 14579,
+      "merchantId": 5575,
+      "name": "VR_Je'ss Filter",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6328,
+      "address": {
+        "name": "Calle atanasio Girardot sector sorocaima III Turmero Estado Aragu",
+        "long": -67.5234375,
+        "lat": 10.227687500000002,
+        "location": "0101000020E61000000000000080E150C0806ABC7493742440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

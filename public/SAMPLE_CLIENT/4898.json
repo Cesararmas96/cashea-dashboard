@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T14:44:03.074Z",
+  "id": "4536",
+  "amount": 304.24,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4898,
+  "billingDate": "2022-12-24T14:44:03.074Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14889528",
+      "fullName": "MERCEDES ISABEL GARCIA RANGEL",
+      "phoneNumber": "+584126900041"
+    },
+    "installments": [
+      {
+        "id": "15471",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T14:45:26.292Z",
+        "amount": 43.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15473",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T14:45:26.292Z",
+        "amount": 43.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15472",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T14:45:26.292Z",
+        "amount": 43.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15470",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T14:45:26.295Z",
+        "amount": 174.24,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

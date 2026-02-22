@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-20T21:07:11.447Z",
+  "id": "2853",
+  "amount": 100,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3323,
+  "billingDate": "2022-12-20T21:07:11.447Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

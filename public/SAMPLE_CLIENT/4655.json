@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T22:21:07.779Z",
+  "id": "4243",
+  "amount": 30.78,
+  "invoiceId": "13801",
+  "paidToMerchant": false,
+  "identifierNumber": 4655,
+  "billingDate": "2022-12-23T22:21:07.779Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-09T04:00:01.393+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "14379",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27279205",
+      "fullName": "INDIRA LIN RODRIGUEZ ALVAREZ",
+      "phoneNumber": "+584123755590"
+    },
+    "installments": [
+      {
+        "id": "14380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:22:00.804Z",
+        "amount": 5.13,
+        "status": "DONE"
+      },
+      {
+        "id": "14378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:22:00.804Z",
+        "amount": 15.39,
+        "status": "DONE"
+      },
+      {
+        "id": "14379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:22:00.804Z",
+        "amount": 5.13,
+        "status": "DONE"
+      },
+      {
+        "id": "14381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:22:00.804Z",
+        "amount": 5.13,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

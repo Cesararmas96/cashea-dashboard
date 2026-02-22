@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T23:29:22.414Z",
+  "id": "7220",
+  "amount": 34.93,
+  "invoiceId": "11830",
+  "paidToMerchant": false,
+  "identifierNumber": 5659,
+  "billingDate": "2023-01-02T23:29:22.414Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17745747",
+      "fullName": "JOSE ENRIQUE MALAVER MARIN",
+      "phoneNumber": "+584248507303"
+    },
+    "installments": [
+      {
+        "id": "25021",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T23:33:12.776Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "25020",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T23:33:12.776Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "25019",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T23:33:12.776Z",
+        "amount": 5.823333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "25018",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T23:33:12.777Z",
+        "amount": 17.46,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

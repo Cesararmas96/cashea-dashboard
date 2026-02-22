@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T21:27:09.875Z",
+  "id": "622",
+  "amount": 88.69,
+  "invoiceId": "16671",
+  "paidToMerchant": false,
+  "identifierNumber": 1372,
+  "billingDate": "2022-12-03T21:27:09.875Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10187810",
+      "fullName": "YAISHA NOHEMI APARICIO SALAS",
+      "phoneNumber": "+584241597863"
+    },
+    "installments": [
+      {
+        "id": "1982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T21:30:00.367Z",
+        "amount": 44.34,
+        "status": "DONE"
+      },
+      {
+        "id": "1984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T21:30:00.367Z",
+        "amount": 14.783333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "1983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T21:30:00.367Z",
+        "amount": 14.783333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "1985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T21:30:00.367Z",
+        "amount": 14.783333333333331,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

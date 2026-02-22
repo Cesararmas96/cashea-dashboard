@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:49:28.586Z",
+  "id": "4765",
+  "amount": 83.77,
+  "invoiceId": "7128",
+  "paidToMerchant": false,
+  "identifierNumber": 3807,
+  "billingDate": "2022-12-24T18:49:28.586Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12624711",
+      "fullName": "PETER CARLOS MENESES HERNANDEZ",
+      "phoneNumber": "+584122022609"
+    },
+    "installments": [
+      {
+        "id": "16326",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:52:35.048Z",
+        "amount": 41.88,
+        "status": "DONE"
+      },
+      {
+        "id": "16329",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:52:35.048Z",
+        "amount": 13.963333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "16327",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:52:35.048Z",
+        "amount": 13.963333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "16328",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:52:35.048Z",
+        "amount": 13.963333333333331,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

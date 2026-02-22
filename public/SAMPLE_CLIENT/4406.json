@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:52:38.594Z",
+  "id": "4008",
+  "amount": 49.8,
+  "invoiceId": "00002072",
+  "paidToMerchant": false,
+  "identifierNumber": 4406,
+  "billingDate": "2022-12-23T18:52:38.594Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25218568",
+      "fullName": "JUNIOR VICENTE HERNANDEZ GOMEZ",
+      "phoneNumber": "+584141025784"
+    },
+    "installments": [
+      {
+        "id": "13534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:53:16.081Z",
+        "amount": 24.9,
+        "status": "DONE"
+      },
+      {
+        "id": "13536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:53:16.080Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:53:16.080Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:53:16.080Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

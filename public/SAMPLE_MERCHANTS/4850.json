@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-03-26T14:31:53.050Z",
+  "updatedAt": "2025-03-28T14:15:23.796Z",
+  "id": 4850,
+  "name": "CITY SKY BOUTIQUE 2013",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "faab9f57-6939-4211-a73f-288d607dcc49",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "denisecity324@gmail.com",
+    "legalName": "DENISE",
+    "phoneNumber": "4148477717"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-26T14:33:37.731Z",
+      "updatedAt": "2025-03-26T14:33:37.731Z",
+      "id": 12215,
+      "merchantId": 4850,
+      "name": "CITY SKY BOUTIQUE 2013 C.C CITY CENTER",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4174,
+      "address": {
+        "name": "SECTOR EL CENTRO, CALLE ANZOATEGUI C.C CITY CENTER LOCAL 1\tPARIAGUAN",
+        "long": -64.7198125,
+        "lat": 8.839062499999983,
+        "location": "0101000020E610000021B07268112E50C09099999999AD2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-23T22:20:33.687Z",
+      "updatedAt": "2025-04-23T22:20:33.687Z",
+      "id": 13229,
+      "merchantId": 4850,
+      "name": "VR_CITY SKY BOUTIQUE 2013",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4174,
+      "address": {
+        "name": "SECTOR EL CENTRO, CALLE ANZOATEGUI C.C CITY CENTER LOCAL 1\tPARIAGUAN",
+        "long": -64.7198125,
+        "lat": 8.839062499999983,
+        "location": "0101000020E610000021B07268112E50C09099999999AD2140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

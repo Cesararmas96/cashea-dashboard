@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-12T20:02:21.187Z",
+  "id": "1320",
+  "amount": 118.71,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1706,
+  "billingDate": "2022-12-12T20:02:21.187Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

@@ -1,0 +1,150 @@
+{
+  "createdAt": "2025-05-05T18:28:44.257Z",
+  "updatedAt": "2025-05-06T15:48:15.622Z",
+  "id": 5534,
+  "name": "Farma Vida & Salud",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "35466168-b33f-410a-8a1d-5cc971037998",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "vlp.farmavidaysalud@gmail.com",
+    "legalName": "Gabriel",
+    "phoneNumber": "04241908081"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-10T23:18:08.809Z",
+      "updatedAt": "2025-07-10T23:18:08.809Z",
+      "id": 17179,
+      "merchantId": 5534,
+      "name": "VR_Farma Vida & Salud, CALLE PRINCIPAL DE LA PUA",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5178,
+      "address": {
+        "name": "CALLE PRINCIPAL DE LA PUA CRUCE CON CALLE LOS ILUSTRES EDIFICIO COMERCIAL Y RESIDENCIAL VILLADAGOS PISO PB",
+        "long": -66.0174375,
+        "lat": 9.222562499999995,
+        "location": "0101000020E6100000560E2DB21D8150C0C8A145B6F3712240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-11T16:31:54.896Z",
+      "updatedAt": "2025-07-11T16:31:54.896Z",
+      "id": 17199,
+      "merchantId": 5534,
+      "name": "Farma Vida & Salud Acarigua, Portuguesa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5178,
+      "address": {
+        "name": "Av. Libertador con calle 38 Edificio Ana Vanessa Local 02 PB Acarigua Estado Portuguesa",
+        "long": -69.2174375,
+        "lat": 9.581187499999999,
+        "location": "0101000020E610000023DBF97EEA4D51C020B0726891292340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T18:30:28.611Z",
+      "updatedAt": "2025-05-05T18:30:28.611Z",
+      "id": 13595,
+      "merchantId": 5534,
+      "name": "Farma Vida & Salud  Valle de la Pascua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5178,
+      "address": {
+        "name": "CALLE PRINCIPAL DE LA PUA CRUCE CON CALLE LOS ILUSTRES EDIFICIO COMERCIAL Y RESIDENCIAL VILLADAGOS PISO PB",
+        "long": -66.0174375,
+        "lat": 9.222562499999995,
+        "location": "0101000020E6100000560E2DB21D8150C0C8A145B6F3712240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

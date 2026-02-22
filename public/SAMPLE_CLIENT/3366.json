@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T17:17:52.744Z",
+  "id": "5799",
+  "amount": 169.31,
+  "invoiceId": "14685",
+  "paidToMerchant": false,
+  "identifierNumber": 3366,
+  "billingDate": "2022-12-29T17:17:52.744Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-15T04:00:00.865+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "19987",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12961108",
+      "fullName": "MONICA EDITH GONZALEZ GUTIERREZ",
+      "phoneNumber": "+584242151052"
+    },
+    "installments": [
+      {
+        "id": "19988",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:18:12.175Z",
+        "amount": 23.103333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "19989",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:18:12.175Z",
+        "amount": 23.103333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "19987",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:18:12.175Z",
+        "amount": 23.103333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "19986",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:18:12.175Z",
+        "amount": 100,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

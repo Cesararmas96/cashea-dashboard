@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:12:29.729Z",
+  "id": "4799",
+  "amount": 57.36,
+  "invoiceId": "50553",
+  "paidToMerchant": false,
+  "identifierNumber": 5045,
+  "billingDate": "2022-12-24T19:12:29.729Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28469405",
+      "fullName": "BRENDA PATRICIA RAMOS BRACAMONTES",
+      "phoneNumber": "+584242534221"
+    },
+    "installments": [
+      {
+        "id": "16433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:12:59.202Z",
+        "amount": 9.56,
+        "status": "DONE"
+      },
+      {
+        "id": "16430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:12:59.203Z",
+        "amount": 28.68,
+        "status": "DONE"
+      },
+      {
+        "id": "16432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:12:59.202Z",
+        "amount": 9.56,
+        "status": "DONE"
+      },
+      {
+        "id": "16431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:12:59.202Z",
+        "amount": 9.56,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

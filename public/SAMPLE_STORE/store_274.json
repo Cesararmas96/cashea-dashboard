@@ -1,0 +1,128 @@
+[
+  {
+    "id": 196,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J298405074",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS PLAZA, C.A",
+    "internalBankHolder": "DISEÑOS PLAZA, C.A",
+    "account": "01910098702198366540",
+    "accountType": "Corriente",
+    "phoneNumber": "4120121545",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J298405074",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS PLAZA, C.A",
+    "internalBankHolder": "DISEÑOS PLAZA, C.A",
+    "account": "01910098702198366540",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J298405074",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS PLAZA, C.A",
+    "internalBankHolder": "DISEÑOS PLAZA, C.A",
+    "account": "01910098702198366540",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 197,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J298405074",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS PLAZA, C.A",
+    "internalBankHolder": "DISEÑOS PLAZA, C.A",
+    "account": "01910098732398257163",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

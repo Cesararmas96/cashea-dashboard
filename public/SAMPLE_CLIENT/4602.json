@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:48:32.520Z",
+  "id": "4203",
+  "amount": 120,
+  "invoiceId": "10635",
+  "paidToMerchant": false,
+  "identifierNumber": 4602,
+  "billingDate": "2022-12-23T21:48:32.520Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-02-06T04:00:01.130+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "14293",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22671626",
+      "fullName": "ELIANA LEONEIDIS MONTOYA MARCANO",
+      "phoneNumber": "+584120796232"
+    },
+    "installments": [
+      {
+        "id": "14290",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:02:49.636Z",
+        "amount": 77,
+        "status": "DONE"
+      },
+      {
+        "id": "14292",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:02:49.636Z",
+        "amount": 14.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14293",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:02:49.636Z",
+        "amount": 14.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14291",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:02:49.636Z",
+        "amount": 14.3333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

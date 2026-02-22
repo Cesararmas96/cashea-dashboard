@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T23:09:57.047Z",
+  "id": "2100",
+  "amount": 42.26,
+  "invoiceId": "14637",
+  "paidToMerchant": false,
+  "identifierNumber": 2636,
+  "billingDate": "2022-12-17T23:09:57.047Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15540121",
+      "fullName": "MARYELIN YUBISAY HERNANDEZ CHAVARRI",
+      "phoneNumber": "+584129922286"
+    },
+    "installments": [
+      {
+        "id": "6838",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T23:11:02.673Z",
+        "amount": 21.13,
+        "status": "DONE"
+      },
+      {
+        "id": "6841",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T23:11:02.672Z",
+        "amount": 7.043333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6840",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T23:11:02.672Z",
+        "amount": 7.043333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6839",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T23:11:02.672Z",
+        "amount": 7.043333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

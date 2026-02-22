@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-14T14:53:24.251Z",
+  "updatedAt": "2025-04-14T14:53:24.251Z",
+  "id": 5213,
+  "name": "Calzados Tamanaco",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ab15eb03-7f9c-4a3a-86f5-2018dc44d696",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "wisamsaleh03@gmail.com",
+    "legalName": "Wisam Saleh Radwan",
+    "phoneNumber": "+584126458033"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T15:37:04.064Z",
+      "updatedAt": "2025-04-14T15:37:04.064Z",
+      "id": 12945,
+      "merchantId": 5213,
+      "name": "Calzados Tamanaco",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8252,
+      "address": {
+        "name": "Calzados Tamanaco",
+        "long": -71.3151875,
+        "lat": 10.196437500000002,
+        "location": "0101000020E6100000E92631082CD451C0806ABC7493642440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

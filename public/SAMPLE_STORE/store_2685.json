@@ -1,0 +1,74 @@
+[
+  {
+    "id": 29184,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501206139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DC BTO, C.A.",
+    "internalBankHolder": "DC BTO, C.A.",
+    "account": "01910148702100094501",
+    "accountType": "Corriente",
+    "phoneNumber": "4143274637",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29182,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501206139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DC BTO, C.A.",
+    "internalBankHolder": "DC BTO, C.A.",
+    "account": "01910148702100094501",
+    "accountType": "Corriente",
+    "phoneNumber": "4143274637",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29183,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501206139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DC BTO, C.A.",
+    "internalBankHolder": "DC BTO, C.A.",
+    "account": "01910148702100094501",
+    "accountType": "Corriente",
+    "phoneNumber": "4143274637",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29185,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501206139",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DC BTO, C.A.",
+    "internalBankHolder": "DC BTO, C.A.",
+    "account": "01910148772300036697",
+    "accountType": "Custodia",
+    "phoneNumber": "4143274637",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

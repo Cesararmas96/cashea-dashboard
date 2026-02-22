@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T19:28:40.612Z",
+  "id": "1984",
+  "amount": 93.46,
+  "invoiceId": "00017772",
+  "paidToMerchant": false,
+  "identifierNumber": 2522,
+  "billingDate": "2022-12-17T19:28:40.612Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-17T04:00:00.740+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "6432",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20362257",
+      "fullName": "FRANK KERVIN HERNANDEZ USECHE",
+      "phoneNumber": "+584242482228"
+    },
+    "installments": [
+      {
+        "id": "6430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T19:29:15.335Z",
+        "amount": 46.73,
+        "status": "DONE"
+      },
+      {
+        "id": "6431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T19:29:15.335Z",
+        "amount": 15.576666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T19:29:15.335Z",
+        "amount": 15.576666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T19:29:15.335Z",
+        "amount": 15.576666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

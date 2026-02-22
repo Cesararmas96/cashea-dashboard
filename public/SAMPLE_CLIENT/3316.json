@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T20:09:31.330Z",
+  "id": "2817",
+  "amount": 46.58,
+  "invoiceId": "14625",
+  "paidToMerchant": false,
+  "identifierNumber": 3316,
+  "billingDate": "2022-12-20T20:09:31.330Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-02-03T04:00:01.194+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "9277",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24460368",
+      "fullName": "MANUEL JOSE CALDERA CAMACHO",
+      "phoneNumber": "+584149052071"
+    },
+    "installments": [
+      {
+        "id": "9277",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:09:52.762Z",
+        "amount": 7.763333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9274",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:09:52.762Z",
+        "amount": 23.29,
+        "status": "DONE"
+      },
+      {
+        "id": "9276",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:09:52.762Z",
+        "amount": 7.763333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9275",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:09:52.762Z",
+        "amount": 7.763333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

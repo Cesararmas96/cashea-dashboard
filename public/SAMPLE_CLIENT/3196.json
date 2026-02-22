@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:15:26.054Z",
+  "id": "2741",
+  "amount": 41.93,
+  "invoiceId": "9136",
+  "paidToMerchant": false,
+  "identifierNumber": 3196,
+  "billingDate": "2022-12-20T17:15:26.054Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21415442",
+      "fullName": "PATRICIA MICHELLE SILVA MACHADO",
+      "phoneNumber": "+584127027066"
+    },
+    "installments": [
+      {
+        "id": "9030",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:18:34.342Z",
+        "amount": 20.96,
+        "status": "DONE"
+      },
+      {
+        "id": "9033",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:18:34.341Z",
+        "amount": 6.989999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9032",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:18:34.341Z",
+        "amount": 6.989999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9031",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:18:34.341Z",
+        "amount": 6.989999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

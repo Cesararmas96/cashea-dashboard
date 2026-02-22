@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:08:44.797Z",
+  "id": "4585",
+  "amount": 155,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4950,
+  "billingDate": "2022-12-24T16:08:44.797Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21615772",
+      "fullName": "JEAN PAUL ROJAS VILCHEZ",
+      "phoneNumber": "+584241096817"
+    },
+    "installments": [
+      {
+        "id": "15646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:11:25.801Z",
+        "amount": 77.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:11:25.800Z",
+        "amount": 25.833333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:11:25.800Z",
+        "amount": 25.833333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:11:25.800Z",
+        "amount": 25.833333333333332,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 63,
+    "name": "Timberland CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

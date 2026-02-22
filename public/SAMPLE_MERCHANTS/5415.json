@@ -1,0 +1,133 @@
+{
+  "createdAt": "2025-04-28T13:34:27.327Z",
+  "updatedAt": "2025-04-28T15:19:59.857Z",
+  "id": 5415,
+  "name": "El rincón de la kñita",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "12e9cb36-8d8c-4e26-8074-aff4e867b035",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "elrincondelakanita@hotmail.com",
+    "legalName": "Ismael",
+    "phoneNumber": "4129330590"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T01:26:31.581Z",
+      "updatedAt": "2025-06-18T01:26:31.581Z",
+      "id": 15866,
+      "merchantId": 5415,
+      "name": "VR_El rincón de la kñita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4889,
+      "address": {
+        "name": "Av las ciencias con calle aranda, resd santa eduvigis, local 3c",
+        "long": -66.8898125,
+        "lat": 10.481437499999998,
+        "location": "0101000020E61000009CC420B0F2B850C0D022DBF97EF62440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T13:42:29.691Z",
+      "updatedAt": "2025-04-28T13:42:29.691Z",
+      "id": 13329,
+      "merchantId": 5415,
+      "name": "El rincón de la kñita Santa Eduvigis",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4889,
+      "address": {
+        "name": "Av las ciencias con calle aranda, resd santa eduvigis, local 3c",
+        "long": -66.8898125,
+        "lat": 10.481437499999998,
+        "location": "0101000020E61000009CC420B0F2B850C0D022DBF97EF62440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

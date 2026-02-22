@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-10T20:30:33.326Z",
+  "id": "337",
+  "amount": 217,
+  "invoiceId": "6585",
+  "paidToMerchant": false,
+  "identifierNumber": 1177,
+  "billingDate": "2022-11-10T20:30:33.326Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13945695",
+      "fullName": "KEYNER JOSIAS OBERTO MEDINA",
+      "phoneNumber": "+584242075153"
+    },
+    "installments": [
+      {
+        "id": "1040",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-22T20:34:30.640Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1037",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-10T20:34:30.641Z",
+        "amount": 117,
+        "status": "DONE"
+      },
+      {
+        "id": "1038",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-24T20:34:30.640Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1039",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-08T20:34:30.640Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

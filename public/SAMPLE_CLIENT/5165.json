@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T22:10:37.762Z",
+  "id": "4957",
+  "amount": 30.43,
+  "invoiceId": "50572",
+  "paidToMerchant": false,
+  "identifierNumber": 5165,
+  "billingDate": "2022-12-24T22:10:37.762Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26210647",
+      "fullName": "JOHAN JOSE RODRIGUEZ MORAN",
+      "phoneNumber": "+584143701671"
+    },
+    "installments": [
+      {
+        "id": "16986",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:11:28.546Z",
+        "amount": 15.21,
+        "status": "DONE"
+      },
+      {
+        "id": "16989",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:11:28.546Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "16987",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:11:28.546Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "16988",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:11:28.546Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

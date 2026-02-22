@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-08T14:22:07.775Z",
+  "updatedAt": "2025-06-30T19:54:00.698Z",
+  "id": 5625,
+  "name": "C.COM",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2a7cf311-1825-4dbd-84ac-086acb26832e",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ventas@internetccom.net",
+    "legalName": "Felix Candiales",
+    "phoneNumber": "04120395953"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T14:24:50.723Z",
+      "updatedAt": "2025-05-08T14:24:50.723Z",
+      "id": 13793,
+      "merchantId": 5625,
+      "name": "C.COM Santa Eduvigis",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4152,
+      "address": {
+        "name": "Av los chorros con Av parque Sebucan Edi C-COM piso 1 ofic unico urb parque Sebucan caracas miranda",
+        "long": -66.83781249999998,
+        "lat": 10.508687499999994,
+        "location": "0101000020E610000084EB51B89EB550C098C420B072042540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-05T13:58:25.782Z",
+      "updatedAt": "2025-06-05T13:58:25.782Z",
+      "id": 15234,
+      "merchantId": 5625,
+      "name": "VR_C.COM",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4152,
+      "address": {
+        "name": "1) AV LA ESTANCIA EDIF CCCT SEGUNDO NIVEL PISO 2DO LOCAL 53H06 URB CHUAO CARACAS (CHACAO) MIRANDA ZONA POSTAL 1064",
+        "long": -66.8551875,
+        "lat": 10.485187499999995,
+        "location": "0101000020E6100000AC1C5A64BBB650C020DBF97E6AF82440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T18:37:34.654Z",
+  "id": "4751",
+  "amount": 96.11,
+  "invoiceId": "18558",
+  "paidToMerchant": false,
+  "identifierNumber": 4208,
+  "billingDate": "2022-12-24T18:37:34.654Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-10T04:00:00.932+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "16263",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24804395",
+      "fullName": "ROGDANY RAFAEL DAVID HERRERA RODRIGUEZ",
+      "phoneNumber": "+584122049847"
+    },
+    "installments": [
+      {
+        "id": "16264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:38:18.535Z",
+        "amount": 16.02,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:38:18.535Z",
+        "amount": 16.02,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:38:18.535Z",
+        "amount": 16.02,
+        "status": "DELAYED"
+      },
+      {
+        "id": "16262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:38:18.535Z",
+        "amount": 48.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

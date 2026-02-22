@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-23T23:07:20.222Z",
+  "id": "4300",
+  "amount": 130.00119999999998,
+  "invoiceId": "3474",
+  "paidToMerchant": false,
+  "identifierNumber": 4660,
+  "billingDate": "2022-12-23T23:07:20.222Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19367529",
+      "fullName": "WUILLIANS EDUARDO LANDAETA RODRIGUEZ",
+      "phoneNumber": "+584241530901"
+    },
+    "installments": [
+      {
+        "id": "14589",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:07:20.273Z",
+        "amount": 21.66706666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14586",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:07:20.274Z",
+        "amount": 65,
+        "status": "DONE"
+      },
+      {
+        "id": "14588",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:07:20.273Z",
+        "amount": 21.66706666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14587",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:07:20.273Z",
+        "amount": 21.66706666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 159,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

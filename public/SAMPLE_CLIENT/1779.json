@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:48:00.692Z",
+  "id": "2407",
+  "amount": 132.09,
+  "invoiceId": "13578",
+  "paidToMerchant": false,
+  "identifierNumber": 1779,
+  "billingDate": "2022-12-18T23:48:00.692Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17058098",
+      "fullName": "ISMAEL JOSE RIOS CENTENO",
+      "phoneNumber": "+584122029686"
+    },
+    "installments": [
+      {
+        "id": "7917",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:48:39.890Z",
+        "amount": 22.013333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "7914",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:48:39.891Z",
+        "amount": 66.05,
+        "status": "DONE"
+      },
+      {
+        "id": "7915",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:48:39.890Z",
+        "amount": 22.013333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "7916",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:48:39.890Z",
+        "amount": 22.013333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

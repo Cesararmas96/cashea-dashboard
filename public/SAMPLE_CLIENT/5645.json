@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T00:01:26.392Z",
+  "id": "5330",
+  "amount": 62.83,
+  "invoiceId": "14536",
+  "paidToMerchant": false,
+  "identifierNumber": 5645,
+  "billingDate": "2022-12-28T00:01:26.392Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15800638",
+      "fullName": "DURBIS YURAIS LARA RAMIREZ",
+      "phoneNumber": "+584120161361"
+    },
+    "installments": [
+      {
+        "id": "18313",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T00:04:26.079Z",
+        "amount": 10.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18310",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T00:04:26.079Z",
+        "amount": 31.41,
+        "status": "DONE"
+      },
+      {
+        "id": "18312",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T00:04:26.079Z",
+        "amount": 10.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18311",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T00:04:26.079Z",
+        "amount": 10.473333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

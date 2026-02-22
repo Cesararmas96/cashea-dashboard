@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:02:24.454Z",
+  "id": "3314",
+  "amount": 95,
+  "invoiceId": "1463",
+  "paidToMerchant": false,
+  "identifierNumber": 3713,
+  "billingDate": "2022-12-22T00:02:24.454Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15947957",
+      "fullName": "NAITSABES DEL VALLE MACEDO MENDOZA",
+      "phoneNumber": "+584242979474"
+    },
+    "installments": [
+      {
+        "id": "11078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:19:19.099Z",
+        "amount": 47.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:19:19.099Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:19:19.099Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:19:19.099Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

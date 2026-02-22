@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T18:21:09.001Z",
+  "id": "835",
+  "amount": 40.21,
+  "invoiceId": "0938",
+  "paidToMerchant": false,
+  "identifierNumber": 1567,
+  "billingDate": "2022-12-07T18:21:09.001Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20242885",
+      "fullName": "YOLVIS JESUS SANCHEZ LEON",
+      "phoneNumber": "+584129384334"
+    },
+    "installments": [
+      {
+        "id": "2672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T18:21:21.390Z",
+        "amount": 6.7,
+        "status": "DONE"
+      },
+      {
+        "id": "2670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T18:21:21.390Z",
+        "amount": 20.11,
+        "status": "DONE"
+      },
+      {
+        "id": "2673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T18:21:21.390Z",
+        "amount": 6.7,
+        "status": "DONE"
+      },
+      {
+        "id": "2671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T18:21:21.390Z",
+        "amount": 6.7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

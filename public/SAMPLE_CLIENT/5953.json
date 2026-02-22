@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:37:28.105Z",
+  "id": "5667",
+  "amount": 89.1,
+  "invoiceId": "590",
+  "paidToMerchant": false,
+  "identifierNumber": 5953,
+  "billingDate": "2022-12-28T23:37:28.105Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13247856",
+      "fullName": "MARIA EDUVIGIS BRICENO ROSALES",
+      "phoneNumber": "+584142416664"
+    },
+    "installments": [
+      {
+        "id": "19509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:38:39.118Z",
+        "amount": 14.85,
+        "status": "DONE"
+      },
+      {
+        "id": "19508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:38:39.118Z",
+        "amount": 14.85,
+        "status": "DONE"
+      },
+      {
+        "id": "19507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:38:39.118Z",
+        "amount": 14.85,
+        "status": "DONE"
+      },
+      {
+        "id": "19506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:38:39.118Z",
+        "amount": 44.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

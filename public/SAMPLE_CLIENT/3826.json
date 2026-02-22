@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T14:39:43.558Z",
+  "id": "3401",
+  "amount": 80,
+  "invoiceId": "3231",
+  "paidToMerchant": false,
+  "identifierNumber": 3826,
+  "billingDate": "2022-12-22T14:39:43.558Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16522734",
+      "fullName": "VANESSA CAROLINA GONZALEZ SAPIANI",
+      "phoneNumber": "+584241486885"
+    },
+    "installments": [
+      {
+        "id": "11358",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T14:40:36.975Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "11361",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T14:40:36.974Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11360",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T14:40:36.974Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11359",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T14:40:36.974Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:07:07.770Z",
+  "id": "2740",
+  "amount": 35,
+  "invoiceId": "14189",
+  "paidToMerchant": false,
+  "identifierNumber": 3200,
+  "billingDate": "2022-12-20T17:07:07.770Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19513238",
+      "fullName": "WILLIAMS JOSE MAYORGA RAMIREZ",
+      "phoneNumber": "+584241294673"
+    },
+    "installments": [
+      {
+        "id": "9026",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:07:26.437Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "9027",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:07:26.436Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9028",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:07:26.436Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9029",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:07:26.436Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

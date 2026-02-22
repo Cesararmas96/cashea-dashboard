@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:09:11.820Z",
+  "id": "5097",
+  "amount": 92.47,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5416,
+  "billingDate": "2022-12-26T22:09:11.820Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14965960",
+      "fullName": "JHOVANY JOSE FRANCOIS QUEVEDO",
+      "phoneNumber": "+584124605836"
+    },
+    "installments": [
+      {
+        "id": "17474",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:09:31.079Z",
+        "amount": 46.23,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17476",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:09:31.079Z",
+        "amount": 15.413333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17477",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:09:31.079Z",
+        "amount": 15.413333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17475",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:09:31.079Z",
+        "amount": 15.413333333333334,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

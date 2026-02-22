@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-04-02T19:30:07.251Z",
+  "updatedAt": "2025-04-29T19:30:43.416Z",
+  "id": 4998,
+  "name": "ELECTRICOS LORENZO",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "93fbd948-c89d-4f49-9144-75573e1afb96",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "electricoslorenzoca@gmail.com",
+    "legalName": "Jose Andres",
+    "phoneNumber": "414154090"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T20:09:14.262Z",
+      "updatedAt": "2025-04-02T20:09:14.262Z",
+      "id": 12547,
+      "merchantId": 4998,
+      "name": "ELECTRICOS LORENZO Flores de Catia II CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 625,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4820,
+      "address": {
+        "name": "CATIA CHILE PANAMERICA Y FLORES DE CATIA - DETAL",
+        "long": -66.9444375,
+        "lat": 10.515062499999999,
+        "location": "0101000020E61000006DE7FBA971BC50C0C0CAA145B6072540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T18:27:11.585Z",
+      "updatedAt": "2025-05-15T18:27:11.585Z",
+      "id": 14191,
+      "merchantId": 4998,
+      "name": "VR_ELECTRICOS LORENZO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4820,
+      "address": {
+        "name": "CALLE CHILE ENTRE PANAMERICA Y LOS FLORES CATIA CARACAS",
+        "long": -66.9444375,
+        "lat": 10.515062499999999,
+        "location": "0101000020E61000006DE7FBA971BC50C0C0CAA145B6072540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T19:36:04.400Z",
+      "updatedAt": "2025-04-02T19:36:04.400Z",
+      "id": 12540,
+      "merchantId": 4998,
+      "name": "ELECTRICOS LORENZO Flores de Catia I CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 625,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4820,
+      "address": {
+        "name": "CALLE CHILE ENTRE PANAMERICA Y LOS FLORES CATIA CARACAS",
+        "long": -66.9444375,
+        "lat": 10.515062499999999,
+        "location": "0101000020E61000006DE7FBA971BC50C0C0CAA145B6072540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

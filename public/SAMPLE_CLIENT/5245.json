@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:12:42.311Z",
+  "id": "5007",
+  "amount": 300,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5245,
+  "billingDate": "2022-12-26T17:12:42.311Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26472120",
+      "fullName": "DOUGLAS JOSE MIQUILARENA PERALES",
+      "phoneNumber": "+584120229292"
+    },
+    "installments": [
+      {
+        "id": "17166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:12:55.273Z",
+        "amount": 171.41,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:12:55.272Z",
+        "amount": 42.86333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:12:55.272Z",
+        "amount": 42.86333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:12:55.272Z",
+        "amount": 42.86333333333334,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

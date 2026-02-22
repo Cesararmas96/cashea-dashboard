@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T18:08:52.692Z",
+  "id": "2758",
+  "amount": 69.72,
+  "invoiceId": "13776",
+  "paidToMerchant": false,
+  "identifierNumber": 3236,
+  "billingDate": "2022-12-20T18:08:52.692Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-20T04:00:00.428+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "9088",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19933797",
+      "fullName": "MARIA ALEJANDRA ARMAS MACHADO",
+      "phoneNumber": "+584242571517"
+    },
+    "installments": [
+      {
+        "id": "9086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:09:13.754Z",
+        "amount": 34.86,
+        "status": "DONE"
+      },
+      {
+        "id": "9088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:09:13.753Z",
+        "amount": 11.62,
+        "status": "DONE"
+      },
+      {
+        "id": "9087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:09:13.753Z",
+        "amount": 11.62,
+        "status": "DONE"
+      },
+      {
+        "id": "9089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:09:13.753Z",
+        "amount": 11.62,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

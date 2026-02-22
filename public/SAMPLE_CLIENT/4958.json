@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:41:26.673Z",
+  "id": "4615",
+  "amount": 101.56,
+  "invoiceId": "50536",
+  "paidToMerchant": false,
+  "identifierNumber": 4958,
+  "billingDate": "2022-12-24T16:41:26.673Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13066798",
+      "fullName": "KEYLA AYARI BETANCOURT",
+      "phoneNumber": "+584141014080"
+    },
+    "installments": [
+      {
+        "id": "15748",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:43:16.451Z",
+        "amount": 16.926666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15746",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:43:16.451Z",
+        "amount": 50.78,
+        "status": "DONE"
+      },
+      {
+        "id": "15749",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:43:16.451Z",
+        "amount": 16.926666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15747",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:43:16.451Z",
+        "amount": 16.926666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

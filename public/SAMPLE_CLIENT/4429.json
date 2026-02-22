@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T18:52:54.379Z",
+  "id": "4009",
+  "amount": 48.31,
+  "invoiceId": "49136",
+  "paidToMerchant": false,
+  "identifierNumber": 4429,
+  "billingDate": "2022-12-23T18:52:54.379Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-02-06T04:00:01.175+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "13541",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30153604",
+      "fullName": "MOISES GABRIELA JAHN RODRIGUEZ",
+      "phoneNumber": "+584242282828"
+    },
+    "installments": [
+      {
+        "id": "13541",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:53:18.009Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "13538",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:53:18.010Z",
+        "amount": 24.16,
+        "status": "DONE"
+      },
+      {
+        "id": "13539",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:53:18.009Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "13540",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:53:18.009Z",
+        "amount": 8.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

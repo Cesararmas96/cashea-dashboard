@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T18:59:39.622Z",
+  "id": "1711",
+  "amount": 38.83,
+  "invoiceId": "49828",
+  "paidToMerchant": false,
+  "identifierNumber": 2342,
+  "billingDate": "2022-12-16T18:59:39.622Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21014763",
+      "fullName": "YSCAR DEL VALLE MORENO DE VALERO",
+      "phoneNumber": "+584142800782"
+    },
+    "installments": [
+      {
+        "id": "5509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T19:03:03.904Z",
+        "amount": 6.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T19:03:03.904Z",
+        "amount": 19.41,
+        "status": "DONE"
+      },
+      {
+        "id": "5507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T19:03:03.904Z",
+        "amount": 6.473333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T19:03:03.904Z",
+        "amount": 6.473333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

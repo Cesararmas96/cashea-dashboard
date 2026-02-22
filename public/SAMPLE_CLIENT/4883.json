@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:20:48.625Z",
+  "id": "4548",
+  "amount": 56,
+  "invoiceId": "13031",
+  "paidToMerchant": false,
+  "identifierNumber": 4883,
+  "billingDate": "2022-12-24T15:20:48.625Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16706194",
+      "fullName": "KARLA MARIELY VALERIO BRITO",
+      "phoneNumber": "+584241613536"
+    },
+    "installments": [
+      {
+        "id": "15514",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:21:07.271Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "15517",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:21:07.271Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15515",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:21:07.271Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15516",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:21:07.271Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

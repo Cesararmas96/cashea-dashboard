@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-05T20:21:55.782Z",
+  "id": "73",
+  "amount": 42,
+  "invoiceId": "18452",
+  "paidToMerchant": false,
+  "identifierNumber": 1208,
+  "billingDate": "2022-10-05T20:21:55.782Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26672424",
+      "fullName": "YORVIS MIGUELANGEL BLANCO VILLALTA",
+      "phoneNumber": "+584127187326"
+    },
+    "installments": [
+      {
+        "id": "229",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-05T20:22:35.234Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "231",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-02T20:22:35.234Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "230",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-19T20:22:35.234Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "232",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-16T20:22:35.234Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 9937,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J505771930",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PIZY KIDS 24, C.A",
+    "internalBankHolder": "PIZY KIDS 24, C.A",
+    "account": "01910098752198463541",
+    "accountType": "Corriente",
+    "phoneNumber": "4241678754",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 9935,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J505771930",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PIZY KIDS 24, C.A",
+    "internalBankHolder": "PIZY KIDS 24, C.A",
+    "account": "01910098752198463541",
+    "accountType": "Corriente",
+    "phoneNumber": "4241678754",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 9936,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J505771930",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PIZY KIDS 24, C.A",
+    "internalBankHolder": "PIZY KIDS 24, C.A",
+    "account": "01910098752198463541",
+    "accountType": "Corriente",
+    "phoneNumber": "4241678754",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 9938,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J505771930",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PIZY KIDS 24, C.A",
+    "internalBankHolder": "PIZY KIDS 24, C.A",
+    "account": "01910098792398388119",
+    "accountType": "Custodia",
+    "phoneNumber": "4241678754",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:08:19.973Z",
+  "id": "5005",
+  "amount": 65.7,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5264,
+  "billingDate": "2022-12-26T17:08:19.973Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11375659",
+      "fullName": "JUANA ALEXANDRA BOLIVAR",
+      "phoneNumber": "+584241344218"
+    },
+    "installments": [
+      {
+        "id": "17164",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:08:48.923Z",
+        "amount": 10.950000000000001,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17162",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:08:48.925Z",
+        "amount": 32.85,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17165",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:08:48.923Z",
+        "amount": 10.950000000000001,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17163",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:08:48.923Z",
+        "amount": 10.950000000000001,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

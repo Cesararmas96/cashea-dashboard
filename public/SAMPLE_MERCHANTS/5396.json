@@ -1,0 +1,108 @@
+{
+  "createdAt": "2025-04-25T17:51:06.477Z",
+  "updatedAt": "2025-04-25T17:51:06.477Z",
+  "id": 5396,
+  "name": "External client 5",
+  "ecommerceUrl": null,
+  "changePolicy": "external test",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE",
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "033a0b59-9606-487f-aad9-764b10a04926",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "externa@test.app",
+    "legalName": "external test",
+    "phoneNumber": "2121233212"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T17:51:40.493Z",
+      "updatedAt": "2025-04-25T17:51:40.493Z",
+      "id": 13289,
+      "merchantId": 5396,
+      "name": "external 5",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Mata de Coco, Av1. Juan Pernalete, entre Av Mohedano y Calle, Caracas, Miranda",
+        "long": -66.85418750000001,
+        "lat": 10.497062499999998,
+        "location": "0101000020E6100000BB490C02ABB650C0D022DBF97EFE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

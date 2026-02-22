@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:57:33.161Z",
+  "id": "4635",
+  "amount": 40,
+  "invoiceId": "00002056",
+  "paidToMerchant": false,
+  "identifierNumber": 5007,
+  "billingDate": "2022-12-24T16:57:33.161Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21384588",
+      "fullName": "JUNIOR ROGER RENE ROJAS RAMONYS",
+      "phoneNumber": "+584121142920"
+    },
+    "installments": [
+      {
+        "id": "15830",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:01:06.054Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "15832",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:01:06.054Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15833",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:01:06.054Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15831",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:01:06.054Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1480,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J404344373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ARGO TYRE SHOP, C.A",
+    "internalBankHolder": "ARGO TYRE SHOP, C.A",
+    "account": "01910016262116101366",
+    "accountType": "Corriente",
+    "phoneNumber": "4123170680",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1478,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J404344373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ARGO TYRE SHOP, C.A",
+    "internalBankHolder": "ARGO TYRE SHOP, C.A",
+    "account": "01910016262116101366",
+    "accountType": "Corriente",
+    "phoneNumber": "4123170680",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1479,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J404344373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ARGO TYRE SHOP, C.A",
+    "internalBankHolder": "ARGO TYRE SHOP, C.A",
+    "account": "01910016262116101366",
+    "accountType": "Corriente",
+    "phoneNumber": "4123170680",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1481,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J404344373",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ARGO TYRE SHOP, C.A",
+    "internalBankHolder": "ARGO TYRE SHOP, C.A",
+    "account": "01910016272316016982",
+    "accountType": "Custodia",
+    "phoneNumber": "4123170680",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

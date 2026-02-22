@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-31T22:32:16.860Z",
+  "id": "7164",
+  "amount": 37.94,
+  "invoiceId": "00019238",
+  "paidToMerchant": false,
+  "identifierNumber": 1880,
+  "billingDate": "2022-12-31T22:32:16.860Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19244443",
+      "fullName": "JESSIKA DEL CARMEN PORRAS JEANTON",
+      "phoneNumber": "+584123139998"
+    },
+    "installments": [
+      {
+        "id": "24826",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T22:32:32.231Z",
+        "amount": 18.97,
+        "status": "DONE"
+      },
+      {
+        "id": "24827",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T22:32:32.230Z",
+        "amount": 6.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "24829",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T22:32:32.230Z",
+        "amount": 6.323333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "24828",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T22:32:32.230Z",
+        "amount": 6.323333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

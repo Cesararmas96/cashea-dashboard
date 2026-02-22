@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:28:42.363Z",
+  "id": "2017",
+  "amount": 54.58,
+  "invoiceId": "6369",
+  "paidToMerchant": false,
+  "identifierNumber": 2541,
+  "billingDate": "2022-12-17T20:28:42.363Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20291774",
+      "fullName": "ALBERT LEONARDO SILVA LEON",
+      "phoneNumber": "+584126332570"
+    },
+    "installments": [
+      {
+        "id": "6547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:29:11.572Z",
+        "amount": 9.096666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:29:11.572Z",
+        "amount": 27.29,
+        "status": "DONE"
+      },
+      {
+        "id": "6549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:29:11.572Z",
+        "amount": 9.096666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:29:11.572Z",
+        "amount": 9.096666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:47:32.792Z",
+  "id": "4621",
+  "amount": 39.74,
+  "invoiceId": "1303",
+  "paidToMerchant": false,
+  "identifierNumber": 4985,
+  "billingDate": "2022-12-24T16:47:32.792Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22580151",
+      "fullName": "ANGELICA YESSIKA ALIS ROMERO SEGOVIA",
+      "phoneNumber": "+584242161452"
+    },
+    "installments": [
+      {
+        "id": "15770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:47:57.245Z",
+        "amount": 19.87,
+        "status": "DONE"
+      },
+      {
+        "id": "15773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:47:57.245Z",
+        "amount": 6.623333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:47:57.245Z",
+        "amount": 6.623333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:47:57.245Z",
+        "amount": 6.623333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

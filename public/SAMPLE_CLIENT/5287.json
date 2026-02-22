@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T23:25:16.371Z",
+  "id": "434",
+  "amount": 97,
+  "invoiceId": "1F3202-0005",
+  "paidToMerchant": false,
+  "identifierNumber": 5287,
+  "billingDate": "2022-11-19T23:25:16.371Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25869612",
+      "fullName": "CARLOS DANIEL VALERO CARDENAS",
+      "phoneNumber": "+584141803003"
+    },
+    "installments": [
+      {
+        "id": "1341",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T23:25:31.351Z",
+        "amount": 16.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1338",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T23:25:31.352Z",
+        "amount": 48.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1340",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T23:25:31.351Z",
+        "amount": 16.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1339",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T23:25:31.351Z",
+        "amount": 16.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 35,
+    "name": "A1WIN Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

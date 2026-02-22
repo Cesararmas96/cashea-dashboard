@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:53:49.944Z",
+  "id": "1297",
+  "amount": 53.99,
+  "invoiceId": "5772",
+  "paidToMerchant": false,
+  "identifierNumber": 1757,
+  "billingDate": "2022-12-11T23:53:49.944Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11639929",
+      "fullName": "INDIRA DEL CARMEN QUIJADA DE DE SOUSA",
+      "phoneNumber": "+584141181687"
+    },
+    "installments": [
+      {
+        "id": "4175",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:54:24.996Z",
+        "amount": 8.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "4174",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:54:24.997Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "4177",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:54:24.996Z",
+        "amount": 8.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "4176",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:54:24.996Z",
+        "amount": 8.996666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

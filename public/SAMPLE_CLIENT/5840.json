@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:40:48.589Z",
+  "id": "5534",
+  "amount": 31.36,
+  "invoiceId": "18856",
+  "paidToMerchant": false,
+  "identifierNumber": 5840,
+  "billingDate": "2022-12-28T20:40:48.589Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12327277",
+      "fullName": "CATALINA DEL CARMEN GIL ANDRADE",
+      "phoneNumber": "+584142459323"
+    },
+    "installments": [
+      {
+        "id": "19010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:41:10.476Z",
+        "amount": 15.68,
+        "status": "DONE"
+      },
+      {
+        "id": "19013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:41:10.476Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:41:10.476Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:41:10.476Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

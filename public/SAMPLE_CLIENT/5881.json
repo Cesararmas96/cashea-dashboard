@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:11:43.263Z",
+  "id": "5593",
+  "amount": 40.28,
+  "invoiceId": "579",
+  "paidToMerchant": false,
+  "identifierNumber": 5881,
+  "billingDate": "2022-12-28T22:11:43.263Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25771486",
+      "fullName": "YASEILY ALEJANDRA RODRIGUEZ CARACHE",
+      "phoneNumber": "+584241477790"
+    },
+    "installments": [
+      {
+        "id": "19234",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:12:12.496Z",
+        "amount": 20.14,
+        "status": "DONE"
+      },
+      {
+        "id": "19237",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:12:12.495Z",
+        "amount": 6.713333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19236",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:12:12.495Z",
+        "amount": 6.713333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19235",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:12:12.495Z",
+        "amount": 6.713333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

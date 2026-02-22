@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-05T20:12:25.922Z",
+  "updatedAt": "2025-04-05T20:12:25.922Z",
+  "id": 5077,
+  "name": "Medica",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "79388ffd-4b14-4020-9f1d-25d8d45acbe2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ad.medica.ve@gmail.com",
+    "legalName": "Aura ",
+    "phoneNumber": "04265522287"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-08-01T21:12:34.913Z",
+      "updatedAt": "2024-08-01T21:12:34.913Z",
+      "id": 3335,
+      "merchantId": 5077,
+      "name": "Medica Plaza Madrid Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7383,
+      "address": {
+        "name": "Medica Plaza Madrid Barquisimeto",
+        "long": -69.2839375,
+        "lat": 10.064687500000005,
+        "location": "0101000020E6100000E92631082C5251C088EB51B81E212440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

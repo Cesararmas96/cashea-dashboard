@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-06T15:57:53.772Z",
+  "id": "760",
+  "amount": 125,
+  "invoiceId": "10353",
+  "paidToMerchant": false,
+  "identifierNumber": 1508,
+  "billingDate": "2022-12-06T15:57:53.772Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-01-06T04:00:00.454+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "2472",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20301632",
+      "fullName": "REINALDO DAVID GARCIA",
+      "phoneNumber": "+584123971632"
+    },
+    "installments": [
+      {
+        "id": "2473",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T15:59:09.784Z",
+        "amount": 20.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2470",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T15:59:09.784Z",
+        "amount": 63,
+        "status": "DONE"
+      },
+      {
+        "id": "2471",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T15:59:09.784Z",
+        "amount": 20.6666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2472",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T15:59:09.784Z",
+        "amount": 20.6666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

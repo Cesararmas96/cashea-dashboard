@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:45:54.142Z",
+  "id": "4054",
+  "amount": 79.99,
+  "invoiceId": "48352",
+  "paidToMerchant": false,
+  "identifierNumber": 4465,
+  "billingDate": "2022-12-23T19:45:54.142Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16526625",
+      "fullName": "DUBRASKA SUJEIS OCHOA DE ALVIS",
+      "phoneNumber": "+584147759680"
+    },
+    "installments": [
+      {
+        "id": "13694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:46:19.797Z",
+        "amount": 39.99,
+        "status": "DONE"
+      },
+      {
+        "id": "13697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:46:19.797Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:46:19.797Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:46:19.797Z",
+        "amount": 13.33333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:25:33.017Z",
+  "id": "3714",
+  "amount": 30.43,
+  "invoiceId": "00002003",
+  "paidToMerchant": false,
+  "identifierNumber": 4124,
+  "billingDate": "2022-12-22T23:25:33.017Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27671871",
+      "fullName": "DIEGO AUGUSTO CONTRERAS LOPEZ",
+      "phoneNumber": "+584141536428"
+    },
+    "installments": [
+      {
+        "id": "12458",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:25:58.722Z",
+        "amount": 15.21,
+        "status": "DONE"
+      },
+      {
+        "id": "12461",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:25:58.721Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12460",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:25:58.721Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12459",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:25:58.721Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

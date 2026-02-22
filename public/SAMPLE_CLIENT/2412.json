@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T23:48:40.565Z",
+  "id": "1840",
+  "amount": 38.02,
+  "invoiceId": "44449",
+  "paidToMerchant": false,
+  "identifierNumber": 2412,
+  "billingDate": "2022-12-16T23:48:40.565Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23687441",
+      "fullName": "ANA MAYERLY FIGUEROA PEREZ",
+      "phoneNumber": "+584125439018"
+    },
+    "installments": [
+      {
+        "id": "5958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T23:49:18.594Z",
+        "amount": 19.01,
+        "status": "DONE"
+      },
+      {
+        "id": "5961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T23:49:18.594Z",
+        "amount": 6.336666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T23:49:18.594Z",
+        "amount": 6.336666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T23:49:18.594Z",
+        "amount": 6.336666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

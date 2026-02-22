@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T21:46:04.051Z",
+  "id": "5572",
+  "amount": 209,
+  "invoiceId": "2771",
+  "paidToMerchant": false,
+  "identifierNumber": 5828,
+  "billingDate": "2022-12-28T21:46:04.051Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "70",
+    "buyDebtDate": "2023-01-14T04:00:00.535+00:00",
+    "lastStoreId": 57,
+    "boughtForInstallmentId": "19151",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17531111",
+      "fullName": "FRANSLY RAMSETT ALVAREZ MARIN",
+      "phoneNumber": "+584169184337"
+    },
+    "installments": [
+      {
+        "id": "19153",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:48:07.171Z",
+        "amount": 34.833333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19152",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:48:07.171Z",
+        "amount": 34.833333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19151",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:48:07.171Z",
+        "amount": 34.833333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19150",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:48:07.172Z",
+        "amount": 104.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

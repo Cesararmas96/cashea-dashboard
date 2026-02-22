@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-26T16:38:25.208Z",
+  "id": "4999",
+  "amount": 220,
+  "invoiceId": "10700",
+  "paidToMerchant": false,
+  "identifierNumber": 5253,
+  "billingDate": "2022-12-26T16:38:25.208Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-02-09T04:00:00.372+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "17141",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20073612",
+      "fullName": "ROSA GABRIELA GUACHE DE HENRIQUEZ",
+      "phoneNumber": "+584124784765"
+    },
+    "installments": [
+      {
+        "id": "17141",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T16:39:23.101Z",
+        "amount": 36.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "17138",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T16:39:23.102Z",
+        "amount": 110,
+        "status": "DONE"
+      },
+      {
+        "id": "17140",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T16:39:23.101Z",
+        "amount": 36.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "17139",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T16:39:23.101Z",
+        "amount": 36.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

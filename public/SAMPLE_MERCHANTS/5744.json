@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-13T16:59:36.422Z",
+  "updatedAt": "2025-05-22T14:21:16.291Z",
+  "id": 5744,
+  "name": "Expo Musicalisimo Maturin",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "895fbef1-6dea-41c7-9ea3-110a0d893be8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "inversioneslorenateresaarias@gmail.com",
+    "legalName": "Juan Carlos",
+    "phoneNumber": "4147658500"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T17:03:15.804Z",
+      "updatedAt": "2025-05-13T17:03:15.804Z",
+      "id": 14058,
+      "merchantId": 5744,
+      "name": "Expo Musicalisimo Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4984,
+      "address": {
+        "name": "AV BICENTENARIO #145 MATURIN EDO MONAGAS",
+        "long": -63.18656250000001,
+        "lat": 9.746687500000007,
+        "location": "0101000020E61000007C14AE47E1974FC000AAF1D24D7E2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Tecnología",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T01:00:47.461Z",
+  "id": "4444",
+  "amount": 105.26,
+  "invoiceId": "50523",
+  "paidToMerchant": false,
+  "identifierNumber": 4827,
+  "billingDate": "2022-12-24T01:00:47.461Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-06T04:00:01.080+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "15125",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9971937",
+      "fullName": "ARQUIMEDES ALEXANDER ORDAZ",
+      "phoneNumber": "+584241484404"
+    },
+    "installments": [
+      {
+        "id": "15124",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:01:14.256Z",
+        "amount": 17.543333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15122",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:01:14.256Z",
+        "amount": 52.63,
+        "status": "DONE"
+      },
+      {
+        "id": "15125",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:01:14.256Z",
+        "amount": 17.543333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15123",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:01:14.256Z",
+        "amount": 17.543333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

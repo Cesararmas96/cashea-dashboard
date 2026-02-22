@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T20:34:52.347Z",
+  "id": "1575",
+  "amount": 45.94,
+  "invoiceId": "3161",
+  "paidToMerchant": false,
+  "identifierNumber": 1444,
+  "billingDate": "2022-12-15T20:34:52.347Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26954071",
+      "fullName": "YHUNAYRA YENIRETH ACOSTA CHACON",
+      "phoneNumber": "+584124697884"
+    },
+    "installments": [
+      {
+        "id": "5090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T20:35:40.780Z",
+        "amount": 22.97,
+        "status": "DONE"
+      },
+      {
+        "id": "5093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T20:35:40.780Z",
+        "amount": 7.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T20:35:40.780Z",
+        "amount": 7.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T20:35:40.780Z",
+        "amount": 7.656666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

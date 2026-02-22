@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-06T20:28:15.351Z",
+  "updatedAt": "2025-05-09T15:57:18.776Z",
+  "id": 5570,
+  "name": "Drogueria SocialSC",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "586a9b64-c336-43f2-87b0-4f6f015f43e4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "samydb4320@gmail.com",
+    "legalName": "Samy David ",
+    "phoneNumber": "04144069086"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T20:30:11.511Z",
+      "updatedAt": "2025-05-06T20:30:11.511Z",
+      "id": 13666,
+      "merchantId": 5570,
+      "name": "Drogueria SocialSC San Calos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4793,
+      "address": {
+        "name": "Drogueria SocialSC San Calos.",
+        "long": -68.5781875,
+        "lat": 9.66543750000001,
+        "location": "0101000020E61000002FDD2406012551C068105839B4542340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T15:35:13.073Z",
+      "updatedAt": "2025-05-09T15:35:13.073Z",
+      "id": 13880,
+      "merchantId": 5570,
+      "name": "VR_Drogueria SocialSC",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4793,
+      "address": {
+        "name": "Drogueria SocialSC San Calos.",
+        "long": -68.5781875,
+        "lat": 9.66543750000001,
+        "location": "0101000020E61000002FDD2406012551C068105839B4542340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

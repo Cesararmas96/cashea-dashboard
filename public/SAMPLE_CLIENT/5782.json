@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T19:10:46.738Z",
+  "id": "5483",
+  "amount": 63,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5782,
+  "billingDate": "2022-12-28T19:10:46.738Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12395726",
+      "fullName": "ALEJANDRO ANTONIO UBIEDA MORAN",
+      "phoneNumber": "+584129009062"
+    },
+    "installments": [
+      {
+        "id": "18834",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:11:20.229Z",
+        "amount": 31.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18837",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:11:20.229Z",
+        "amount": 10.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18836",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:11:20.229Z",
+        "amount": 10.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18835",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:11:20.229Z",
+        "amount": 10.5,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

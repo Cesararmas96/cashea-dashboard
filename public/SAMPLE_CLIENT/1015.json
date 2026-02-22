@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-12T21:12:39.725Z",
+  "id": "365",
+  "amount": 245,
+  "invoiceId": "10097",
+  "paidToMerchant": false,
+  "identifierNumber": 1015,
+  "billingDate": "2022-11-12T21:12:39.725Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23198067",
+      "fullName": "CRISTHIAN JOSE GOMEZ SALAZAR",
+      "phoneNumber": "+584242436486"
+    },
+    "installments": [
+      {
+        "id": "1109",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-12T21:13:10.525Z",
+        "amount": 125,
+        "status": "DONE"
+      },
+      {
+        "id": "1112",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-24T21:13:10.523Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "1111",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-10T21:13:10.523Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "1110",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-26T21:13:10.523Z",
+        "amount": 40,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

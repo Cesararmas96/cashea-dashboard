@@ -1,0 +1,61 @@
+{
+  "createdAt": "2022-12-31T19:56:14.926Z",
+  "id": "7040",
+  "amount": 175.15,
+  "invoiceId": "00006217",
+  "paidToMerchant": false,
+  "identifierNumber": 2224,
+  "billingDate": "2022-12-31T19:56:14.926Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-17T04:00:01.216+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "24367",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": null,
+    "installments": [
+      {
+        "id": "24369",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T19:57:17.814Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "24366",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T19:57:17.815Z",
+        "amount": 105.15,
+        "status": "DONE"
+      },
+      {
+        "id": "24368",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T19:57:17.814Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "24367",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T19:57:17.814Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

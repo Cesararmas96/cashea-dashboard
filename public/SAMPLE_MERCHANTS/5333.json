@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-04-23T13:30:37.599Z",
+  "updatedAt": "2025-04-25T16:18:58.233Z",
+  "id": 5333,
+  "name": "Genio Motos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2fbd5adb-9c4e-49dd-99c0-d162a396602b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "motony103@gmail.com",
+    "legalName": "Xibin",
+    "phoneNumber": "04241777682"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T13:49:19.145Z",
+      "updatedAt": "2025-04-23T13:49:19.145Z",
+      "id": 13174,
+      "merchantId": 5333,
+      "name": "Genio Motos La Candelaria / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5962,
+      "address": {
+        "name": "av universidad con av sur 11 esq. monrroy a tracabordo edif acosta ferro piso pb urb la candelaria caracas",
+        "long": -66.9069375,
+        "lat": 10.503312499999993,
+        "location": "0101000020E6100000068195430BBA50C000560E2DB2012540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T14:23:37.102Z",
+      "updatedAt": "2025-05-08T14:23:37.102Z",
+      "id": 13791,
+      "merchantId": 5333,
+      "name": "Genio Motos Av. Lecuna / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5962,
+      "address": {
+        "name": "Genio Motos, Lecuna entre esquina mirando y puerto escondido local 1 y 2. edif centro ejecutivo",
+        "long": -66.91125000000001,
+        "lat": 10.498750000000001,
+        "location": "0101000020E6100000B91E85EB51BA50C090C2F5285CFF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T14:29:04.540Z",
+      "updatedAt": "2025-05-08T14:29:04.540Z",
+      "id": 13794,
+      "merchantId": 5333,
+      "name": "Genio Motos La Candelaria 2 / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5962,
+      "address": {
+        "name": "esquina peligro a pele el ojo, calle sur 15 edificio torre carabobo local 1 sector la candelaria",
+        "long": -66.9069375,
+        "lat": 10.503187499999996,
+        "location": "0101000020E6100000068195430BBA50C01083C0CAA1012540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

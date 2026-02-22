@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:23:21.297Z",
+  "id": "3331",
+  "amount": 48.31,
+  "invoiceId": "48944",
+  "paidToMerchant": false,
+  "identifierNumber": 3763,
+  "billingDate": "2022-12-22T00:23:21.297Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24939015",
+      "fullName": "VICTOR JOSE MARTINEZ MIJARES",
+      "phoneNumber": "+584241342154"
+    },
+    "installments": [
+      {
+        "id": "11090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:23:48.648Z",
+        "amount": 24.16,
+        "status": "DONE"
+      },
+      {
+        "id": "11093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:23:48.648Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "11091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:23:48.648Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "11092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:23:48.648Z",
+        "amount": 8.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

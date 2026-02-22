@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T00:28:40.853Z",
+  "id": "2431",
+  "amount": 149,
+  "invoiceId": "14139",
+  "paidToMerchant": false,
+  "identifierNumber": 2929,
+  "billingDate": "2022-12-19T00:28:40.853Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15379552",
+      "fullName": "LEONARDO BECERRA VARGAS",
+      "phoneNumber": "+584142303215"
+    },
+    "installments": [
+      {
+        "id": "8009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T00:30:10.919Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T00:30:10.919Z",
+        "amount": 74.5,
+        "status": "DONE"
+      },
+      {
+        "id": "8008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T00:30:10.919Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T00:30:10.919Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

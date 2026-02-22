@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T00:19:11.261Z",
+  "id": "5339",
+  "amount": 56.63,
+  "invoiceId": "00018783",
+  "paidToMerchant": false,
+  "identifierNumber": 5652,
+  "billingDate": "2022-12-28T00:19:11.261Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16134340",
+      "fullName": "GABRIEL ALFONSO CHONG RAMIREZ",
+      "phoneNumber": "+584142790085"
+    },
+    "installments": [
+      {
+        "id": "18338",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T00:19:30.499Z",
+        "amount": 28.32,
+        "status": "DONE"
+      },
+      {
+        "id": "18341",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T00:19:30.499Z",
+        "amount": 9.436666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18339",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T00:19:30.499Z",
+        "amount": 9.436666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18340",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T00:19:30.499Z",
+        "amount": 9.436666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

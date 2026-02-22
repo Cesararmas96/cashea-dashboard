@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:29:18.901Z",
+  "id": "4602",
+  "amount": 120.31,
+  "invoiceId": "50535",
+  "paidToMerchant": false,
+  "identifierNumber": 4951,
+  "billingDate": "2022-12-24T16:29:18.901Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-24T04:00:01.416+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "15716",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18945451",
+      "fullName": "YENNIFER CAROLINA GIL GODOY",
+      "phoneNumber": "+584141955880"
+    },
+    "installments": [
+      {
+        "id": "15717",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:30:32.512Z",
+        "amount": 20.05,
+        "status": "DONE"
+      },
+      {
+        "id": "15716",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:30:32.512Z",
+        "amount": 20.05,
+        "status": "DONE"
+      },
+      {
+        "id": "15714",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:30:32.512Z",
+        "amount": 60.16,
+        "status": "DONE"
+      },
+      {
+        "id": "15715",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:30:32.512Z",
+        "amount": 20.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

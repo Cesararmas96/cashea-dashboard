@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T21:26:54.823Z",
+  "id": "1237",
+  "amount": 58.99,
+  "invoiceId": "000871",
+  "paidToMerchant": false,
+  "identifierNumber": 1895,
+  "billingDate": "2022-12-11T21:26:54.823Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17631077",
+      "fullName": "LUSMARIEL CAROLINA LAZAR MATOS",
+      "phoneNumber": "+584148753589"
+    },
+    "installments": [
+      {
+        "id": "3976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T21:27:09.315Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "3975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T21:27:09.315Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "3977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T21:27:09.315Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "3974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T21:27:09.316Z",
+        "amount": 29.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

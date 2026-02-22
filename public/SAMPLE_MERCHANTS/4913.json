@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-28T19:12:40.493Z",
+  "updatedAt": "2025-04-04T20:59:33.986Z",
+  "id": 4913,
+  "name": "El Rey Frango",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d3145e3f-cd90-4c57-a008-30f3909b1675",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "orlandomendes1995@gmail.com",
+    "legalName": "Orlando",
+    "phoneNumber": "04142841177"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T16:32:11.829Z",
+      "updatedAt": "2025-05-06T16:32:11.829Z",
+      "id": 13655,
+      "merchantId": 4913,
+      "name": "VR_El Rey Frango",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4888,
+      "address": {
+        "name": "Calle Carabobo ent Boyaca y 28 de octubre local nro 21-1 Urb. El Llano Los Teques Miranda",
+        "long": -67.0385625,
+        "lat": 10.342812499999994,
+        "location": "0101000020E61000008716D9CE77C250C0E851B81E85AF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T19:14:32.009Z",
+      "updatedAt": "2025-03-28T19:14:32.009Z",
+      "id": 12346,
+      "merchantId": 4913,
+      "name": "El Rey Frango Los Teques",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4888,
+      "address": {
+        "name": "Calle Carabobo ent Boyaca y 28 de octubre local nro 21-1 Urb. El Llano Los Teques Miranda",
+        "long": -67.0385625,
+        "lat": 10.342812499999994,
+        "location": "0101000020E61000008716D9CE77C250C0E851B81E85AF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

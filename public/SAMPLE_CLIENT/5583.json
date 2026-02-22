@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T21:55:41.126Z",
+  "id": "5277",
+  "amount": 31.92,
+  "invoiceId": "17850",
+  "paidToMerchant": false,
+  "identifierNumber": 5583,
+  "billingDate": "2022-12-27T21:55:41.126Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22904589",
+      "fullName": "YULEISY DEL VALLE GOMEZ PEREZ",
+      "phoneNumber": "+584149901587"
+    },
+    "installments": [
+      {
+        "id": "18110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T21:56:06.756Z",
+        "amount": 15.96,
+        "status": "DONE"
+      },
+      {
+        "id": "18112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T21:56:06.756Z",
+        "amount": 5.32,
+        "status": "DONE"
+      },
+      {
+        "id": "18113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T21:56:06.756Z",
+        "amount": 5.32,
+        "status": "DONE"
+      },
+      {
+        "id": "18111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T21:56:06.756Z",
+        "amount": 5.32,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

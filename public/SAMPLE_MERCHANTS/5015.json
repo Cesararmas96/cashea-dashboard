@@ -1,0 +1,171 @@
+{
+  "createdAt": "2025-04-02T21:18:39.777Z",
+  "updatedAt": "2025-08-18T13:42:53.618Z",
+  "id": 5015,
+  "name": "Tecnioptica",
+  "ecommerceUrl": null,
+  "changePolicy": "Todos nuestros productos tienen garantía por defecto de fabrica en lentes de sol tienen garantía 1 mes en lentes formulados tenemos garantía por adaptación o formula en monturas para fotmular garantía por defecto de fabrica y en las monturas de acetato 6 meses de garantía por si la montura se pela o se deteriora",
+  "email": "negociostecnioptica1364@gmail.com",
+  "phoneNumber": "+584269133374",
+  "logoUrl": null,
+  "data": {
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5904cd90-09b4-4b97-8062-0970959057e8",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "negociostecnioptica1364@gmail.com",
+    "legalName": "Moises Leanivis",
+    "phoneNumber": "4125890846"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T18:01:02.539Z",
+      "updatedAt": "2025-04-25T18:01:02.539Z",
+      "id": 13290,
+      "merchantId": 5015,
+      "name": "VR_Tecnióptica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7884,
+      "address": {
+        "name": "urb. los caobos avenida saller edificio grupo medico bucaral planta baja local 11-13",
+        "long": -66.8850625,
+        "lat": 10.500187499999996,
+        "location": "0101000020E6100000A01A2FDDA4B850C068BC749318002540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T21:21:49.829Z",
+      "updatedAt": "2025-04-02T21:21:49.829Z",
+      "id": 12561,
+      "merchantId": 5015,
+      "name": "Tecnióptica Edif Grupo Medico Bucaral",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7884,
+      "address": {
+        "name": "urb. los caobos avenida saller edificio grupo medico bucaral planta baja local 11-13",
+        "long": -66.8850625,
+        "lat": 10.500187499999996,
+        "location": "0101000020E6100000A01A2FDDA4B850C068BC749318002540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-19T21:56:17.152Z",
+      "updatedAt": "2025-08-18T13:42:56.287Z",
+      "id": 16033,
+      "merchantId": 5015,
+      "name": "Tecnioptica Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7884,
+      "address": {
+        "name": "urb. los caobos avenida saller edificio grupo medico bucaral planta baja local 11-13",
+        "long": -66.8850625,
+        "lat": 10.500187499999996,
+        "location": "0101000020E6100000A01A2FDDA4B850C068BC749318002540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

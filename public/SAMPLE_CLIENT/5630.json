@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T17:37:31.210Z",
+  "id": "7189",
+  "amount": 37.81,
+  "invoiceId": "49689",
+  "paidToMerchant": false,
+  "identifierNumber": 5630,
+  "billingDate": "2023-01-02T17:37:31.210Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17158319",
+      "fullName": "ORLANDO JOSE PINTO OVIEDO",
+      "phoneNumber": "+584241266733"
+    },
+    "installments": [
+      {
+        "id": "24918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T17:37:43.905Z",
+        "amount": 18.91,
+        "status": "DONE"
+      },
+      {
+        "id": "24920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T17:37:43.904Z",
+        "amount": 6.300000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "24921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T17:37:43.904Z",
+        "amount": 6.300000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "24919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T17:37:43.904Z",
+        "amount": 6.300000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

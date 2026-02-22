@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-08T13:34:13.446Z",
+  "updatedAt": "2025-06-20T20:30:42.102Z",
+  "id": 5617,
+  "name": "Centro de Carnes Carliss",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7ec28562-17b8-4f27-a16c-4d3263d76711",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "carloseaugello@gmail.com",
+    "legalName": "Carlos Augello",
+    "phoneNumber": "4126743961"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T13:36:13.792Z",
+      "updatedAt": "2025-05-08T13:36:13.792Z",
+      "id": 13779,
+      "merchantId": 5617,
+      "name": "Centro de Carnes Carliss El Tocuyo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11312,
+      "address": {
+        "name": "Av. Lisandro Alvarado entre calles 10 y 11 Local S/N Sector Centro. El Tocuyo, Edo. Lara.",
+        "long": -69.79343750000001,
+        "lat": 9.78831249999999,
+        "location": "0101000020E6100000E27A14AEC77251C0500E2DB29D932340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

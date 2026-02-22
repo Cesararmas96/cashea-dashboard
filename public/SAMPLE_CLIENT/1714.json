@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T01:15:27.245Z",
+  "id": "1050",
+  "amount": 44.98,
+  "invoiceId": "4525",
+  "paidToMerchant": false,
+  "identifierNumber": 1714,
+  "billingDate": "2022-12-10T01:15:27.245Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28309069",
+      "fullName": "ORLANDO MICHALLE CARDENAS CARDENAS",
+      "phoneNumber": "+584247408132"
+    },
+    "installments": [
+      {
+        "id": "3341",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T01:15:51.427Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3339",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T01:15:51.427Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3340",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T01:15:51.427Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "3338",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T01:15:51.428Z",
+        "amount": 22.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

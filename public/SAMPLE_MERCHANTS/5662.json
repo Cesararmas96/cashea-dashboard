@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-05-09T14:48:28.762Z",
+  "updatedAt": "2025-08-28T16:52:19.445Z",
+  "id": 5662,
+  "name": "Servicio de Salud Arismendi",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": "servisaludarismendi2014@gmail.com",
+  "phoneNumber": "+584128065183",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "004c2059-5283-422d-a25d-a7ae850e1f7b",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "suhays81@yahoo.com.ve",
+    "legalName": "Infavel Group",
+    "phoneNumber": "04126142005"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T14:51:13.317Z",
+      "updatedAt": "2025-05-09T14:51:13.317Z",
+      "id": 13873,
+      "merchantId": 5662,
+      "name": "Servicio de Salud Arismnebdi FP Catia La Mar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8799,
+      "address": {
+        "name": "Av. Atlántida, C.C. Jardines Plaza, Piso 2, Local 22, Atlántida, Catia La Mar",
+        "long": -67.03125,
+        "lat": 10.603749999999991,
+        "location": "0101000020E61000000000000000C250C080EB51B81E352540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-08T20:14:21.614Z",
+      "updatedAt": "2025-07-08T20:14:21.614Z",
+      "id": 17016,
+      "merchantId": 5662,
+      "name": "VR_Servicio de Salud Arismnebdi FP, Av. Atlántida",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8799,
+      "address": {
+        "name": "Av. Atlántida, C.C. Jardines Plaza, Piso 2, Local 22, Atlántida, Catia La Mar",
+        "long": -67.03125,
+        "lat": 10.603749999999991,
+        "location": "0101000020E61000000000000000C250C080EB51B81E352540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-28T16:18:31.237Z",
+      "updatedAt": "2025-08-28T16:18:31.237Z",
+      "id": 20113,
+      "merchantId": 5662,
+      "name": "Servicio de Salud Arismendi Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8799,
+      "address": {
+        "name": "Av. Atlántida, C.C. Jardines Plaza, Piso 2, Local 22, Atlántida, Catia La Mar",
+        "long": -67.03125,
+        "lat": 10.603749999999991,
+        "location": "0101000020E61000000000000000C250C080EB51B81E352540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

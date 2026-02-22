@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:34:51.266Z",
+  "id": "2771",
+  "amount": 94.98,
+  "invoiceId": "17459",
+  "paidToMerchant": false,
+  "identifierNumber": 3260,
+  "billingDate": "2022-12-20T18:34:51.266Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16577713",
+      "fullName": "ZAYRYMAR MERCEDES NIEVES HERNANDEZ",
+      "phoneNumber": "+584242923803"
+    },
+    "installments": [
+      {
+        "id": "9133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:36:27.679Z",
+        "amount": 15.83,
+        "status": "DONE"
+      },
+      {
+        "id": "9132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:36:27.679Z",
+        "amount": 15.83,
+        "status": "DONE"
+      },
+      {
+        "id": "9131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:36:27.679Z",
+        "amount": 15.83,
+        "status": "DONE"
+      },
+      {
+        "id": "9130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:36:27.680Z",
+        "amount": 47.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

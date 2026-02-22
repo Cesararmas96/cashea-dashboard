@@ -1,0 +1,399 @@
+{
+  "createdAt": "2025-05-05T20:54:58.032Z",
+  "updatedAt": "2025-05-05T20:54:58.032Z",
+  "id": 5545,
+  "name": "Unico (Maxi Moda 77)",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 994,
+  "tags": [],
+  "uuid": "c0906012-63ca-4e4f-a278-26172a5aa7cd",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "dptocontabilidadfantasias@gmail.com",
+    "legalName": "Dulce Garcia ",
+    "phoneNumber": "04144326335"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-11T21:33:53.056Z",
+      "updatedAt": "2025-07-11T21:33:53.056Z",
+      "id": 17228,
+      "merchantId": 5545,
+      "name": "Unico CC Hipergalerias Guacara",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Carretera Nacional, CC Hipergalerias, Guacara, Carabobo 2015",
+        "long": -67.89568750000001,
+        "lat": 10.2175625,
+        "location": "0101000020E6100000E8FBA9F152F950C008AC1C5A646F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T20:14:54.050Z",
+      "updatedAt": "2025-05-05T20:14:54.050Z",
+      "id": 13604,
+      "merchantId": 5545,
+      "name": "Único Nueva Caracas Catia / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Urbanización Nueva Caracas, Avenida España, Boulevard Uno, Edificio 14, Catia Distrito Capital",
+        "long": -66.94668750000001,
+        "lat": 10.513937499999997,
+        "location": "0101000020E61000000D022B8796BC50C04060E5D022072540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T15:26:19.277Z",
+      "updatedAt": "2025-05-06T15:26:19.277Z",
+      "id": 13648,
+      "merchantId": 5545,
+      "name": "Unico (Maxi Moda 77) CC Traki Apure",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "UNICO CC Traki Apure",
+        "long": -67.49293750000001,
+        "lat": 7.8636874999999975,
+        "location": "0101000020E6100000365EBA498CDF50C020DBF97E6A741F40",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T14:00:33.769Z",
+      "updatedAt": "2025-05-06T14:00:33.769Z",
+      "id": 13624,
+      "merchantId": 5545,
+      "name": "Unico CC Galeria Plaza Mcy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Unico (Maxi Moda 77) CC Galeria Plaza Mcy.",
+        "long": -67.6068125,
+        "lat": 10.252312500000002,
+        "location": "0101000020E610000075931804D6E650C078BE9F1A2F812440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T20:57:49.340Z",
+      "updatedAt": "2025-05-05T20:57:49.340Z",
+      "id": 13611,
+      "merchantId": 5545,
+      "name": "Unico Goajiros Val",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Unico (Maxi Moda 77) guajiros Val.",
+        "long": -67.99306250000001,
+        "lat": 10.160812500000006,
+        "location": "0101000020E6100000941804568EFF50C07893180456522440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T20:02:03.453Z",
+      "updatedAt": "2025-05-07T20:02:03.453Z",
+      "id": 13741,
+      "merchantId": 5545,
+      "name": "Unico Calle Urdaneta Mcy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Unico Calle Urdaneta Mcy.",
+        "long": -67.4836875,
+        "lat": 10.035062499999995,
+        "location": "0101000020E6100000FA7E6ABCF4DE50C0C8A145B6F3112440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T15:05:43.064Z",
+      "updatedAt": "2025-05-06T15:05:43.064Z",
+      "id": 13640,
+      "merchantId": 5545,
+      "name": "Unico (Maxi Moda 77) El Vigia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "UNICO El Vigia",
+        "long": -71.67631250000001,
+        "lat": 8.60681249999999,
+        "location": "0101000020E6100000115839B448EB51C0A09BC420B0362140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T20:13:40.640Z",
+      "updatedAt": "2025-05-05T20:13:40.640Z",
+      "id": 13603,
+      "merchantId": 5545,
+      "name": "Único Maiquetía",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Población Maiquetía Calle Real Edificio Nro 215 La Guaira, Edo Vargas",
+        "long": -66.9505625,
+        "lat": 10.595062499999997,
+        "location": "0101000020E610000075931804D6BC50C0E8263108AC302540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T20:16:57.348Z",
+      "updatedAt": "2025-05-05T20:16:57.348Z",
+      "id": 13605,
+      "merchantId": 5545,
+      "name": "Único La Trinidad",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Avenida Intercomunal baruta el Hatillo, hoy Rafael Caldera, Urbanización el Cigarral, Centro Traki La trinidad, Nivel PB, local L-07, municipio el Hatillo",
+        "long": -73.8401875,
+        "lat": 42.429687500000014,
+        "location": "0101000020E610000083C0CAA1C57552C00200000000374540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T20:19:20.878Z",
+      "updatedAt": "2025-05-05T20:19:20.878Z",
+      "id": 13606,
+      "merchantId": 5545,
+      "name": "Único La Candelaria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Centro Comercial Astro, Local A, PB Mezzanina, entre las esquinas de Ferrenquin y Cruz de la Candelaria, Municipio Libertador, Distrito Capital",
+        "long": -66.90593750000001,
+        "lat": 10.5048125,
+        "location": "0101000020E610000015AE47E1FAB950C05839B4C876022540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T13:38:34.412Z",
+      "updatedAt": "2025-05-06T13:38:34.412Z",
+      "id": 13620,
+      "merchantId": 5545,
+      "name": "Unico Blvd. Perez Almarza Mcy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6677,
+      "address": {
+        "name": "Unico (Maxi Moda 77) Único Blvd. Perez Almarza Mcy.",
+        "long": -67.60343750000001,
+        "lat": 10.251937499999997,
+        "location": "0101000020E610000086EB51B89EE650C0A045B6F3FD802440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

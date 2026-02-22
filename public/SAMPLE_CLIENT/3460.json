@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T14:35:50.965Z",
+  "id": "3076",
+  "amount": 49.36,
+  "invoiceId": "00012967",
+  "paidToMerchant": false,
+  "identifierNumber": 3460,
+  "billingDate": "2022-12-21T14:35:50.965Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "80",
+    "buyDebtDate": "2023-01-07T04:00:00.368+00:00",
+    "lastStoreId": 67,
+    "boughtForInstallmentId": "10187",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25492265",
+      "fullName": "YHORMARI GLAIDIMAR OCANTO SANCHEZ",
+      "phoneNumber": "+584121069910"
+    },
+    "installments": [
+      {
+        "id": "10189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T14:36:32.013Z",
+        "amount": 8.226666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T14:36:32.013Z",
+        "amount": 8.226666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "10186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T14:36:32.013Z",
+        "amount": 24.68,
+        "status": "DONE"
+      },
+      {
+        "id": "10187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T14:36:32.013Z",
+        "amount": 8.226666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

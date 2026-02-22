@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:07:48.581Z",
+  "id": "2005",
+  "amount": 60,
+  "invoiceId": "1649",
+  "paidToMerchant": false,
+  "identifierNumber": 2540,
+  "billingDate": "2022-12-17T20:07:48.581Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6960859",
+      "fullName": "VALENTINA ACOSTA ESPANA",
+      "phoneNumber": "+584149071585"
+    },
+    "installments": [
+      {
+        "id": "6509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:08:26.916Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:08:26.916Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:08:26.916Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "6506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:08:26.916Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

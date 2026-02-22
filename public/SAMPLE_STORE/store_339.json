@@ -1,0 +1,110 @@
+[
+  {
+    "id": 16433,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501530378",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "WARDHA, C.A.",
+    "internalBankHolder": "WARDHA, C.A.",
+    "account": "01910098772198490947",
+    "accountType": "Corriente",
+    "phoneNumber": "4122216249",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 16431,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501530378",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "WARDHA, C.A.",
+    "internalBankHolder": "WARDHA, C.A.",
+    "account": "01910098772198490947",
+    "accountType": "Corriente",
+    "phoneNumber": "4122216249",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 16432,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501530378",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "WARDHA, C.A.",
+    "internalBankHolder": "WARDHA, C.A.",
+    "account": "01910098772198490947",
+    "accountType": "Corriente",
+    "phoneNumber": "4122216249",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

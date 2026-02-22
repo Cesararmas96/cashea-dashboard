@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:54:35.875Z",
+  "id": "3744",
+  "amount": 94.77,
+  "invoiceId": "14590",
+  "paidToMerchant": false,
+  "identifierNumber": 4146,
+  "billingDate": "2022-12-22T23:54:35.875Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21117883",
+      "fullName": "KRISMAR JOSELYN PEREZ CORDOVA",
+      "phoneNumber": "+584142223812"
+    },
+    "installments": [
+      {
+        "id": "12561",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:54:53.749Z",
+        "amount": 15.796666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "12558",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:54:53.749Z",
+        "amount": 47.38,
+        "status": "DONE"
+      },
+      {
+        "id": "12560",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:54:53.749Z",
+        "amount": 15.796666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "12559",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:54:53.749Z",
+        "amount": 15.796666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

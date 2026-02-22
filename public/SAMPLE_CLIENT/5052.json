@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:01:45.894Z",
+  "id": "4784",
+  "amount": 135.31,
+  "invoiceId": "7129",
+  "paidToMerchant": false,
+  "identifierNumber": 5052,
+  "billingDate": "2022-12-24T19:01:45.894Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11673712",
+      "fullName": "ZOILA MARGARITA MISEL CORNIEL",
+      "phoneNumber": "+584242299402"
+    },
+    "installments": [
+      {
+        "id": "16378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:03:02.143Z",
+        "amount": 67.66,
+        "status": "DONE"
+      },
+      {
+        "id": "16380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:03:02.143Z",
+        "amount": 22.55,
+        "status": "DONE"
+      },
+      {
+        "id": "16379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:03:02.143Z",
+        "amount": 22.55,
+        "status": "DONE"
+      },
+      {
+        "id": "16381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:03:02.143Z",
+        "amount": 22.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

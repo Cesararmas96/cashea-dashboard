@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:42:01.954Z",
+  "id": "4198",
+  "amount": 54.2,
+  "invoiceId": "1041",
+  "paidToMerchant": false,
+  "identifierNumber": 4563,
+  "billingDate": "2022-12-23T21:42:01.954Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-09T04:00:01.307+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "14207",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16653731",
+      "fullName": "MARIA DE LOS ANGELES PEREZ GASPERY",
+      "phoneNumber": "+584268061379"
+    },
+    "installments": [
+      {
+        "id": "14208",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:42:20.311Z",
+        "amount": 9.033333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14206",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:42:20.311Z",
+        "amount": 27.1,
+        "status": "DONE"
+      },
+      {
+        "id": "14207",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:42:20.311Z",
+        "amount": 9.033333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14209",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:42:20.311Z",
+        "amount": 9.033333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

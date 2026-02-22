@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T17:19:29.204Z",
+  "id": "3441",
+  "amount": 30.29,
+  "invoiceId": "00001927",
+  "paidToMerchant": false,
+  "identifierNumber": 3858,
+  "billingDate": "2022-12-22T17:19:29.204Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25253421",
+      "fullName": "MARYELIS JAL ZAMBRANO CHAVEZ",
+      "phoneNumber": "+584242122569"
+    },
+    "installments": [
+      {
+        "id": "11505",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T17:20:31.006Z",
+        "amount": 5.05,
+        "status": "DONE"
+      },
+      {
+        "id": "11502",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T17:20:31.007Z",
+        "amount": 15.14,
+        "status": "DONE"
+      },
+      {
+        "id": "11503",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T17:20:31.006Z",
+        "amount": 5.05,
+        "status": "DONE"
+      },
+      {
+        "id": "11504",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T17:20:31.006Z",
+        "amount": 5.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

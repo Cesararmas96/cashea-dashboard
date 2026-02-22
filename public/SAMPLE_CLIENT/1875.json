@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T19:19:53.771Z",
+  "id": "1198",
+  "amount": 158.19,
+  "invoiceId": "00004627",
+  "paidToMerchant": false,
+  "identifierNumber": 1875,
+  "billingDate": "2022-12-11T19:19:53.771Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24243321",
+      "fullName": "ELIAS MAKSOUD NAIM",
+      "phoneNumber": "+584141261287"
+    },
+    "installments": [
+      {
+        "id": "3829",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:20:27.055Z",
+        "amount": 26.366666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "3826",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:20:27.055Z",
+        "amount": 79.09,
+        "status": "DONE"
+      },
+      {
+        "id": "3827",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:20:27.055Z",
+        "amount": 26.366666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "3828",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:20:27.055Z",
+        "amount": 26.366666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

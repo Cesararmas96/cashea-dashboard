@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-10T13:43:49.349Z",
+  "updatedAt": "2025-04-25T15:37:23.710Z",
+  "id": 5166,
+  "name": "KSERITAS",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cde1c8fc-1d78-4195-9178-c34e0f44a946",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "kseritas@gmail.com",
+    "legalName": "ROSANNA HERNANDEZ",
+    "phoneNumber": "4142406676"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T20:11:38.066Z",
+      "updatedAt": "2025-05-13T20:11:38.066Z",
+      "id": 14073,
+      "merchantId": 5166,
+      "name": "VR_Kseritas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5770,
+      "address": {
+        "name": "Av. Lima Edf. Chile Local B Piso PB. Urb. Los Caobos. Caracas",
+        "long": -66.8858125,
+        "lat": 10.501937499999997,
+        "location": "0101000020E6100000D578E926B1B850C0A045B6F3FD002540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-10T13:46:14.484Z",
+      "updatedAt": "2025-04-10T13:46:14.484Z",
+      "id": 12799,
+      "merchantId": 5166,
+      "name": "KSERITAS Los Caobos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5770,
+      "address": {
+        "name": "Av. Lima Edf. Chile Local B Piso PB. Urb. Los Caobos. Caracas",
+        "long": -66.8858125,
+        "lat": 10.501937499999997,
+        "location": "0101000020E6100000D578E926B1B850C0A045B6F3FD002540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

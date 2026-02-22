@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:37:12.641Z",
+  "id": "3473",
+  "amount": 32.63,
+  "invoiceId": "18285",
+  "paidToMerchant": false,
+  "identifierNumber": 5393,
+  "billingDate": "2022-12-22T18:37:12.641Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21415661",
+      "fullName": "ESTEFANY ALEJANDRA FLORVILLE PENARANDA",
+      "phoneNumber": "+584141378767"
+    },
+    "installments": [
+      {
+        "id": "11602",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:38:01.257Z",
+        "amount": 16.32,
+        "status": "DONE"
+      },
+      {
+        "id": "11605",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:38:01.257Z",
+        "amount": 5.436666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11604",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:38:01.257Z",
+        "amount": 5.436666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11603",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:38:01.257Z",
+        "amount": 5.436666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

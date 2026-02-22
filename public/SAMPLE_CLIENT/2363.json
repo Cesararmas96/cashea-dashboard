@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T21:07:24.549Z",
+  "id": "1768",
+  "amount": 40.6,
+  "invoiceId": "9943",
+  "paidToMerchant": false,
+  "identifierNumber": 2363,
+  "billingDate": "2022-12-16T21:07:24.549Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24275592",
+      "fullName": "TONY JAVIER LEDEZMA REYES",
+      "phoneNumber": "+584241586924"
+    },
+    "installments": [
+      {
+        "id": "5702",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T21:08:16.805Z",
+        "amount": 20.3,
+        "status": "DONE"
+      },
+      {
+        "id": "5704",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T21:08:16.804Z",
+        "amount": 6.766666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5703",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T21:08:16.804Z",
+        "amount": 6.766666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5705",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T21:08:16.804Z",
+        "amount": 6.766666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

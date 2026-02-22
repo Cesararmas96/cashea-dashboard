@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T00:01:02.439Z",
+  "id": "1034",
+  "amount": 160,
+  "invoiceId": "12652",
+  "paidToMerchant": false,
+  "identifierNumber": 1725,
+  "billingDate": "2022-12-10T00:01:02.439Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21090877",
+      "fullName": "RUBEN AMARO GOMEZ DA SILVA",
+      "phoneNumber": "+584242133336"
+    },
+    "installments": [
+      {
+        "id": "3289",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T00:01:43.950Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3288",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T00:01:43.950Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3287",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T00:01:43.950Z",
+        "amount": 26.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3286",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T00:01:43.950Z",
+        "amount": 80,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 47,
+    "name": "Timberland Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

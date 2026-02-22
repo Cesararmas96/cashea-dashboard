@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-04T18:25:23.814Z",
+  "updatedAt": "2025-04-08T14:55:40.719Z",
+  "id": 5060,
+  "name": "Inversiones autoval",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "3ce9855c-ec88-4c9f-ab84-823e8c7ece9d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jorgevaldivieso742@hotmail.com",
+    "legalName": "Jorge luis",
+    "phoneNumber": "4148933038"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T18:26:52.759Z",
+      "updatedAt": "2025-04-04T18:26:52.759Z",
+      "id": 12633,
+      "merchantId": 5060,
+      "name": "Inversiones autoval Bolivar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5806,
+      "address": {
+        "name": "Av España c/c bella vista Edif vanessa local n2 la sabanita Ciudad Bolívar edo Bolívar",
+        "long": -63.5608125,
+        "lat": 8.105687499999988,
+        "location": "0101000020E6100000105839B4C8C74FC0203108AC1C362040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

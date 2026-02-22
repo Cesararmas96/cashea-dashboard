@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T21:08:46.315Z",
+  "id": "620",
+  "amount": 45.66,
+  "invoiceId": "7749",
+  "paidToMerchant": false,
+  "identifierNumber": 1377,
+  "billingDate": "2022-12-03T21:08:46.315Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30954094",
+      "fullName": "RUBEN ALFREDO RIAL CASTELLANOS",
+      "phoneNumber": "+584128217108"
+    },
+    "installments": [
+      {
+        "id": "1977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T21:09:24.937Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "1974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T21:09:24.937Z",
+        "amount": 22.83,
+        "status": "DONE"
+      },
+      {
+        "id": "1975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T21:09:24.937Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "1976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T21:09:24.937Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

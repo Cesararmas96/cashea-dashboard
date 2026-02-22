@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:20:49.001Z",
+  "id": "4086",
+  "amount": 94.79,
+  "invoiceId": "12945",
+  "paidToMerchant": false,
+  "identifierNumber": 4478,
+  "billingDate": "2022-12-23T20:20:49.001Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-09T04:00:01.150+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "13803",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25482849",
+      "fullName": "JEAN KENDRI IRIARTE ALTAHONA",
+      "phoneNumber": "+584125824206"
+    },
+    "installments": [
+      {
+        "id": "13804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:21:07.744Z",
+        "amount": 15.796666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "13805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:21:07.744Z",
+        "amount": 15.796666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "13803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:21:07.744Z",
+        "amount": 15.796666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "13802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:21:07.745Z",
+        "amount": 47.4,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

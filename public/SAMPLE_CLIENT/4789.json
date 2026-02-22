@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T01:15:46.040Z",
+  "id": "4457",
+  "amount": 66.22,
+  "invoiceId": "1083",
+  "paidToMerchant": false,
+  "identifierNumber": 4789,
+  "billingDate": "2022-12-24T01:15:46.040Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-09T04:00:01.337+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "15167",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23630774",
+      "fullName": "YORWING ALEXANDER GALINDEZ TORRES",
+      "phoneNumber": "+584121405668"
+    },
+    "installments": [
+      {
+        "id": "15169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:16:05.656Z",
+        "amount": 11.036666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "15166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:16:05.657Z",
+        "amount": 33.11,
+        "status": "DONE"
+      },
+      {
+        "id": "15168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:16:05.656Z",
+        "amount": 11.036666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:16:05.656Z",
+        "amount": 11.036666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

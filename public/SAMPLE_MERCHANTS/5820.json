@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-16T17:23:25.124Z",
+  "updatedAt": "2025-06-20T21:48:19.770Z",
+  "id": 5820,
+  "name": "Noor Sport",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "422bc228-0b2b-4c2d-9fdd-6285f1f38f21",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sami.mosbah2@gmail.com",
+    "legalName": "ABDELAZIM ABDEIMONEIM",
+    "phoneNumber": "04123905556"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T17:25:03.519Z",
+      "updatedAt": "2025-05-16T17:25:03.519Z",
+      "id": 14244,
+      "merchantId": 5820,
+      "name": "Noor Sport Av 5 De Julio",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11607,
+      "address": {
+        "name": "AV 5 DE JULIO CASA NRO 6-133 SECTOR CENTRO BARCELONAANZOATEGU",
+        "long": -64.67500000000001,
+        "lat": 10.124999999999993,
+        "location": "0101000020E610000034333333332B50C0FCFFFFFFFF3F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

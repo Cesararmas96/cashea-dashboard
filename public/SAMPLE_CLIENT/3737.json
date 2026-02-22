@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:12:36.151Z",
+  "id": "3279",
+  "amount": 249.87,
+  "invoiceId": "15184",
+  "paidToMerchant": false,
+  "identifierNumber": 3737,
+  "billingDate": "2022-12-21T23:12:36.151Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13472153",
+      "fullName": "IRIDIAN AUXILIADORA MONTILLA ACUNA",
+      "phoneNumber": "+584144128343"
+    },
+    "installments": [
+      {
+        "id": "10902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:14:25.124Z",
+        "amount": 124.94,
+        "status": "DONE"
+      },
+      {
+        "id": "10905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:14:25.124Z",
+        "amount": 41.64333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:14:25.124Z",
+        "amount": 41.64333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:14:25.124Z",
+        "amount": 41.64333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

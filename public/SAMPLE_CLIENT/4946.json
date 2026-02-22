@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:05:24.696Z",
+  "id": "4584",
+  "amount": 54.99,
+  "invoiceId": "15069",
+  "paidToMerchant": false,
+  "identifierNumber": 4946,
+  "billingDate": "2022-12-24T16:05:24.696Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-24T04:00:01.248+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "15640",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17401411",
+      "fullName": "GUSTAVO ENRIQUE GARCIA PADRON",
+      "phoneNumber": "+584142294555"
+    },
+    "installments": [
+      {
+        "id": "15641",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:05:43.739Z",
+        "amount": 9.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15638",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:05:43.739Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15639",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:05:43.739Z",
+        "amount": 9.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15640",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:05:43.739Z",
+        "amount": 9.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T18:19:37.966Z",
+  "id": "3981",
+  "amount": 94.65,
+  "invoiceId": "13770",
+  "paidToMerchant": false,
+  "identifierNumber": 4387,
+  "billingDate": "2022-12-23T18:19:37.966Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-09T04:00:00.997+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "13439",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16224560",
+      "fullName": "BARBARA VIRGINIA MORA DELGADO",
+      "phoneNumber": "+584128283467"
+    },
+    "installments": [
+      {
+        "id": "13440",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:28:25.790Z",
+        "amount": 15.773333333333335,
+        "status": "DELAYED"
+      },
+      {
+        "id": "13441",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:28:25.790Z",
+        "amount": 15.773333333333335,
+        "status": "DELAYED"
+      },
+      {
+        "id": "13439",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:28:25.790Z",
+        "amount": 15.773333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "13438",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:28:25.790Z",
+        "amount": 47.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

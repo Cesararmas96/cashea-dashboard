@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-12T14:33:25.443Z",
+  "updatedAt": "2025-05-21T16:43:15.653Z",
+  "id": 5702,
+  "name": "Óptica Salud Visual - Juvenal Morillo FP",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "44efbc6c-8dca-4ee7-ad92-4d1c18692179",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "juvenalmorillo9901@hotmail.com",
+    "legalName": "Juvenal",
+    "phoneNumber": "4124769397"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T15:47:13.348Z",
+      "updatedAt": "2025-05-12T15:47:13.348Z",
+      "id": 13972,
+      "merchantId": 5702,
+      "name": "Óptica Salud Visual - Juvenal Morillo FP San Carlos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6344,
+      "address": {
+        "name": "Calle Figueredo entre calle alegria y Av bolivar , casa 9-19,local 1",
+        "long": -68.58874999999999,
+        "lat": 9.663750000000007,
+        "location": "0101000020E610000047E17A14AE2551C0A8703D0AD7532340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

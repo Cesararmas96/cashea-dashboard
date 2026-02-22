@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:07:13.240Z",
+  "id": "4151",
+  "amount": 119.38,
+  "invoiceId": "13790",
+  "paidToMerchant": false,
+  "identifierNumber": 4558,
+  "billingDate": "2022-12-23T21:07:13.240Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-23T04:00:01.427+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "14048",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13160310",
+      "fullName": "WILMER JOSE VELIZ TERAN",
+      "phoneNumber": "+584126203920"
+    },
+    "installments": [
+      {
+        "id": "14048",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:07:48.550Z",
+        "amount": 19.896666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "14046",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:07:48.550Z",
+        "amount": 59.69,
+        "status": "DONE"
+      },
+      {
+        "id": "14049",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:07:48.550Z",
+        "amount": 19.896666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "14047",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:07:48.550Z",
+        "amount": 19.896666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

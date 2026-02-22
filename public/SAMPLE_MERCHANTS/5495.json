@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-02T13:34:07.960Z",
+  "updatedAt": "2025-05-15T13:10:23.933Z",
+  "id": 5495,
+  "name": "Mora´s Optical",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5e991079-6aa6-433f-ad42-57cb21ac0a99",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "morasopticalccs@gmail.com",
+    "legalName": "Beramut",
+    "phoneNumber": "04129548985"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-27T13:31:25.391Z",
+      "updatedAt": "2025-05-27T13:31:25.391Z",
+      "id": 14710,
+      "merchantId": 5495,
+      "name": "VR_Mora´s Optical",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6794,
+      "address": {
+        "name": "AVENIDA FRANCISCO DE MIRANDA CC UNICENTRO EL MARQUEZ NIVEL 1 LOCAL MT-5 URB EL MARQUES CARACAS",
+        "long": -66.8184375,
+        "lat": 10.482187500000009,
+        "location": "0101000020E61000007B14AE4761B450C08014AE47E1F62440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T13:35:21.370Z",
+      "updatedAt": "2025-05-02T13:35:21.370Z",
+      "id": 13518,
+      "merchantId": 5495,
+      "name": "Mora´s Optical CC Unicentro El Marques",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6794,
+      "address": {
+        "name": "AVENIDA FRANCISCO DE MIRANDA CC UNICENTRO EL MARQUEZ NIVEL 1 LOCAL MT-5 URB EL MARQUES CARACAS",
+        "long": -66.8184375,
+        "lat": 10.482187500000009,
+        "location": "0101000020E61000007B14AE4761B450C08014AE47E1F62440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

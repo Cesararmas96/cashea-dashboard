@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-13T17:05:32.342Z",
+  "updatedAt": "2025-05-13T17:05:32.342Z",
+  "id": 5745,
+  "name": "Hiper Ebenezer Market San Felipe",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 868,
+  "tags": [],
+  "uuid": "4065838a-91a6-4436-87c3-6dadb60a4fca",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "alimentosdaykari@gmail.com",
+    "legalName": "Anthony Alvarado",
+    "phoneNumber": "04127909886"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-27T13:45:36.595Z",
+      "updatedAt": "2025-05-27T13:45:36.595Z",
+      "id": 14712,
+      "merchantId": 5745,
+      "name": "VR_Hiper Ebenezer Market San Felipe",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3533,
+      "address": {
+        "name": "Hiper Ebenezer Market San Felipe Av 10 ",
+        "long": -68.7414375,
+        "lat": 10.338812499999989,
+        "location": "0101000020E6100000CBA145B6732F51C0B0F3FDD478AD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-13T17:51:33.599Z",
+      "updatedAt": "2025-05-13T17:51:33.599Z",
+      "id": 14062,
+      "merchantId": 5745,
+      "name": "Hiper Ebenezer Market San Felipe Av 10",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 868,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3533,
+      "address": {
+        "name": "Hiper Ebenezer Market San Felipe Av 10 ",
+        "long": -68.7414375,
+        "lat": 10.338812499999989,
+        "location": "0101000020E6100000CBA145B6732F51C0B0F3FDD478AD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

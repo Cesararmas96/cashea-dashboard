@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T18:38:29.666Z",
+  "id": "5228",
+  "amount": 39.98,
+  "invoiceId": "7590",
+  "paidToMerchant": false,
+  "identifierNumber": 5532,
+  "billingDate": "2022-12-27T18:38:29.666Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23623651",
+      "fullName": "DANIELA VIRGINIA RIOBUENO RIOBUENO",
+      "phoneNumber": "+584142124607"
+    },
+    "installments": [
+      {
+        "id": "17918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T18:39:27.118Z",
+        "amount": 19.99,
+        "status": "DONE"
+      },
+      {
+        "id": "17920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T18:39:27.118Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T18:39:27.118Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T18:39:27.118Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

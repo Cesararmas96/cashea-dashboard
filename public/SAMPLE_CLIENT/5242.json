@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T17:40:38.459Z",
+  "id": "5814",
+  "amount": 62.72,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5242,
+  "billingDate": "2022-12-29T17:40:38.459Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25253173",
+      "fullName": "DUBRASKA GABRIELA ZABALA VALENCIA",
+      "phoneNumber": "+584241506369"
+    },
+    "installments": [
+      {
+        "id": "20043",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:40:59.873Z",
+        "amount": 10.453333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20044",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:40:59.873Z",
+        "amount": 10.453333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20045",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:40:59.873Z",
+        "amount": 10.453333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20042",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:40:59.873Z",
+        "amount": 31.36,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

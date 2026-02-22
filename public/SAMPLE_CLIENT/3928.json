@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T18:34:49.607Z",
+  "id": "3471",
+  "amount": 49.53,
+  "invoiceId": "44346",
+  "paidToMerchant": false,
+  "identifierNumber": 3928,
+  "billingDate": "2022-12-22T18:34:49.607Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-02-05T04:00:00.910+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "11613",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25830074",
+      "fullName": "YOSMAR PAMELA RODRIGUEZ YAVINAPE",
+      "phoneNumber": "+584262414896"
+    },
+    "installments": [
+      {
+        "id": "11613",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:39:19.627Z",
+        "amount": 8.253333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11610",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:39:19.627Z",
+        "amount": 24.77,
+        "status": "DONE"
+      },
+      {
+        "id": "11612",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:39:19.627Z",
+        "amount": 8.253333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11611",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:39:19.627Z",
+        "amount": 8.253333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

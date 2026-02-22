@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-27T16:53:57.826Z",
+  "id": "514",
+  "amount": 100.8,
+  "invoiceId": "6934",
+  "paidToMerchant": false,
+  "identifierNumber": 1024,
+  "billingDate": "2022-11-27T16:53:57.826Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6750437",
+      "fullName": "LISSETTE CAROLINA GONZALEZ BELEÑO",
+      "phoneNumber": "+584125682675"
+    },
+    "installments": [
+      {
+        "id": "1610",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T16:54:51.774Z",
+        "amount": 50.4,
+        "status": "DONE"
+      },
+      {
+        "id": "1612",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T16:54:51.773Z",
+        "amount": 16.8,
+        "status": "DONE"
+      },
+      {
+        "id": "1613",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T16:54:51.773Z",
+        "amount": 16.8,
+        "status": "DONE"
+      },
+      {
+        "id": "1611",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T16:54:51.773Z",
+        "amount": 16.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

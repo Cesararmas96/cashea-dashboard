@@ -1,0 +1,74 @@
+[
+  {
+    "id": 832,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501507864",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MAKEVENTS SERVICES, C.A",
+    "internalBankHolder": "MAKEVENTS SERVICES, C.A. ",
+    "account": "01910098782198424311",
+    "accountType": "Corriente",
+    "phoneNumber": "4129018840",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 830,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501507864",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MAKEVENTS SERVICES, C.A",
+    "internalBankHolder": "MAKEVENTS SERVICES, C.A. ",
+    "account": "01910098782198424311",
+    "accountType": "Corriente",
+    "phoneNumber": "4129018840",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 831,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501507864",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MAKEVENTS SERVICES, C.A",
+    "internalBankHolder": "MAKEVENTS SERVICES, C.A. ",
+    "account": "01910098782198424311",
+    "accountType": "Corriente",
+    "phoneNumber": "4129018840",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 833,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501507864",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MAKEVENTS SERVICES, C.A",
+    "internalBankHolder": "MAKEVENTS SERVICES, C.A. ",
+    "account": "01910098742398335691",
+    "accountType": "Custodia",
+    "phoneNumber": "4129018840",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

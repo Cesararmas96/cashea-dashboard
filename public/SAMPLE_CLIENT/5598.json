@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T23:32:02.556Z",
+  "id": "5319",
+  "amount": 32.53,
+  "invoiceId": "00002331",
+  "paidToMerchant": false,
+  "identifierNumber": 5598,
+  "billingDate": "2022-12-27T23:32:02.556Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-27T04:00:00.261+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "18264",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28180292",
+      "fullName": "BARBARA FABIOLA MENDEZ COLINA",
+      "phoneNumber": "+584125907428"
+    },
+    "installments": [
+      {
+        "id": "18265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T23:32:30.664Z",
+        "amount": 5.420000000000001,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T23:32:30.664Z",
+        "amount": 5.420000000000001,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T23:32:30.665Z",
+        "amount": 16.27,
+        "status": "DONE"
+      },
+      {
+        "id": "18263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T23:32:30.664Z",
+        "amount": 5.420000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

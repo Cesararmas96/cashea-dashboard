@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T18:01:55.353Z",
+  "id": "831",
+  "amount": 32.48,
+  "invoiceId": "5280",
+  "paidToMerchant": false,
+  "identifierNumber": 1581,
+  "billingDate": "2022-12-07T18:01:55.353Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11308764",
+      "fullName": "SILVIA ADAMICEK DLESTIL",
+      "phoneNumber": "+584242972391"
+    },
+    "installments": [
+      {
+        "id": "2657",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T18:02:14.727Z",
+        "amount": 5.413333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2654",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T18:02:14.727Z",
+        "amount": 16.24,
+        "status": "DONE"
+      },
+      {
+        "id": "2656",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T18:02:14.727Z",
+        "amount": 5.413333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2655",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T18:02:14.727Z",
+        "amount": 5.413333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

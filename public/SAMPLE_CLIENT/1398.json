@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T18:54:29.931Z",
+  "id": "670",
+  "amount": 32.99,
+  "invoiceId": "5052",
+  "paidToMerchant": false,
+  "identifierNumber": 1398,
+  "billingDate": "2022-12-04T18:54:29.931Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24895654",
+      "fullName": "MIRELLA JACQUELINE ALMENDARIZ DE OROSCO",
+      "phoneNumber": "+584143993355"
+    },
+    "installments": [
+      {
+        "id": "2154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T18:54:44.409Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T18:54:44.409Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T18:54:44.409Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T18:54:44.409Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

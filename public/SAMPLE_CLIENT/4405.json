@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:13:24.145Z",
+  "id": "3977",
+  "amount": 55,
+  "invoiceId": "307580",
+  "paidToMerchant": false,
+  "identifierNumber": 4405,
+  "billingDate": "2022-12-23T18:13:24.145Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27448575",
+      "fullName": "MARIAESTEFANI GONZALEZ LEON",
+      "phoneNumber": "+584123763300"
+    },
+    "installments": [
+      {
+        "id": "13410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:13:53.052Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "13413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:13:53.051Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:13:53.051Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:13:53.051Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

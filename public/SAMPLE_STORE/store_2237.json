@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1093,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J313383309",
+    "bankName": "Banesco",
+    "bankHolder": "RATTAN HYPERMARKET, C.A.",
+    "internalBankHolder": "RATTAN HYPERMARKET CA",
+    "account": "01340411954111075649",
+    "accountType": "Corriente",
+    "phoneNumber": "4248307336",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1091,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J313383309",
+    "bankName": "Banesco",
+    "bankHolder": "RATTAN HYPERMARKET, C.A.",
+    "internalBankHolder": "RATTAN HYPERMARKET CA",
+    "account": "01340411954111075649",
+    "accountType": "Corriente",
+    "phoneNumber": "4248307336",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1092,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J313383309",
+    "bankName": "Banesco",
+    "bankHolder": "RATTAN HYPERMARKET, C.A.",
+    "internalBankHolder": "RATTAN HYPERMARKET CA",
+    "account": "01340411954111075649",
+    "accountType": "Corriente",
+    "phoneNumber": "4248307336",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1134,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J313383309",
+    "bankName": "Banesco",
+    "bankHolder": "RATTAN HYPERMARKET, C.A.",
+    "internalBankHolder": "RATTAN HYPERMARKET CA",
+    "account": "01341736920001004992",
+    "accountType": "Custodia",
+    "phoneNumber": "4248307336",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

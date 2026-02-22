@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-25T15:41:57.580Z",
+  "id": "478",
+  "amount": 145,
+  "invoiceId": "40001491",
+  "paidToMerchant": false,
+  "identifierNumber": 1086,
+  "billingDate": "2022-11-25T15:41:57.580Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "1",
+    "buyDebtDate": "2023-01-09T04:00:00.612+00:00",
+    "lastStoreId": 1,
+    "boughtForInstallmentId": "1481",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21070865",
+      "fullName": "LEYKER EDGGE MATA COLINA",
+      "phoneNumber": "+584242278963"
+    },
+    "installments": [
+      {
+        "id": "1481",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-06T15:57:02.057Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1480",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-23T15:57:02.057Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1478",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-25T15:57:02.058Z",
+        "amount": 85,
+        "status": "DONE"
+      },
+      {
+        "id": "1479",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-09T15:57:02.057Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

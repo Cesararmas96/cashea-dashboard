@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T19:53:10.026Z",
+  "id": "3508",
+  "amount": 72.73,
+  "invoiceId": "48999",
+  "paidToMerchant": false,
+  "identifierNumber": 3941,
+  "billingDate": "2022-12-22T19:53:10.026Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6544717",
+      "fullName": "ROGELIO ALBERTO GUZMAN DOMINGUEZ",
+      "phoneNumber": "+584123057478"
+    },
+    "installments": [
+      {
+        "id": "11734",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T19:54:11.288Z",
+        "amount": 36.37,
+        "status": "DONE"
+      },
+      {
+        "id": "11736",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T19:54:11.288Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "11735",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T19:54:11.288Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "11737",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T19:54:11.288Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-11T15:04:53.137Z",
+  "id": "1173",
+  "amount": 64.9948,
+  "invoiceId": "10487",
+  "paidToMerchant": false,
+  "identifierNumber": 1877,
+  "billingDate": "2022-12-11T15:04:53.137Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24759289",
+      "fullName": "DOUGLAS DANIEL UREA RAMIREZ",
+      "phoneNumber": "+584149341204"
+    },
+    "installments": [
+      {
+        "id": "3739",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T15:04:53.178Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "3738",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T15:04:53.179Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "3740",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T15:04:53.178Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "3741",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T15:04:53.178Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 56,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

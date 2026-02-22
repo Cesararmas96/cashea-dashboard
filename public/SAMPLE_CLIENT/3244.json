@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:50:37.396Z",
+  "id": "2749",
+  "amount": 39.77,
+  "invoiceId": "00001777",
+  "paidToMerchant": false,
+  "identifierNumber": 3244,
+  "billingDate": "2022-12-20T17:50:37.396Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11162054",
+      "fullName": "MARIA TERESA MOGOLLON ZERPA",
+      "phoneNumber": "+584141540505"
+    },
+    "installments": [
+      {
+        "id": "9065",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:50:58.037Z",
+        "amount": 6.626666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "9062",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:50:58.038Z",
+        "amount": 19.89,
+        "status": "DONE"
+      },
+      {
+        "id": "9063",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:50:58.037Z",
+        "amount": 6.626666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "9064",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:50:58.037Z",
+        "amount": 6.626666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-06T00:06:52.614Z",
+  "id": "746",
+  "amount": 89.98,
+  "invoiceId": "5186",
+  "paidToMerchant": false,
+  "identifierNumber": 1459,
+  "billingDate": "2022-12-06T00:06:52.614Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-05T04:00:00.424+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "2428",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26966049",
+      "fullName": "ALENYER RAFAEL CASTILLO GIL",
+      "phoneNumber": "+584241300901"
+    },
+    "installments": [
+      {
+        "id": "2429",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T00:07:33.496Z",
+        "amount": 14.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2428",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T00:07:33.496Z",
+        "amount": 14.996666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2426",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T00:07:33.496Z",
+        "amount": 44.99,
+        "status": "DONE"
+      },
+      {
+        "id": "2427",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T00:07:33.496Z",
+        "amount": 14.996666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

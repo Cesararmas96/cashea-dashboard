@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T18:18:57.940Z",
+  "id": "5224",
+  "amount": 94.16,
+  "invoiceId": "00018711",
+  "paidToMerchant": false,
+  "identifierNumber": 5566,
+  "billingDate": "2022-12-27T18:18:57.940Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20491379",
+      "fullName": "HENDERSON EDGARDO PRADA",
+      "phoneNumber": "+584143568425"
+    },
+    "installments": [
+      {
+        "id": "17902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T18:19:18.611Z",
+        "amount": 47.08,
+        "status": "DONE"
+      },
+      {
+        "id": "17904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T18:19:18.610Z",
+        "amount": 15.693333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T18:19:18.610Z",
+        "amount": 15.693333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T18:19:18.610Z",
+        "amount": 15.693333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

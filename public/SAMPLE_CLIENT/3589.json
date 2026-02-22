@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T19:47:49.931Z",
+  "id": "3157",
+  "amount": 91.5,
+  "invoiceId": "13923",
+  "paidToMerchant": false,
+  "identifierNumber": 3589,
+  "billingDate": "2022-12-21T19:47:49.931Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17920333",
+      "fullName": "JESSIBEL VANESA LEONET CANTELMI",
+      "phoneNumber": "+584242048486"
+    },
+    "installments": [
+      {
+        "id": "10446",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T19:49:47.473Z",
+        "amount": 45.75,
+        "status": "DONE"
+      },
+      {
+        "id": "10448",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T19:49:47.473Z",
+        "amount": 15.25,
+        "status": "DONE"
+      },
+      {
+        "id": "10447",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T19:49:47.473Z",
+        "amount": 15.25,
+        "status": "DONE"
+      },
+      {
+        "id": "10449",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T19:49:47.473Z",
+        "amount": 15.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

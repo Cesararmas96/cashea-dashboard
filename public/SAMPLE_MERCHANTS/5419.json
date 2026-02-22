@@ -1,0 +1,139 @@
+{
+  "createdAt": "2025-04-28T14:26:11.112Z",
+  "updatedAt": "2025-06-18T15:52:08.000Z",
+  "id": 5419,
+  "name": "Comercializadora Euro Sons",
+  "ecommerceUrl": null,
+  "changePolicy": "Plazo: Tiene un plazo de treinta (30) días calendario a partir de la fecha de compra para solicitar un cambio o devolución.\nEstado del Producto: Para que un producto sea elegible para cambio o devolución, debe estar en perfectas condiciones, sin usar, sin instalar, sin daños y en su empaque original (incluyendo manuales, etiquetas, precintos y accesorios). No se aceptarán productos que muestren signos de uso, instalación o manipulación.\nFactura/Recibo: Es imprescindible presentar la factura o recibo de compra original para cualquier solicitud de cambio o devolución.\nProductos No Retornables: Algunos productos no son elegibles para cambio o devolución debido a su naturaleza. Estos incluyen:\n•\tProductos electrónicos que hayan sido instalados o activados.\n•\tProductos personalizados o fabricados a medida.\n•\tLíquidos, aceites, lubricantes y químicos que hayan sido abiertos o utilizados.\n",
+  "email": "",
+  "phoneNumber": "+584145923367",
+  "logoUrl": null,
+  "data": {
+    "rif": "J310101647"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9fd17021-50d7-4bf2-81e7-0623b79181d0",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "eurosons@hotmail.com",
+    "legalName": "David",
+    "phoneNumber": "04124126646"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T14:28:03.211Z",
+      "updatedAt": "2025-04-28T14:28:03.211Z",
+      "id": 13335,
+      "merchantId": 5419,
+      "name": "Comercializadora Euro Sons Carabobo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4279,
+      "address": {
+        "name": "AV BOLIVAR LOCAL 13-19 PUERTO CABELLO EDO CARABOBO",
+        "long": -68.02875,
+        "lat": 10.46875,
+        "location": "0101000020E6100000A4703D0AD70151C00000000000F02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-12T20:42:13.165Z",
+      "updatedAt": "2025-06-16T13:22:49.270Z",
+      "id": 15610,
+      "merchantId": 5419,
+      "name": "Comercializadora Euro Sons Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4279,
+      "address": {
+        "name": "eurosons@hotmail.com",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

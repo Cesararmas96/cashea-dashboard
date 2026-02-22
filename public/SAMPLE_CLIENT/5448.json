@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:54:01.615Z",
+  "id": "5133",
+  "amount": 39.7,
+  "invoiceId": "13189",
+  "paidToMerchant": false,
+  "identifierNumber": 5448,
+  "billingDate": "2022-12-26T22:54:01.615Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25601163",
+      "fullName": "DRAIS ANGEL MARCANO VILLARROEL",
+      "phoneNumber": "+584142104225"
+    },
+    "installments": [
+      {
+        "id": "17586",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:54:23.058Z",
+        "amount": 19.85,
+        "status": "DONE"
+      },
+      {
+        "id": "17589",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:54:23.058Z",
+        "amount": 6.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17588",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:54:23.058Z",
+        "amount": 6.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17587",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:54:23.058Z",
+        "amount": 6.616666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

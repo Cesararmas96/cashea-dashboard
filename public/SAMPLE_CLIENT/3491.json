@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T01:37:56.252Z",
+  "id": "3051",
+  "amount": 111.1,
+  "invoiceId": "13630",
+  "paidToMerchant": false,
+  "identifierNumber": 3491,
+  "billingDate": "2022-12-21T01:37:56.252Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16971289",
+      "fullName": "ODEL HARRY GONZALEZ BARRIOS",
+      "phoneNumber": "+584241319441"
+    },
+    "installments": [
+      {
+        "id": "10090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:38:55.004Z",
+        "amount": 55.55,
+        "status": "DONE"
+      },
+      {
+        "id": "10093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:38:55.004Z",
+        "amount": 18.516666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:38:55.004Z",
+        "amount": 18.516666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:38:55.004Z",
+        "amount": 18.516666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

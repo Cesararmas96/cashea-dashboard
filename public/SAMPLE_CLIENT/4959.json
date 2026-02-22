@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:34:35.984Z",
+  "id": "4609",
+  "amount": 79.66,
+  "invoiceId": "15075",
+  "paidToMerchant": false,
+  "identifierNumber": 4959,
+  "billingDate": "2022-12-24T16:34:35.984Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-10T04:00:00.803+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "15723",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30113655",
+      "fullName": "CARLOS RAFAEL SOTO FERMIN",
+      "phoneNumber": "+584241924119"
+    },
+    "installments": [
+      {
+        "id": "15722",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:34:58.927Z",
+        "amount": 39.83,
+        "status": "DONE"
+      },
+      {
+        "id": "15725",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:34:58.926Z",
+        "amount": 13.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15724",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:34:58.926Z",
+        "amount": 13.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15723",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:34:58.926Z",
+        "amount": 13.276666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

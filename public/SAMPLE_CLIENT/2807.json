@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:19:26.220Z",
+  "id": "2338",
+  "amount": 189.8,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2807,
+  "billingDate": "2022-12-18T22:19:26.220Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16265353",
+      "fullName": "JOSE MANUEL DURAN BELANDRIA",
+      "phoneNumber": "+584141736317"
+    },
+    "installments": [
+      {
+        "id": "7690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:21:58.677Z",
+        "amount": 94.9,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:21:58.677Z",
+        "amount": 31.633333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:21:58.677Z",
+        "amount": 31.633333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:21:58.677Z",
+        "amount": 31.633333333333336,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

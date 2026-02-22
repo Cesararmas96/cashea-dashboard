@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:57:12.740Z",
+  "id": "2849",
+  "amount": 52.98,
+  "invoiceId": "6785",
+  "paidToMerchant": false,
+  "identifierNumber": 3352,
+  "billingDate": "2022-12-20T20:57:12.740Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11233189",
+      "fullName": "ANA TERESA OCANDO MARTINEZ",
+      "phoneNumber": "+584241591970"
+    },
+    "installments": [
+      {
+        "id": "9398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:58:47.229Z",
+        "amount": 26.49,
+        "status": "DONE"
+      },
+      {
+        "id": "9401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:58:47.229Z",
+        "amount": 8.83,
+        "status": "DONE"
+      },
+      {
+        "id": "9400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:58:47.229Z",
+        "amount": 8.83,
+        "status": "DONE"
+      },
+      {
+        "id": "9399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:58:47.229Z",
+        "amount": 8.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T22:53:37.087Z",
+  "id": "1019",
+  "amount": 30,
+  "invoiceId": "00000838",
+  "paidToMerchant": false,
+  "identifierNumber": 5836,
+  "billingDate": "2022-12-09T22:53:37.087Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20097244",
+      "fullName": "LUIS EDUARDO CARRERO LEMO",
+      "phoneNumber": "+584141276183"
+    },
+    "installments": [
+      {
+        "id": "3232",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T22:53:52.237Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "3231",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T22:53:52.237Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "3233",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T22:53:52.237Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "3230",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T22:53:52.237Z",
+        "amount": 15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

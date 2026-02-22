@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T14:52:48.038Z",
+  "id": "3891",
+  "amount": 72.73,
+  "invoiceId": "49063",
+  "paidToMerchant": false,
+  "identifierNumber": 4332,
+  "billingDate": "2022-12-23T14:52:48.038Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6092329",
+      "fullName": "CESAR AUGUSTO CONTRERAS NOGUERA",
+      "phoneNumber": "+584143004480"
+    },
+    "installments": [
+      {
+        "id": "13114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T14:53:34.578Z",
+        "amount": 36.37,
+        "status": "DONE"
+      },
+      {
+        "id": "13117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T14:53:34.577Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "13116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T14:53:34.577Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "13115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T14:53:34.577Z",
+        "amount": 12.120000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-08T19:31:26.470Z",
+  "updatedAt": "2025-04-23T13:59:43.195Z",
+  "id": 5128,
+  "name": "Innova Shop",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c84440bb-5877-48dd-87c9-a23078fd2b14",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "innovashopimport04@gmail.com",
+    "legalName": "Wendys",
+    "phoneNumber": "04127088532"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-08T18:49:55.891Z",
+      "updatedAt": "2025-04-08T18:49:55.891Z",
+      "id": 12713,
+      "merchantId": 5128,
+      "name": "Innova shop Maracay",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5727,
+      "address": {
+        "name": "Cliente culminará proceso de apertura en la agencia de Maracay Centro",
+        "long": -67.5758125,
+        "lat": 10.231687500000007,
+        "location": "0101000020E61000003108AC1CDAE450C0B8C876BE9F762440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

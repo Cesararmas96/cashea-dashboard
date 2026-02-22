@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T22:07:14.575Z",
+  "id": "1252",
+  "amount": 38.49,
+  "invoiceId": "5752",
+  "paidToMerchant": false,
+  "identifierNumber": 1915,
+  "billingDate": "2022-12-11T22:07:14.575Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31745360",
+      "fullName": "ARNALDO ENRIQUE RONDON CHACON",
+      "phoneNumber": "+584241358852"
+    },
+    "installments": [
+      {
+        "id": "4026",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T22:07:50.995Z",
+        "amount": 19.25,
+        "status": "DONE"
+      },
+      {
+        "id": "4029",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T22:07:50.995Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4028",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T22:07:50.995Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "4027",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T22:07:50.995Z",
+        "amount": 6.413333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

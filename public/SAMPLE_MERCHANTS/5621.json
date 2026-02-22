@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-08T13:58:10.065Z",
+  "updatedAt": "2025-05-26T16:06:35.038Z",
+  "id": 5621,
+  "name": "TONG CENTER",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7515b3aa-8a00-43cb-ab9d-9ca3ebd649ae",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "genesisperez.sanjorge@gmail.com",
+    "legalName": "HUANSEN TONG",
+    "phoneNumber": "4249141670"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T14:01:13.316Z",
+      "updatedAt": "2025-05-08T14:01:13.316Z",
+      "id": 13786,
+      "merchantId": 5621,
+      "name": "TONG CENTER Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7990,
+      "address": {
+        "name": "AV BICENTENARIO LOCAL  NRO 213 SECTOR CENTRO MATURIN MONAGAS ZONA POSTAL 6201",
+        "long": -63.175000000000004,
+        "lat": 9.725000000000001,
+        "location": "0101000020E61000006766666666964FC03433333333732340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

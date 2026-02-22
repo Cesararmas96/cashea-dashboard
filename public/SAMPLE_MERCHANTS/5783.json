@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-15T13:50:53.304Z",
+  "updatedAt": "2025-09-08T05:58:36.392Z",
+  "id": 5783,
+  "name": "DENTAL CENTER PRO+",
+  "ecommerceUrl": null,
+  "changePolicy": "Se hará una reevaluación si el paciente aún continúa con dolor por la misma emergencia porque la que inició su visita ala clínica ",
+  "email": "od.willeyascanio3@gmail.com",
+  "phoneNumber": "+584123055692",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5c970358-e2d4-4d0e-92d5-43983e68aa2f",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "od.willeyascanio2@gmail.com",
+    "legalName": "WILLEY",
+    "phoneNumber": "04128046361"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-23T17:47:41.838Z",
+      "updatedAt": "2025-09-08T05:58:36.197Z",
+      "id": 16182,
+      "merchantId": 5783,
+      "name": "DENTAL CENTER PRO+ Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4575,
+      "address": {
+        "name": "Av casanova torre limina piso 10 Of 10c.",
+        "long": -66.88375,
+        "lat": 10.496250000000003,
+        "location": "0101000020E6100000C3F5285C8FB850C0B047E17A14FE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T13:52:36.882Z",
+      "updatedAt": "2025-05-15T13:52:36.882Z",
+      "id": 14162,
+      "merchantId": 5783,
+      "name": "DENTAL CENTER PRO+ Av Casanova",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4575,
+      "address": {
+        "name": "Av casanova torre limina piso 10 Of 10c.",
+        "long": -66.88375,
+        "lat": 10.496250000000003,
+        "location": "0101000020E6100000C3F5285C8FB850C0B047E17A14FE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

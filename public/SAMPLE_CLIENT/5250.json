@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T17:59:12.347Z",
+  "id": "5829",
+  "amount": 95,
+  "invoiceId": "0000593",
+  "paidToMerchant": false,
+  "identifierNumber": 5250,
+  "billingDate": "2022-12-29T17:59:12.347Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25847973",
+      "fullName": "LAURA DE LOS ANGELES CASTRO CHACON",
+      "phoneNumber": "+584241555840"
+    },
+    "installments": [
+      {
+        "id": "20101",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:59:39.514Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20099",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:59:39.514Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20100",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:59:39.514Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20098",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:59:39.515Z",
+        "amount": 47.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:44:26.857Z",
+  "id": "2085",
+  "amount": 55,
+  "invoiceId": "3124",
+  "paidToMerchant": false,
+  "identifierNumber": 2603,
+  "billingDate": "2022-12-17T22:44:26.857Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27454110",
+      "fullName": "ANGIE MILEIDY VILLARROEL CUBARRUBIA",
+      "phoneNumber": "+584120988510"
+    },
+    "installments": [
+      {
+        "id": "6781",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:48:01.159Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6779",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:48:01.159Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6780",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:48:01.159Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6778",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:48:01.160Z",
+        "amount": 27.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

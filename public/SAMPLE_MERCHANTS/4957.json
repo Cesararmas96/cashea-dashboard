@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-01T20:39:20.947Z",
+  "updatedAt": "2025-04-08T15:01:25.067Z",
+  "id": 4957,
+  "name": "Óptica Reda Visión",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0f70d22b-1f45-4b77-a744-64ac01134a74",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "opticareda@gmail.com",
+    "legalName": "Deymys",
+    "phoneNumber": "4129012330"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T20:41:00.359Z",
+      "updatedAt": "2025-04-01T20:41:00.359Z",
+      "id": 12479,
+      "merchantId": 4957,
+      "name": "Óptica Reda Visión Sabana Grande",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7107,
+      "address": {
+        "name": "AV. FCO. SOLANO LOPEZ, ESQUINA SAN GERONIMO, EDF SAN JOSE, PB, LOCAL 2, SECTOR SABANA GRANDE.",
+        "long": -66.87693750000001,
+        "lat": 10.495562500000005,
+        "location": "0101000020E6100000B5C876BE1FB850C0803F355EBAFD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-23T19:50:43.833Z",
+      "updatedAt": "2025-04-23T19:50:43.833Z",
+      "id": 13200,
+      "merchantId": 4957,
+      "name": "VR_Óptica Reda Visión",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7107,
+      "address": {
+        "name": "AV. FCO. SOLANO LOPEZ, ESQUINA SAN GERONIMO, EDF SAN JOSE, PB, LOCAL 2, SECTOR SABANA GRANDE.",
+        "long": -66.87693750000001,
+        "lat": 10.495562500000005,
+        "location": "0101000020E6100000B5C876BE1FB850C0803F355EBAFD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

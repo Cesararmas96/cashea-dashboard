@@ -1,0 +1,489 @@
+{
+  "createdAt": "2025-05-09T15:51:27.344Z",
+  "updatedAt": "2025-08-16T15:49:29.445Z",
+  "id": 5672,
+  "name": "Iuventus Beauty",
+  "ecommerceUrl": null,
+  "changePolicy": "Los cambios se pueden realizar máximo 5 días después de realizar la compra, por estar roto o vacío y en caso de electrónicos que presente algún falla, todos con su caja correspondiente y la factura",
+  "email": "srangel.iuventus@gmail.com",
+  "phoneNumber": "+584241645215",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c8cec5b8-2e5c-435f-a078-46f0581679f2",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "stheffanierangela@gmail.com",
+    "legalName": "Yoselin Contreras",
+    "phoneNumber": "04265967527"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-12-10T14:16:26.048Z",
+      "updatedAt": "2025-12-10T14:16:26.048Z",
+      "id": 27730,
+      "merchantId": 5672,
+      "name": "Web Iuventus Beauty CC Sambil La Candelaria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Sur 19, Centro Comercial Sambil La Candelaria, Local p-48, Municipio Libertador, Zona Postal 1011",
+        "long": -66.9019375,
+        "lat": 10.504937499999997,
+        "location": "0101000020E61000004E621058B9B950C0480C022B87022540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-10T14:21:24.361Z",
+      "updatedAt": "2025-12-10T14:21:24.361Z",
+      "id": 27738,
+      "merchantId": 5672,
+      "name": "Web Iuventus Beauty Sambil Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Libertador, Centro Comercial Sambil, Planta Baja, Nivel Autopista, Local A-R38, Municipio Autonomo de Chacao, Estado Bolivariano de Miranda, Zona Postal 1060",
+        "long": -66.85481250000001,
+        "lat": 10.489062499999989,
+        "location": "0101000020E610000092ED7C3FB5B650C06066666666FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-11T18:10:13.804Z",
+      "updatedAt": "2025-08-16T15:49:29.447Z",
+      "id": 18943,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Carretera Panamericana, Kilometro 20, Centro Comercial La Cascada, Nivel 2, Local N2, Municipio Carrizal, Parroquia Carrizal, Estado Bolivariano de Miranda, Zona Postal 1213",
+        "long": -67.0029375,
+        "lat": 10.353312499999987,
+        "location": "0101000020E6100000A69BC42030C050C030894160E5B42440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T20:05:07.259Z",
+      "updatedAt": "2025-05-09T20:05:07.259Z",
+      "id": 13905,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty Falcon",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Centro comerial Ciudad Mall Coro, PB, Local LF-12, Zona Distribuidora Zumurucuare, Avenida Manaure con Chema Saher, Variante Falcon Zulia, Coro Estado Falcon, Zona Postal 4101",
+        "long": -69.66793750000001,
+        "lat": 11.386437499999985,
+        "location": "0101000020E61000006991ED7CBF6A51C058E5D022DBC52640",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T20:20:50.779Z",
+      "updatedAt": "2025-05-09T20:20:50.779Z",
+      "id": 13910,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty CC La Cascada",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Carretera Panamericana, Kilometro 20, Centro Comercial La Cascada, Nivel 2, Local N2, Municipio Carrizal, Parroquia Carrizal, Estado Bolivariano de Miranda, Zona Postal 1213",
+        "long": -67.0029375,
+        "lat": 10.353312499999987,
+        "location": "0101000020E6100000A69BC42030C050C030894160E5B42440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-27T14:59:52.890Z",
+      "updatedAt": "2025-05-27T14:59:52.890Z",
+      "id": 14722,
+      "merchantId": 5672,
+      "name": "VR_Iuventus Beauty",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Humboldt, Centro Comercial Traki, Local L-57, Nivel Ayacucho, Parroquia Santa Ines de Cumana, Municipio Sucre, del Estado Sucre, Zona Posta 6101",
+        "long": -64.17731250000001,
+        "lat": 10.469187500000004,
+        "location": "0101000020E6100000032B8716590B50C05062105839F02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T20:50:32.497Z",
+      "updatedAt": "2025-05-09T20:50:32.497Z",
+      "id": 13911,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty Parque el Cigarral",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Principal de la Boyera, Urbanizacion Parque El Cigarral, Centro Comercial Traki, cruce con la calle C-1, Nivel C-1, Local 2, Municipio El Hatillo del Estado Bolivariano de Miranda, Zona Postal 1083",
+        "long": -66.84875,
+        "lat": 10.518749999999997,
+        "location": "0101000020E6100000B81E85EB51B650C09899999999092540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T16:57:47.700Z",
+      "updatedAt": "2025-05-09T16:57:47.700Z",
+      "id": 13891,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty Guacara",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Carretera Nacional de Guacara, los Guayos, Zona Industrial El Nepe Moll, Galpones A, B Y C, Local L-31, Municipio Guacara del Estado Carabobo, Zona Postal 2016",
+        "long": -67.9005625,
+        "lat": 10.219312500000001,
+        "location": "0101000020E61000004260E5D0A2F950C040355EBA49702440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T21:05:47.774Z",
+      "updatedAt": "2025-05-09T21:05:47.774Z",
+      "id": 13913,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty Sambil Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Libertador, Centro Comercial Sambil, Planta Baja, Nivel Autopista, Local A-R38, Municipio Autonomo de Chacao, Estado Bolivariano de Miranda, Zona Postal 1060",
+        "long": -66.85481250000001,
+        "lat": 10.489062499999989,
+        "location": "0101000020E610000092ED7C3FB5B650C06066666666FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T18:58:44.279Z",
+      "updatedAt": "2025-05-09T18:58:44.279Z",
+      "id": 13894,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty El Centro",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Sur, entre Gradilla y Sociedad, sector Centro de Caracas, Edificio 2 y 4, Nivel PB, Local Comercial 5, Parroquia Catedral, Municipio Liertador de Distrito Capital, Zona Postal 1012",
+        "long": -66.91481250000001,
+        "lat": 10.502562499999996,
+        "location": "0101000020E6100000365EBA498CBA50C058643BDF4F012540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T15:53:05.091Z",
+      "updatedAt": "2025-05-09T15:53:05.091Z",
+      "id": 13884,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty Cumana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Humboldt, Centro Comercial Traki, Local L-57, Nivel Ayacucho, Parroquia Santa Ines de Cumana, Municipio Sucre, del Estado Sucre, Zona Posta 6101",
+        "long": -64.17731250000001,
+        "lat": 10.469187500000004,
+        "location": "0101000020E6100000032B8716590B50C05062105839F02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T19:16:50.666Z",
+      "updatedAt": "2025-05-09T19:16:50.666Z",
+      "id": 13895,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty El Rosal",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Venezuela, Torre Financiera, PB, Urbanizacion El Rosal, Municipio Autonomo de Chacao, Estado Bolivariano de Miranda, Zona Postal 1060",
+        "long": -66.86156250000002,
+        "lat": 10.490062500000008,
+        "location": "0101000020E6100000723D0AD723B750C0F8FDD478E9FA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T19:27:55.017Z",
+      "updatedAt": "2025-05-09T19:27:55.017Z",
+      "id": 13897,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty  CC Sambil La Candelaria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Sur 19, Centro Comercial Sambil La Candelaria, Local p-48, Municipio Libertador, Zona Postal 1011",
+        "long": -66.9019375,
+        "lat": 10.504937499999997,
+        "location": "0101000020E61000004E621058B9B950C0480C022B87022540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T19:42:01.029Z",
+      "updatedAt": "2025-05-09T19:42:01.029Z",
+      "id": 13899,
+      "merchantId": 5672,
+      "name": "Iuventus Beauty Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 848,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-23T10:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 6690,
+      "address": {
+        "name": "Avenida Intercomunal Barquisimeto-Acarigua, Centro Comercial Traki Cabudare, Pasillo Principal, Platan Baja, Local L-18, Sector La Piedad, Municipio Palavecino, Cabudare, Estado Lara, Zona Postal 3023",
+        "long": -69.2326875,
+        "lat": 10.018312499999993,
+        "location": "0101000020E610000008AC1C5AE44E51C04837894160092440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

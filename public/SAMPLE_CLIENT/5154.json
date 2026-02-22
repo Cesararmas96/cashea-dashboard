@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T22:03:42.797Z",
+  "id": "4950",
+  "amount": 180,
+  "invoiceId": "00002100",
+  "paidToMerchant": false,
+  "identifierNumber": 5154,
+  "billingDate": "2022-12-24T22:03:42.797Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "81",
+    "buyDebtDate": "2023-01-10T04:00:01.128+00:00",
+    "lastStoreId": 26,
+    "boughtForInstallmentId": "16975",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12259006",
+      "fullName": "RACHEL YAMILETH CASTRO COLINA",
+      "phoneNumber": "+584241776018"
+    },
+    "installments": [
+      {
+        "id": "16977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T22:07:58.496Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "16974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T22:07:58.497Z",
+        "amount": 90,
+        "status": "DONE"
+      },
+      {
+        "id": "16976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T22:07:58.496Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "16975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T22:07:58.496Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

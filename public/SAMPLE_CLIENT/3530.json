@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T02:09:00.178Z",
+  "id": "3065",
+  "amount": 98.98,
+  "invoiceId": "1490",
+  "paidToMerchant": false,
+  "identifierNumber": 3530,
+  "billingDate": "2022-12-21T02:09:00.178Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25601240",
+      "fullName": "JENNIFER ALEJANDRA CHACON MARQUEZ",
+      "phoneNumber": "+584242502227"
+    },
+    "installments": [
+      {
+        "id": "10138",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T02:09:27.326Z",
+        "amount": 49.49,
+        "status": "DONE"
+      },
+      {
+        "id": "10140",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T02:09:27.326Z",
+        "amount": 16.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10141",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T02:09:27.326Z",
+        "amount": 16.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10139",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T02:09:27.326Z",
+        "amount": 16.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

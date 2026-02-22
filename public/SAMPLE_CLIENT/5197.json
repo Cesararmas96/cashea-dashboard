@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:06:25.482Z",
+  "id": "5914",
+  "amount": 41.99,
+  "invoiceId": "12930",
+  "paidToMerchant": false,
+  "identifierNumber": 5197,
+  "billingDate": "2022-12-29T20:06:25.482Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28390150",
+      "fullName": "JOIMAIRYS NAZAREHT GARCIA CARPINTERO",
+      "phoneNumber": "+584121813919"
+    },
+    "installments": [
+      {
+        "id": "20398",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:06:44.954Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "20401",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:06:44.954Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20399",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:06:44.954Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20400",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:06:44.954Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

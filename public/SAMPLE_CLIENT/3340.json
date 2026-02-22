@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T21:14:52.049Z",
+  "id": "2856",
+  "amount": 80,
+  "invoiceId": "9145",
+  "paidToMerchant": false,
+  "identifierNumber": 3340,
+  "billingDate": "2022-12-20T21:14:52.049Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22285414",
+      "fullName": "JOSE IGNACIO SUAREZ AVILA",
+      "phoneNumber": "+584141462064"
+    },
+    "installments": [
+      {
+        "id": "9426",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:20:36.740Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "9429",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:20:36.740Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9427",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:20:36.740Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9428",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:20:36.740Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

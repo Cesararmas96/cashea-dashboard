@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T18:23:39.487Z",
+  "id": "1184",
+  "amount": 35.95,
+  "invoiceId": "00004621",
+  "paidToMerchant": false,
+  "identifierNumber": 1842,
+  "billingDate": "2022-12-11T18:23:39.487Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27037081",
+      "fullName": "ARNALDO JOSE VALLENILLA MADERA",
+      "phoneNumber": "+584129974495"
+    },
+    "installments": [
+      {
+        "id": "3778",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T18:24:38.769Z",
+        "amount": 17.98,
+        "status": "DONE"
+      },
+      {
+        "id": "3779",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T18:24:38.769Z",
+        "amount": 5.990000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "3780",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T18:24:38.769Z",
+        "amount": 5.990000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "3781",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T18:24:38.769Z",
+        "amount": 5.990000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

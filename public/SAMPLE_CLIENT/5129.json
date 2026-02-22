@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T16:33:50.033Z",
+  "id": "11485",
+  "amount": 47.35,
+  "invoiceId": "17664",
+  "paidToMerchant": false,
+  "identifierNumber": 5129,
+  "billingDate": "2023-01-30T16:33:50.033Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6309757",
+      "fullName": "ANA CECILIA DE FARIA SILVA",
+      "phoneNumber": "+584122572329"
+    },
+    "installments": [
+      {
+        "id": "35189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T16:34:35.546Z",
+        "amount": 7.890000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "35188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T16:34:35.546Z",
+        "amount": 7.890000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "35186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T16:34:35.546Z",
+        "amount": 23.68,
+        "status": "DONE"
+      },
+      {
+        "id": "35187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T16:34:35.546Z",
+        "amount": 7.890000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

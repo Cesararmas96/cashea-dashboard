@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T18:39:29.367Z",
+  "id": "1353",
+  "amount": 44.97,
+  "invoiceId": "4752",
+  "paidToMerchant": false,
+  "identifierNumber": 1933,
+  "billingDate": "2022-12-13T18:39:29.367Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25553749",
+      "fullName": "MANUEL ALEJANDRO ARGUINZONES CALDERON",
+      "phoneNumber": "+584241848537"
+    },
+    "installments": [
+      {
+        "id": "4366",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T18:39:59.552Z",
+        "amount": 22.48,
+        "status": "DONE"
+      },
+      {
+        "id": "4367",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T18:39:59.551Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4369",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T18:39:59.551Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4368",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T18:39:59.551Z",
+        "amount": 7.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

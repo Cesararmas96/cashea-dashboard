@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T21:41:51.314Z",
+  "id": "1468",
+  "amount": 46.27,
+  "invoiceId": "12029",
+  "paidToMerchant": false,
+  "identifierNumber": 2102,
+  "billingDate": "2022-12-14T21:41:51.314Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18042293",
+      "fullName": "ERICK JOHEN DE SOUSA GORRIN",
+      "phoneNumber": "+584242776664"
+    },
+    "installments": [
+      {
+        "id": "4747",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T21:42:08.684Z",
+        "amount": 7.710000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4749",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T21:42:08.684Z",
+        "amount": 7.710000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4748",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T21:42:08.684Z",
+        "amount": 7.710000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "4746",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T21:42:08.685Z",
+        "amount": 23.14,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

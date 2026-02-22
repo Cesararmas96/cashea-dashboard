@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:41:10.735Z",
+  "id": "2926",
+  "amount": 154.01,
+  "invoiceId": "48844",
+  "paidToMerchant": false,
+  "identifierNumber": 3394,
+  "billingDate": "2022-12-20T22:41:10.735Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13917154",
+      "fullName": "ORLANI LAGUADO GONZALEZ",
+      "phoneNumber": "+584242333357"
+    },
+    "installments": [
+      {
+        "id": "9646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:41:47.775Z",
+        "amount": 77,
+        "status": "DONE"
+      },
+      {
+        "id": "9648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:41:47.774Z",
+        "amount": 25.669999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:41:47.774Z",
+        "amount": 25.669999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:41:47.774Z",
+        "amount": 25.669999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

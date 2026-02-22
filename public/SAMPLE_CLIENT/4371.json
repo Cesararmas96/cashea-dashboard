@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T16:38:57.985Z",
+  "id": "3930",
+  "amount": 104,
+  "invoiceId": "1898",
+  "paidToMerchant": false,
+  "identifierNumber": 4371,
+  "billingDate": "2022-12-23T16:38:57.985Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6454032",
+      "fullName": "MARINA ANTONIA ALVAREZ GUEVARA",
+      "phoneNumber": "+584142048643"
+    },
+    "installments": [
+      {
+        "id": "13245",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T16:39:57.578Z",
+        "amount": 17.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "13242",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T16:39:57.578Z",
+        "amount": 52,
+        "status": "DONE"
+      },
+      {
+        "id": "13243",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T16:39:57.578Z",
+        "amount": 17.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "13244",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T16:39:57.578Z",
+        "amount": 17.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

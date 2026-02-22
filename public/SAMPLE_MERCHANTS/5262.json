@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-16T13:17:03.871Z",
+  "updatedAt": "2025-04-25T18:38:27.874Z",
+  "id": 5262,
+  "name": "Burgers Shop",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "852e2868-8124-40aa-8e11-b21726140941",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "dianasancheztovar@gmail.com",
+    "legalName": "Diana Carolina",
+    "phoneNumber": "04245480089"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-16T13:19:42.872Z",
+      "updatedAt": "2025-04-16T13:19:42.872Z",
+      "id": 13043,
+      "merchantId": 5262,
+      "name": "Burgers Shop Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4257,
+      "address": {
+        "name": "Av 29 Entre Calles 27 y 28 Araure",
+        "long": -69.2048125,
+        "lat": 9.550812499999992,
+        "location": "0101000020E6100000F853E3A51B4D51C0B8749318041A2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

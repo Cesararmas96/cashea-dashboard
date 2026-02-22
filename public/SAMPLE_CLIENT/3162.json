@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:04:14.083Z",
+  "id": "2692",
+  "amount": 58.2,
+  "invoiceId": "12518",
+  "paidToMerchant": false,
+  "identifierNumber": 3162,
+  "billingDate": "2022-12-20T01:04:14.083Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23944689",
+      "fullName": "ERIKA MAYERLIN RODRIGUEZ OSORIO",
+      "phoneNumber": "+584242021945"
+    },
+    "installments": [
+      {
+        "id": "8853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:04:47.555Z",
+        "amount": 9.700000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "8851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:04:47.555Z",
+        "amount": 9.700000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "8850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:04:47.556Z",
+        "amount": 29.1,
+        "status": "DONE"
+      },
+      {
+        "id": "8852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:04:47.555Z",
+        "amount": 9.700000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T00:01:21.259Z",
+  "id": "745",
+  "amount": 134.5,
+  "invoiceId": "00016829",
+  "paidToMerchant": false,
+  "identifierNumber": 1468,
+  "billingDate": "2022-12-06T00:01:21.259Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18190585",
+      "fullName": "ASTRID JOSEFINA VILLAVICENCIO CAMPOS",
+      "phoneNumber": "+584242803537"
+    },
+    "installments": [
+      {
+        "id": "2424",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T00:01:35.658Z",
+        "amount": 22.416666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2422",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T00:01:35.658Z",
+        "amount": 67.25,
+        "status": "DONE"
+      },
+      {
+        "id": "2423",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T00:01:35.658Z",
+        "amount": 22.416666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2425",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T00:01:35.658Z",
+        "amount": 22.416666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

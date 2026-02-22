@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:37:16.748Z",
+  "id": "2832",
+  "amount": 73,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3305,
+  "billingDate": "2022-12-20T20:37:16.748Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11956412",
+      "fullName": "RAFAEL CARMELO HERRERA ORTA",
+      "phoneNumber": "+584248715286"
+    },
+    "installments": [
+      {
+        "id": "9334",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:37:39.915Z",
+        "amount": 36.5,
+        "status": "DONE"
+      },
+      {
+        "id": "9336",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:37:39.909Z",
+        "amount": 12.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9337",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:37:39.909Z",
+        "amount": 12.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9335",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:37:39.909Z",
+        "amount": 12.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

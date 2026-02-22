@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:14:04.912Z",
+  "id": "3280",
+  "amount": 65,
+  "invoiceId": "784948",
+  "paidToMerchant": false,
+  "identifierNumber": 3719,
+  "billingDate": "2022-12-21T23:14:04.912Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20154429",
+      "fullName": "KAIRUZAN YOMALYH ALONSO LOPEZ",
+      "phoneNumber": "+584127129401"
+    },
+    "installments": [
+      {
+        "id": "10906",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:14:48.151Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "10909",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:14:48.150Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10908",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:14:48.150Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10907",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:14:48.150Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

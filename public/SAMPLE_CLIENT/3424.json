@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:06:12.451Z",
+  "id": "2996",
+  "amount": 84.42,
+  "invoiceId": "12613",
+  "paidToMerchant": false,
+  "identifierNumber": 3424,
+  "billingDate": "2022-12-21T00:06:12.451Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "8077407",
+      "fullName": "TERESITA VELAZCO DE CONTRERAS",
+      "phoneNumber": "+584142635301"
+    },
+    "installments": [
+      {
+        "id": "9882",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:06:25.547Z",
+        "amount": 42.21,
+        "status": "DONE"
+      },
+      {
+        "id": "9884",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:06:25.547Z",
+        "amount": 14.07,
+        "status": "DONE"
+      },
+      {
+        "id": "9885",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:06:25.547Z",
+        "amount": 14.07,
+        "status": "DONE"
+      },
+      {
+        "id": "9883",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:06:25.547Z",
+        "amount": 14.07,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

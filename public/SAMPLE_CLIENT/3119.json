@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:55:13.271Z",
+  "id": "2658",
+  "amount": 34.86,
+  "invoiceId": "12506",
+  "paidToMerchant": false,
+  "identifierNumber": 3119,
+  "billingDate": "2022-12-19T23:55:13.271Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17388077",
+      "fullName": "YESSICA LISMAR NOGUERA HERRERA",
+      "phoneNumber": "+584128225793"
+    },
+    "installments": [
+      {
+        "id": "8718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:55:22.664Z",
+        "amount": 17.43,
+        "status": "DONE"
+      },
+      {
+        "id": "8719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:55:22.664Z",
+        "amount": 5.81,
+        "status": "DONE"
+      },
+      {
+        "id": "8721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:55:22.664Z",
+        "amount": 5.81,
+        "status": "DONE"
+      },
+      {
+        "id": "8720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:55:22.664Z",
+        "amount": 5.81,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

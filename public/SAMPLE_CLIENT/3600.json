@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:55:54.992Z",
+  "id": "3193",
+  "amount": 31.43,
+  "invoiceId": "9246",
+  "paidToMerchant": false,
+  "identifierNumber": 3600,
+  "billingDate": "2022-12-21T20:55:54.992Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29504929",
+      "fullName": "YOISMARY ORTEGA BETANCOURT",
+      "phoneNumber": "+584241764200"
+    },
+    "installments": [
+      {
+        "id": "10590",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:57:05.274Z",
+        "amount": 15.71,
+        "status": "DONE"
+      },
+      {
+        "id": "10593",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:57:05.273Z",
+        "amount": 5.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "10592",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:57:05.273Z",
+        "amount": 5.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "10591",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:57:05.273Z",
+        "amount": 5.239999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

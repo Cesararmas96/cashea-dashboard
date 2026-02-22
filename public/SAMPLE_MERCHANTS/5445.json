@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-29T13:00:59.321Z",
+  "updatedAt": "2025-05-07T15:03:36.823Z",
+  "id": 5445,
+  "name": "Upem Salud",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "46a72594-d865-45a3-a374-287ed0015e0d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tannynieves07@gmail.com",
+    "legalName": "TANNY",
+    "phoneNumber": "4265158716"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T21:01:15.505Z",
+      "updatedAt": "2025-05-22T21:01:15.505Z",
+      "id": 14565,
+      "merchantId": 5445,
+      "name": "VR_Upem Salud",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8093,
+      "address": {
+        "name": "Avenida perimetral, de San Antonio, edif Oficentro El Picacho, piso 1, oficina 1K, zona San Antonio de los Altos, Miranda, zona postal 1",
+        "long": -66.9581875,
+        "lat": 10.375312499999993,
+        "location": "0101000020E6100000E7FBA9F152BD50C0588FC2F528C02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T13:02:53.378Z",
+      "updatedAt": "2025-04-29T13:02:53.378Z",
+      "id": 13407,
+      "merchantId": 5445,
+      "name": "Upem Salud San Antonio de los Altos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8093,
+      "address": {
+        "name": "Avenida perimetral, de San Antonio, edif Oficentro El Picacho, piso 1, oficina 1K, zona San Antonio de los Altos, Miranda, zona postal 1",
+        "long": -66.9581875,
+        "lat": 10.375312499999993,
+        "location": "0101000020E6100000E7FBA9F152BD50C0588FC2F528C02440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

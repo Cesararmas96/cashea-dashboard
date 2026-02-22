@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T19:27:04.283Z",
+  "id": "5240",
+  "amount": 42,
+  "invoiceId": "10382",
+  "paidToMerchant": false,
+  "identifierNumber": 5562,
+  "billingDate": "2022-12-27T19:27:04.283Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17610085",
+      "fullName": "LEYDY NAILLIBY TORRES DURAN",
+      "phoneNumber": "+584242454537"
+    },
+    "installments": [
+      {
+        "id": "17966",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T19:27:19.634Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "17967",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T19:27:19.633Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "17969",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T19:27:19.633Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "17968",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T19:27:19.633Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

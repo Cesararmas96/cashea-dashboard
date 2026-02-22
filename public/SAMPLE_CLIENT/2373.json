@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T22:10:13.905Z",
+  "id": "1797",
+  "amount": 70,
+  "invoiceId": "00441",
+  "paidToMerchant": false,
+  "identifierNumber": 2373,
+  "billingDate": "2022-12-16T22:10:13.905Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17589298",
+      "fullName": "ADRIANA KARINA CASTRO PICCHINENNA",
+      "phoneNumber": "+584161795721"
+    },
+    "installments": [
+      {
+        "id": "5798",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T22:10:46.849Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "5801",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T22:10:46.849Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5799",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T22:10:46.849Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5800",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T22:10:46.849Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

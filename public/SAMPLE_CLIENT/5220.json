@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T18:41:43.568Z",
+  "id": "5855",
+  "amount": 78.3,
+  "invoiceId": "18942",
+  "paidToMerchant": false,
+  "identifierNumber": 5220,
+  "billingDate": "2022-12-29T18:41:43.568Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17158811",
+      "fullName": "LEOVARDOT ANTONIO NORIEGA QUINTERO",
+      "phoneNumber": "+584142792087"
+    },
+    "installments": [
+      {
+        "id": "20189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T18:42:18.493Z",
+        "amount": 13.049999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "20186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T18:42:18.493Z",
+        "amount": 39.15,
+        "status": "DONE"
+      },
+      {
+        "id": "20188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T18:42:18.493Z",
+        "amount": 13.049999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "20187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T18:42:18.493Z",
+        "amount": 13.049999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

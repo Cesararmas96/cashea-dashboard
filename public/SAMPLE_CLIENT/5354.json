@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T19:20:56.288Z",
+  "id": "5042",
+  "amount": 35.48,
+  "invoiceId": "15187",
+  "paidToMerchant": false,
+  "identifierNumber": 5354,
+  "billingDate": "2022-12-26T19:20:56.288Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14673871",
+      "fullName": "MARIA CAROLINA YANEZ HERNANDEZ",
+      "phoneNumber": "+584120161002"
+    },
+    "installments": [
+      {
+        "id": "17302",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T19:36:45.397Z",
+        "amount": 17.74,
+        "status": "DONE"
+      },
+      {
+        "id": "17303",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T19:36:45.396Z",
+        "amount": 5.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17305",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T19:36:45.396Z",
+        "amount": 5.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17304",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T19:36:45.396Z",
+        "amount": 5.913333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

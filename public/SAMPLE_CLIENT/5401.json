@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-26T22:23:06.098Z",
+  "id": "5107",
+  "amount": 108.5,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5401,
+  "billingDate": "2022-12-26T22:23:06.098Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:49:35.604Z",
+  "id": "2932",
+  "amount": 34.73,
+  "invoiceId": "13839",
+  "paidToMerchant": false,
+  "identifierNumber": 4653,
+  "billingDate": "2022-12-20T22:49:35.604Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22561822",
+      "fullName": "NIBSY GABRIELA PEREZ SANTAELLA",
+      "phoneNumber": "+584242184132"
+    },
+    "installments": [
+      {
+        "id": "9678",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:50:29.697Z",
+        "amount": 17.36,
+        "status": "DONE"
+      },
+      {
+        "id": "9681",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:50:29.697Z",
+        "amount": 5.789999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9679",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:50:29.697Z",
+        "amount": 5.789999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9680",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:50:29.697Z",
+        "amount": 5.789999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

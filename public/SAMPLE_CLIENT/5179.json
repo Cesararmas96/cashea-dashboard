@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:23:15.840Z",
+  "id": "4915",
+  "amount": 50,
+  "invoiceId": "10302",
+  "paidToMerchant": false,
+  "identifierNumber": 5179,
+  "billingDate": "2022-12-24T21:23:15.840Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11029373",
+      "fullName": "OSCAR ENRIQUE MEDINA ZAMBRANO",
+      "phoneNumber": "+584122152062"
+    },
+    "installments": [
+      {
+        "id": "16842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:23:54.131Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "16845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:23:54.130Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:23:54.130Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:23:54.130Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

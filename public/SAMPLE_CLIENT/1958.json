@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-12T19:40:15.171Z",
+  "id": "1319",
+  "amount": 102.4,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1958,
+  "billingDate": "2022-12-12T19:40:15.171Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28007287",
+      "fullName": "IGNACIO ANTONIO QUINTERO PONTE",
+      "phoneNumber": "+584242708688"
+    },
+    "installments": [
+      {
+        "id": "4253",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T19:40:15.329Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4251",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T19:40:15.329Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4250",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T19:40:15.330Z",
+        "amount": 51.2,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4252",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T19:40:15.329Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 49,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

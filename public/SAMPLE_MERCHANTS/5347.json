@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-04-23T20:35:54.045Z",
+  "updatedAt": "2025-05-06T14:24:38.739Z",
+  "id": 5347,
+  "name": "Volair's Viajes y Turismo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cb0c7504-e12a-437b-aa35-6520a5cd7a0f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "volairsoficial@gmail.com",
+    "legalName": "JOSE",
+    "phoneNumber": "04128489038"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T20:46:21.643Z",
+      "updatedAt": "2025-04-23T20:46:21.643Z",
+      "id": 13209,
+      "merchantId": 5347,
+      "name": "Volair's Viajes y Turismo CC Unicentro Aragua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "AVENIDA CASANOVA GODOY CENTRO COMERCIAL UNICENTRO NIVEL 1 LOCAL 118",
+        "long": -67.5821875,
+        "lat": 10.2548125,
+        "location": "0101000020E6100000F6285C8F42E550C05839B4C876822440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-23T20:37:02.352Z",
+      "updatedAt": "2025-04-23T20:37:02.352Z",
+      "id": 13206,
+      "merchantId": 5347,
+      "name": "Volair's Viajes y Turismo Aeropuerto Maiquetia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8194,
+      "address": {
+        "name": "AEROPUERTO MAIQUETIA",
+        "long": -67.0015625,
+        "lat": 10.5991875,
+        "location": "0101000020E61000009A99999919C050C0105839B4C8322540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-29T18:36:00.615Z",
+      "updatedAt": "2025-05-29T18:36:00.615Z",
+      "id": 14953,
+      "merchantId": 5347,
+      "name": "VR_Volair's Viajes y Turismo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8194,
+      "address": {
+        "name": "AEROPUERTO MAIQUETIA",
+        "long": -67.0015625,
+        "lat": 10.5991875,
+        "location": "0101000020E61000009A99999919C050C0105839B4C8322540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

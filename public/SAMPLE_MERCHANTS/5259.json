@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-15T20:14:33.760Z",
+  "updatedAt": "2025-04-24T18:32:40.744Z",
+  "id": 5259,
+  "name": "Farmacia del Centro 2021",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0289af9a-44eb-4064-a6da-fb4a13591bad",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "farmacentro2021c.a@gmail.com",
+    "legalName": "Eduardo",
+    "phoneNumber": "4244978263"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T20:18:27.220Z",
+      "updatedAt": "2025-04-15T20:18:27.220Z",
+      "id": 13028,
+      "merchantId": 5259,
+      "name": "Farmacia del Centro 2021 San Juan de los Morros",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11415,
+      "address": {
+        "name": "Edificio Exclesior San Juan de los morros",
+        "long": -67.3581875,
+        "lat": 9.911687500000014,
+        "location": "0101000020E61000008195438BECD650C0185839B4C8D22340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-02T19:20:49.487Z",
+      "updatedAt": "2025-06-02T19:20:49.487Z",
+      "id": 15075,
+      "merchantId": 5259,
+      "name": "VR_Farmacia del Centro 2021",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11415,
+      "address": {
+        "name": "Edificio Exclesior San Juan de los morros",
+        "long": -67.3581875,
+        "lat": 9.911687500000014,
+        "location": "0101000020E61000008195438BECD650C0185839B4C8D22340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

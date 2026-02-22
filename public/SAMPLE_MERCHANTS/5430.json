@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-28T15:54:57.498Z",
+  "updatedAt": "2025-06-20T15:31:51.188Z",
+  "id": 5430,
+  "name": "Lucciano Cars Shop",
+  "ecommerceUrl": null,
+  "changePolicy": "Sin modificaciones ni alteraciones.\nCambio máximo en 72 horas.\nPara solicitudes, comuníquese al 0414-318-0083, explicando la razón de la devolución o el cambio del producto.\nDevoluciones por defecto de fábrica o productos en oferta.",
+  "email": "LUCCIANOCARSHOP.CASHEA@GMAIL.COM",
+  "phoneNumber": "+584143180083",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "37a24314-45e8-40f4-a272-ab1608a7a677",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "luccianocars.shop@gmail.com",
+    "legalName": "Jimmy",
+    "phoneNumber": "4143180083"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T21:08:41.715Z",
+      "updatedAt": "2025-06-20T15:31:51.187Z",
+      "id": 13673,
+      "merchantId": 5430,
+      "name": "Lucciano Cars Shop Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5519,
+      "address": {
+        "name": "Envíos en 24 a 48 horas. Costo de envío: 5 dólares. Áreas de envío: Gran Caracas o envíos nacionales. Opciones de envío: COD MRW y Tealca. Retiro en: El Paraíso, Caracas.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T15:59:29.195Z",
+      "updatedAt": "2025-04-28T15:59:29.195Z",
+      "id": 13348,
+      "merchantId": 5430,
+      "name": "Lucciano Cars Shop Av Washington El Paraíso CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5519,
+      "address": {
+        "name": "Av Washington del paraíso, entre hiperfrenos y el hotel 2001",
+        "long": -66.9386875,
+        "lat": 10.482437500000003,
+        "location": "0101000020E61000007F6ABC7413BC50C060BA490C02F72440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-11T12:20:11.187Z",
+      "updatedAt": "2025-06-11T12:20:11.187Z",
+      "id": 15493,
+      "merchantId": 5430,
+      "name": "VR_Lucciano Cars Shop",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5519,
+      "address": {
+        "name": "Av Washington del paraíso, entre hiperfrenos y el hotel 2001",
+        "long": -66.9386875,
+        "lat": 10.482437500000003,
+        "location": "0101000020E61000007F6ABC7413BC50C060BA490C02F72440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T20:05:10.797Z",
+  "id": "7203",
+  "amount": 30.76,
+  "invoiceId": "45198",
+  "paidToMerchant": false,
+  "identifierNumber": 5991,
+  "billingDate": "2023-01-02T20:05:10.797Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6201151",
+      "fullName": "GLORIA DE FREITAS GONCALVES",
+      "phoneNumber": "+584248710476"
+    },
+    "installments": [
+      {
+        "id": "24958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T20:05:40.693Z",
+        "amount": 15.38,
+        "status": "DONE"
+      },
+      {
+        "id": "24961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T20:05:40.692Z",
+        "amount": 5.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T20:05:40.692Z",
+        "amount": 5.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "24960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T20:05:40.692Z",
+        "amount": 5.126666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

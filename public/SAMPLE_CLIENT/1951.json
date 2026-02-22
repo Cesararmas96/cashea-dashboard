@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T22:50:24.203Z",
+  "id": "1335",
+  "amount": 34.8,
+  "invoiceId": "11869",
+  "paidToMerchant": false,
+  "identifierNumber": 1951,
+  "billingDate": "2022-12-12T22:50:24.203Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20153978",
+      "fullName": "YULIAGNY DANIELA RODRIGUEZ HERNANDEZ",
+      "phoneNumber": "+584242307213"
+    },
+    "installments": [
+      {
+        "id": "4298",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T22:51:14.246Z",
+        "amount": 17.4,
+        "status": "DONE"
+      },
+      {
+        "id": "4301",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T22:51:14.243Z",
+        "amount": 5.8,
+        "status": "DONE"
+      },
+      {
+        "id": "4299",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T22:51:14.243Z",
+        "amount": 5.8,
+        "status": "DONE"
+      },
+      {
+        "id": "4300",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T22:51:14.243Z",
+        "amount": 5.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

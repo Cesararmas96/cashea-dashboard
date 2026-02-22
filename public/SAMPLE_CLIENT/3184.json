@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T16:50:26.207Z",
+  "id": "2735",
+  "amount": 55.6,
+  "invoiceId": "00017181",
+  "paidToMerchant": false,
+  "identifierNumber": 3184,
+  "billingDate": "2022-12-20T16:50:26.207Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24316224",
+      "fullName": "ORIANA VALENTINA BLANCO LAIRET",
+      "phoneNumber": "+584242345481"
+    },
+    "installments": [
+      {
+        "id": "9014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T16:56:52.907Z",
+        "amount": 27.8,
+        "status": "DONE"
+      },
+      {
+        "id": "9015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T16:56:52.907Z",
+        "amount": 9.266666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T16:56:52.907Z",
+        "amount": 9.266666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T16:56:52.907Z",
+        "amount": 9.266666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

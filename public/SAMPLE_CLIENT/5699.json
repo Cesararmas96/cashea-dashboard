@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T15:43:07.874Z",
+  "id": "5390",
+  "amount": 30.95,
+  "invoiceId": "13917",
+  "paidToMerchant": false,
+  "identifierNumber": 5699,
+  "billingDate": "2022-12-28T15:43:07.874Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11007589",
+      "fullName": "YURAIMA JOSEFINA AGUILERA ANDARCIA",
+      "phoneNumber": "+584248608421"
+    },
+    "installments": [
+      {
+        "id": "18534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T15:53:44.884Z",
+        "amount": 15.47,
+        "status": "DONE"
+      },
+      {
+        "id": "18537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T15:53:44.883Z",
+        "amount": 5.159999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "18536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T15:53:44.883Z",
+        "amount": 5.159999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "18535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T15:53:44.883Z",
+        "amount": 5.159999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

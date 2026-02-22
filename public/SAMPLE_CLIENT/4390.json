@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:07:05.519Z",
+  "id": "2004",
+  "amount": 60.93,
+  "invoiceId": "00017780",
+  "paidToMerchant": false,
+  "identifierNumber": 4390,
+  "billingDate": "2022-12-17T20:07:05.519Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26792546",
+      "fullName": "EUCARIS NAYARIT CABEZAS BRICENO",
+      "phoneNumber": "+584128840895"
+    },
+    "installments": [
+      {
+        "id": "6502",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:07:40.289Z",
+        "amount": 30.46,
+        "status": "DONE"
+      },
+      {
+        "id": "6503",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:07:40.289Z",
+        "amount": 10.156666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6504",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:07:40.289Z",
+        "amount": 10.156666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6505",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:07:40.289Z",
+        "amount": 10.156666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

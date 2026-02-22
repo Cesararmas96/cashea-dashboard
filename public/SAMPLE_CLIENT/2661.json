@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T23:27:21.446Z",
+  "id": "2110",
+  "amount": 115.33,
+  "invoiceId": "14639",
+  "paidToMerchant": false,
+  "identifierNumber": 2661,
+  "billingDate": "2022-12-17T23:27:21.446Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11895926",
+      "fullName": "MARIA ALEJANDRA PAZ DE ABREU",
+      "phoneNumber": "+584143790259"
+    },
+    "installments": [
+      {
+        "id": "6869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T23:28:53.776Z",
+        "amount": 19.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T23:28:53.776Z",
+        "amount": 19.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T23:28:53.776Z",
+        "amount": 19.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T23:28:53.776Z",
+        "amount": 57.66,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

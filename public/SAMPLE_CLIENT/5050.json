@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:54:42.729Z",
+  "id": "4774",
+  "amount": 225,
+  "invoiceId": "3354",
+  "paidToMerchant": false,
+  "identifierNumber": 5050,
+  "billingDate": "2022-12-24T18:54:42.729Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13534814",
+      "fullName": "ERIKA ABIRAD RAMIREZ",
+      "phoneNumber": "+584142512652"
+    },
+    "installments": [
+      {
+        "id": "16358",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:58:32.592Z",
+        "amount": 112.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16361",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:58:32.592Z",
+        "amount": 37.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16360",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:58:32.592Z",
+        "amount": 37.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16359",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:58:32.592Z",
+        "amount": 37.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

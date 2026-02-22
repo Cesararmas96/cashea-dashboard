@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T16:33:06.762Z",
+  "id": "727",
+  "amount": 31.8,
+  "invoiceId": "00016802",
+  "paidToMerchant": false,
+  "identifierNumber": 1463,
+  "billingDate": "2022-12-05T16:33:06.762Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26334597",
+      "fullName": "JAVIER FELIX TEIXEIRA SANDOVAL",
+      "phoneNumber": "+584142142378"
+    },
+    "installments": [
+      {
+        "id": "2361",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T16:37:48.114Z",
+        "amount": 5.3,
+        "status": "DONE"
+      },
+      {
+        "id": "2358",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T16:37:48.114Z",
+        "amount": 15.9,
+        "status": "DONE"
+      },
+      {
+        "id": "2360",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T16:37:48.114Z",
+        "amount": 5.3,
+        "status": "DONE"
+      },
+      {
+        "id": "2359",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T16:37:48.114Z",
+        "amount": 5.3,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

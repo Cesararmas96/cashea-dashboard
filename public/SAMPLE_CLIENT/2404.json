@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T00:10:53.835Z",
+  "id": "1852",
+  "amount": 46.8,
+  "invoiceId": "1428",
+  "paidToMerchant": false,
+  "identifierNumber": 2404,
+  "billingDate": "2022-12-17T00:10:53.835Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-02T04:00:00.233+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "6003",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11929299",
+      "fullName": "IGNACIO GABRIEL BARRIOS ECHARRY",
+      "phoneNumber": "+584140761739"
+    },
+    "installments": [
+      {
+        "id": "6002",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T00:11:18.844Z",
+        "amount": 23.4,
+        "status": "DONE"
+      },
+      {
+        "id": "6005",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T00:11:18.843Z",
+        "amount": 7.8,
+        "status": "DONE"
+      },
+      {
+        "id": "6004",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T00:11:18.843Z",
+        "amount": 7.8,
+        "status": "DONE"
+      },
+      {
+        "id": "6003",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T00:11:18.843Z",
+        "amount": 7.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

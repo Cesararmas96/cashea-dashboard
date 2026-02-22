@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:03:25.665Z",
+  "id": "4639",
+  "amount": 43.33,
+  "invoiceId": "15501",
+  "paidToMerchant": false,
+  "identifierNumber": 4980,
+  "billingDate": "2022-12-24T17:03:25.665Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22026498",
+      "fullName": "JORGE LEONARDO ROSALES PEREZ",
+      "phoneNumber": "+584242383487"
+    },
+    "installments": [
+      {
+        "id": "15845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:04:06.633Z",
+        "amount": 7.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:04:06.634Z",
+        "amount": 21.66,
+        "status": "DONE"
+      },
+      {
+        "id": "15844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:04:06.633Z",
+        "amount": 7.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:04:06.633Z",
+        "amount": 7.223333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

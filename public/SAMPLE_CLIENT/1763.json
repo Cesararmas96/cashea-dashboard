@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T20:50:37.524Z",
+  "id": "1098",
+  "amount": 125,
+  "invoiceId": "10420",
+  "paidToMerchant": false,
+  "identifierNumber": 1763,
+  "billingDate": "2022-12-10T20:50:37.524Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18461664",
+      "fullName": "REBECA MARIA TORRES ARTEAGA",
+      "phoneNumber": "+584120217141"
+    },
+    "installments": [
+      {
+        "id": "3487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T20:53:14.748Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T20:53:14.748Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T20:53:14.748Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T20:53:14.749Z",
+        "amount": 62.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

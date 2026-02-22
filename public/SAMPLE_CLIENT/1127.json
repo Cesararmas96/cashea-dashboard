@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-24T18:57:33.665Z",
+  "id": "470",
+  "amount": 52,
+  "invoiceId": "783603",
+  "paidToMerchant": false,
+  "identifierNumber": 1127,
+  "billingDate": "2022-11-24T18:57:33.665Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17423178",
+      "fullName": "RONALD ALFREDO ESPINOZA MARQUINA",
+      "phoneNumber": "+584241061043"
+    },
+    "installments": [
+      {
+        "id": "1446",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-24T18:57:54.260Z",
+        "amount": 26,
+        "status": "DONE"
+      },
+      {
+        "id": "1449",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-05T18:57:54.258Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1448",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-22T18:57:54.258Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1447",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-08T18:57:54.258Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

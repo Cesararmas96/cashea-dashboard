@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:06:09.715Z",
+  "id": "4542",
+  "amount": 39.93,
+  "invoiceId": "49238",
+  "paidToMerchant": false,
+  "identifierNumber": 4915,
+  "billingDate": "2022-12-24T15:06:09.715Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17443915",
+      "fullName": "CRISFEL JESUS COSTERO GONZALEZ",
+      "phoneNumber": "+584123658313"
+    },
+    "installments": [
+      {
+        "id": "15490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:06:43.815Z",
+        "amount": 19.96,
+        "status": "DONE"
+      },
+      {
+        "id": "15493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:06:43.814Z",
+        "amount": 6.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:06:43.814Z",
+        "amount": 6.656666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:06:43.814Z",
+        "amount": 6.656666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

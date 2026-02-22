@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:40:49.495Z",
+  "id": "4425",
+  "amount": 136.99,
+  "invoiceId": "00002152",
+  "paidToMerchant": false,
+  "identifierNumber": 4806,
+  "billingDate": "2022-12-24T00:40:49.495Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19370451",
+      "fullName": "JOSE NAZARETH CASTILLO PICHARDO",
+      "phoneNumber": "+584241530785"
+    },
+    "installments": [
+      {
+        "id": "15050",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:41:17.706Z",
+        "amount": 68.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15053",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:41:17.705Z",
+        "amount": 22.830000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15052",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:41:17.705Z",
+        "amount": 22.830000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15051",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:41:17.705Z",
+        "amount": 22.830000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

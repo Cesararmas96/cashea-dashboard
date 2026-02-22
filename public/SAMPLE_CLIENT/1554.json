@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-07T20:15:35.781Z",
+  "id": "863",
+  "amount": 74.98,
+  "invoiceId": "13834",
+  "paidToMerchant": false,
+  "identifierNumber": 1554,
+  "billingDate": "2022-12-07T20:15:35.781Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-07T04:00:00.305+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "2748",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30156888",
+      "fullName": "KAREN LUISANA VEGAS ARDILA",
+      "phoneNumber": "+584243660233"
+    },
+    "installments": [
+      {
+        "id": "2748",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T20:16:45.050Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2749",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T20:16:45.050Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2747",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T20:16:45.050Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "2746",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T20:16:45.050Z",
+        "amount": 37.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T17:46:49.233Z",
+  "id": "5820",
+  "amount": 75,
+  "invoiceId": "0000592",
+  "paidToMerchant": false,
+  "identifierNumber": 5431,
+  "billingDate": "2022-12-29T17:46:49.233Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "13",
+    "buyDebtDate": "2023-05-03T04:00:03.436+00:00",
+    "lastStoreId": 4,
+    "boughtForInstallmentId": 20073,
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12231401",
+      "fullName": "GERSON ALEXIS CASTRO SANTANDER",
+      "phoneNumber": "+584241231652"
+    },
+    "installments": [
+      {
+        "id": "20073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:47:34.439Z",
+        "amount": 12.5,
+        "status": "DONE"
+      },
+      {
+        "id": "20070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:47:34.439Z",
+        "amount": 37.5,
+        "status": "DONE"
+      },
+      {
+        "id": "20072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:47:34.439Z",
+        "amount": 12.5,
+        "status": "DONE"
+      },
+      {
+        "id": "20071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:47:34.439Z",
+        "amount": 12.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

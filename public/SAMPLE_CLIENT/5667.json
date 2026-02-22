@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T14:22:21.571Z",
+  "id": "5373",
+  "amount": 145,
+  "invoiceId": "10761",
+  "paidToMerchant": false,
+  "identifierNumber": 5667,
+  "billingDate": "2022-12-28T14:22:21.571Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25225936",
+      "fullName": "LOLA MARIA CAROLINA CANCHICA GONZALEZ",
+      "phoneNumber": "+584126082168"
+    },
+    "installments": [
+      {
+        "id": "18466",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T14:22:44.548Z",
+        "amount": 72.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18469",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T14:22:44.548Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18468",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T14:22:44.548Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "18467",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T14:22:44.548Z",
+        "amount": 24.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

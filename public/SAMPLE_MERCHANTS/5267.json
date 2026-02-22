@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-16T14:30:33.807Z",
+  "updatedAt": "2025-04-17T16:55:30.227Z",
+  "id": 5267,
+  "name": "Maxi Center",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5cbad7d7-59a2-4c93-a9e4-86a91805d3a8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "amgad.rachid@hotmail.com",
+    "legalName": "Amgad ",
+    "phoneNumber": "04144068349"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-21T17:26:50.447Z",
+      "updatedAt": "2025-04-21T17:26:50.447Z",
+      "id": 13112,
+      "merchantId": 5267,
+      "name": "VR_Maxi Center",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6671,
+      "address": {
+        "name": "Maxi Center Centro de Valencia.",
+        "long": -68.0043125,
+        "lat": 10.180562500000008,
+        "location": "0101000020E6100000B29DEFA7460051C0A0C420B0725C2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-16T14:34:31.579Z",
+      "updatedAt": "2025-04-16T14:34:31.579Z",
+      "id": 13051,
+      "merchantId": 5267,
+      "name": "Maxi Center Centro de Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6671,
+      "address": {
+        "name": "Maxi Center Centro de Valencia.",
+        "long": -68.0043125,
+        "lat": 10.180562500000008,
+        "location": "0101000020E6100000B29DEFA7460051C0A0C420B0725C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

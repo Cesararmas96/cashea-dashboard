@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T20:43:58.641Z",
+  "id": "2558",
+  "amount": 66.76,
+  "invoiceId": "50112",
+  "paidToMerchant": false,
+  "identifierNumber": 3078,
+  "billingDate": "2022-12-19T20:43:58.641Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22434311",
+      "fullName": "WUENDY CAROLINA GUERRERO PULIDO",
+      "phoneNumber": "+584122586060"
+    },
+    "installments": [
+      {
+        "id": "8409",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T20:45:09.907Z",
+        "amount": 11.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8408",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T20:45:09.907Z",
+        "amount": 11.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8407",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T20:45:09.907Z",
+        "amount": 11.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8406",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T20:45:09.907Z",
+        "amount": 33.38,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

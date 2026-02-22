@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-18T15:08:04.564Z",
+  "id": "119",
+  "amount": 120,
+  "invoiceId": "00000524",
+  "paidToMerchant": false,
+  "identifierNumber": 1274,
+  "billingDate": "2022-10-18T15:08:04.564Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10511715",
+      "fullName": "BELKIS COROMOTO PERNIA",
+      "phoneNumber": "+584149032073"
+    },
+    "installments": [
+      {
+        "id": "377",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-18T15:09:00.405Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "380",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-29T15:09:00.404Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "378",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-01T15:09:00.404Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "379",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-15T15:09:00.404Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

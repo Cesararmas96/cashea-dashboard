@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-24T22:41:14.016Z",
+  "id": "472",
+  "amount": 39.61,
+  "invoiceId": "6800",
+  "paidToMerchant": false,
+  "identifierNumber": 1002,
+  "billingDate": "2022-11-24T22:41:14.016Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26908754",
+      "fullName": "MELVI JOSE ESCALANTE MORA",
+      "phoneNumber": "+584120978395"
+    },
+    "installments": [
+      {
+        "id": "1454",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-24T22:41:42.540Z",
+        "amount": 19.8,
+        "status": "DONE"
+      },
+      {
+        "id": "1456",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-22T22:41:42.539Z",
+        "amount": 6.603333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1455",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-08T22:41:42.539Z",
+        "amount": 6.603333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1457",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-05T22:41:42.539Z",
+        "amount": 6.603333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

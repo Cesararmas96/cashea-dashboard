@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-30T23:14:34.294Z",
+  "id": "11548",
+  "amount": 77.07,
+  "invoiceId": "3856",
+  "paidToMerchant": false,
+  "identifierNumber": 3483,
+  "billingDate": "2023-01-30T23:14:34.294Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-16T04:00:00.255+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "35423",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26475566",
+      "fullName": "ROBER JOEL GUEVARA ACEVEDO",
+      "phoneNumber": "+584122152474"
+    },
+    "installments": [
+      {
+        "id": "35425",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T23:15:03.423Z",
+        "amount": 12.846666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35423",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T23:15:03.423Z",
+        "amount": 12.846666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35424",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T23:15:03.423Z",
+        "amount": 12.846666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35422",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T23:15:03.424Z",
+        "amount": 38.53,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

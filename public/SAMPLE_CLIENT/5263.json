@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T19:49:12.634Z",
+  "id": "5899",
+  "amount": 38.5,
+  "invoiceId": "15408",
+  "paidToMerchant": false,
+  "identifierNumber": 5263,
+  "billingDate": "2022-12-29T19:49:12.634Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26546398",
+      "fullName": "ZARITH GALILEA YORIS GEDLER",
+      "phoneNumber": "+584242246078"
+    },
+    "installments": [
+      {
+        "id": "20342",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T19:49:37.120Z",
+        "amount": 19.25,
+        "status": "DONE"
+      },
+      {
+        "id": "20345",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T19:49:37.120Z",
+        "amount": 6.416666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20344",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T19:49:37.120Z",
+        "amount": 6.416666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20343",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T19:49:37.120Z",
+        "amount": 6.416666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

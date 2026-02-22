@@ -1,0 +1,92 @@
+[
+  {
+    "id": 948,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501319375",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MAXHOGAR, C.A.",
+    "internalBankHolder": "MAXHOGAR, C.A.",
+    "account": "01910192432100158509",
+    "accountType": "Corriente",
+    "phoneNumber": "4246320892",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 946,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501319375",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MAXHOGAR, C.A.",
+    "internalBankHolder": "MAXHOGAR, C.A.",
+    "account": "01910192432100158509",
+    "accountType": "Corriente",
+    "phoneNumber": "4246320892",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

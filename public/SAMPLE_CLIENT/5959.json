@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T23:52:45.370Z",
+  "id": "5682",
+  "amount": 117.01,
+  "invoiceId": "49511",
+  "paidToMerchant": false,
+  "identifierNumber": 5959,
+  "billingDate": "2022-12-28T23:52:45.370Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-14T04:00:00.387+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "19563",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "84612108",
+      "fullName": "NATALIIA GIUMIUSHLIU",
+      "phoneNumber": "+584120136638"
+    },
+    "installments": [
+      {
+        "id": "19565",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:53:00.835Z",
+        "amount": 19.500000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "19562",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:53:00.835Z",
+        "amount": 58.51,
+        "status": "DONE"
+      },
+      {
+        "id": "19564",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:53:00.835Z",
+        "amount": 19.500000000000004,
+        "status": "DONE"
+      },
+      {
+        "id": "19563",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:53:00.835Z",
+        "amount": 19.500000000000004,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

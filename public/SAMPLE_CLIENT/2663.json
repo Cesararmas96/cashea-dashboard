@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:05:20.020Z",
+  "id": "2132",
+  "amount": 119.99,
+  "invoiceId": "00001441",
+  "paidToMerchant": false,
+  "identifierNumber": 2663,
+  "billingDate": "2022-12-18T00:05:20.020Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19915401",
+      "fullName": "MARTIN JOSE TORRES GONZALEZ",
+      "phoneNumber": "+584126293623"
+    },
+    "installments": [
+      {
+        "id": "6953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:05:54.684Z",
+        "amount": 19.999999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "6952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:05:54.684Z",
+        "amount": 19.999999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "6951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:05:54.684Z",
+        "amount": 19.999999999999996,
+        "status": "DONE"
+      },
+      {
+        "id": "6950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:05:54.684Z",
+        "amount": 59.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

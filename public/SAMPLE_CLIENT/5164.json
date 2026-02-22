@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:17:47.429Z",
+  "id": "4910",
+  "amount": 70,
+  "invoiceId": "9522",
+  "paidToMerchant": false,
+  "identifierNumber": 5164,
+  "billingDate": "2022-12-24T21:17:47.429Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18600163",
+      "fullName": "KARLA ELIZABETH T BERNAL SALAZAR",
+      "phoneNumber": "+584120700273"
+    },
+    "installments": [
+      {
+        "id": "16830",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:22:02.834Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "16833",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:22:02.834Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16832",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:22:02.834Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16831",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:22:02.834Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

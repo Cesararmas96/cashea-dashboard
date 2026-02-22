@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-07T23:37:48.705Z",
+  "updatedAt": "2025-05-07T23:37:48.705Z",
+  "id": 5611,
+  "name": "La Feria de la Shola",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE",
+    "IN_APP"
+  ],
+  "parentGroupId": 816,
+  "tags": [],
+  "uuid": "5e528f9a-e6a7-43a0-9ad9-ac6d5652c702",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tramiteslocales2025@gmail.com",
+    "legalName": "Kaled Abdul",
+    "phoneNumber": "04147695324"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T00:21:35.460Z",
+      "updatedAt": "2025-05-08T00:21:35.460Z",
+      "id": 13755,
+      "merchantId": 5611,
+      "name": "La Feria de la Shola Av. Bermudez",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6482,
+      "address": {
+        "name": "La Feria de la Shola Av. Bermudez",
+        "long": -64.17981250000001,
+        "lat": 10.46293750000001,
+        "location": "0101000020E61000005FBA490C820B50C0202FDD2406ED2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

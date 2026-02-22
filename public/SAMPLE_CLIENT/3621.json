@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:57:54.042Z",
+  "id": "3196",
+  "amount": 39.99,
+  "invoiceId": "00001760",
+  "paidToMerchant": false,
+  "identifierNumber": 3621,
+  "billingDate": "2022-12-21T20:57:54.042Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21345027",
+      "fullName": "ANFERNEE JEFFREY FOUCOULT SUAREZ",
+      "phoneNumber": "+584141134450"
+    },
+    "installments": [
+      {
+        "id": "10602",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:59:01.221Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "10605",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:59:01.220Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10604",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:59:01.220Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10603",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:59:01.220Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

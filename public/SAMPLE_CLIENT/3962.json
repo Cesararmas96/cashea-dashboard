@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:31:52.882Z",
+  "id": "3538",
+  "amount": 30.36,
+  "invoiceId": "14042",
+  "paidToMerchant": false,
+  "identifierNumber": 3962,
+  "billingDate": "2022-12-22T20:31:52.882Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9832079",
+      "fullName": "ALBERTO EZEQUIEL FERREIRA PEREIRA",
+      "phoneNumber": "+584149353545"
+    },
+    "installments": [
+      {
+        "id": "11846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:33:11.911Z",
+        "amount": 15.18,
+        "status": "DONE"
+      },
+      {
+        "id": "11847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:33:11.911Z",
+        "amount": 5.06,
+        "status": "DONE"
+      },
+      {
+        "id": "11849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:33:11.911Z",
+        "amount": 5.06,
+        "status": "DONE"
+      },
+      {
+        "id": "11848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:33:11.911Z",
+        "amount": 5.06,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

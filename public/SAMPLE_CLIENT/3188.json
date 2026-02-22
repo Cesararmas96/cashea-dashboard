@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T14:27:56.020Z",
+  "id": "2714",
+  "amount": 38.06,
+  "invoiceId": "13608",
+  "paidToMerchant": false,
+  "identifierNumber": 3188,
+  "billingDate": "2022-12-20T14:27:56.020Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25306286",
+      "fullName": "YONAIKER GREGORIO BERNAL NIEVES",
+      "phoneNumber": "+584122931394"
+    },
+    "installments": [
+      {
+        "id": "8938",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T14:28:20.778Z",
+        "amount": 19.03,
+        "status": "DONE"
+      },
+      {
+        "id": "8941",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T14:28:20.777Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8939",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T14:28:20.777Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8940",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T14:28:20.777Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T15:50:33.302Z",
+  "id": "4991",
+  "amount": 37.98,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5243,
+  "billingDate": "2022-12-26T15:50:33.302Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27031769",
+      "fullName": "JESSICA ANDREA CARDONA MONTOYA",
+      "phoneNumber": "+584120309534"
+    },
+    "installments": [
+      {
+        "id": "17111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T15:50:56.591Z",
+        "amount": 6.329999999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T15:50:56.591Z",
+        "amount": 6.329999999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T15:50:56.591Z",
+        "amount": 6.329999999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T15:50:56.591Z",
+        "amount": 18.99,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

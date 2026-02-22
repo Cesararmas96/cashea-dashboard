@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-28T00:43:02.045Z",
+  "id": "5346",
+  "amount": 95.004,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5627,
+  "billingDate": "2022-12-28T00:43:02.045Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16697082",
+      "fullName": "OSBEL ANTONIO BETANCOURT BETANCOURT",
+      "phoneNumber": "+584242123998"
+    },
+    "installments": [
+      {
+        "id": "18370",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T00:43:02.102Z",
+        "amount": 47.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18373",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T00:43:02.102Z",
+        "amount": 15.834666666666669,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18371",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T00:43:02.102Z",
+        "amount": 15.834666666666669,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "18372",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T00:43:02.102Z",
+        "amount": 15.834666666666669,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 174,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

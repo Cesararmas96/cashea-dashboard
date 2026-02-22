@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-03-31T13:24:00.689Z",
+  "updatedAt": "2025-04-04T17:55:36.358Z",
+  "id": 4921,
+  "name": "PREMIER SERVICIO ODONTOLÓGICO",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9c627020-268f-474e-8e90-fd7706ca052a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "odontologiapremier@gmail.com",
+    "legalName": "Francisco",
+    "phoneNumber": "04141020927"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T14:50:08.974Z",
+      "updatedAt": "2025-04-02T14:50:08.974Z",
+      "id": 12508,
+      "merchantId": 4921,
+      "name": "Premier Servicio Odontologico CC Ciudad Jardin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11670,
+      "address": {
+        "name": "AV TACAGUA CC CIUDADJARDIN NIVEL 1 LOCAL P1-14URB ATLANTIDA CATIA LAMAR LA GUAIRA ZONAPOSTAL 1162",
+        "long": -67.0281875,
+        "lat": 10.604187499999995,
+        "location": "0101000020E6100000FCA9F1D2CDC150C0D04D621058352540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

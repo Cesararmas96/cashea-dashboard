@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:21:38.014Z",
+  "id": "2910",
+  "amount": 42.4,
+  "invoiceId": "9169",
+  "paidToMerchant": false,
+  "identifierNumber": 5657,
+  "billingDate": "2022-12-20T22:21:38.014Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25385404",
+      "fullName": "EDUMAR MAIRETH T ESTRADA DIAZ",
+      "phoneNumber": "+584141415077"
+    },
+    "installments": [
+      {
+        "id": "9598",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:25:02.853Z",
+        "amount": 21.2,
+        "status": "DONE"
+      },
+      {
+        "id": "9599",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:25:02.853Z",
+        "amount": 7.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9601",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:25:02.853Z",
+        "amount": 7.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9600",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:25:02.853Z",
+        "amount": 7.066666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

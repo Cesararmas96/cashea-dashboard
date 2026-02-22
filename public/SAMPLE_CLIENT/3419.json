@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:29:12.613Z",
+  "id": "2964",
+  "amount": 45,
+  "invoiceId": "10036",
+  "paidToMerchant": false,
+  "identifierNumber": 3419,
+  "billingDate": "2022-12-20T23:29:12.613Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22766449",
+      "fullName": "NATHASHA MARLEYS HERRERA GONZALEZ",
+      "phoneNumber": "+584143707781"
+    },
+    "installments": [
+      {
+        "id": "9782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:29:48.409Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "9783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:29:48.409Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "9785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:29:48.409Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "9784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:29:48.409Z",
+        "amount": 7.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T16:14:35.656Z",
+  "id": "5200",
+  "amount": 51.41,
+  "invoiceId": "45104",
+  "paidToMerchant": false,
+  "identifierNumber": 5519,
+  "billingDate": "2022-12-27T16:14:35.656Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21345686",
+      "fullName": "JOHANA ROUSANNE TOSCANO FRANCISCONY",
+      "phoneNumber": "+584242690666"
+    },
+    "installments": [
+      {
+        "id": "17814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T16:15:04.386Z",
+        "amount": 25.7,
+        "status": "DONE"
+      },
+      {
+        "id": "17817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T16:15:04.385Z",
+        "amount": 8.569999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "17816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T16:15:04.385Z",
+        "amount": 8.569999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "17815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T16:15:04.385Z",
+        "amount": 8.569999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

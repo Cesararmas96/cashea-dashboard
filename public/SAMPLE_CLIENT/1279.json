@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-24T00:06:08.944Z",
+  "id": "174",
+  "amount": 212,
+  "invoiceId": "9903",
+  "paidToMerchant": false,
+  "identifierNumber": 1279,
+  "billingDate": "2022-10-24T00:06:08.944Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11043844",
+      "fullName": "GUSTAVO ADOLFO BRITO BRICENO",
+      "phoneNumber": "+584241499136"
+    },
+    "installments": [
+      {
+        "id": "553",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-24T00:06:37.556Z",
+        "amount": 152,
+        "status": "DONE"
+      },
+      {
+        "id": "555",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-21T00:06:37.556Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "556",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-05T00:06:37.556Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "554",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-07T00:06:37.556Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

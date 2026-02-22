@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:26:28.633Z",
+  "id": "2345",
+  "amount": 82.4,
+  "invoiceId": "784680",
+  "paidToMerchant": false,
+  "identifierNumber": 2829,
+  "billingDate": "2022-12-18T22:26:28.633Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20154504",
+      "fullName": "LUIS ALBERTO BETANCOURT GONZALEZ",
+      "phoneNumber": "+584141135319"
+    },
+    "installments": [
+      {
+        "id": "7706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:26:46.733Z",
+        "amount": 41.2,
+        "status": "DONE"
+      },
+      {
+        "id": "7709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:26:46.733Z",
+        "amount": 13.733333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:26:46.733Z",
+        "amount": 13.733333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:26:46.733Z",
+        "amount": 13.733333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

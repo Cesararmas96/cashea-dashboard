@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T22:21:54.975Z",
+  "id": "630",
+  "amount": 99.95,
+  "invoiceId": "4981",
+  "paidToMerchant": false,
+  "identifierNumber": 1369,
+  "billingDate": "2022-12-03T22:21:54.975Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16388980",
+      "fullName": "CARMEN ALICIA VELASQUEZ DE BRITO",
+      "phoneNumber": "+584242255622"
+    },
+    "installments": [
+      {
+        "id": "2013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T22:22:43.024Z",
+        "amount": 16.65666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T22:22:43.024Z",
+        "amount": 16.65666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T22:22:43.024Z",
+        "amount": 49.98,
+        "status": "DONE"
+      },
+      {
+        "id": "2011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T22:22:43.024Z",
+        "amount": 16.65666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

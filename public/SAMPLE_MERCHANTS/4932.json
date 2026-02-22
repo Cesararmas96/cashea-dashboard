@@ -1,0 +1,150 @@
+{
+  "createdAt": "2025-03-31T19:43:42.594Z",
+  "updatedAt": "2025-04-21T15:52:41.890Z",
+  "id": 4932,
+  "name": "Farmacia Farmaeconomia",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 1293,
+  "tags": [],
+  "uuid": "06c04ba2-5e7a-4529-ac32-1b4c373d3783",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "antonio.701.11@gmail.com",
+    "legalName": "ANTONIO",
+    "phoneNumber": "04148968772"
+  },
+  "stores": [
+    {
+      "createdAt": "2026-02-11T23:38:42.760Z",
+      "updatedAt": "2026-02-11T23:38:42.760Z",
+      "id": 30538,
+      "merchantId": 4932,
+      "name": "Farmacia Farmaeconomía Unare II",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5043,
+      "address": {
+        "name": "LOCAL1, AVENIDA DE UNARE II, SECTOR 2, VEREDA 26, CASA N 01, URBANIZACIÓN SUR AEROPUERTO, PARROQUIA UNARE",
+        "long": -62.7649375,
+        "lat": 8.276062500000009,
+        "location": "0101000020E6100000F4FDD478E9614FC0D84D6210588D2040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-24T18:33:07.910Z",
+      "updatedAt": "2025-09-24T18:33:07.910Z",
+      "id": 22287,
+      "merchantId": 4932,
+      "name": "Farmacia Farmaeconomía Carrera Guarapiche Puerto Ordaz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5043,
+      "address": {
+        "name": "GALPÓN D, PARCELA 283-00-12, CARRERA GUARAPICHE CON AVENIDA PASEO CARONI AL LADO DE CRISTALERIA CAURA, PUERTO ORDAZ",
+        "long": -62.7649375,
+        "lat": 8.276062500000009,
+        "location": "0101000020E6100000F4FDD478E9614FC0D84D6210588D2040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T19:46:06.612Z",
+      "updatedAt": "2025-03-31T19:46:06.612Z",
+      "id": 12427,
+      "merchantId": 4932,
+      "name": "Farmacia Farmaeconomia Puerto Ordaz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5043,
+      "address": {
+        "name": "CRA EL PALMAR C/C CRA GUASIPATI EDIF. BERCEMA PB LOCAL 01 SECTOR CENTRO PUERTO ORDAZ",
+        "long": -62.717312500000006,
+        "lat": 8.315562499999999,
+        "location": "0101000020E61000008A4160E5D05B4FC020B0726891A12040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T23:36:27.890Z",
+  "id": "709",
+  "amount": 110.64,
+  "invoiceId": "3955",
+  "paidToMerchant": false,
+  "identifierNumber": 1381,
+  "billingDate": "2022-12-04T23:36:27.890Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18187244",
+      "fullName": "LISNEY LECIMAR PERDOMO HERNANDEZ",
+      "phoneNumber": "+584123690963"
+    },
+    "installments": [
+      {
+        "id": "2290",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T23:38:16.768Z",
+        "amount": 55.32,
+        "status": "DONE"
+      },
+      {
+        "id": "2292",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T23:38:16.768Z",
+        "amount": 18.44,
+        "status": "DONE"
+      },
+      {
+        "id": "2291",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T23:38:16.768Z",
+        "amount": 18.44,
+        "status": "DONE"
+      },
+      {
+        "id": "2293",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T23:38:16.768Z",
+        "amount": 18.44,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

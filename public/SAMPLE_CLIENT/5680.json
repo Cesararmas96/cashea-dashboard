@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-28T16:47:01.108Z",
+  "id": "5412",
+  "amount": 95.004,
+  "invoiceId": "3488",
+  "paidToMerchant": false,
+  "identifierNumber": 5680,
+  "billingDate": "2022-12-28T16:47:01.108Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20565885",
+      "fullName": "HERMINIA MARCELLA MARTINEZ TENIA",
+      "phoneNumber": "+584241664897"
+    },
+    "installments": [
+      {
+        "id": "18587",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:47:01.144Z",
+        "amount": 15.834666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "18589",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:47:01.144Z",
+        "amount": 15.834666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "18588",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:47:01.144Z",
+        "amount": 15.834666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "18586",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:47:01.144Z",
+        "amount": 47.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 174,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

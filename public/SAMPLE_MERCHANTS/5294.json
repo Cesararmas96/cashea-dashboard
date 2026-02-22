@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-17T20:27:56.735Z",
+  "updatedAt": "2025-05-30T13:57:20.627Z",
+  "id": 5294,
+  "name": "La Esquina Del Lente",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d40c2785-1760-476c-945b-10c29b76a913",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "opticasrival@gmail.com",
+    "legalName": "Anderson ",
+    "phoneNumber": "04125857925"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-10T18:55:06.503Z",
+      "updatedAt": "2025-03-10T18:55:06.503Z",
+      "id": 11474,
+      "merchantId": 5294,
+      "name": "La Esquina Del Lente Carrera 19 Entre Calles 25 y 26 Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6456,
+      "address": {
+        "name": "La Esquina Del Lente Carrera 19 Entre Calles 25 y 26 Barquisimeto ",
+        "long": -69.3169375,
+        "lat": 10.065812499999993,
+        "location": "0101000020E6100000105839B4485451C000560E2DB2212440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

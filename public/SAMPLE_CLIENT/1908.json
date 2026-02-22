@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:47:24.479Z",
+  "id": "1227",
+  "amount": 158.5,
+  "invoiceId": "5735",
+  "paidToMerchant": false,
+  "identifierNumber": 1908,
+  "billingDate": "2022-12-11T20:47:24.479Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20155214",
+      "fullName": "JULIO CESAR DIAZ GONZALEZ",
+      "phoneNumber": "+584241786986"
+    },
+    "installments": [
+      {
+        "id": "3941",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:49:35.753Z",
+        "amount": 26.416666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3939",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:49:35.753Z",
+        "amount": 26.416666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3940",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:49:35.753Z",
+        "amount": 26.416666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3938",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:49:35.753Z",
+        "amount": 79.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

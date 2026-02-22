@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:41:59.288Z",
+  "id": "5673",
+  "amount": 62.89,
+  "invoiceId": "14646",
+  "paidToMerchant": false,
+  "identifierNumber": 5941,
+  "billingDate": "2022-12-28T23:41:59.288Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26576194",
+      "fullName": "JAVIER ENRIQUE PRESILLA VILLEGAS",
+      "phoneNumber": "+584241646004"
+    },
+    "installments": [
+      {
+        "id": "19526",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:42:34.748Z",
+        "amount": 31.45,
+        "status": "DONE"
+      },
+      {
+        "id": "19529",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:42:34.748Z",
+        "amount": 10.48,
+        "status": "DONE"
+      },
+      {
+        "id": "19528",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:42:34.748Z",
+        "amount": 10.48,
+        "status": "DONE"
+      },
+      {
+        "id": "19527",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:42:34.748Z",
+        "amount": 10.48,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

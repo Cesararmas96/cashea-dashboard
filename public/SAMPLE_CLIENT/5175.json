@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-24T21:55:27.476Z",
+  "id": "4942",
+  "amount": 253.04,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5175,
+  "billingDate": "2022-12-24T21:55:27.476Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T19:45:17.763Z",
+  "id": "4053",
+  "amount": 68.38,
+  "invoiceId": "14976",
+  "paidToMerchant": false,
+  "identifierNumber": 4469,
+  "billingDate": "2022-12-23T19:45:17.763Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-02-06T04:00:01.239+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "13693",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23608435",
+      "fullName": "GERARDO ENRIQUE FREY GERIK",
+      "phoneNumber": "+584125433512"
+    },
+    "installments": [
+      {
+        "id": "13693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:45:50.234Z",
+        "amount": 11.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:45:50.234Z",
+        "amount": 11.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:45:50.234Z",
+        "amount": 34.19,
+        "status": "DONE"
+      },
+      {
+        "id": "13691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:45:50.234Z",
+        "amount": 11.396666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

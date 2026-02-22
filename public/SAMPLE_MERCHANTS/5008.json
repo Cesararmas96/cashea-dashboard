@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-02T20:51:44.672Z",
+  "updatedAt": "2025-06-03T20:39:30.458Z",
+  "id": 5008,
+  "name": "Emprendimiento Osmar rojas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "82e65627-7fd6-496e-a21d-c947c915ef39",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "rojasosmar514@gmail.com",
+    "legalName": "Osmar daniel",
+    "phoneNumber": "04249002077"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T21:21:35.689Z",
+      "updatedAt": "2025-04-02T21:21:35.689Z",
+      "id": 12560,
+      "merchantId": 5008,
+      "name": "Emprendimiento Osmar rojas Bolivar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4923,
+      "address": {
+        "name": "Avenida principal de 25 de marzo esquina la chela frente el bodegón de otilio",
+        "long": -62.620562500000005,
+        "lat": 8.37781249999999,
+        "location": "0101000020E6100000E04F8D976E4F4FC0380AD7A370C12040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-04T13:29:32.572Z",
+      "updatedAt": "2025-06-04T13:29:32.572Z",
+      "id": 15205,
+      "merchantId": 5008,
+      "name": "VR_Emprendimiento Osmar rojas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4923,
+      "address": {
+        "name": "Avenida principal de 25 de marzo esquina la chela frente el bodegón de otilio",
+        "long": -62.620562500000005,
+        "lat": 8.37781249999999,
+        "location": "0101000020E6100000E04F8D976E4F4FC0380AD7A370C12040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

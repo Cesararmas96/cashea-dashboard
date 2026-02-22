@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T17:26:15.603Z",
+  "id": "4666",
+  "amount": 61.73,
+  "invoiceId": "18548",
+  "paidToMerchant": false,
+  "identifierNumber": 4989,
+  "billingDate": "2022-12-24T17:26:15.603Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-24T04:00:01.488+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "15948",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27647690",
+      "fullName": "LEONARDO DAVID MARRERO VALLADARES",
+      "phoneNumber": "+584122015548"
+    },
+    "installments": [
+      {
+        "id": "15948",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:26:25.982Z",
+        "amount": 10.29,
+        "status": "DONE"
+      },
+      {
+        "id": "15946",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:26:25.983Z",
+        "amount": 30.86,
+        "status": "DONE"
+      },
+      {
+        "id": "15947",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:26:25.982Z",
+        "amount": 10.29,
+        "status": "DONE"
+      },
+      {
+        "id": "15949",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:26:25.982Z",
+        "amount": 10.29,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 48011,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J400599482",
+    "bankName": "Banesco",
+    "bankHolder": "ICONOS GROUP, C.A.",
+    "internalBankHolder": "ICONOS GROUP, C.A.",
+    "account": "01340348133481098681",
+    "accountType": "Corriente",
+    "phoneNumber": "4221509180",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 48009,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J400599482",
+    "bankName": "Banesco",
+    "bankHolder": "ICONOS GROUP, C.A.",
+    "internalBankHolder": "ICONOS GROUP, C.A.",
+    "account": "01340348133481098681",
+    "accountType": "Corriente",
+    "phoneNumber": "4221509180",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 48010,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J400599482",
+    "bankName": "Banesco",
+    "bankHolder": "ICONOS GROUP, C.A.",
+    "internalBankHolder": "ICONOS GROUP, C.A.",
+    "account": "01340348133481098681",
+    "accountType": "Corriente",
+    "phoneNumber": "4221509180",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

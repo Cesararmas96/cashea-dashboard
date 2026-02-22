@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-04T13:50:44.805Z",
+  "updatedAt": "2025-04-08T22:04:48.992Z",
+  "id": 5031,
+  "name": "Óptica Nueva York Visión",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "1ed9cc2f-dcaa-4973-b66b-2d1500a0bcfa",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sopava2000@gmail.com",
+    "legalName": "Sonia Vargas",
+    "phoneNumber": "4144121766"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T13:53:11.295Z",
+      "updatedAt": "2025-04-04T13:53:11.295Z",
+      "id": 12592,
+      "merchantId": 5031,
+      "name": "Óptica Nueva York Visión Av Universidad",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7101,
+      "address": {
+        "name": "Av universidadNaguanagua carabobo",
+        "long": -68.0154375,
+        "lat": 10.256812499999995,
+        "location": "0101000020E6100000736891EDFC0051C0706891ED7C832440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

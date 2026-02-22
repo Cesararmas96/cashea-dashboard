@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-15T17:11:50.027Z",
+  "updatedAt": "2025-05-19T17:49:30.897Z",
+  "id": 5797,
+  "name": "ZUUM PARK",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2120cb8e-1af2-4c98-a6f0-17d742417518",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "zuumdiversionrrhh@gmail.com",
+    "legalName": "Meylin Diaz",
+    "phoneNumber": "+584146330045"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T18:26:05.345Z",
+      "updatedAt": "2025-05-15T18:26:05.345Z",
+      "id": 14190,
+      "merchantId": 5797,
+      "name": "ZUUM PARK",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8273,
+      "address": {
+        "name": "ZUUM PARK",
+        "long": -71.6253125,
+        "lat": 10.6983125,
+        "location": "0101000020E6100000EC51B81E05E851C0A8C64B3789652540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Entretenimiento",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-02T21:36:07.691Z",
+  "id": "598",
+  "amount": 133.9,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1229,
+  "billingDate": "2022-12-02T21:36:07.691Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6167128",
+      "fullName": "ELEAZAR ALBERTO TIRADO FACCINI",
+      "phoneNumber": "+584143728005"
+    },
+    "installments": [
+      {
+        "id": "1903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-16T21:36:47.226Z",
+        "amount": 22.316666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "1905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-13T21:36:47.226Z",
+        "amount": 22.316666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "1902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-02T21:36:47.227Z",
+        "amount": 66.95,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "1904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-30T21:36:47.226Z",
+        "amount": 22.316666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

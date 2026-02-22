@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T15:11:26.685Z",
+  "id": "3896",
+  "amount": 51.79,
+  "invoiceId": "13758",
+  "paidToMerchant": false,
+  "identifierNumber": 4335,
+  "billingDate": "2022-12-23T15:11:26.685Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-06T04:00:00.920+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "13137",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21415661",
+      "fullName": "ESTEFANY ALEJANDRA FLORVILLE PENARANDA",
+      "phoneNumber": "+584141378767"
+    },
+    "installments": [
+      {
+        "id": "13137",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T15:11:57.807Z",
+        "amount": 8.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13134",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T15:11:57.808Z",
+        "amount": 25.89,
+        "status": "DONE"
+      },
+      {
+        "id": "13136",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T15:11:57.807Z",
+        "amount": 8.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13135",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T15:11:57.807Z",
+        "amount": 8.633333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T23:39:04.290Z",
+  "id": "5322",
+  "amount": 48.38,
+  "invoiceId": "14534",
+  "paidToMerchant": false,
+  "identifierNumber": 5624,
+  "billingDate": "2022-12-27T23:39:04.290Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25013548",
+      "fullName": "CHRISTOPHER PAUL ACEVEDO MOLINA",
+      "phoneNumber": "+584141018083"
+    },
+    "installments": [
+      {
+        "id": "18278",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T23:40:09.248Z",
+        "amount": 24.19,
+        "status": "DONE"
+      },
+      {
+        "id": "18280",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T23:40:09.248Z",
+        "amount": 8.063333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18281",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T23:40:09.248Z",
+        "amount": 8.063333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18279",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T23:40:09.248Z",
+        "amount": 8.063333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

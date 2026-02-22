@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-31T13:26:56.857Z",
+  "id": "219",
+  "amount": 60,
+  "invoiceId": "00000537",
+  "paidToMerchant": false,
+  "identifierNumber": 1243,
+  "billingDate": "2022-10-31T13:26:56.857Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23186750",
+      "fullName": "JENNY DEL CARMEN AGUILAR HERNANDEZ",
+      "phoneNumber": "+584121408544"
+    },
+    "installments": [
+      {
+        "id": "669",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-31T13:39:44.462Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "672",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-12T13:39:44.461Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "671",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-28T13:39:44.461Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "670",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-14T13:39:44.461Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

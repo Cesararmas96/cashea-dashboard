@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-05T15:14:20.377Z",
+  "updatedAt": "2025-05-07T13:16:10.599Z",
+  "id": 5518,
+  "name": "Clinica Salud Sonrisa",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "afb9403a-0855-470f-8a39-b5e76ea14730",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "saludsonrisaadmision@gmail.com",
+    "legalName": "CARMELO CUENCA ",
+    "phoneNumber": "04124630648"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T20:48:25.532Z",
+      "updatedAt": "2025-05-22T20:48:25.532Z",
+      "id": 14563,
+      "merchantId": 5518,
+      "name": "VR_Clinica Salud Sonrisa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7559,
+      "address": {
+        "name": "Clinica Salud Sonrisa Calabozo.",
+        "long": -67.42693750000001,
+        "lat": 8.932312500000009,
+        "location": "0101000020E6100000E8FBA9F152DB50C0D84D621058DD2140",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T15:25:10.360Z",
+      "updatedAt": "2025-05-05T15:25:10.360Z",
+      "id": 13570,
+      "merchantId": 5518,
+      "name": "Clinica Salud Sonrisa Calabozo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7559,
+      "address": {
+        "name": "Clinica Salud Sonrisa Calabozo.",
+        "long": -67.42693750000001,
+        "lat": 8.932312500000009,
+        "location": "0101000020E6100000E8FBA9F152DB50C0D84D621058DD2140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

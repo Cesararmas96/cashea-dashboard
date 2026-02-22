@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T01:29:29.838Z",
+  "id": "3050",
+  "amount": 55.59,
+  "invoiceId": "14678",
+  "paidToMerchant": false,
+  "identifierNumber": 3497,
+  "billingDate": "2022-12-21T01:29:29.838Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20074498",
+      "fullName": "GUSTAVO XAVIER JOSE ROJAS BRITO",
+      "phoneNumber": "+584147772965"
+    },
+    "installments": [
+      {
+        "id": "10078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:29:58.641Z",
+        "amount": 27.8,
+        "status": "DONE"
+      },
+      {
+        "id": "10080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:29:58.640Z",
+        "amount": 9.263333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:29:58.640Z",
+        "amount": 9.263333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:29:58.640Z",
+        "amount": 9.263333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

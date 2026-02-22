@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T18:45:28.427Z",
+  "id": "5856",
+  "amount": 60.38,
+  "invoiceId": "15395",
+  "paidToMerchant": false,
+  "identifierNumber": 5258,
+  "billingDate": "2022-12-29T18:45:28.427Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22905006",
+      "fullName": "GENESIS DAYANA MEZA POLO",
+      "phoneNumber": "+584241278104"
+    },
+    "installments": [
+      {
+        "id": "20201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T18:45:48.714Z",
+        "amount": 10.063333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T18:45:48.714Z",
+        "amount": 30.19,
+        "status": "DONE"
+      },
+      {
+        "id": "20199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T18:45:48.714Z",
+        "amount": 10.063333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T18:45:48.714Z",
+        "amount": 10.063333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-30T22:52:02.398Z",
+  "id": "6607",
+  "amount": 33,
+  "invoiceId": "4482",
+  "paidToMerchant": false,
+  "identifierNumber": 2714,
+  "billingDate": "2022-12-30T22:52:02.398Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-30T04:00:01.488+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "22772",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24420907",
+      "fullName": "JOSE RAFAEL MONRO COSTA",
+      "phoneNumber": "+584241012051"
+    },
+    "installments": [
+      {
+        "id": "22772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-27T22:52:35.314Z",
+        "amount": 5.5,
+        "status": "DONE"
+      },
+      {
+        "id": "22770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-30T22:52:35.314Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "22773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-10T22:52:35.314Z",
+        "amount": 5.5,
+        "status": "DONE"
+      },
+      {
+        "id": "22771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-13T22:52:35.314Z",
+        "amount": 5.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

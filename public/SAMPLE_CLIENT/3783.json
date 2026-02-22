@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:34:26.901Z",
+  "id": "3338",
+  "amount": 55,
+  "invoiceId": "3228",
+  "paidToMerchant": false,
+  "identifierNumber": 3783,
+  "billingDate": "2022-12-22T00:34:26.901Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17154186",
+      "fullName": "ROSELBA CAROLINA COA ALVAREZ",
+      "phoneNumber": "+584242822969"
+    },
+    "installments": [
+      {
+        "id": "11133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:35:24.083Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:35:24.083Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:35:24.083Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:35:24.083Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

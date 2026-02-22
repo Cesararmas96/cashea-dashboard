@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T23:02:04.944Z",
+  "id": "1617",
+  "amount": 49.99,
+  "invoiceId": "47937",
+  "paidToMerchant": false,
+  "identifierNumber": 2199,
+  "billingDate": "2022-12-15T23:02:04.944Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19155481",
+      "fullName": "HERENIA CAROLINA BENITEZ RANGEL",
+      "phoneNumber": "+584129074378"
+    },
+    "installments": [
+      {
+        "id": "5221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T23:02:23.851Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "5219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T23:02:23.851Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "5220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T23:02:23.851Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "5218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T23:02:23.851Z",
+        "amount": 25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

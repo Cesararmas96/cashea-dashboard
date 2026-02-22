@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T20:39:51.757Z",
+  "id": "5065",
+  "amount": 101.5,
+  "invoiceId": "00018541",
+  "paidToMerchant": false,
+  "identifierNumber": 5336,
+  "billingDate": "2022-12-26T20:39:51.757Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14957763",
+      "fullName": "VANESSA CAROLINA TOVAR GUACARAN",
+      "phoneNumber": "+584263141792"
+    },
+    "installments": [
+      {
+        "id": "17366",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T20:40:19.138Z",
+        "amount": 50.75,
+        "status": "DONE"
+      },
+      {
+        "id": "17369",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T20:40:19.138Z",
+        "amount": 16.916666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "17368",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T20:40:19.138Z",
+        "amount": 16.916666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "17367",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T20:40:19.138Z",
+        "amount": 16.916666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

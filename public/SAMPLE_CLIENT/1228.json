@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-23T23:02:06.988Z",
+  "id": "172",
+  "amount": 105,
+  "invoiceId": "6341",
+  "paidToMerchant": false,
+  "identifierNumber": 1228,
+  "billingDate": "2022-10-23T23:02:06.988Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29935402",
+      "fullName": "BARBARA NICOLE MENDA LONGINO",
+      "phoneNumber": "+584143906543"
+    },
+    "installments": [
+      {
+        "id": "545",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-23T23:02:18.837Z",
+        "amount": 65,
+        "status": "DONE"
+      },
+      {
+        "id": "546",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-06T23:02:18.837Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "548",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-04T23:02:18.837Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "547",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-20T23:02:18.837Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:42:54.301Z",
+  "id": "3597",
+  "amount": 45.47,
+  "invoiceId": "44365",
+  "paidToMerchant": false,
+  "identifierNumber": 3981,
+  "billingDate": "2022-12-22T21:42:54.301Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26996907",
+      "fullName": "SOFIA VALENTINA PADALINO ROMERO",
+      "phoneNumber": "+584141515590"
+    },
+    "installments": [
+      {
+        "id": "12054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:43:26.904Z",
+        "amount": 22.73,
+        "status": "DONE"
+      },
+      {
+        "id": "12057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:43:26.904Z",
+        "amount": 7.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "12056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:43:26.904Z",
+        "amount": 7.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "12055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:43:26.904Z",
+        "amount": 7.579999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

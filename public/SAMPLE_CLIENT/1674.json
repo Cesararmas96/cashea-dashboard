@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T22:06:11.558Z",
+  "id": "1007",
+  "amount": 83.79,
+  "invoiceId": "11603",
+  "paidToMerchant": false,
+  "identifierNumber": 1674,
+  "billingDate": "2022-12-09T22:06:11.558Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27359254",
+      "fullName": "CARLOS DAVID CORRALES ARVELO",
+      "phoneNumber": "+584241193243"
+    },
+    "installments": [
+      {
+        "id": "3194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T22:07:04.853Z",
+        "amount": 41.9,
+        "status": "DONE"
+      },
+      {
+        "id": "3195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T22:07:04.853Z",
+        "amount": 13.963333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "3197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T22:07:04.853Z",
+        "amount": 13.963333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "3196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T22:07:04.853Z",
+        "amount": 13.963333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

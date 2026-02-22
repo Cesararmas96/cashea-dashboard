@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:10:35.996Z",
+  "id": "4544",
+  "amount": 35,
+  "invoiceId": "4013",
+  "paidToMerchant": false,
+  "identifierNumber": 4907,
+  "billingDate": "2022-12-24T15:10:35.996Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23198468",
+      "fullName": "ORLENYS DEL CARMEN ROBLES",
+      "phoneNumber": "+584242923989"
+    },
+    "installments": [
+      {
+        "id": "15498",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:10:56.309Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15501",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:10:56.309Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15500",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:10:56.309Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15499",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:10:56.309Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

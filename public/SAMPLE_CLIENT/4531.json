@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:51:05.562Z",
+  "id": "4131",
+  "amount": 38,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4531,
+  "billingDate": "2022-12-23T20:51:05.562Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23198807",
+      "fullName": "MOISES ALEXANDER VALECILLOS JUSTO",
+      "phoneNumber": "+584123622271"
+    },
+    "installments": [
+      {
+        "id": "13968",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:51:19.222Z",
+        "amount": 6.333333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13966",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:51:19.222Z",
+        "amount": 19,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13967",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:51:19.222Z",
+        "amount": 6.333333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13969",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:51:19.222Z",
+        "amount": 6.333333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

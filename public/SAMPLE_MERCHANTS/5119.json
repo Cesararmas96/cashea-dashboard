@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-08T15:34:04.581Z",
+  "updatedAt": "2025-04-08T15:34:04.581Z",
+  "id": 5119,
+  "name": "SHOE MONSTER",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f64deab2-14f5-4cf4-a46f-e980d0ff6471",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "shoemonsterca@gmail.com",
+    "legalName": "Talib. Osman",
+    "phoneNumber": "4126618831"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-08T15:36:33.518Z",
+      "updatedAt": "2025-04-08T15:36:33.518Z",
+      "id": 12704,
+      "merchantId": 5119,
+      "name": "SHOE MONSTER CC Mall Paseo San Francisco",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7641,
+      "address": {
+        "name": "CALLE PRINCIPAL CC MALL PASEO SAN FRANCISCO NIVEL PB LOCAL N1-36,37 Y 38 SECTOR SAN FRANCISCO SAN FRANCISCO ZULIA ZONA POSTAL 4004",
+        "long": -71.6188125,
+        "lat": 10.555937499999985,
+        "location": "0101000020E6100000C976BE9F9AE751C0683D0AD7A31C2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

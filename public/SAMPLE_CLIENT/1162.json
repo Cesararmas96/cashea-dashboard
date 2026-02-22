@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-11-05T22:01:28.161Z",
+  "id": "278",
+  "amount": 45,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1162,
+  "billingDate": "2022-11-05T22:01:28.161Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

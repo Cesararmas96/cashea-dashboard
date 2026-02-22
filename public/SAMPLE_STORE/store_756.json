@@ -1,0 +1,110 @@
+[
+  {
+    "id": 112,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J405019697",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACION UNIVERSAL TECHNOLOGY XXI, C.A",
+    "internalBankHolder": "Corporación Universal Technology XXI, C.A.",
+    "account": "01910098792198353568",
+    "accountType": "Corriente",
+    "phoneNumber": "4124305856",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J405019697",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACION UNIVERSAL TECHNOLOGY XXI, C.A",
+    "internalBankHolder": "Corporación Universal Technology XXI, C.A.",
+    "account": "01910098792198353568",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J405019697",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CORPORACION UNIVERSAL TECHNOLOGY XXI, C.A",
+    "internalBankHolder": "Corporación Universal Technology XXI, C.A.",
+    "account": "01910098792198353568",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

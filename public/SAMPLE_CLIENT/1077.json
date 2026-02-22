@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-01T19:16:41.137Z",
+  "id": "564",
+  "amount": 111,
+  "invoiceId": "000983",
+  "paidToMerchant": false,
+  "identifierNumber": 1077,
+  "billingDate": "2022-12-01T19:16:41.137Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16452286",
+      "fullName": "AMARU OMTI DEFFIT MOTTA",
+      "phoneNumber": "+584143969674"
+    },
+    "installments": [
+      {
+        "id": "1786",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-01T19:18:49.354Z",
+        "amount": 55.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1788",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-29T19:18:49.354Z",
+        "amount": 18.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1789",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-12T19:18:49.354Z",
+        "amount": 18.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1787",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-15T19:18:49.354Z",
+        "amount": 18.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 14,
+    "name": "Pintacasa Boleita Sur"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

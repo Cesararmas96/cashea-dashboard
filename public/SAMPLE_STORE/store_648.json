@@ -1,0 +1,128 @@
+[
+  {
+    "id": 390,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J000688028",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ISKIA, S.A.",
+    "internalBankHolder": "ISKIA, S.A.",
+    "account": "01910098712198394913",
+    "accountType": "Corriente",
+    "phoneNumber": "04166183585",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 388,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J000688028",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ISKIA, S.A.",
+    "internalBankHolder": "ISKIA, S.A.",
+    "account": "01910098712198394913",
+    "accountType": "Corriente",
+    "phoneNumber": "04166183585",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 389,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J000688028",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ISKIA, S.A.",
+    "internalBankHolder": "ISKIA, S.A.",
+    "account": "01910098712198394913",
+    "accountType": "Corriente",
+    "phoneNumber": "04166183585",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 391,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J000688028",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ISKIA, S.A.",
+    "internalBankHolder": "ISKIA, S.A.",
+    "account": "01910098772398300221",
+    "accountType": "Custodia",
+    "phoneNumber": "04166183585",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

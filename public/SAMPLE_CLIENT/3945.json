@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:22:09.410Z",
+  "id": "3529",
+  "amount": 44.9,
+  "invoiceId": "9320",
+  "paidToMerchant": false,
+  "identifierNumber": 3945,
+  "billingDate": "2022-12-22T20:22:09.410Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17971689",
+      "fullName": "LISSETTE ADRIANA ZAMBRANO SANTELIZ",
+      "phoneNumber": "+584122561654"
+    },
+    "installments": [
+      {
+        "id": "11806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:23:17.516Z",
+        "amount": 22.45,
+        "status": "DONE"
+      },
+      {
+        "id": "11809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:23:17.516Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:23:17.516Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:23:17.516Z",
+        "amount": 7.483333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

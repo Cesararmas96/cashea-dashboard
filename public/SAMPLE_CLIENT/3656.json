@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:50:37.432Z",
+  "id": "3229",
+  "amount": 34.9,
+  "invoiceId": "44269",
+  "paidToMerchant": false,
+  "identifierNumber": 3656,
+  "billingDate": "2022-12-21T21:50:37.432Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29897330",
+      "fullName": "JEREMY MIGUEL SALGADO MARTINEZ",
+      "phoneNumber": "+584122268211"
+    },
+    "installments": [
+      {
+        "id": "10718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:51:03.347Z",
+        "amount": 17.45,
+        "status": "DONE"
+      },
+      {
+        "id": "10721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:51:03.347Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:51:03.347Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:51:03.347Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

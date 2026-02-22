@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-05T18:53:22.820Z",
+  "updatedAt": "2025-05-19T22:14:16.761Z",
+  "id": 5536,
+  "name": "limoncello",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "febbbef0-8d7d-4b31-85c8-c50751a71e0d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "urbanmarketplus2@gmail.com",
+    "legalName": "VANESSA",
+    "phoneNumber": "04245495446"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T18:56:31.819Z",
+      "updatedAt": "2025-05-05T18:56:31.819Z",
+      "id": 13597,
+      "merchantId": 5536,
+      "name": "Limoncello Urb. nueva segovia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8096,
+      "address": {
+        "name": "carrera 1 entre calles 6 y 7 local nro 6-57 urb. nueva segovia, Barquisimeto-Lara",
+        "long": -69.2938125,
+        "lat": 10.062687499999996,
+        "location": "0101000020E6100000FCA9F1D2CD5251C068BC749318202440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

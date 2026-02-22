@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:52:58.134Z",
+  "id": "4372",
+  "amount": 45.47,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4763,
+  "billingDate": "2022-12-23T23:52:58.134Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6693514",
+      "fullName": "MARILIS JOSEFINA SANCHEZ ACEVEDO",
+      "phoneNumber": "+584267798146"
+    },
+    "installments": [
+      {
+        "id": "14838",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:53:31.325Z",
+        "amount": 22.73,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "14839",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:53:31.324Z",
+        "amount": 7.579999999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "14841",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:53:31.324Z",
+        "amount": 7.579999999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "14840",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:53:31.324Z",
+        "amount": 7.579999999999999,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T16:36:27.792Z",
+  "id": "5403",
+  "amount": 35,
+  "invoiceId": "10420",
+  "paidToMerchant": false,
+  "identifierNumber": 5679,
+  "billingDate": "2022-12-28T16:36:27.792Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6898147",
+      "fullName": "YNGRID SUSANA BASTARDO GOMEZ",
+      "phoneNumber": "+584241449894"
+    },
+    "installments": [
+      {
+        "id": "18562",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:37:13.190Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18565",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:37:13.190Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18563",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:37:13.190Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18564",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:37:13.190Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

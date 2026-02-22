@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-12T20:51:51.955Z",
+  "id": "1326",
+  "amount": 129.06,
+  "invoiceId": "1135",
+  "paidToMerchant": false,
+  "identifierNumber": 1971,
+  "billingDate": "2022-12-12T20:51:51.955Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "45",
+    "buyDebtDate": "2023-01-26T04:00:00.388+00:00",
+    "lastStoreId": 31,
+    "boughtForInstallmentId": "4273",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25215331",
+      "fullName": "GRECIA XIRAU PLAZA PAEZ",
+      "phoneNumber": "+584241339747"
+    },
+    "installments": [
+      {
+        "id": "4273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T20:52:11.594Z",
+        "amount": 21.51,
+        "status": "DELAYED"
+      },
+      {
+        "id": "4271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T20:52:11.594Z",
+        "amount": 21.51,
+        "status": "DONE"
+      },
+      {
+        "id": "4272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T20:52:11.594Z",
+        "amount": 21.51,
+        "status": "DONE"
+      },
+      {
+        "id": "4270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T20:52:11.595Z",
+        "amount": 64.53,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

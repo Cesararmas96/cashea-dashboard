@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T18:53:41.841Z",
+  "id": "8557",
+  "amount": 100,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3837,
+  "billingDate": "2023-01-16T18:53:41.841Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17074431",
+      "fullName": "JULIAN CALDERON",
+      "phoneNumber": "+584149245557"
+    },
+    "installments": [
+      {
+        "id": "29869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T18:54:04.597Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "29868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T18:54:04.597Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "29867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T18:54:04.597Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "29866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T18:54:04.598Z",
+        "amount": 50,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

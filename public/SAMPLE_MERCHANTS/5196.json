@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-12T16:07:51.086Z",
+  "updatedAt": "2025-04-15T14:36:56.180Z",
+  "id": 5196,
+  "name": "bodegon matapalo ranch",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "8b4a89e4-e83f-41cc-a723-9ecbce7a59c1",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "rockmelbelisario21@gmail.com",
+    "legalName": "ronmel belisario",
+    "phoneNumber": "4127549657"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-12T16:14:16.731Z",
+      "updatedAt": "2025-04-12T16:14:16.731Z",
+      "id": 12889,
+      "merchantId": 5196,
+      "name": "bodegon matapalo ranch Guarico",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3838,
+      "address": {
+        "name": "calle atamaica cruce co calle libertadores local nro 23 sector la morera san juan de los morros guarico",
+        "long": -67.36125000000001,
+        "lat": 9.913750000000007,
+        "location": "0101000020E610000086EB51B81ED750C0A8703D0AD7D32340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-05T16:25:45.811Z",
+      "updatedAt": "2025-06-05T16:25:45.811Z",
+      "id": 15246,
+      "merchantId": 5196,
+      "name": "VR_bodegon matapalo ranch",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3838,
+      "address": {
+        "name": "calle atamaica cruce co calle libertadores local nro 23 sector la morera san juan de los morros guarico",
+        "long": -67.36125000000001,
+        "lat": 9.913750000000007,
+        "location": "0101000020E610000086EB51B81ED750C0A8703D0AD7D32340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

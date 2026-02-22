@@ -1,0 +1,128 @@
+[
+  {
+    "id": 216,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J297768556",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "RED FASHION STORE, C.A.",
+    "internalBankHolder": "RED FASHION STORE, C.A.",
+    "account": "01910098762198367559",
+    "accountType": "Corriente",
+    "phoneNumber": "4120120126",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 214,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J297768556",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "RED FASHION STORE, C.A.",
+    "internalBankHolder": "RED FASHION STORE, C.A.",
+    "account": "01910098762198367559",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 215,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J297768556",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "RED FASHION STORE, C.A.",
+    "internalBankHolder": "RED FASHION STORE, C.A.",
+    "account": "01910098762198367559",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 217,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J297768556",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "RED FASHION STORE, C.A.",
+    "internalBankHolder": "RED FASHION STORE, C.A.",
+    "account": "01910098712398258900",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

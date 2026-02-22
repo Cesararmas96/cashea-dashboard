@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-17T19:52:08.040Z",
+  "updatedAt": "2025-04-22T14:33:27.048Z",
+  "id": 5291,
+  "name": "Compostela",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7735052f-5cc0-472e-a9aa-4a4641de2a41",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "compostelacorp@gmail.com",
+    "legalName": "Ronald",
+    "phoneNumber": "04241030202"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-17T19:54:24.582Z",
+      "updatedAt": "2025-04-17T19:54:24.582Z",
+      "id": 13077,
+      "merchantId": 5291,
+      "name": "Compostela Av Libertador",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5896,
+      "address": {
+        "name": "Calle  1Negrin Edif Francis PB Local C entre Av Libertador y Garcia, La Florida - Caracas",
+        "long": -66.87518750000001,
+        "lat": 10.498687500000003,
+        "location": "0101000020E61000008E976E1203B850C018D9CEF753FF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

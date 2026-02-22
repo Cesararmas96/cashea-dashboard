@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T17:31:05.778Z",
+  "id": "3949",
+  "amount": 43.66,
+  "invoiceId": "00002056",
+  "paidToMerchant": false,
+  "identifierNumber": 4352,
+  "billingDate": "2022-12-23T17:31:05.778Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6868591",
+      "fullName": "ADRIANA ELIZABETH HERRERA LEAL",
+      "phoneNumber": "+584143270245"
+    },
+    "installments": [
+      {
+        "id": "13310",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:31:46.474Z",
+        "amount": 21.83,
+        "status": "DONE"
+      },
+      {
+        "id": "13311",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:31:46.473Z",
+        "amount": 7.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13313",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:31:46.473Z",
+        "amount": 7.276666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13312",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:31:46.473Z",
+        "amount": 7.276666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

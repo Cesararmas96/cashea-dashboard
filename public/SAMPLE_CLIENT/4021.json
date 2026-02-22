@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T22:24:11.594Z",
+  "id": "3646",
+  "amount": 93.83,
+  "invoiceId": "44370",
+  "paidToMerchant": false,
+  "identifierNumber": 4021,
+  "billingDate": "2022-12-22T22:24:11.594Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-08T04:00:00.749+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "12223",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16263717",
+      "fullName": "ANGIELIU MATSON AREVALO",
+      "phoneNumber": "+584141533466"
+    },
+    "installments": [
+      {
+        "id": "12223",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:25:08.592Z",
+        "amount": 15.64,
+        "status": "DONE"
+      },
+      {
+        "id": "12225",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:25:08.592Z",
+        "amount": 15.64,
+        "status": "DONE"
+      },
+      {
+        "id": "12222",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:25:08.592Z",
+        "amount": 46.91,
+        "status": "DONE"
+      },
+      {
+        "id": "12224",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:25:08.592Z",
+        "amount": 15.64,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

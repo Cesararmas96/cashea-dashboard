@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T17:34:41.070Z",
+  "id": "1349",
+  "amount": 73.05,
+  "invoiceId": "11700",
+  "paidToMerchant": false,
+  "identifierNumber": 1966,
+  "billingDate": "2022-12-13T17:34:41.070Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27863279",
+      "fullName": "ANDREHA DE LOS ANGELES BETANCOURT OSORIO",
+      "phoneNumber": "+584128218296"
+    },
+    "installments": [
+      {
+        "id": "4357",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T17:35:11.919Z",
+        "amount": 12.176666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "4354",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T17:35:11.922Z",
+        "amount": 36.52,
+        "status": "DONE"
+      },
+      {
+        "id": "4356",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T17:35:11.919Z",
+        "amount": 12.176666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "4355",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T17:35:11.919Z",
+        "amount": 12.176666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

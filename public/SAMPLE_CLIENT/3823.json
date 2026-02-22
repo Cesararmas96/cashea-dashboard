@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T02:01:48.867Z",
+  "id": "3385",
+  "amount": 269.94,
+  "invoiceId": "00018212",
+  "paidToMerchant": false,
+  "identifierNumber": 3823,
+  "billingDate": "2022-12-22T02:01:48.867Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22916311",
+      "fullName": "YANETH BETSABE DE LOS PEREZ HURTADO",
+      "phoneNumber": "+584241719360"
+    },
+    "installments": [
+      {
+        "id": "11298",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T02:02:10.666Z",
+        "amount": 139.94,
+        "status": "DONE"
+      },
+      {
+        "id": "11301",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T02:02:10.665Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "11300",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T02:02:10.665Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "11299",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T02:02:10.665Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

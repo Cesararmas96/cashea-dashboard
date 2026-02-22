@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T19:25:21.768Z",
+  "id": "1558",
+  "amount": 40,
+  "invoiceId": "26314",
+  "paidToMerchant": false,
+  "identifierNumber": 1576,
+  "billingDate": "2022-12-15T19:25:21.768Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20303550",
+      "fullName": "CINDY LA ROSHY MOLINA PARADA",
+      "phoneNumber": "+584145487855"
+    },
+    "installments": [
+      {
+        "id": "5034",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T19:25:42.030Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "5037",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T19:25:42.029Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5035",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T19:25:42.029Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5036",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T19:25:42.029Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

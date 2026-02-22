@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T02:24:21.413Z",
+  "id": "3862",
+  "amount": 141.51,
+  "invoiceId": "44408",
+  "paidToMerchant": false,
+  "identifierNumber": 4283,
+  "billingDate": "2022-12-23T02:24:21.413Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21031074",
+      "fullName": "STEFFY ELIZABETH CISNEROS GRATEROL",
+      "phoneNumber": "+584124362531"
+    },
+    "installments": [
+      {
+        "id": "13009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T02:25:12.937Z",
+        "amount": 23.586666666666662,
+        "status": "DONE"
+      },
+      {
+        "id": "13006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T02:25:12.938Z",
+        "amount": 70.75,
+        "status": "DONE"
+      },
+      {
+        "id": "13008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T02:25:12.937Z",
+        "amount": 23.586666666666662,
+        "status": "DONE"
+      },
+      {
+        "id": "13007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T02:25:12.937Z",
+        "amount": 23.586666666666662,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

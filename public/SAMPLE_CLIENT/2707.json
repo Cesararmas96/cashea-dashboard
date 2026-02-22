@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T00:27:39.924Z",
+  "id": "2148",
+  "amount": 131.21,
+  "invoiceId": "14643",
+  "paidToMerchant": false,
+  "identifierNumber": 2707,
+  "billingDate": "2022-12-18T00:27:39.924Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14454721",
+      "fullName": "KATIUSKA DIAMELA DIAZ APONTE",
+      "phoneNumber": "+584120375400"
+    },
+    "installments": [
+      {
+        "id": "7009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T00:28:23.627Z",
+        "amount": 21.86666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T00:28:23.627Z",
+        "amount": 21.86666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T00:28:23.627Z",
+        "amount": 65.61,
+        "status": "DONE"
+      },
+      {
+        "id": "7008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T00:28:23.627Z",
+        "amount": 21.86666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T17:07:14.119Z",
+  "id": "4645",
+  "amount": 128.75,
+  "invoiceId": "1381",
+  "paidToMerchant": false,
+  "identifierNumber": 4987,
+  "billingDate": "2022-12-24T17:07:14.119Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "45",
+    "buyDebtDate": "2023-01-24T04:00:00.934+00:00",
+    "lastStoreId": 31,
+    "boughtForInstallmentId": "15868",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23690220",
+      "fullName": "NOEL ARISTIDES MARQUEZ VILLAMIZAR",
+      "phoneNumber": "+584120909724"
+    },
+    "installments": [
+      {
+        "id": "15869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:07:48.415Z",
+        "amount": 21.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:07:48.415Z",
+        "amount": 21.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:07:48.415Z",
+        "amount": 64.38,
+        "status": "DONE"
+      },
+      {
+        "id": "15867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:07:48.415Z",
+        "amount": 21.456666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

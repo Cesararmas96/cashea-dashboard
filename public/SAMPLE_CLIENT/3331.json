@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T21:59:23.030Z",
+  "id": "2881",
+  "amount": 42.69,
+  "invoiceId": "44651",
+  "paidToMerchant": false,
+  "identifierNumber": 3331,
+  "billingDate": "2022-12-20T21:59:23.030Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16563151",
+      "fullName": "GABRIELE BIAGIO PALUMBO TALAMO",
+      "phoneNumber": "+584142211066"
+    },
+    "installments": [
+      {
+        "id": "9494",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:59:34.111Z",
+        "amount": 21.34,
+        "status": "DONE"
+      },
+      {
+        "id": "9495",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:59:34.111Z",
+        "amount": 7.116666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9497",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:59:34.111Z",
+        "amount": 7.116666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9496",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:59:34.111Z",
+        "amount": 7.116666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:52:25.445Z",
+  "id": "4371",
+  "amount": 30,
+  "invoiceId": "00048381",
+  "paidToMerchant": false,
+  "identifierNumber": 4719,
+  "billingDate": "2022-12-23T23:52:25.445Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6728375",
+      "fullName": "OSCAR MAGDALENO BLANDIN HERRERA",
+      "phoneNumber": "+584142407847"
+    },
+    "installments": [
+      {
+        "id": "14834",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:52:50.664Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "14837",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:52:50.663Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "14836",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:52:50.663Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "14835",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:52:50.663Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

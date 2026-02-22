@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T00:42:48.920Z",
+  "id": "650",
+  "amount": 81,
+  "invoiceId": "10295",
+  "paidToMerchant": false,
+  "identifierNumber": 1396,
+  "billingDate": "2022-12-04T00:42:48.920Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20685954",
+      "fullName": "MARIANGELINA SOCORRO PATINO",
+      "phoneNumber": "+584140597292"
+    },
+    "installments": [
+      {
+        "id": "2086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T00:43:12.009Z",
+        "amount": 50,
+        "status": "DONE"
+      },
+      {
+        "id": "2087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T00:43:12.009Z",
+        "amount": 10.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T00:43:12.009Z",
+        "amount": 10.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T00:43:12.009Z",
+        "amount": 10.3333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

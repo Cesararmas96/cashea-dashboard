@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:16:10.055Z",
+  "id": "4312",
+  "amount": 62.4,
+  "invoiceId": "1062",
+  "paidToMerchant": false,
+  "identifierNumber": 4667,
+  "billingDate": "2022-12-23T23:16:10.055Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14093164",
+      "fullName": "DALINER COROMOTO ROMERO ZAPATA",
+      "phoneNumber": "+584120155818"
+    },
+    "installments": [
+      {
+        "id": "14630",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:16:41.009Z",
+        "amount": 31.2,
+        "status": "DONE"
+      },
+      {
+        "id": "14632",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:16:41.009Z",
+        "amount": 10.4,
+        "status": "DONE"
+      },
+      {
+        "id": "14633",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:16:41.009Z",
+        "amount": 10.4,
+        "status": "DONE"
+      },
+      {
+        "id": "14631",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:16:41.009Z",
+        "amount": 10.4,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

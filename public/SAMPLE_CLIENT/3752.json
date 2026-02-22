@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:09:41.748Z",
+  "id": "3366",
+  "amount": 31.23,
+  "invoiceId": "128,15",
+  "paidToMerchant": false,
+  "identifierNumber": 3752,
+  "billingDate": "2022-12-22T01:09:41.748Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28001756",
+      "fullName": "DORANGEL RANGEL DUARTE",
+      "phoneNumber": "+584142974963"
+    },
+    "installments": [
+      {
+        "id": "11222",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:10:31.848Z",
+        "amount": 15.62,
+        "status": "DONE"
+      },
+      {
+        "id": "11225",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:10:31.848Z",
+        "amount": 5.203333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11224",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:10:31.848Z",
+        "amount": 5.203333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11223",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:10:31.848Z",
+        "amount": 5.203333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-22T12:54:15.892Z",
+  "updatedAt": "2025-04-22T12:54:15.892Z",
+  "id": 5311,
+  "name": "ACM Venezuela",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "98e48fed-ea2f-471c-983b-9f247e7d109a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "contabilidad01@acmlight.com",
+    "legalName": "Jesus Alejandro",
+    "phoneNumber": "4247802235"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-22T12:56:15.529Z",
+      "updatedAt": "2025-04-22T12:56:15.529Z",
+      "id": 13127,
+      "merchantId": 5311,
+      "name": "ACM Venezuela CC CENTRO COMERCIAL TERRAS PLAZA",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "AV LAS REPUBLICAS CC CENTRO COMERCIAL TERRAS PLAZA NIVEL 10 OF C-10D URB TERRAZAS DEL CLUB HIPICO CARACAS MIRANDA ZONA POSTAL 1080",
+        "long": -66.8738125,
+        "lat": 10.447937500000009,
+        "location": "0101000020E61000008195438BECB750C0D84D621058E52440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

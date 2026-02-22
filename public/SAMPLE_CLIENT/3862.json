@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T15:58:58.211Z",
+  "id": "3414",
+  "amount": 133.97,
+  "invoiceId": "17587",
+  "paidToMerchant": false,
+  "identifierNumber": 3862,
+  "billingDate": "2022-12-22T15:58:58.211Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14274214",
+      "fullName": "EDGARDO JESUS JURADO MAVAREZ",
+      "phoneNumber": "+584142021221"
+    },
+    "installments": [
+      {
+        "id": "11406",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T15:59:20.430Z",
+        "amount": 66.98,
+        "status": "DONE"
+      },
+      {
+        "id": "11409",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T15:59:20.429Z",
+        "amount": 22.33,
+        "status": "DONE"
+      },
+      {
+        "id": "11408",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T15:59:20.429Z",
+        "amount": 22.33,
+        "status": "DONE"
+      },
+      {
+        "id": "11407",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T15:59:20.429Z",
+        "amount": 22.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

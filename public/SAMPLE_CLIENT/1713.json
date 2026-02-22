@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:39:11.070Z",
+  "id": "1223",
+  "amount": 86.01,
+  "invoiceId": "14113",
+  "paidToMerchant": false,
+  "identifierNumber": 1713,
+  "billingDate": "2022-12-11T20:39:11.070Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15403431",
+      "fullName": "HENDRICK ISRAELS RANGEL GONZALEZ",
+      "phoneNumber": "+584142832441"
+    },
+    "installments": [
+      {
+        "id": "3918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:39:50.094Z",
+        "amount": 43.01,
+        "status": "DONE"
+      },
+      {
+        "id": "3921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:39:50.093Z",
+        "amount": 14.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "3919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:39:50.093Z",
+        "amount": 14.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "3920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:39:50.093Z",
+        "amount": 14.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

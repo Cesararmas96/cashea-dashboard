@@ -1,0 +1,20 @@
+{
+  "createdAt": "2023-01-16T18:40:02.315Z",
+  "id": "8553",
+  "amount": 30,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3367,
+  "billingDate": "2023-01-16T18:40:02.315Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": null,
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

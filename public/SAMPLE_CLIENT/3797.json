@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T15:05:16.401Z",
+  "id": "3404",
+  "amount": 54.59,
+  "invoiceId": "8887",
+  "paidToMerchant": false,
+  "identifierNumber": 3797,
+  "billingDate": "2022-12-22T15:05:16.401Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26891285",
+      "fullName": "NATTY MARIA ALEXANDRA SILVA LOPEZ",
+      "phoneNumber": "+584149112442"
+    },
+    "installments": [
+      {
+        "id": "11374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T15:07:05.205Z",
+        "amount": 27.3,
+        "status": "DONE"
+      },
+      {
+        "id": "11377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T15:07:05.204Z",
+        "amount": 9.096666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T15:07:05.204Z",
+        "amount": 9.096666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T15:07:05.204Z",
+        "amount": 9.096666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

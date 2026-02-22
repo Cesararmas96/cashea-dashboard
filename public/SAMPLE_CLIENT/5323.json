@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:57:59.293Z",
+  "id": "5021",
+  "amount": 30.83,
+  "invoiceId": "13130",
+  "paidToMerchant": false,
+  "identifierNumber": 5323,
+  "billingDate": "2022-12-26T17:57:59.293Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25846840",
+      "fullName": "CAREM ANGELICA SANTANA PLAZA",
+      "phoneNumber": "+584142483205"
+    },
+    "installments": [
+      {
+        "id": "17218",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:58:36.794Z",
+        "amount": 15.41,
+        "status": "DONE"
+      },
+      {
+        "id": "17221",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:58:36.794Z",
+        "amount": 5.14,
+        "status": "DONE"
+      },
+      {
+        "id": "17220",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:58:36.794Z",
+        "amount": 5.14,
+        "status": "DONE"
+      },
+      {
+        "id": "17219",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:58:36.794Z",
+        "amount": 5.14,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

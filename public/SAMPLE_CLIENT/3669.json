@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:44:18.461Z",
+  "id": "3225",
+  "amount": 36.26,
+  "invoiceId": "44268",
+  "paidToMerchant": false,
+  "identifierNumber": 3669,
+  "billingDate": "2022-12-21T21:44:18.461Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27363008",
+      "fullName": "PAOLA ESTEFANIA GRATEROL VILLEGAS",
+      "phoneNumber": "+584126561134"
+    },
+    "installments": [
+      {
+        "id": "10714",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:47:12.835Z",
+        "amount": 18.13,
+        "status": "DONE"
+      },
+      {
+        "id": "10717",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:47:12.835Z",
+        "amount": 6.043333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10715",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:47:12.835Z",
+        "amount": 6.043333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10716",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:47:12.835Z",
+        "amount": 6.043333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

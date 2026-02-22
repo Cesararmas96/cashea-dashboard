@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:17:43.660Z",
+  "id": "2905",
+  "amount": 70,
+  "invoiceId": "307360",
+  "paidToMerchant": false,
+  "identifierNumber": 3405,
+  "billingDate": "2022-12-20T22:17:43.660Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10999912",
+      "fullName": "LISSETT JOSEFINA GUEVARA LAREZ",
+      "phoneNumber": "+584122143150"
+    },
+    "installments": [
+      {
+        "id": "9574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:18:14.178Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "9575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:18:14.177Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:18:14.177Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:18:14.177Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

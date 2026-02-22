@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T19:11:50.261Z",
+  "id": "4798",
+  "amount": 120,
+  "invoiceId": "48402",
+  "paidToMerchant": false,
+  "identifierNumber": 5015,
+  "billingDate": "2022-12-24T19:11:50.261Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "64",
+    "buyDebtDate": "2023-02-07T04:00:01.008+00:00",
+    "lastStoreId": 51,
+    "boughtForInstallmentId": "16429",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19060927",
+      "fullName": "RAYMOND DANIEL PABON FENA",
+      "phoneNumber": "+584241428992"
+    },
+    "installments": [
+      {
+        "id": "16428",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:12:05.394Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "16426",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:12:05.394Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "16427",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:12:05.394Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "16429",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:12:05.394Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-09T13:59:27.608Z",
+  "updatedAt": "2025-05-09T13:59:27.608Z",
+  "id": 5658,
+  "name": "Dimperca",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "1c049817-63b0-4741-b7eb-6f5c105ca572",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tiendasdimperca@gmail.com",
+    "legalName": "Gabriel villegas",
+    "phoneNumber": "04242121367"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T14:04:53.299Z",
+      "updatedAt": "2025-05-09T14:04:53.299Z",
+      "id": 13867,
+      "merchantId": 5658,
+      "name": "Dimperca Mariperez / CCS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4673,
+      "address": {
+        "name": "AV PPAL MARIPEREZ LOCAL ELECTRO MALL NRO 10-38 URB MARIPEREZ CARACAS DISTRITO CAPITAL ZONA POSTAL 1050.",
+        "long": -66.88606250000001,
+        "lat": 10.509312499999993,
+        "location": "0101000020E610000092ED7C3FB5B850C050E3A59BC4042540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

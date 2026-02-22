@@ -1,0 +1,136 @@
+{
+  "createdAt": "2025-05-09T14:49:27.427Z",
+  "updatedAt": "2025-09-14T00:57:15.081Z",
+  "id": 5663,
+  "name": "Startup Coaching Consultores",
+  "ecommerceUrl": null,
+  "changePolicy": "No hacemos devolucion del tipo de producto (capacitacion) en caso de no poder hacer el curso, el saldo pagado queda a favor del cliente para una proxima capacitación. ",
+  "email": "finart81@gmail.com",
+  "phoneNumber": "+584144961409",
+  "logoUrl": null,
+  "data": null,
+  "description": "Se ofrecen cursos presenciales y virtuales, Instagram @startup_coaching   Página web www.startupcoachingconsultores.com",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7bd26d75-0421-42a2-ab79-7f73f9165e6d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "finart81@gmail.com",
+    "legalName": "Carlos Sanguino",
+    "phoneNumber": "04125006710"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-23T11:57:25.755Z",
+      "updatedAt": "2025-05-23T11:57:25.755Z",
+      "id": 14572,
+      "merchantId": 5663,
+      "name": "VR_Startup Coaching Consultores",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7724,
+      "address": {
+        "name": "Calle 137-A, con Centro Profesional Urb. Prebo, Parroquia San José, Municipio Estado, Av. Andrés Eloy Blanco, Valencia, Carabobo",
+        "long": -68.0145625,
+        "lat": 10.20893749999999,
+        "location": "0101000020E6100000DF4F8D97EE0051C0E0D022DBF96A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T15:36:48.216Z",
+      "updatedAt": "2025-09-14T00:57:14.958Z",
+      "id": 13881,
+      "merchantId": 5663,
+      "name": "Startup Coaching Consultores Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7724,
+      "address": {
+        "name": "Calle 137-A, con Centro Profesional Urb. Prebo, Parroquia San José, Municipio Estado, Av. Andrés Eloy Blanco, Valencia, Carabobo",
+        "long": -68.0145625,
+        "lat": 10.20893749999999,
+        "location": "0101000020E6100000DF4F8D97EE0051C0E0D022DBF96A2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

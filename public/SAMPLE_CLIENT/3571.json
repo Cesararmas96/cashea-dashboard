@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T18:41:31.057Z",
+  "id": "3133",
+  "amount": 43.87,
+  "invoiceId": "13919",
+  "paidToMerchant": false,
+  "identifierNumber": 3571,
+  "billingDate": "2022-12-21T18:41:31.057Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26454476",
+      "fullName": "CHIARA EMILIA MEDINA PENUELA",
+      "phoneNumber": "+584241723478"
+    },
+    "installments": [
+      {
+        "id": "10365",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T18:42:33.288Z",
+        "amount": 7.313333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10362",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T18:42:33.289Z",
+        "amount": 21.93,
+        "status": "DONE"
+      },
+      {
+        "id": "10364",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T18:42:33.288Z",
+        "amount": 7.313333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10363",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T18:42:33.288Z",
+        "amount": 7.313333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

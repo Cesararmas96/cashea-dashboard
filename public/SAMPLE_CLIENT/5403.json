@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:41:59.805Z",
+  "id": "5122",
+  "amount": 43.14,
+  "invoiceId": "1605",
+  "paidToMerchant": false,
+  "identifierNumber": 5403,
+  "billingDate": "2022-12-26T22:41:59.805Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17751548",
+      "fullName": "MARIA VALENTINA ROJAS GARCIA",
+      "phoneNumber": "+584242102211"
+    },
+    "installments": [
+      {
+        "id": "17557",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:42:51.133Z",
+        "amount": 7.19,
+        "status": "DONE"
+      },
+      {
+        "id": "17554",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:42:51.133Z",
+        "amount": 21.57,
+        "status": "DONE"
+      },
+      {
+        "id": "17556",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:42:51.133Z",
+        "amount": 7.19,
+        "status": "DONE"
+      },
+      {
+        "id": "17555",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:42:51.133Z",
+        "amount": 7.19,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

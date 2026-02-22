@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T17:52:21.935Z",
+  "id": "5441",
+  "amount": 34.9,
+  "invoiceId": "8675",
+  "paidToMerchant": false,
+  "identifierNumber": 5746,
+  "billingDate": "2022-12-28T17:52:21.935Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27234380",
+      "fullName": "ORIANA YAMILETH BORREGO BORGES",
+      "phoneNumber": "+584241929776"
+    },
+    "installments": [
+      {
+        "id": "18690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:52:53.862Z",
+        "amount": 17.45,
+        "status": "DONE"
+      },
+      {
+        "id": "18693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:52:53.861Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:52:53.861Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:52:53.861Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

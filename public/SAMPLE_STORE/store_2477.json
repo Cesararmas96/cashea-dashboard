@@ -1,0 +1,128 @@
+[
+  {
+    "id": 3552,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J303691285",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "internalBankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "account": "01910273412100028924",
+    "accountType": "Corriente",
+    "phoneNumber": "4141810910",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 3550,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J303691285",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "internalBankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "account": "01910273412100028924",
+    "accountType": "Corriente",
+    "phoneNumber": "4141810910",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 3551,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J303691285",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "internalBankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "account": "01910273412100028924",
+    "accountType": "Corriente",
+    "phoneNumber": "4141810910",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 3553,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J303691285",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "internalBankHolder": "JOYERIA TIME AT GENESIS, C.A.",
+    "account": "01910273452300013547",
+    "accountType": "Custodia",
+    "phoneNumber": "4141810910",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

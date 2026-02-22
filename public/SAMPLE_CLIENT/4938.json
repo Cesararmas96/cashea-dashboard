@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:10:20.006Z",
+  "id": "4587",
+  "amount": 38.98,
+  "invoiceId": "13834",
+  "paidToMerchant": false,
+  "identifierNumber": 4938,
+  "billingDate": "2022-12-24T16:10:20.006Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19395442",
+      "fullName": "VISLETTI ANDREINA SOLORZANO CARRERA",
+      "phoneNumber": "+584241218713"
+    },
+    "installments": [
+      {
+        "id": "15652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:11:55.462Z",
+        "amount": 6.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:11:55.462Z",
+        "amount": 19.49,
+        "status": "DONE"
+      },
+      {
+        "id": "15653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:11:55.462Z",
+        "amount": 6.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:11:55.462Z",
+        "amount": 6.496666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

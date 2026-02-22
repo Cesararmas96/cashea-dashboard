@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T01:52:27.176Z",
+  "id": "3844",
+  "amount": 159,
+  "invoiceId": "2992",
+  "paidToMerchant": false,
+  "identifierNumber": 4234,
+  "billingDate": "2022-12-23T01:52:27.176Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26464072",
+      "fullName": "ISABEL MARIANA MARCANO LOPEZ",
+      "phoneNumber": "+584121435725"
+    },
+    "installments": [
+      {
+        "id": "12949",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:52:44.934Z",
+        "amount": 26.5,
+        "status": "DONE"
+      },
+      {
+        "id": "12946",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:52:44.935Z",
+        "amount": 79.5,
+        "status": "DONE"
+      },
+      {
+        "id": "12948",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:52:44.934Z",
+        "amount": 26.5,
+        "status": "DONE"
+      },
+      {
+        "id": "12947",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:52:44.934Z",
+        "amount": 26.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

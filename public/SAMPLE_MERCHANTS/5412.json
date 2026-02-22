@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-28T13:32:18.111Z",
+  "updatedAt": "2025-04-30T18:30:11.886Z",
+  "id": 5412,
+  "name": "Mis Tres Hermanos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "958589a5-5a5c-4b4f-ac1a-e50366b7a175",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "luis24735376@gmail.com",
+    "legalName": "Luis Miguel Hernández Gil",
+    "phoneNumber": "+584129987781"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T13:35:20.935Z",
+      "updatedAt": "2025-04-28T13:35:20.935Z",
+      "id": 13328,
+      "merchantId": 5412,
+      "name": "Mis Tres Hermanos",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6277,
+      "address": {
+        "name": "Mis Tres Hermanos",
+        "long": -71.29218750000001,
+        "lat": 10.197937500000009,
+        "location": "0101000020E610000034333333B3D251C0D84D621058652440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

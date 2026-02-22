@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-06T20:41:56.021Z",
+  "id": "12591",
+  "amount": 54.995599999999996,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3643,
+  "billingDate": "2023-02-06T20:41:56.021Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24313834",
+      "fullName": "RICHARD DAVID OSUNA SANCHEZ",
+      "phoneNumber": "+584128188157"
+    },
+    "installments": [
+      {
+        "id": "39107",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-20T20:41:56.089Z",
+        "amount": 9.165199999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39108",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-06T20:41:56.089Z",
+        "amount": 9.165199999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39109",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-20T20:41:56.089Z",
+        "amount": 9.165199999999999,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39106",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-06T20:41:56.091Z",
+        "amount": 27.5,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 141,
+    "name": "Panatech Online"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 14534,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

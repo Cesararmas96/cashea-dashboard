@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:08:45.561Z",
+  "id": "4390",
+  "amount": 43.43,
+  "invoiceId": "00002142",
+  "paidToMerchant": false,
+  "identifierNumber": 4754,
+  "billingDate": "2022-12-24T00:08:45.561Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13736845",
+      "fullName": "JACKELINE COROMOTO LOPEZ MARCANO",
+      "phoneNumber": "+584241338444"
+    },
+    "installments": [
+      {
+        "id": "14913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:09:03.123Z",
+        "amount": 7.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:09:03.123Z",
+        "amount": 7.239999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:09:03.124Z",
+        "amount": 21.71,
+        "status": "DONE"
+      },
+      {
+        "id": "14912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:09:03.123Z",
+        "amount": 7.239999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

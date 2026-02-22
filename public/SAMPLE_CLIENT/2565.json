@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T21:12:28.746Z",
+  "id": "2043",
+  "amount": 69.98,
+  "invoiceId": "15091",
+  "paidToMerchant": false,
+  "identifierNumber": 2565,
+  "billingDate": "2022-12-17T21:12:28.746Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6107159",
+      "fullName": "DUILIANA BEATRIZ PULGAR DE RODRIGUEZ",
+      "phoneNumber": "+584142102729"
+    },
+    "installments": [
+      {
+        "id": "6626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T21:13:15.300Z",
+        "amount": 34.99,
+        "status": "DONE"
+      },
+      {
+        "id": "6627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T21:13:15.299Z",
+        "amount": 11.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T21:13:15.299Z",
+        "amount": 11.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "6628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T21:13:15.299Z",
+        "amount": 11.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

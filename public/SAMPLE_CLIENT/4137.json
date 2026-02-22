@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:57:57.258Z",
+  "id": "3749",
+  "amount": 91.7,
+  "invoiceId": "00002009",
+  "paidToMerchant": false,
+  "identifierNumber": 4137,
+  "billingDate": "2022-12-22T23:57:57.258Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25562988",
+      "fullName": "KLEYBER EDUARDO REVETTE RIVAS",
+      "phoneNumber": "+584241908218"
+    },
+    "installments": [
+      {
+        "id": "12582",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:58:39.500Z",
+        "amount": 45.85,
+        "status": "DONE"
+      },
+      {
+        "id": "12585",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:58:39.499Z",
+        "amount": 15.283333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12583",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:58:39.499Z",
+        "amount": 15.283333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "12584",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:58:39.499Z",
+        "amount": 15.283333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

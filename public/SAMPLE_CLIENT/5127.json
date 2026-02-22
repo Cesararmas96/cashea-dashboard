@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T20:33:14.727Z",
+  "id": "4865",
+  "amount": 48.01,
+  "invoiceId": "24827",
+  "paidToMerchant": false,
+  "identifierNumber": 5127,
+  "billingDate": "2022-12-24T20:33:14.727Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-24T04:00:01.198+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "16668",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19202612",
+      "fullName": "CHRISTOPHER JOSE VARGAS OJEDA",
+      "phoneNumber": "+584241215778"
+    },
+    "installments": [
+      {
+        "id": "16668",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:33:38.976Z",
+        "amount": 8.003333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "16669",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:33:38.976Z",
+        "amount": 8.003333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "16666",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:33:38.977Z",
+        "amount": 24,
+        "status": "DONE"
+      },
+      {
+        "id": "16667",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:33:38.976Z",
+        "amount": 8.003333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

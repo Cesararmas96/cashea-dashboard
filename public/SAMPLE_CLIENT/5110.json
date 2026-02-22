@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T20:47:32.983Z",
+  "id": "4882",
+  "amount": 45.36,
+  "invoiceId": "18587",
+  "paidToMerchant": false,
+  "identifierNumber": 5110,
+  "billingDate": "2022-12-24T20:47:32.983Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-10T04:00:01.062+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "16727",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28052298",
+      "fullName": "JOSE ANGEL VILLEGAS TORO",
+      "phoneNumber": "+584122956419"
+    },
+    "installments": [
+      {
+        "id": "16729",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:48:04.532Z",
+        "amount": 7.56,
+        "status": "DONE"
+      },
+      {
+        "id": "16728",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:48:04.532Z",
+        "amount": 7.56,
+        "status": "DONE"
+      },
+      {
+        "id": "16727",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:48:04.532Z",
+        "amount": 7.56,
+        "status": "DONE"
+      },
+      {
+        "id": "16726",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:48:04.533Z",
+        "amount": 22.68,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

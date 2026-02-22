@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-16T13:33:20.056Z",
+  "id": "1680",
+  "amount": 256,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2303,
+  "billingDate": "2022-12-16T13:33:20.056Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20028432",
+      "fullName": "ALBERTO ERNESTO SADDE OLIVIERI",
+      "phoneNumber": "+584241591257"
+    },
+    "installments": [
+      {
+        "id": "5417",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T13:33:20.100Z",
+        "amount": 42.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "5415",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T13:33:20.100Z",
+        "amount": 42.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "5416",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T13:33:20.100Z",
+        "amount": 42.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "5414",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T13:33:20.101Z",
+        "amount": 128,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 2,
+      "productId": 49,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

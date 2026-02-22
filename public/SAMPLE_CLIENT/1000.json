@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T21:30:51.159Z",
+  "id": "432",
+  "amount": 58,
+  "invoiceId": "783434",
+  "paidToMerchant": false,
+  "identifierNumber": 1000,
+  "billingDate": "2022-11-19T21:30:51.159Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17498245",
+      "fullName": "RAMON IGNACIO LANGE FERNANDEZ DE CALEYA",
+      "phoneNumber": "+525584447002"
+    },
+    "installments": [
+      {
+        "id": "1333",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T21:32:55.369Z",
+        "amount": 9.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1330",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T21:32:55.370Z",
+        "amount": 29,
+        "status": "DONE"
+      },
+      {
+        "id": "1332",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T21:32:55.369Z",
+        "amount": 9.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1331",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T21:32:55.369Z",
+        "amount": 9.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

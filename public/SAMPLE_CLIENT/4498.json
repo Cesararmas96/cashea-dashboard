@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:18:51.199Z",
+  "id": "4084",
+  "amount": 245,
+  "invoiceId": "10623",
+  "paidToMerchant": false,
+  "identifierNumber": 4498,
+  "billingDate": "2022-12-23T20:18:51.199Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26104231",
+      "fullName": "BARBARA CARRO SERAFINI",
+      "phoneNumber": "+584142222778"
+    },
+    "installments": [
+      {
+        "id": "13798",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:19:09.396Z",
+        "amount": 122.5,
+        "status": "DONE"
+      },
+      {
+        "id": "13801",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:19:09.396Z",
+        "amount": 40.833333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "13800",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:19:09.396Z",
+        "amount": 40.833333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "13799",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:19:09.396Z",
+        "amount": 40.833333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

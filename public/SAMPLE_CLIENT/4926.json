@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:38:02.952Z",
+  "id": "4611",
+  "amount": 44.09,
+  "invoiceId": "15076",
+  "paidToMerchant": false,
+  "identifierNumber": 4926,
+  "billingDate": "2022-12-24T16:38:02.952Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22386432",
+      "fullName": "JORGE GARRINZON CARABALLO RUDAS",
+      "phoneNumber": "+584241993913"
+    },
+    "installments": [
+      {
+        "id": "15730",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:38:19.850Z",
+        "amount": 22.05,
+        "status": "DONE"
+      },
+      {
+        "id": "15733",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:38:19.849Z",
+        "amount": 7.346666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "15732",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:38:19.849Z",
+        "amount": 7.346666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "15731",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:38:19.849Z",
+        "amount": 7.346666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

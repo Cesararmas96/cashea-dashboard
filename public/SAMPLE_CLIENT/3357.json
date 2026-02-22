@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:25:56.175Z",
+  "id": "3771",
+  "amount": 101.78,
+  "invoiceId": "14079",
+  "paidToMerchant": false,
+  "identifierNumber": 3357,
+  "billingDate": "2022-12-23T00:25:56.175Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17610530",
+      "fullName": "LUDYELIT CAROLINA CERMEÑO MELIAN",
+      "phoneNumber": "+584129321763"
+    },
+    "installments": [
+      {
+        "id": "12670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:26:27.288Z",
+        "amount": 50.89,
+        "status": "DONE"
+      },
+      {
+        "id": "12673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:26:27.287Z",
+        "amount": 16.963333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "12672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:26:27.287Z",
+        "amount": 16.963333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "12671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:26:27.287Z",
+        "amount": 16.963333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

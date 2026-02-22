@@ -1,0 +1,69 @@
+{
+  "createdAt": "2025-05-05T20:02:50.981Z",
+  "updatedAt": "2025-08-14T22:13:30.461Z",
+  "id": 5543,
+  "name": "Pitbull Store Uno",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 103,
+  "tags": [],
+  "uuid": "caf60b65-2787-42e7-a0b2-589812a90133",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "grupocandelaadmon@gmail.com",
+    "legalName": "Karina Torres",
+    "phoneNumber": "04249557496"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-05T20:05:23.873Z",
+      "updatedAt": "2025-05-05T20:05:23.873Z",
+      "id": 13602,
+      "merchantId": 5543,
+      "name": "Pitbull Store Uno CC Orinokia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3912,
+      "address": {
+        "name": "CC Orinokia",
+        "long": -62.74157924175682,
+        "lat": 8.292886608007471,
+        "location": "0101000020E6100000775E8F11EC5E4FC02CA8C53BF5952040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

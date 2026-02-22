@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T00:31:14.227Z",
+  "id": "4414",
+  "amount": 40,
+  "invoiceId": "000314",
+  "paidToMerchant": false,
+  "identifierNumber": 4757,
+  "billingDate": "2022-12-24T00:31:14.227Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "83",
+    "buyDebtDate": "2023-02-06T04:00:00.879+00:00",
+    "lastStoreId": 68,
+    "boughtForInstallmentId": "15009",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13533419",
+      "fullName": "YENNY MARGARITA GONZALEZ MARQUEZ",
+      "phoneNumber": "+584243353006"
+    },
+    "installments": [
+      {
+        "id": "15006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:33:37.676Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "15009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:33:37.676Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:33:37.676Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:33:37.676Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

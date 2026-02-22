@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T18:52:52.382Z",
+  "id": "1187",
+  "amount": 60.75,
+  "invoiceId": "11584",
+  "paidToMerchant": false,
+  "identifierNumber": 1844,
+  "billingDate": "2022-12-11T18:52:52.382Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27020788",
+      "fullName": "GIOVANNA ALEXANDRA GRIPPA LIPORACI",
+      "phoneNumber": "+584129122176"
+    },
+    "installments": [
+      {
+        "id": "3786",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T18:55:34.582Z",
+        "amount": 30.38,
+        "status": "DONE"
+      },
+      {
+        "id": "3787",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T18:55:34.581Z",
+        "amount": 10.123333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3789",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T18:55:34.581Z",
+        "amount": 10.123333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3788",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T18:55:34.581Z",
+        "amount": 10.123333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

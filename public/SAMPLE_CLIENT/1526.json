@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T18:59:08.979Z",
+  "id": "776",
+  "amount": 56.7,
+  "invoiceId": "00016855",
+  "paidToMerchant": false,
+  "identifierNumber": 1526,
+  "billingDate": "2022-12-06T18:59:08.979Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24087243",
+      "fullName": "KATHERINE KELYN GUTIERREZ SANJUANELO",
+      "phoneNumber": "+584123433413"
+    },
+    "installments": [
+      {
+        "id": "2510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T18:59:38.600Z",
+        "amount": 28.35,
+        "status": "DONE"
+      },
+      {
+        "id": "2511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T18:59:38.599Z",
+        "amount": 9.450000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "2513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T18:59:38.599Z",
+        "amount": 9.450000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "2512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T18:59:38.599Z",
+        "amount": 9.450000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

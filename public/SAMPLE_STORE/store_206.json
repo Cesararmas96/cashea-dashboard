@@ -1,0 +1,128 @@
+[
+  {
+    "id": 104,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J001097449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTICA CARONI, C.A.",
+    "internalBankHolder": "OPTICA CARONI, C.A.",
+    "account": "01910098792198346037",
+    "accountType": "Corriente",
+    "phoneNumber": "4242500970",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J001097449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTICA CARONI, C.A.",
+    "internalBankHolder": "OPTICA CARONI, C.A.",
+    "account": "01910098792198346037",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J001097449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTICA CARONI, C.A.",
+    "internalBankHolder": "OPTICA CARONI, C.A.",
+    "account": "01910098792198346037",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J001097449",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTICA CARONI, C.A.",
+    "internalBankHolder": "OPTICA CARONI, C.A.",
+    "account": "01910098712398238470",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

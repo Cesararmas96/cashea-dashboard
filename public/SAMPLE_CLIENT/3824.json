@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:18:38.294Z",
+  "id": "3371",
+  "amount": 89.99,
+  "invoiceId": "00018206",
+  "paidToMerchant": false,
+  "identifierNumber": 3824,
+  "billingDate": "2022-12-22T01:18:38.294Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27254656",
+      "fullName": "DANIELA ANDREA SALAZAR MALPICA",
+      "phoneNumber": "+584120305104"
+    },
+    "installments": [
+      {
+        "id": "11245",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:18:48.335Z",
+        "amount": 14.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "11242",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:18:48.335Z",
+        "amount": 44.99,
+        "status": "DONE"
+      },
+      {
+        "id": "11244",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:18:48.335Z",
+        "amount": 14.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "11243",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:18:48.335Z",
+        "amount": 14.999999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

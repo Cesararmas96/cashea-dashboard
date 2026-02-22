@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-02T20:03:35.685Z",
+  "updatedAt": "2025-04-15T18:04:47.748Z",
+  "id": 5002,
+  "name": "Centro Médico Ocupacional La Victoria",
+  "ecommerceUrl": null,
+  "changePolicy": "NO APLICAN POLITICAS DE CAMBIO Y DEVOLUCIONES POR SERVICIO",
+  "email": "wdrc.cmovca@gmail.com",
+  "phoneNumber": "+584129213266",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "bb1c0ea7-ed6c-46dc-812b-16e00a597d28",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "maho5986@hotmail.com",
+    "legalName": "MIGUEL",
+    "phoneNumber": "4143447668"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T20:09:49.609Z",
+      "updatedAt": "2025-04-02T20:09:49.609Z",
+      "id": 12548,
+      "merchantId": 5002,
+      "name": "Centro Médico Ocupacional La Victoria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4082,
+      "address": {
+        "name": "CALLE CANDELARIA, CON CALLE GUILLERMO OVIEDO, EDIF. LA CANDELARIA, P.B. LOCALES 1 Y 2, LA VICTORIA, ESTADO ARAGUA",
+        "long": -67.3166875,
+        "lat": 10.22856250000001,
+        "location": "0101000020E610000054E3A59B44D450C0202FDD2406752440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T14:52:48.810Z",
+      "updatedAt": "2025-04-15T18:04:47.751Z",
+      "id": 12742,
+      "merchantId": 5002,
+      "name": "Centro Médico Ocupacional La Victoria Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4082,
+      "address": {
+        "name": "CALLE CANDELARIA, CON CALLE GUILLERMO OVIEDO, EDIF. LA CANDELARIA, P.B. LOCALES 1 Y 2, LA VICTORIA, ESTADO ARAGUA",
+        "long": -67.3166875,
+        "lat": 10.22856250000001,
+        "location": "0101000020E610000054E3A59B44D450C0202FDD2406752440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

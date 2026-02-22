@@ -1,0 +1,269 @@
+{
+  "createdAt": "2025-05-07T19:19:36.474Z",
+  "updatedAt": "2025-06-04T15:22:00.475Z",
+  "id": 5604,
+  "name": "Farmacias Distufar",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "68922ad0-ac30-48a7-ae58-07f92575b36f",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "admon.distufar@gmail.com",
+    "legalName": "WALDO",
+    "phoneNumber": "4128900141"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T16:14:19.612Z",
+      "updatedAt": "2025-05-15T16:14:19.612Z",
+      "id": 14182,
+      "merchantId": 5604,
+      "name": "Farmacias Distufar - Edif San Antonio",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11379,
+      "address": {
+        "name": "Calle Miranda cruce con Calle Carreño, Edificio San Antonio, local N° 67, Sector Centro Turmero Estado Aragua",
+        "long": -67.4731875,
+        "lat": 10.224312499999996,
+        "location": "0101000020E6100000105839B448DE50C0002B8716D9722440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T19:20:42.393Z",
+      "updatedAt": "2025-05-07T19:20:42.393Z",
+      "id": 13734,
+      "merchantId": 5604,
+      "name": "Farmacias Distufar CC Regional San Pablo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11379,
+      "address": {
+        "name": "Av Principal y Fergus de la Carretera Nacional Turmero La Encrucijada, Manzana C CC Regional San Pablo Nivel Planta Local 8 Urb. San Pablo Turmero Estado Aragua",
+        "long": -67.47393749999999,
+        "lat": 10.220062499999997,
+        "location": "0101000020E610000045B6F3FD54DE50C0E8263108AC702440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T19:30:30.710Z",
+      "updatedAt": "2025-05-07T19:30:30.710Z",
+      "id": 13735,
+      "merchantId": 5604,
+      "name": "Farmacias Distufar Santa Ana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11379,
+      "address": {
+        "name": "Av. Bermúdez Local Minicentro Bermúdez Nro 04 Sector Santa Ana Maracay Estado Aragua",
+        "long": -67.5958125,
+        "lat": 10.234937500000001,
+        "location": "0101000020E61000001283C0CA21E650C040355EBA49782440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T19:38:35.734Z",
+      "updatedAt": "2025-05-07T19:38:35.734Z",
+      "id": 13738,
+      "merchantId": 5604,
+      "name": "Farmacias Distufar Sector La Morita II",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11379,
+      "address": {
+        "name": "Calle Ezequiel Zamora Casa Nro 20 Sector La Morita II Este Santa Rita Estado Aragua",
+        "long": -67.4731875,
+        "lat": 10.224312499999996,
+        "location": "0101000020E6100000105839B448DE50C0002B8716D9722440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T19:50:32.119Z",
+      "updatedAt": "2025-05-07T19:50:32.119Z",
+      "id": 13739,
+      "merchantId": 5604,
+      "name": "Farmacias Distufar Calle Bolivar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11379,
+      "address": {
+        "name": "Calle Bolivar Local Nro 20-03-a Sector Centro, Santa Cruz Estado Aragua.",
+        "long": -67.275,
+        "lat": 10.074999999999996,
+        "location": "0101000020E61000009A99999999D150C06466666666262440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-07T20:00:58.815Z",
+      "updatedAt": "2025-05-07T20:00:58.815Z",
+      "id": 13740,
+      "merchantId": 5604,
+      "name": "Farmacias Distufar  CC Valle Lindo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11379,
+      "address": {
+        "name": "Av. Intercomunal La Julia Parcela MG-10 CC Valle Lindo, Nivel Local Comercial N° 19. Sector Turmero Estado Aragua",
+        "long": -67.47856250000001,
+        "lat": 10.223812499999994,
+        "location": "0101000020E6100000E4A59BC4A0DE50C038DF4F8D97722440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T16:20:13.383Z",
+      "updatedAt": "2025-05-15T16:20:13.383Z",
+      "id": 14183,
+      "merchantId": 5604,
+      "name": "Farmacias Distufar - CC Mariño",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11379,
+      "address": {
+        "name": "Calle Principal  CC Mariño Nivel PB Local 01 Sector Turmero Estado Aragua",
+        "long": -67.4731875,
+        "lat": 10.224312499999996,
+        "location": "0101000020E6100000105839B448DE50C0002B8716D9722440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

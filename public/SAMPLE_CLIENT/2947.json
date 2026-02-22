@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T15:01:42.936Z",
+  "id": "2496",
+  "amount": 30.48,
+  "invoiceId": "6568",
+  "paidToMerchant": false,
+  "identifierNumber": 2947,
+  "billingDate": "2022-12-19T15:01:42.936Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13110885",
+      "fullName": "MADAY MILAGROS VEROES MEZA",
+      "phoneNumber": "+584264037378"
+    },
+    "installments": [
+      {
+        "id": "8230",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T15:02:25.726Z",
+        "amount": 15.24,
+        "status": "DONE"
+      },
+      {
+        "id": "8233",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T15:02:25.726Z",
+        "amount": 5.08,
+        "status": "DONE"
+      },
+      {
+        "id": "8232",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T15:02:25.726Z",
+        "amount": 5.08,
+        "status": "DONE"
+      },
+      {
+        "id": "8231",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T15:02:25.726Z",
+        "amount": 5.08,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

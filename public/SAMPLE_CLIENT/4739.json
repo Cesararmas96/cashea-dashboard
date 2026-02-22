@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:20:39.989Z",
+  "id": "4325",
+  "amount": 82.99,
+  "invoiceId": "1670",
+  "paidToMerchant": false,
+  "identifierNumber": 4739,
+  "billingDate": "2022-12-23T23:20:39.989Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19693076",
+      "fullName": "LUIS ALEJANDRO TOVAR FLORES",
+      "phoneNumber": "+584123161024"
+    },
+    "installments": [
+      {
+        "id": "14681",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:22:04.330Z",
+        "amount": 13.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14678",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:22:04.330Z",
+        "amount": 41.49,
+        "status": "DONE"
+      },
+      {
+        "id": "14679",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:22:04.330Z",
+        "amount": 13.83333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14680",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:22:04.330Z",
+        "amount": 13.83333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

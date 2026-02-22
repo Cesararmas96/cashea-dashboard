@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T22:16:59.701Z",
+  "id": "2601",
+  "amount": 149,
+  "invoiceId": "14164",
+  "paidToMerchant": false,
+  "identifierNumber": 3040,
+  "billingDate": "2022-12-19T22:16:59.701Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "46",
+    "buyDebtDate": "2023-01-05T04:00:00.450+00:00",
+    "lastStoreId": 32,
+    "boughtForInstallmentId": "8547",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25038569",
+      "fullName": "LEONARDO DAVID DONADO ACUNA",
+      "phoneNumber": "+584129036146"
+    },
+    "installments": [
+      {
+        "id": "8549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:19:37.466Z",
+        "amount": 24.833333333333332,
+        "status": "DELAYED"
+      },
+      {
+        "id": "8547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:19:37.466Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:19:37.466Z",
+        "amount": 24.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:19:37.466Z",
+        "amount": 74.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

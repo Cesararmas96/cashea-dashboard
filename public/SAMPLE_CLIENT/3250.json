@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:20:01.621Z",
+  "id": "2762",
+  "amount": 41.48,
+  "invoiceId": "17456",
+  "paidToMerchant": false,
+  "identifierNumber": 3250,
+  "billingDate": "2022-12-20T18:20:01.621Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24279346",
+      "fullName": "BARBARA YESENIA ROMERO PERFECTO",
+      "phoneNumber": "+584126043407"
+    },
+    "installments": [
+      {
+        "id": "9109",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:21:46.079Z",
+        "amount": 6.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9106",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:21:46.079Z",
+        "amount": 20.74,
+        "status": "DONE"
+      },
+      {
+        "id": "9107",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:21:46.079Z",
+        "amount": 6.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9108",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:21:46.079Z",
+        "amount": 6.913333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T22:48:34.298Z",
+  "id": "1811",
+  "amount": 30.46,
+  "invoiceId": "49873",
+  "paidToMerchant": false,
+  "identifierNumber": 2400,
+  "billingDate": "2022-12-16T22:48:34.298Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21000293",
+      "fullName": "YENNY ANDREINA ROA REY",
+      "phoneNumber": "+584124840965"
+    },
+    "installments": [
+      {
+        "id": "5849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T22:48:53.949Z",
+        "amount": 5.076666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T22:48:53.949Z",
+        "amount": 5.076666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T22:48:53.949Z",
+        "amount": 5.076666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T22:48:53.950Z",
+        "amount": 15.23,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

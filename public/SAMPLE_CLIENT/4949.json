@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:00:58.867Z",
+  "id": "4581",
+  "amount": 72.08,
+  "invoiceId": "1229",
+  "paidToMerchant": false,
+  "identifierNumber": 4949,
+  "billingDate": "2022-12-24T16:00:58.867Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22753042",
+      "fullName": "PAOLA ALESSANDRA GIANI SUAREZ",
+      "phoneNumber": "+584120222035"
+    },
+    "installments": [
+      {
+        "id": "15626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:01:37.241Z",
+        "amount": 36.04,
+        "status": "DONE"
+      },
+      {
+        "id": "15627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:01:37.240Z",
+        "amount": 12.013333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:01:37.240Z",
+        "amount": 12.013333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:01:37.240Z",
+        "amount": 12.013333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 27,
+    "name": "Women Secret Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

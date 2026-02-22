@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T21:24:28.743Z",
+  "id": "2053",
+  "amount": 70,
+  "invoiceId": "00003304",
+  "paidToMerchant": false,
+  "identifierNumber": 2590,
+  "billingDate": "2022-12-17T21:24:28.743Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15250372",
+      "fullName": "GUSTAVO ADOLFO HERGUETA",
+      "phoneNumber": "+584129837413"
+    },
+    "installments": [
+      {
+        "id": "6658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T21:24:59.076Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "6659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T21:24:59.076Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T21:24:59.076Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T21:24:59.076Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

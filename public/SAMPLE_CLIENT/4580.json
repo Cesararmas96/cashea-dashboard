@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T21:52:00.642Z",
+  "id": "4208",
+  "amount": 36.2,
+  "invoiceId": "12958",
+  "paidToMerchant": false,
+  "identifierNumber": 4580,
+  "billingDate": "2022-12-23T21:52:00.642Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-23T04:00:01.241+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "14252",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15594313",
+      "fullName": "CLAUDY HELENA DAVILA RODRIGUEZ",
+      "phoneNumber": "+584140810546"
+    },
+    "installments": [
+      {
+        "id": "14252",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:53:04.959Z",
+        "amount": 6.033333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14250",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:53:04.959Z",
+        "amount": 18.1,
+        "status": "DONE"
+      },
+      {
+        "id": "14251",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:53:04.959Z",
+        "amount": 6.033333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "14253",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:53:04.959Z",
+        "amount": 6.033333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

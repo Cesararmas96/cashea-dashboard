@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T17:21:41.632Z",
+  "id": "5803",
+  "amount": 77.23,
+  "invoiceId": "624",
+  "paidToMerchant": false,
+  "identifierNumber": 4442,
+  "billingDate": "2022-12-29T17:21:41.632Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-15T04:00:00.876+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "20011",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11484562",
+      "fullName": "JENNY GLORISMAR UMBRIA ANZOLA",
+      "phoneNumber": "+584142609853"
+    },
+    "installments": [
+      {
+        "id": "20012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:24:44.198Z",
+        "amount": 12.870000000000003,
+        "status": "DELAYED"
+      },
+      {
+        "id": "20013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:24:44.198Z",
+        "amount": 12.870000000000003,
+        "status": "DELAYED"
+      },
+      {
+        "id": "20011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:24:44.198Z",
+        "amount": 12.870000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "20010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:24:44.198Z",
+        "amount": 38.62,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

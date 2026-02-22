@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T18:25:37.749Z",
+  "id": "4730",
+  "amount": 92,
+  "invoiceId": "0445",
+  "paidToMerchant": false,
+  "identifierNumber": 4290,
+  "billingDate": "2022-12-24T18:25:37.749Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-02-07T04:00:01.341+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "16201",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17020047",
+      "fullName": "LUIS EDUARDO RONDON AZOCAR",
+      "phoneNumber": "+584241232204"
+    },
+    "installments": [
+      {
+        "id": "16201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:26:12.215Z",
+        "amount": 8.4,
+        "status": "DONE"
+      },
+      {
+        "id": "16200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:26:12.215Z",
+        "amount": 8.4,
+        "status": "DONE"
+      },
+      {
+        "id": "16198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:26:12.216Z",
+        "amount": 66.8,
+        "status": "DONE"
+      },
+      {
+        "id": "16199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:26:12.215Z",
+        "amount": 8.4,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

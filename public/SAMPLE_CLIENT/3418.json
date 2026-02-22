@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:32:22.168Z",
+  "id": "2969",
+  "amount": 70.49,
+  "invoiceId": "14662",
+  "paidToMerchant": false,
+  "identifierNumber": 3418,
+  "billingDate": "2022-12-20T23:32:22.168Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24997973",
+      "fullName": "JEFFERSON JESUS LUCAS NAVONE",
+      "phoneNumber": "+584241700724"
+    },
+    "installments": [
+      {
+        "id": "9798",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:32:49.584Z",
+        "amount": 35.24,
+        "status": "DONE"
+      },
+      {
+        "id": "9801",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:32:49.583Z",
+        "amount": 11.749999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9799",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:32:49.583Z",
+        "amount": 11.749999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9800",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:32:49.583Z",
+        "amount": 11.749999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

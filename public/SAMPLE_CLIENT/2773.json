@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T21:17:39.224Z",
+  "id": "2293",
+  "amount": 39.73,
+  "invoiceId": "13552",
+  "paidToMerchant": false,
+  "identifierNumber": 2773,
+  "billingDate": "2022-12-18T21:17:39.224Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18493451",
+      "fullName": "CESAR ENRIQUE GUEVARA MARTINEZ",
+      "phoneNumber": "+584242655304"
+    },
+    "installments": [
+      {
+        "id": "7530",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T21:18:49.634Z",
+        "amount": 19.86,
+        "status": "DONE"
+      },
+      {
+        "id": "7533",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T21:18:49.634Z",
+        "amount": 6.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "7532",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T21:18:49.634Z",
+        "amount": 6.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "7531",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T21:18:49.634Z",
+        "amount": 6.623333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:35:21.146Z",
+  "id": "2023",
+  "amount": 120.94,
+  "invoiceId": "00001596",
+  "paidToMerchant": false,
+  "identifierNumber": 2560,
+  "billingDate": "2022-12-17T20:35:21.146Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25847630",
+      "fullName": "ALEJANDRO JESUS LEON MERCHAN",
+      "phoneNumber": "+584129008139"
+    },
+    "installments": [
+      {
+        "id": "6557",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:35:45.035Z",
+        "amount": 20.156666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6555",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:35:45.035Z",
+        "amount": 20.156666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6556",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:35:45.035Z",
+        "amount": 20.156666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6554",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:35:45.035Z",
+        "amount": 60.47,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

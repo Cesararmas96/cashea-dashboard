@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:14:29.862Z",
+  "id": "3463",
+  "amount": 45.6,
+  "invoiceId": "14833",
+  "paidToMerchant": false,
+  "identifierNumber": 3891,
+  "billingDate": "2022-12-22T18:14:29.862Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17741367",
+      "fullName": "JOSE GREGORIO RUIZ HIGUERA",
+      "phoneNumber": "+584141204425"
+    },
+    "installments": [
+      {
+        "id": "11576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:14:57.710Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "11575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:14:57.710Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "11574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:14:57.711Z",
+        "amount": 22.8,
+        "status": "DONE"
+      },
+      {
+        "id": "11577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:14:57.710Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

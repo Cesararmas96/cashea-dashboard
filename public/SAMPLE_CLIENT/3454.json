@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T01:28:50.328Z",
+  "id": "3048",
+  "amount": 114.4,
+  "invoiceId": "12626",
+  "paidToMerchant": false,
+  "identifierNumber": 3454,
+  "billingDate": "2022-12-21T01:28:50.328Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-06T04:00:00.673+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "10075",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24699015",
+      "fullName": "ASTRID ALEJANDRA GUERRA GONZALEZ",
+      "phoneNumber": "+584241997230"
+    },
+    "installments": [
+      {
+        "id": "10076",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:29:20.516Z",
+        "amount": 19.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10075",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:29:20.516Z",
+        "amount": 19.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10077",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:29:20.516Z",
+        "amount": 19.066666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10074",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:29:20.517Z",
+        "amount": 57.2,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:18:02.901Z",
+  "id": "2673",
+  "amount": 54.31,
+  "invoiceId": "24343",
+  "paidToMerchant": false,
+  "identifierNumber": 3140,
+  "billingDate": "2022-12-20T00:18:02.901Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17907359",
+      "fullName": "JEAN PIERO CHIRINOS DAVILA",
+      "phoneNumber": "+584142386809"
+    },
+    "installments": [
+      {
+        "id": "8774",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:18:38.597Z",
+        "amount": 27.16,
+        "status": "DONE"
+      },
+      {
+        "id": "8776",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:18:38.597Z",
+        "amount": 9.05,
+        "status": "DONE"
+      },
+      {
+        "id": "8775",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:18:38.597Z",
+        "amount": 9.05,
+        "status": "DONE"
+      },
+      {
+        "id": "8777",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:18:38.597Z",
+        "amount": 9.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

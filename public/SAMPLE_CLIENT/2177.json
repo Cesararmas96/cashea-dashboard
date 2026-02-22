@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-15T20:26:53.370Z",
+  "id": "1572",
+  "amount": 70,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2177,
+  "billingDate": "2022-12-15T20:26:53.370Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

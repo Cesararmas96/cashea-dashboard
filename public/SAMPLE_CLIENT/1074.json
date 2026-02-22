@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-27T18:59:11.785Z",
+  "id": "521",
+  "amount": 170.85,
+  "invoiceId": "6949",
+  "paidToMerchant": false,
+  "identifierNumber": 1074,
+  "billingDate": "2022-11-27T18:59:11.785Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18915049",
+      "fullName": "GIRBELYS YILIANA CANIZALEZ NEGRIN",
+      "phoneNumber": "+584148307180"
+    },
+    "installments": [
+      {
+        "id": "1638",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T18:59:36.313Z",
+        "amount": 85.42,
+        "status": "DONE"
+      },
+      {
+        "id": "1641",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T18:59:36.312Z",
+        "amount": 28.476666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "1639",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T18:59:36.312Z",
+        "amount": 28.476666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "1640",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T18:59:36.312Z",
+        "amount": 28.476666666666663,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

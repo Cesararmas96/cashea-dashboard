@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T20:55:27.370Z",
+  "id": "3559",
+  "amount": 65.99,
+  "invoiceId": "26728",
+  "paidToMerchant": false,
+  "identifierNumber": 4012,
+  "billingDate": "2022-12-22T20:55:27.370Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19510700",
+      "fullName": "VICTOR DANIEL PEREZ PAREDES",
+      "phoneNumber": "+584149106671"
+    },
+    "installments": [
+      {
+        "id": "11910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:55:53.476Z",
+        "amount": 32.99,
+        "status": "DONE"
+      },
+      {
+        "id": "11913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:55:53.475Z",
+        "amount": 10.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "11912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:55:53.475Z",
+        "amount": 10.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "11911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:55:53.475Z",
+        "amount": 10.999999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

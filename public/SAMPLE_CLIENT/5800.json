@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:17:17.367Z",
+  "id": "5523",
+  "amount": 62.12,
+  "invoiceId": "0561",
+  "paidToMerchant": false,
+  "identifierNumber": 5800,
+  "billingDate": "2022-12-28T20:17:17.367Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14797576",
+      "fullName": "MARIA FRANCIA ANGULO FIGUEIRA",
+      "phoneNumber": "+584126657266"
+    },
+    "installments": [
+      {
+        "id": "18974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:17:51.968Z",
+        "amount": 31.06,
+        "status": "DONE"
+      },
+      {
+        "id": "18977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:17:51.968Z",
+        "amount": 10.353333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:17:51.968Z",
+        "amount": 10.353333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:17:51.968Z",
+        "amount": 10.353333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

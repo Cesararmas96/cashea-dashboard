@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:09:11.964Z",
+  "id": "5546",
+  "amount": 66.56,
+  "invoiceId": "18861",
+  "paidToMerchant": false,
+  "identifierNumber": 5850,
+  "billingDate": "2022-12-28T21:09:11.964Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24463562",
+      "fullName": "NIRVANA FREIRE ASTORGA",
+      "phoneNumber": "+584242726775"
+    },
+    "installments": [
+      {
+        "id": "19054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:09:31.127Z",
+        "amount": 33.28,
+        "status": "DONE"
+      },
+      {
+        "id": "19057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:09:31.127Z",
+        "amount": 11.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:09:31.127Z",
+        "amount": 11.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:09:31.127Z",
+        "amount": 11.093333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

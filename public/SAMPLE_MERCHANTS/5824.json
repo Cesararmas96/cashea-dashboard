@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-16T18:00:36.279Z",
+  "updatedAt": "2025-05-27T14:33:07.969Z",
+  "id": 5824,
+  "name": "D. Falini Rodamientos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "650e29a4-2e3a-414b-bfc6-ec093ea007de",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "d.falini@yahoo.com",
+    "legalName": "MAURICIO DUARTE",
+    "phoneNumber": "4249512517"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T18:05:09.316Z",
+      "updatedAt": "2025-05-16T18:05:09.316Z",
+      "id": 14249,
+      "merchantId": 5824,
+      "name": "D. Falini Rodamientos CC Amazonia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4599,
+      "address": {
+        "name": "CALLE NEVERI, PARQUE COMERCIAL AMAZONIA, LOCAL 22, PUERTO ORDAZ, ESTADO BOLIVAR",
+        "long": -62.64875000000001,
+        "lat": 8.366249999999994,
+        "location": "0101000020E6100000D8A3703D0A534FC0E851B81E85BB2040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

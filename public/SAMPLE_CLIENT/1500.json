@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T22:01:56.883Z",
+  "id": "11539",
+  "amount": 63.98,
+  "invoiceId": "16148",
+  "paidToMerchant": false,
+  "identifierNumber": 1500,
+  "billingDate": "2023-01-30T22:01:56.883Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13275068",
+      "fullName": "GEILER TEODORO PEREZ GUERRA",
+      "phoneNumber": "+584241230275"
+    },
+    "installments": [
+      {
+        "id": "35393",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T22:02:16.111Z",
+        "amount": 10.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "35390",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T22:02:16.114Z",
+        "amount": 31.99,
+        "status": "DONE"
+      },
+      {
+        "id": "35392",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T22:02:16.111Z",
+        "amount": 10.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "35391",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T22:02:16.111Z",
+        "amount": 10.663333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

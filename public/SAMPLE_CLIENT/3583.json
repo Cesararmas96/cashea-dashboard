@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:12:49.462Z",
+  "id": "3166",
+  "amount": 50.74,
+  "invoiceId": "14730",
+  "paidToMerchant": false,
+  "identifierNumber": 3583,
+  "billingDate": "2022-12-21T20:12:49.462Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16544617",
+      "fullName": "MARIANELLA BELENO RIZO",
+      "phoneNumber": "+584242838640"
+    },
+    "installments": [
+      {
+        "id": "10485",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:13:12.893Z",
+        "amount": 8.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10482",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:13:12.893Z",
+        "amount": 25.37,
+        "status": "DONE"
+      },
+      {
+        "id": "10484",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:13:12.893Z",
+        "amount": 8.456666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10483",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:13:12.893Z",
+        "amount": 8.456666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-30T23:29:25.060Z",
+  "id": "11552",
+  "amount": 260,
+  "invoiceId": "308335",
+  "paidToMerchant": false,
+  "identifierNumber": 4046,
+  "billingDate": "2023-01-30T23:29:25.060Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "50",
+    "buyDebtDate": "2023-03-02T04:00:00.950+00:00",
+    "lastStoreId": 36,
+    "boughtForInstallmentId": "35432",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28328134",
+      "fullName": "MAURIZIO ROMANELLI KERESE",
+      "phoneNumber": "+584149238027"
+    },
+    "installments": [
+      {
+        "id": "35433",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T23:29:43.636Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35432",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T23:29:43.636Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35431",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T23:29:43.636Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35430",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T23:29:43.636Z",
+        "amount": 160,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

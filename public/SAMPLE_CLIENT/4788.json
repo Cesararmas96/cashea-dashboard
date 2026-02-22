@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:03:20.971Z",
+  "id": "4446",
+  "amount": 54.38,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4788,
+  "billingDate": "2022-12-24T01:03:20.971Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27795747",
+      "fullName": "JENNIFER STEPHANIE GONZALEZ RENGIFO",
+      "phoneNumber": "+584120273873"
+    },
+    "installments": [
+      {
+        "id": "15136",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:04:02.801Z",
+        "amount": 9.063333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15135",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:04:02.801Z",
+        "amount": 9.063333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15137",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:04:02.801Z",
+        "amount": 9.063333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15134",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:04:02.801Z",
+        "amount": 27.19,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:57:36.134Z",
+  "id": "4138",
+  "amount": 49.72,
+  "invoiceId": "9975",
+  "paidToMerchant": false,
+  "identifierNumber": 4544,
+  "billingDate": "2022-12-23T20:57:36.134Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6120592",
+      "fullName": "SANDRA MARGARITA MENDEZ SUAREZ",
+      "phoneNumber": "+584241834342"
+    },
+    "installments": [
+      {
+        "id": "14013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:00:10.981Z",
+        "amount": 8.286666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:00:10.981Z",
+        "amount": 24.86,
+        "status": "DONE"
+      },
+      {
+        "id": "14012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:00:10.981Z",
+        "amount": 8.286666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:00:10.981Z",
+        "amount": 8.286666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 59,
+    "name": "Mango Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

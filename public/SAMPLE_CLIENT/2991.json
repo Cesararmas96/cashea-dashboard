@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-06T17:58:19.272Z",
+  "id": "12572",
+  "amount": 255.2,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2991,
+  "billingDate": "2023-02-06T17:58:19.272Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27661084",
+      "fullName": "SARAH DE JESUS SANTANA RODRIGUEZ",
+      "phoneNumber": "+584241739505"
+    },
+    "installments": [
+      {
+        "id": "39040",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-06T17:58:19.324Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39039",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-20T17:58:19.324Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39041",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-20T17:58:19.324Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "39038",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-06T17:58:19.324Z",
+        "amount": 155.2,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 69,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 749,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

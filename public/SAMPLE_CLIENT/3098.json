@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:16:26.491Z",
+  "id": "2635",
+  "amount": 200,
+  "invoiceId": "14173",
+  "paidToMerchant": false,
+  "identifierNumber": 3098,
+  "billingDate": "2022-12-19T23:16:26.491Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17829531",
+      "fullName": "YOHANA DEL VALLE VALLADARES BRACAMONTE",
+      "phoneNumber": "+584166069538"
+    },
+    "installments": [
+      {
+        "id": "8650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:16:52.204Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "8653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:16:52.204Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "8652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:16:52.204Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "8651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:16:52.204Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

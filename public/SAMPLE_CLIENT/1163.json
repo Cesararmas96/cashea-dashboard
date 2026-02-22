@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-21T21:43:30.230Z",
+  "id": "140",
+  "amount": 97,
+  "invoiceId": "6283",
+  "paidToMerchant": false,
+  "identifierNumber": 1163,
+  "billingDate": "2022-10-21T21:43:30.230Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22563537",
+      "fullName": "BRENDA YOLANGELINA OLIVEROS NUNES",
+      "phoneNumber": "+584241415013"
+    },
+    "installments": [
+      {
+        "id": "445",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-21T21:43:49.546Z",
+        "amount": 48.5,
+        "status": "DONE"
+      },
+      {
+        "id": "448",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-02T21:43:49.545Z",
+        "amount": 16.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "447",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-18T21:43:49.545Z",
+        "amount": 16.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "446",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-04T21:43:49.545Z",
+        "amount": 16.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

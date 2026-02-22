@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T23:17:44.117Z",
+  "id": "3708",
+  "amount": 105.73,
+  "invoiceId": "14072",
+  "paidToMerchant": false,
+  "identifierNumber": 4155,
+  "billingDate": "2022-12-22T23:17:44.117Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-02-05T04:00:00.676+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "12445",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25253173",
+      "fullName": "DUBRASKA GABRIELA ZABALA VALENCIA",
+      "phoneNumber": "+584241506369"
+    },
+    "installments": [
+      {
+        "id": "12445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:18:09.886Z",
+        "amount": 17.62,
+        "status": "DONE"
+      },
+      {
+        "id": "12442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:18:09.886Z",
+        "amount": 52.87,
+        "status": "DONE"
+      },
+      {
+        "id": "12444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:18:09.886Z",
+        "amount": 17.62,
+        "status": "DONE"
+      },
+      {
+        "id": "12443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:18:09.886Z",
+        "amount": 17.62,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T17:45:57.652Z",
+  "id": "3958",
+  "amount": 30.95,
+  "invoiceId": "14137",
+  "paidToMerchant": false,
+  "identifierNumber": 4356,
+  "billingDate": "2022-12-23T17:45:57.652Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11930342",
+      "fullName": "ARMANDO OSPINA MONROY",
+      "phoneNumber": "+584241685587"
+    },
+    "installments": [
+      {
+        "id": "13342",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:46:35.202Z",
+        "amount": 15.47,
+        "status": "DONE"
+      },
+      {
+        "id": "13345",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:46:35.202Z",
+        "amount": 5.159999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13344",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:46:35.202Z",
+        "amount": 5.159999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13343",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:46:35.202Z",
+        "amount": 5.159999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:38:40.929Z",
+  "id": "2924",
+  "amount": 114.98,
+  "invoiceId": "00015146",
+  "paidToMerchant": false,
+  "identifierNumber": 3396,
+  "billingDate": "2022-12-20T22:38:40.929Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15132804",
+      "fullName": "LILI ANNIE DE FARIA DE GOES",
+      "phoneNumber": "+584143345243"
+    },
+    "installments": [
+      {
+        "id": "9638",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:38:48.794Z",
+        "amount": 57.49,
+        "status": "DONE"
+      },
+      {
+        "id": "9641",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:38:48.794Z",
+        "amount": 19.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9639",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:38:48.794Z",
+        "amount": 19.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9640",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:38:48.794Z",
+        "amount": 19.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 56,
+    "name": "Cortefiel CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

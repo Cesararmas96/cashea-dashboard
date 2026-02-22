@@ -1,0 +1,178 @@
+{
+  "createdAt": "2025-04-23T18:06:37.621Z",
+  "updatedAt": "2025-09-15T19:20:43.015Z",
+  "id": 5342,
+  "name": "Electrohogar Wit Center",
+  "ecommerceUrl": null,
+  "changePolicy": "Solo realizamos cambios por defectos de fábrica.",
+  "email": "Grupomandarinca@gmail.com",
+  "phoneNumber": "+584123547373",
+  "logoUrl": null,
+  "data": {
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": 48,
+  "tags": [],
+  "uuid": "a4276338-4876-4e85-9990-05098a56f55e",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "grupomandarinca@gmail.com",
+    "legalName": "Youssef ",
+    "phoneNumber": "04123547373"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-22T16:15:22.619Z",
+      "updatedAt": "2025-09-15T15:29:08.480Z",
+      "id": 17848,
+      "merchantId": 5342,
+      "name": "Electrohogar Wit Center Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 48,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4855,
+      "address": {
+        "name": "Electrohogar Wit Center Juangriego Margarita ",
+        "long": -63.9716875,
+        "lat": 11.0829375,
+        "location": "0101000020E61000004C37894160FC4FC05839B4C8762A2640",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-23T18:09:07.258Z",
+      "updatedAt": "2025-04-23T18:09:07.258Z",
+      "id": 13194,
+      "merchantId": 5342,
+      "name": "Electrohogar Wit Center Juangriego Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 48,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4855,
+      "address": {
+        "name": "Electrohogar Wit Center Juangriego Margarita ",
+        "long": -63.9716875,
+        "lat": 11.0829375,
+        "location": "0101000020E61000004C37894160FC4FC05839B4C8762A2640",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    },
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    },
+    {
+      "id": 5,
+      "name": "SPLIT_12",
+      "data": {
+        "minimumLevel": 6,
+        "installmentsAmount": 13,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 12 cuotas"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

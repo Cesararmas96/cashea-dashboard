@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T21:33:59.711Z",
+  "id": "732",
+  "amount": 125,
+  "invoiceId": "10343",
+  "paidToMerchant": false,
+  "identifierNumber": 1454,
+  "billingDate": "2022-12-05T21:33:59.711Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15377548",
+      "fullName": "ARQUIMEDES RAFAEL LISBOA BRITO",
+      "phoneNumber": "+584126036985"
+    },
+    "installments": [
+      {
+        "id": "2378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T21:34:41.961Z",
+        "amount": 65,
+        "status": "DONE"
+      },
+      {
+        "id": "2380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T21:34:41.960Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "2379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T21:34:41.960Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "2381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T21:34:41.960Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

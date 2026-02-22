@@ -1,0 +1,150 @@
+{
+  "createdAt": "2025-03-26T14:09:34.775Z",
+  "updatedAt": "2025-03-28T14:08:47.445Z",
+  "id": 4847,
+  "name": "SUPER BATERIAS ORINOCO",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 4086,
+  "tags": [],
+  "uuid": "123bd5a6-0769-4899-be67-da98699f8259",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sumidelca357@hotmail.com",
+    "legalName": "CAROLINA",
+    "phoneNumber": "4141919365"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-10-12T20:31:51.324Z",
+      "updatedAt": "2025-10-12T20:31:51.324Z",
+      "id": 23492,
+      "merchantId": 4847,
+      "name": "SUPER BATERIAS ORINOCO LIBERTADOR MATURIN",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 4086,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 12392,
+      "address": {
+        "name": "AV LIBERTADOR EDF LIBERTADOR LOCAL PB, SECTOR MURALLA, MATURIN MONAGAS",
+        "long": -63.2020625,
+        "lat": 9.73843749999999,
+        "location": "0101000020E6100000BE9F1A2FDD994FC0A847E17A147A2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T19:29:27.912Z",
+      "updatedAt": "2025-03-26T19:29:27.912Z",
+      "id": 12247,
+      "merchantId": 4847,
+      "name": "SUPER BATERIAS ORINOCO LIBERTADOR MATURIN/IN",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 592,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7759,
+      "address": {
+        "name": "AV LIBERTADOR, EDF LIBERTADOR LOCAL PB, SECTOR MURALLA, MATURIN MONAGAS",
+        "long": -63.2020625,
+        "lat": 9.73843749999999,
+        "location": "0101000020E6100000BE9F1A2FDD994FC0A847E17A147A2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T14:16:03.929Z",
+      "updatedAt": "2025-03-26T14:16:03.929Z",
+      "id": 12211,
+      "merchantId": 4847,
+      "name": "SUPER BATERIAS ORINOCO CENTRO EMPRESARIAL CAFRE",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 592,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7759,
+      "address": {
+        "name": "AV JUNCAL CENTRO EMPRESARIAL CAFRE LOCAL PB A 50 MTS DEL BANCO MERCANTIL MATURIN MONAGAS",
+        "long": -63.18375,
+        "lat": 9.741250000000008,
+        "location": "0101000020E6100000EC51B81E85974FC0F051B81E857B2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

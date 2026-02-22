@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-02T18:08:40.189Z",
+  "id": "594",
+  "amount": 49.09,
+  "invoiceId": "16543",
+  "paidToMerchant": false,
+  "identifierNumber": 1389,
+  "billingDate": "2022-12-02T18:08:40.189Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-16T04:00:00.709+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "1889",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15201422",
+      "fullName": "JOHNNY MANUEL SZAFRANSKI MACIAS",
+      "phoneNumber": "+584142324601"
+    },
+    "installments": [
+      {
+        "id": "1886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-02T18:09:04.569Z",
+        "amount": 24.55,
+        "status": "DONE"
+      },
+      {
+        "id": "1889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-13T18:09:04.568Z",
+        "amount": 8.180000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "1888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-30T18:09:04.568Z",
+        "amount": 8.180000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "1887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-16T18:09:04.568Z",
+        "amount": 8.180000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-03-28T13:48:37.535Z",
+  "updatedAt": "2025-04-04T15:49:57.740Z",
+  "id": 4895,
+  "name": "TAC HELIMED",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c89529d1-004e-4e18-8582-abceb23d8667",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tachelimed@gmail.com",
+    "legalName": "marielys",
+    "phoneNumber": "04249078174"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T13:56:13.210Z",
+      "updatedAt": "2025-03-28T13:56:13.210Z",
+      "id": 12308,
+      "merchantId": 4895,
+      "name": "TAC HELIMED Av Luis",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7859,
+      "address": {
+        "name": "av luis del valle garcía edf. centro medico nivel sótano maturin",
+        "long": -63.171062500000005,
+        "lat": 9.743437499999999,
+        "location": "0101000020E610000038894160E5954FC0703D0AD7A37C2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-21T19:20:37.182Z",
+      "updatedAt": "2025-04-21T19:20:37.182Z",
+      "id": 13118,
+      "merchantId": 4895,
+      "name": "VR_TAC HELIMED",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7859,
+      "address": {
+        "name": "av luis del valle garcía edf. centro medico nivel sótano maturin",
+        "long": -63.171062500000005,
+        "lat": 9.743437499999999,
+        "location": "0101000020E610000038894160E5954FC0703D0AD7A37C2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:41:29.744Z",
+  "id": "2976",
+  "amount": 190.14,
+  "invoiceId": "14663",
+  "paidToMerchant": false,
+  "identifierNumber": 3427,
+  "billingDate": "2022-12-20T23:41:29.744Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17490369",
+      "fullName": "LENNIS CAROLINA ROJAS CASTRO",
+      "phoneNumber": "+584242746622"
+    },
+    "installments": [
+      {
+        "id": "9822",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:42:10.606Z",
+        "amount": 95.07,
+        "status": "DONE"
+      },
+      {
+        "id": "9823",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:42:10.606Z",
+        "amount": 31.689999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9825",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:42:10.606Z",
+        "amount": 31.689999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9824",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:42:10.606Z",
+        "amount": 31.689999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:09:39.676Z",
+  "id": "4452",
+  "amount": 50.73,
+  "invoiceId": "9089",
+  "paidToMerchant": false,
+  "identifierNumber": 4824,
+  "billingDate": "2022-12-24T01:09:39.676Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16147254",
+      "fullName": "GERARDO JOSE HERRERA ORTUNO",
+      "phoneNumber": "+584241346226"
+    },
+    "installments": [
+      {
+        "id": "15154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:09:49.513Z",
+        "amount": 25.36,
+        "status": "DONE"
+      },
+      {
+        "id": "15157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:09:49.513Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "15156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:09:49.513Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "15155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:09:49.513Z",
+        "amount": 8.456666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

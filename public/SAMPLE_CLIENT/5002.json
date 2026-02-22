@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:12:36.865Z",
+  "id": "4652",
+  "amount": 105.48,
+  "invoiceId": "15085",
+  "paidToMerchant": false,
+  "identifierNumber": 5002,
+  "billingDate": "2022-12-24T17:12:36.865Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15508205",
+      "fullName": "YENNY COROMOTO ROBLES TORREALBA",
+      "phoneNumber": "+584142456628"
+    },
+    "installments": [
+      {
+        "id": "15894",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:12:52.439Z",
+        "amount": 52.74,
+        "status": "DONE"
+      },
+      {
+        "id": "15897",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:12:52.438Z",
+        "amount": 17.580000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15896",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:12:52.438Z",
+        "amount": 17.580000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15895",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:12:52.438Z",
+        "amount": 17.580000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

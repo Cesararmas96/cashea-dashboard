@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T15:49:54.061Z",
+  "id": "1305",
+  "amount": 88,
+  "invoiceId": "40001561",
+  "paidToMerchant": false,
+  "identifierNumber": 1896,
+  "billingDate": "2022-12-12T15:49:54.061Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15042213",
+      "fullName": "JUAN JOSE ANGULO MORENO",
+      "phoneNumber": "+584123994729"
+    },
+    "installments": [
+      {
+        "id": "4210",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T15:50:19.217Z",
+        "amount": 44,
+        "status": "DONE"
+      },
+      {
+        "id": "4212",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T15:50:19.216Z",
+        "amount": 14.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4213",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T15:50:19.216Z",
+        "amount": 14.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4211",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T15:50:19.216Z",
+        "amount": 14.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

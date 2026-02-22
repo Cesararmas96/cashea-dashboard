@@ -1,0 +1,74 @@
+[
+  {
+    "id": 232,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J502105085",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TICKETPLATE, C.A.",
+    "internalBankHolder": "TICKETPLATE, C.A.",
+    "account": "01910098742198363206",
+    "accountType": "Corriente",
+    "phoneNumber": "4141051333",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 230,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502105085",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TICKETPLATE, C.A.",
+    "internalBankHolder": "TICKETPLATE, C.A.",
+    "account": "01910098742198363206",
+    "accountType": "Corriente",
+    "phoneNumber": "4141051333",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 231,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502105085",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TICKETPLATE, C.A.",
+    "internalBankHolder": "TICKETPLATE, C.A.",
+    "account": "01910098742198363206",
+    "accountType": "Corriente",
+    "phoneNumber": "4141051333",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 233,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502105085",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TICKETPLATE, C.A.",
+    "internalBankHolder": "TICKETPLATE, C.A.",
+    "account": "01910098792398256526",
+    "accountType": "Custodia ",
+    "phoneNumber": "4141051333",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

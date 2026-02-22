@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T22:53:01.213Z",
+  "id": "2090",
+  "amount": 115.31,
+  "invoiceId": "00017817",
+  "paidToMerchant": false,
+  "identifierNumber": 2607,
+  "billingDate": "2022-12-17T22:53:01.213Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-17T04:00:00.788+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "6796",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13885271",
+      "fullName": "EDGAR ERNESTO COLMENARES CALDERON",
+      "phoneNumber": "+584265114845"
+    },
+    "installments": [
+      {
+        "id": "6795",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:54:24.126Z",
+        "amount": 19.21666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6794",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:54:24.127Z",
+        "amount": 57.66,
+        "status": "DONE"
+      },
+      {
+        "id": "6797",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:54:24.126Z",
+        "amount": 19.21666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6796",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:54:24.126Z",
+        "amount": 19.21666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:31:06.686Z",
+  "id": "2394",
+  "amount": 50.96,
+  "invoiceId": "6717",
+  "paidToMerchant": false,
+  "identifierNumber": 4696,
+  "billingDate": "2022-12-18T23:31:06.686Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22447404",
+      "fullName": "JONDER MISAEL VERA JIMENEZ",
+      "phoneNumber": "+584126117343"
+    },
+    "installments": [
+      {
+        "id": "7869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:31:33.916Z",
+        "amount": 8.493333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:31:33.917Z",
+        "amount": 25.48,
+        "status": "DONE"
+      },
+      {
+        "id": "7867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:31:33.916Z",
+        "amount": 8.493333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "7868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:31:33.916Z",
+        "amount": 8.493333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

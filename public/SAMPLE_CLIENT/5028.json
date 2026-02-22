@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:10:09.529Z",
+  "id": "4794",
+  "amount": 40.2,
+  "invoiceId": "8637",
+  "paidToMerchant": false,
+  "identifierNumber": 5028,
+  "billingDate": "2022-12-24T19:10:09.529Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20154423",
+      "fullName": "KEYSI ALEJANDRA SOTO JIMENEZ",
+      "phoneNumber": "+584142393685"
+    },
+    "installments": [
+      {
+        "id": "16410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:10:24.041Z",
+        "amount": 20.1,
+        "status": "DONE"
+      },
+      {
+        "id": "16413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:10:24.041Z",
+        "amount": 6.7,
+        "status": "DONE"
+      },
+      {
+        "id": "16412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:10:24.041Z",
+        "amount": 6.7,
+        "status": "DONE"
+      },
+      {
+        "id": "16411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:10:24.041Z",
+        "amount": 6.7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

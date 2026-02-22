@@ -1,0 +1,128 @@
+[
+  {
+    "id": 680,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500637934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVIMPORT STORE 2027, C.A",
+    "internalBankHolder": "AVIMPORT STORE 2027, C.A",
+    "account": "01910098742198417474",
+    "accountType": "Corriente",
+    "phoneNumber": "4241513453",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 678,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500637934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVIMPORT STORE 2027, C.A",
+    "internalBankHolder": "AVIMPORT STORE 2027, C.A",
+    "account": "01910098742198417474",
+    "accountType": "Corriente",
+    "phoneNumber": "4241513453",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 679,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500637934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVIMPORT STORE 2027, C.A",
+    "internalBankHolder": "AVIMPORT STORE 2027, C.A",
+    "account": "01910098742198417474",
+    "accountType": "Corriente",
+    "phoneNumber": "4241513453",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 681,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500637934",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "AVIMPORT STORE 2027, C.A",
+    "internalBankHolder": "AVIMPORT STORE 2027, C.A",
+    "account": "01910098702398325285",
+    "accountType": "Custodia",
+    "phoneNumber": "4241513453",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

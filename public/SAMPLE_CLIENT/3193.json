@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T15:06:33.091Z",
+  "id": "2720",
+  "amount": 84.73,
+  "invoiceId": "18020",
+  "paidToMerchant": false,
+  "identifierNumber": 3193,
+  "billingDate": "2022-12-20T15:06:33.091Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21289723",
+      "fullName": "CYNTHIA ISABEL AZOCAR REALES",
+      "phoneNumber": "+584242422000"
+    },
+    "installments": [
+      {
+        "id": "8962",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T15:07:22.410Z",
+        "amount": 42.37,
+        "status": "DONE"
+      },
+      {
+        "id": "8964",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T15:07:22.410Z",
+        "amount": 14.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "8963",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T15:07:22.410Z",
+        "amount": 14.120000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "8965",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T15:07:22.410Z",
+        "amount": 14.120000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

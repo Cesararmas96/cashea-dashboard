@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:34:16.474Z",
+  "id": "2582",
+  "amount": 62.14,
+  "invoiceId": "44588",
+  "paidToMerchant": false,
+  "identifierNumber": 3053,
+  "billingDate": "2022-12-19T21:34:16.474Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18814561",
+      "fullName": "BARBARA ROSYBEL SOJO LUGO",
+      "phoneNumber": "+584242315784"
+    },
+    "installments": [
+      {
+        "id": "8490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:34:32.008Z",
+        "amount": 31.07,
+        "status": "DONE"
+      },
+      {
+        "id": "8493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:34:32.007Z",
+        "amount": 10.356666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:34:32.007Z",
+        "amount": 10.356666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:34:32.007Z",
+        "amount": 10.356666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

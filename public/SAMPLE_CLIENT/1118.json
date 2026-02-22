@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-19T21:11:32.503Z",
+  "id": "430",
+  "amount": 66,
+  "invoiceId": "783430",
+  "paidToMerchant": false,
+  "identifierNumber": 1118,
+  "billingDate": "2022-11-19T21:11:32.503Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11991905",
+      "fullName": "HECTOR WLADIMIR BLANCO BLANCO",
+      "phoneNumber": "+584129956195"
+    },
+    "installments": [
+      {
+        "id": "1329",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-31T21:12:15.728Z",
+        "amount": 11,
+        "status": "DONE"
+      },
+      {
+        "id": "1326",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-19T21:12:15.729Z",
+        "amount": 33,
+        "status": "DONE"
+      },
+      {
+        "id": "1327",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-03T21:12:15.728Z",
+        "amount": 11,
+        "status": "DONE"
+      },
+      {
+        "id": "1328",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-17T21:12:15.728Z",
+        "amount": 11,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

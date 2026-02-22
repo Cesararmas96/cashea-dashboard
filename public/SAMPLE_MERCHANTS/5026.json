@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-03T18:26:47.312Z",
+  "updatedAt": "2025-04-07T13:40:06.414Z",
+  "id": 5026,
+  "name": "Distribuidora La Milagrosa",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4e315857-8700-4da1-8237-0aea980a573c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "nanyelipv@gmail.com",
+    "legalName": "Nanyeli Prieto",
+    "phoneNumber": "+584146722501"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-03T18:30:33.300Z",
+      "updatedAt": "2025-04-03T18:30:33.300Z",
+      "id": 12582,
+      "merchantId": 5026,
+      "name": "Distribuidora La Milagrosa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4714,
+      "address": {
+        "name": "Distribuidora La Milagrosa",
+        "long": -71.6193125,
+        "lat": 10.638562499999992,
+        "location": "0101000020E61000004260E5D0A2E751C068E7FBA9F1462540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

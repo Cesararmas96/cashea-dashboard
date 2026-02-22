@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T19:56:00.859Z",
+  "id": "679",
+  "amount": 107,
+  "invoiceId": "10313",
+  "paidToMerchant": false,
+  "identifierNumber": 1426,
+  "billingDate": "2022-12-04T19:56:00.859Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18181153",
+      "fullName": "ELSY ADRIANA SOTELDO LEZAMA",
+      "phoneNumber": "+584129708998"
+    },
+    "installments": [
+      {
+        "id": "2182",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T19:56:21.350Z",
+        "amount": 53.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2185",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T19:56:21.350Z",
+        "amount": 17.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "2183",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T19:56:21.350Z",
+        "amount": 17.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "2184",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T19:56:21.350Z",
+        "amount": 17.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

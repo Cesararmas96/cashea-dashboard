@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:57:13.794Z",
+  "id": "3358",
+  "amount": 45,
+  "invoiceId": "1466",
+  "paidToMerchant": false,
+  "identifierNumber": 3749,
+  "billingDate": "2022-12-22T00:57:13.794Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29935526",
+      "fullName": "RAMSES ALFREDO GUEVARA VARGAS",
+      "phoneNumber": "+584129254194"
+    },
+    "installments": [
+      {
+        "id": "11210",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:03:08.177Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11213",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:03:08.177Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11212",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:03:08.177Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11211",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:03:08.177Z",
+        "amount": 7.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

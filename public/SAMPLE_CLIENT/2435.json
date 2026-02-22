@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T23:23:38.687Z",
+  "id": "1827",
+  "amount": 42.62,
+  "invoiceId": "8387",
+  "paidToMerchant": false,
+  "identifierNumber": 2435,
+  "billingDate": "2022-12-16T23:23:38.687Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21481797",
+      "fullName": "PAOLA PATRICIA PASTRANA PENATES",
+      "phoneNumber": "+584141398152"
+    },
+    "installments": [
+      {
+        "id": "5913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T23:26:11.835Z",
+        "amount": 7.103333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T23:26:11.835Z",
+        "amount": 7.103333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T23:26:11.835Z",
+        "amount": 7.103333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T23:26:11.835Z",
+        "amount": 21.31,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

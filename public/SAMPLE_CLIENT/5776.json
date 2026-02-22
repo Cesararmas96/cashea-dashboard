@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T19:24:18.754Z",
+  "id": "5491",
+  "amount": 210,
+  "invoiceId": "10782",
+  "paidToMerchant": false,
+  "identifierNumber": 5776,
+  "billingDate": "2022-12-28T19:24:18.754Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-01-14T04:00:00.479+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "18859",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15223606",
+      "fullName": "TANY EDUARDO MOLINA MORENO",
+      "phoneNumber": "+584149150095"
+    },
+    "installments": [
+      {
+        "id": "18860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:24:39.716Z",
+        "amount": 35,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:24:39.716Z",
+        "amount": 35,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:24:39.716Z",
+        "amount": 35,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:24:39.717Z",
+        "amount": 105,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T01:08:43.537Z",
+  "id": "5177",
+  "amount": 83.22,
+  "invoiceId": "000381",
+  "paidToMerchant": false,
+  "identifierNumber": 5436,
+  "billingDate": "2022-12-27T01:08:43.537Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "83",
+    "buyDebtDate": "2023-01-12T04:00:00.275+00:00",
+    "lastStoreId": 68,
+    "boughtForInstallmentId": "17743",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22887290",
+      "fullName": "CARLOS LUIS DIAZ",
+      "phoneNumber": "+584249561720"
+    },
+    "installments": [
+      {
+        "id": "17743",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T01:09:14.230Z",
+        "amount": 13.87,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17745",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T01:09:14.230Z",
+        "amount": 13.87,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17744",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T01:09:14.230Z",
+        "amount": 13.87,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17742",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T01:09:14.231Z",
+        "amount": 41.61,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

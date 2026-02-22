@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-02T22:30:48.866Z",
+  "id": "600",
+  "amount": 252.35,
+  "invoiceId": "783975",
+  "paidToMerchant": false,
+  "identifierNumber": 1390,
+  "billingDate": "2022-12-02T22:30:48.866Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "33",
+    "buyDebtDate": "2023-01-16T04:00:00.698+00:00",
+    "lastStoreId": 15,
+    "boughtForInstallmentId": "1913",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "8750830",
+      "fullName": "MORAIMA IRINIA MENDEZ FLORES",
+      "phoneNumber": "+584122009550"
+    },
+    "installments": [
+      {
+        "id": "1913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-13T22:31:11.139Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-02T22:31:11.140Z",
+        "amount": 152.35,
+        "status": "DONE"
+      },
+      {
+        "id": "1912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-30T22:31:11.139Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-16T22:31:11.139Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

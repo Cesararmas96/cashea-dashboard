@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:01:43.963Z",
+  "id": "3312",
+  "amount": 40.38,
+  "invoiceId": "1620",
+  "paidToMerchant": false,
+  "identifierNumber": 3707,
+  "billingDate": "2022-12-22T00:01:43.963Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20027847",
+      "fullName": "JONAS JOSUE GARCIA RODRIGUEZ",
+      "phoneNumber": "+584127585908"
+    },
+    "installments": [
+      {
+        "id": "11022",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:02:05.299Z",
+        "amount": 20.19,
+        "status": "DONE"
+      },
+      {
+        "id": "11025",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:02:05.299Z",
+        "amount": 6.73,
+        "status": "DONE"
+      },
+      {
+        "id": "11024",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:02:05.299Z",
+        "amount": 6.73,
+        "status": "DONE"
+      },
+      {
+        "id": "11023",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:02:05.299Z",
+        "amount": 6.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

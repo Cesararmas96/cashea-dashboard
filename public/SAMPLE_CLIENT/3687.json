@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:38:22.913Z",
+  "id": "3260",
+  "amount": 132.62,
+  "invoiceId": "44280",
+  "paidToMerchant": false,
+  "identifierNumber": 3687,
+  "billingDate": "2022-12-21T22:38:22.913Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17510066",
+      "fullName": "ELBA CRISTINA HERNANDEZ QUINTERO",
+      "phoneNumber": "+584141521370"
+    },
+    "installments": [
+      {
+        "id": "10825",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:41:08.614Z",
+        "amount": 22.103333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "10822",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:41:08.615Z",
+        "amount": 66.31,
+        "status": "DONE"
+      },
+      {
+        "id": "10824",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:41:08.614Z",
+        "amount": 22.103333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "10823",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:41:08.614Z",
+        "amount": 22.103333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

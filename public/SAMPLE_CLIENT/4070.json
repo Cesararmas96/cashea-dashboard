@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T19:04:34.408Z",
+  "id": "8574",
+  "amount": 36.85,
+  "invoiceId": "20086",
+  "paidToMerchant": false,
+  "identifierNumber": 4070,
+  "billingDate": "2023-01-16T19:04:34.408Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13066798",
+      "fullName": "KEYLA AYARI BETANCOURT",
+      "phoneNumber": "+584141014080"
+    },
+    "installments": [
+      {
+        "id": "29877",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T19:04:46.187Z",
+        "amount": 6.140000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "29876",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T19:04:46.187Z",
+        "amount": 6.140000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "29874",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T19:04:46.187Z",
+        "amount": 18.43,
+        "status": "DONE"
+      },
+      {
+        "id": "29875",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T19:04:46.187Z",
+        "amount": 6.140000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

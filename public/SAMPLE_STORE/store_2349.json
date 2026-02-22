@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1102,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500472404",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "internalBankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "account": "01910152562100109921",
+    "accountType": "Corriente",
+    "phoneNumber": "4121706005",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1100,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500472404",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "internalBankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "account": "01910152562100109921",
+    "accountType": "Corriente",
+    "phoneNumber": "4121706005",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1101,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500472404",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "internalBankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "account": "01910152562100109921",
+    "accountType": "Corriente",
+    "phoneNumber": "4121706005",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1103,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500472404",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "internalBankHolder": "OPTIAMERICA ZULIA . AG C.A",
+    "account": "01910152512300024334",
+    "accountType": "Custodia",
+    "phoneNumber": "4121706005",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

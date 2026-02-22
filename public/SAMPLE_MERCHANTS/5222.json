@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-14T15:42:39.671Z",
+  "updatedAt": "2025-04-29T20:00:36.380Z",
+  "id": 5222,
+  "name": "Total Tools Guarico",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 693,
+  "tags": [],
+  "uuid": "42644164-5284-4dcd-b902-98088893cda7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jhoncordero02@gmail.com",
+    "legalName": "Jhon",
+    "phoneNumber": "4140577724"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T15:43:26.416Z",
+      "updatedAt": "2025-04-14T15:43:26.416Z",
+      "id": 12946,
+      "merchantId": 5222,
+      "name": "Total Tools Guarico",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 693,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7745,
+      "address": {
+        "name": "CR 12 ENTRE CALLES 13 Y AVENIDA FRANCISCO DE MIRANDA EDIF SAN JOSE PISO P/B LOCAL 2 SECTOR CASCO CENTRAL CALABOZO GUARICO",
+        "long": -67.42918750000001,
+        "lat": 8.92568750000001,
+        "location": "0101000020E61000008816D9CE77DB50C0D0A145B6F3D92140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

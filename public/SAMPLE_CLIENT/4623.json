@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:21:21.367Z",
+  "id": "4244",
+  "amount": 30.9,
+  "invoiceId": "8581",
+  "paidToMerchant": false,
+  "identifierNumber": 4623,
+  "billingDate": "2022-12-23T22:21:21.367Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25236955",
+      "fullName": "ADELCHI ULDERICO ANTONIO RUGGIERO RUSSO",
+      "phoneNumber": "+584241964315"
+    },
+    "installments": [
+      {
+        "id": "14374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:21:59.234Z",
+        "amount": 15.45,
+        "status": "DONE"
+      },
+      {
+        "id": "14377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:21:59.234Z",
+        "amount": 5.1499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "14376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:21:59.234Z",
+        "amount": 5.1499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "14375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:21:59.234Z",
+        "amount": 5.1499999999999995,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

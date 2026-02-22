@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T15:19:51.283Z",
+  "id": "4547",
+  "amount": 80.46,
+  "invoiceId": "7335",
+  "paidToMerchant": false,
+  "identifierNumber": 3181,
+  "billingDate": "2022-12-24T15:19:51.283Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-10T04:00:00.748+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "15511",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13692826",
+      "fullName": "RAQUEL CAROLINA CARVAJAL VERENZUELA",
+      "phoneNumber": "+584241659760"
+    },
+    "installments": [
+      {
+        "id": "15510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:20:12.330Z",
+        "amount": 40.23,
+        "status": "DONE"
+      },
+      {
+        "id": "15513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:20:12.330Z",
+        "amount": 13.409999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "15512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:20:12.330Z",
+        "amount": 13.409999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "15511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:20:12.330Z",
+        "amount": 13.409999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

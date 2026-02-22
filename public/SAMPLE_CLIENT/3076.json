@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:59:32.877Z",
+  "id": "2589",
+  "amount": 113.26,
+  "invoiceId": "12491",
+  "paidToMerchant": false,
+  "identifierNumber": 3076,
+  "billingDate": "2022-12-19T21:59:32.877Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6290081",
+      "fullName": "ZAIDA ENEDINA SOLORZANO GAMEZ",
+      "phoneNumber": "+584241525246"
+    },
+    "installments": [
+      {
+        "id": "8510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:59:53.172Z",
+        "amount": 56.63,
+        "status": "DONE"
+      },
+      {
+        "id": "8513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:59:53.172Z",
+        "amount": 18.87666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:59:53.172Z",
+        "amount": 18.87666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:59:53.172Z",
+        "amount": 18.87666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

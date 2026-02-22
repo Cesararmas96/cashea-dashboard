@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:26:32.895Z",
+  "id": "2767",
+  "amount": 42.72,
+  "invoiceId": "00001780",
+  "paidToMerchant": false,
+  "identifierNumber": 3227,
+  "billingDate": "2022-12-20T18:26:32.895Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23926664",
+      "fullName": "MARY CRUZ MONTANO ROSARIO",
+      "phoneNumber": "+584241898910"
+    },
+    "installments": [
+      {
+        "id": "9121",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:27:13.465Z",
+        "amount": 7.12,
+        "status": "DONE"
+      },
+      {
+        "id": "9119",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:27:13.465Z",
+        "amount": 7.12,
+        "status": "DONE"
+      },
+      {
+        "id": "9120",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:27:13.465Z",
+        "amount": 7.12,
+        "status": "DONE"
+      },
+      {
+        "id": "9118",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:27:13.466Z",
+        "amount": 21.36,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

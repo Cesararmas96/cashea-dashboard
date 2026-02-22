@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:57:11.940Z",
+  "id": "2810",
+  "amount": 59.11,
+  "invoiceId": "817",
+  "paidToMerchant": false,
+  "identifierNumber": 3290,
+  "billingDate": "2022-12-20T19:57:11.940Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10522071",
+      "fullName": "ELIZABETH SANCHEZ BOLANO",
+      "phoneNumber": "+584141305893"
+    },
+    "installments": [
+      {
+        "id": "9246",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:57:45.191Z",
+        "amount": 29.55,
+        "status": "DONE"
+      },
+      {
+        "id": "9247",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:57:45.191Z",
+        "amount": 9.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9249",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:57:45.191Z",
+        "amount": 9.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9248",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:57:45.191Z",
+        "amount": 9.853333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

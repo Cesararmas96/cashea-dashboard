@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T00:21:12.642Z",
+  "id": "5169",
+  "amount": 59.85,
+  "invoiceId": "24890",
+  "paidToMerchant": false,
+  "identifierNumber": 5442,
+  "billingDate": "2022-12-27T00:21:12.642Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26435558",
+      "fullName": "AARON JOSE LUIS FREITAS SARMIENTO",
+      "phoneNumber": "+584242027129"
+    },
+    "installments": [
+      {
+        "id": "17713",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T00:21:58.973Z",
+        "amount": 9.973333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17710",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T00:21:58.974Z",
+        "amount": 29.93,
+        "status": "DONE"
+      },
+      {
+        "id": "17712",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T00:21:58.973Z",
+        "amount": 9.973333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17711",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T00:21:58.973Z",
+        "amount": 9.973333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

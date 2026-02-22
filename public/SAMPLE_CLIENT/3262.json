@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:53:00.162Z",
+  "id": "2777",
+  "amount": 393.13,
+  "invoiceId": "48820",
+  "paidToMerchant": false,
+  "identifierNumber": 3262,
+  "billingDate": "2022-12-20T18:53:00.162Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25445805",
+      "fullName": "PRISCILA ROSALINDA RENTERIA WULFERT",
+      "phoneNumber": "+584249202588"
+    },
+    "installments": [
+      {
+        "id": "9170",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:05:10.427Z",
+        "amount": 233.13,
+        "status": "DONE"
+      },
+      {
+        "id": "9173",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:05:10.426Z",
+        "amount": 53.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "9171",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:05:10.426Z",
+        "amount": 53.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "9172",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:05:10.426Z",
+        "amount": 53.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

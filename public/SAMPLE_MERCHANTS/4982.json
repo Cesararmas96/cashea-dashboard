@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-02T15:27:16.583Z",
+  "updatedAt": "2025-04-04T18:13:12.887Z",
+  "id": 4982,
+  "name": "Multiservicios Cruzvill",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "da306cb4-fa7b-4530-9c7c-333c0ce6c60a",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "multiservicioscruzvill@gmail.com",
+    "legalName": "GRECIA",
+    "phoneNumber": "4126685977"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T20:52:52.748Z",
+      "updatedAt": "2025-04-23T20:52:52.748Z",
+      "id": 13211,
+      "merchantId": 4982,
+      "name": "VR_Multiservicios Cruzvill",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6876,
+      "address": {
+        "name": "AVENIDA COSTANERA PROLONGACION AVENIDA FUERZAS ARMADAS BARCELONA EDO. ANZOATEGUI",
+        "long": -64.68375,
+        "lat": 10.138749999999987,
+        "location": "0101000020E6100000F6285C8FC22B50C0D0A3703D0A472440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T15:30:31.168Z",
+      "updatedAt": "2025-04-02T15:30:31.168Z",
+      "id": 12516,
+      "merchantId": 4982,
+      "name": "Multiservicios Cruzvill Anzoategui",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6876,
+      "address": {
+        "name": "AVENIDA COSTANERA PROLONGACION AVENIDA FUERZAS ARMADAS BARCELONA EDO. ANZOATEGUI",
+        "long": -64.68375,
+        "lat": 10.138749999999987,
+        "location": "0101000020E6100000F6285C8FC22B50C0D0A3703D0A472440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

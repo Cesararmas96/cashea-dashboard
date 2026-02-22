@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T19:10:52.618Z",
+  "id": "3491",
+  "amount": 60.03,
+  "invoiceId": "44352",
+  "paidToMerchant": false,
+  "identifierNumber": 3894,
+  "billingDate": "2022-12-22T19:10:52.618Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13158220",
+      "fullName": "EDWAR MANUEL DAMAS VELASQUEZ",
+      "phoneNumber": "+584127407049"
+    },
+    "installments": [
+      {
+        "id": "11674",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T19:15:13.407Z",
+        "amount": 30.02,
+        "status": "DONE"
+      },
+      {
+        "id": "11677",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T19:15:13.407Z",
+        "amount": 10.003333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11676",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T19:15:13.407Z",
+        "amount": 10.003333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "11675",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T19:15:13.407Z",
+        "amount": 10.003333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-23T13:07:41.852Z",
+  "updatedAt": "2025-05-06T13:12:34.779Z",
+  "id": 5328,
+  "name": "Clínica AMP",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "cdd76cc8-4d7d-420f-97c0-c7a7bae0a1a6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "hfaez@hotmail.com",
+    "legalName": "Faez",
+    "phoneNumber": "04147175695"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T13:15:23.551Z",
+      "updatedAt": "2025-04-23T13:15:23.551Z",
+      "id": 13169,
+      "merchantId": 5328,
+      "name": "Clínica AMP El Paraiso CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7155,
+      "address": {
+        "name": "AVENIDA A1 QUINTA MUCURUBA URBANIZACION EL PINAR EL PARAISO CARACAS",
+        "long": -66.93781249999999,
+        "lat": 10.484187500000004,
+        "location": "0101000020E6100000EB51B81E05BC50C098438B6CE7F72440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

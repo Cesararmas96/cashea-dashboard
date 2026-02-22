@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:18:27.723Z",
+  "id": "4238",
+  "amount": 32.99,
+  "invoiceId": "00002116",
+  "paidToMerchant": false,
+  "identifierNumber": 4627,
+  "billingDate": "2022-12-23T22:18:27.723Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23527683",
+      "fullName": "ALEJANDRA COROMOTO REQUENA HENRIQUEZ",
+      "phoneNumber": "+584123776170"
+    },
+    "installments": [
+      {
+        "id": "14362",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:18:46.975Z",
+        "amount": 16.5,
+        "status": "DONE"
+      },
+      {
+        "id": "14365",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:18:46.974Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14364",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:18:46.974Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "14363",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:18:46.974Z",
+        "amount": 5.496666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

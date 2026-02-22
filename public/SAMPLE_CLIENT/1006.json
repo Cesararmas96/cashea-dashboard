@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T17:06:50.807Z",
+  "id": "6842",
+  "amount": 42.98,
+  "invoiceId": "15142",
+  "paidToMerchant": false,
+  "identifierNumber": 1006,
+  "billingDate": "2022-12-31T17:06:50.807Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "84",
+    "buyDebtDate": "2023-01-17T04:00:01.055+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "23647",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19289488",
+      "fullName": "GEORGE RANGEL MANZANO",
+      "phoneNumber": "+584241127449"
+    },
+    "installments": [
+      {
+        "id": "23649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T17:07:58.598Z",
+        "amount": 7.163333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "23648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T17:07:58.598Z",
+        "amount": 7.163333333333333,
+        "status": "DELAYED"
+      },
+      {
+        "id": "23647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T17:07:58.598Z",
+        "amount": 7.163333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "23646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T17:07:58.599Z",
+        "amount": 21.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

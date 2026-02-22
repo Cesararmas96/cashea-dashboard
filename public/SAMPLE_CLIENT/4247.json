@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:44:37.331Z",
+  "id": "4682",
+  "amount": 44,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4247,
+  "billingDate": "2022-12-24T17:44:37.331Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28441235",
+      "fullName": "JICKSON RAFAEL ALEMAN PEREZ",
+      "phoneNumber": "+584242733679"
+    },
+    "installments": [
+      {
+        "id": "16008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:45:03.353Z",
+        "amount": 7.333333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:45:03.353Z",
+        "amount": 7.333333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:45:03.354Z",
+        "amount": 22,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:45:03.353Z",
+        "amount": 7.333333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

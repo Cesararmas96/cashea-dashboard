@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:20:22.308Z",
+  "id": "3329",
+  "amount": 111.5,
+  "invoiceId": "12719",
+  "paidToMerchant": false,
+  "identifierNumber": 3782,
+  "billingDate": "2022-12-22T00:20:22.308Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17907358",
+      "fullName": "ALBERT JESUS CORDERO ZAMBRANO",
+      "phoneNumber": "+584242346217"
+    },
+    "installments": [
+      {
+        "id": "11089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:21:20.246Z",
+        "amount": 18.583333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "11086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:21:20.246Z",
+        "amount": 55.75,
+        "status": "DONE"
+      },
+      {
+        "id": "11088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:21:20.246Z",
+        "amount": 18.583333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "11087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:21:20.246Z",
+        "amount": 18.583333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

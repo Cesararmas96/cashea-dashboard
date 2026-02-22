@@ -1,0 +1,110 @@
+[
+  {
+    "id": 411,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J308577960",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTI-COLOR # 2, C.A.",
+    "internalBankHolder": "OPTI-COLOR No. 2, C.A. ",
+    "account": "01910098732198399230",
+    "accountType": "Corriente",
+    "phoneNumber": "4146535503",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 412,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J308577960",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTI-COLOR # 2, C.A.",
+    "internalBankHolder": "OPTI-COLOR No. 2, C.A. ",
+    "account": "01910098732198399230",
+    "accountType": "Corriente",
+    "phoneNumber": "4146535503",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 413,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J308577960",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "OPTI-COLOR # 2, C.A.",
+    "internalBankHolder": "OPTI-COLOR No. 2, C.A. ",
+    "account": "01910098752398305646",
+    "accountType": "Custodia",
+    "phoneNumber": "4146535503",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

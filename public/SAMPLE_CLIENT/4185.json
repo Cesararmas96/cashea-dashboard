@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:11:02.683Z",
+  "id": "3760",
+  "amount": 60,
+  "invoiceId": "48315",
+  "paidToMerchant": false,
+  "identifierNumber": 4185,
+  "billingDate": "2022-12-23T00:11:02.683Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23636004",
+      "fullName": "JONATHAN OMAR CASIQUE VICUNA",
+      "phoneNumber": "+584126005310"
+    },
+    "installments": [
+      {
+        "id": "12626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:11:11.564Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "12627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:11:11.563Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "12629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:11:11.563Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "12628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:11:11.563Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

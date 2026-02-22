@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-14T20:55:07.534Z",
+  "id": "1460",
+  "amount": 110,
+  "invoiceId": "8864",
+  "paidToMerchant": false,
+  "identifierNumber": 2065,
+  "billingDate": "2022-12-14T20:55:07.534Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "52",
+    "buyDebtDate": "2023-01-29T04:00:00.876+00:00",
+    "lastStoreId": 38,
+    "boughtForInstallmentId": 4716,
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26781290",
+      "fullName": "NORIANA DE JESUS JUARES CONTRERAS",
+      "phoneNumber": "+584244185411"
+    },
+    "installments": [
+      {
+        "id": "4717",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T20:55:23.741Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4716",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T20:55:23.741Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4714",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T20:55:23.741Z",
+        "amount": 55,
+        "status": "DONE"
+      },
+      {
+        "id": "4715",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T20:55:23.741Z",
+        "amount": 18.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

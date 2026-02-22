@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:46:46.118Z",
+  "id": "4488",
+  "amount": 140.54,
+  "invoiceId": "50525",
+  "paidToMerchant": false,
+  "identifierNumber": 4859,
+  "billingDate": "2022-12-24T01:46:46.118Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16005463",
+      "fullName": "RENE ALEXANDER GONZALEZ CLEMANT",
+      "phoneNumber": "+584149008983"
+    },
+    "installments": [
+      {
+        "id": "15297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:47:56.497Z",
+        "amount": 23.423333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:47:56.497Z",
+        "amount": 70.27,
+        "status": "DONE"
+      },
+      {
+        "id": "15296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:47:56.497Z",
+        "amount": 23.423333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "15295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:47:56.497Z",
+        "amount": 23.423333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

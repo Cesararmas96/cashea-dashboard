@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:29:53.632Z",
+  "id": "3288",
+  "amount": 70.56,
+  "invoiceId": "13670",
+  "paidToMerchant": false,
+  "identifierNumber": 3720,
+  "billingDate": "2022-12-21T23:29:53.632Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27441803",
+      "fullName": "CARLOS AUGUSTO REA FIGUEROA",
+      "phoneNumber": "+584241686435"
+    },
+    "installments": [
+      {
+        "id": "10938",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:30:30.128Z",
+        "amount": 35.28,
+        "status": "DONE"
+      },
+      {
+        "id": "10939",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:30:30.128Z",
+        "amount": 11.76,
+        "status": "DONE"
+      },
+      {
+        "id": "10941",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:30:30.128Z",
+        "amount": 11.76,
+        "status": "DONE"
+      },
+      {
+        "id": "10940",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:30:30.128Z",
+        "amount": 11.76,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

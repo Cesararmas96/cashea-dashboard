@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T23:45:01.505Z",
+  "id": "4365",
+  "amount": 41.28,
+  "invoiceId": "9076",
+  "paidToMerchant": false,
+  "identifierNumber": 4720,
+  "billingDate": "2022-12-23T23:45:01.505Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-23T04:00:01.409+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "14812",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27421429",
+      "fullName": "ALEXIS EDUARDO MONTEZUMA GARCIA",
+      "phoneNumber": "+584142569172"
+    },
+    "installments": [
+      {
+        "id": "14812",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:45:11.193Z",
+        "amount": 6.88,
+        "status": "DONE"
+      },
+      {
+        "id": "14813",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:45:11.193Z",
+        "amount": 6.88,
+        "status": "DONE"
+      },
+      {
+        "id": "14810",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:45:11.193Z",
+        "amount": 20.64,
+        "status": "DONE"
+      },
+      {
+        "id": "14811",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:45:11.193Z",
+        "amount": 6.88,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

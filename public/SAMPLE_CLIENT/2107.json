@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T21:43:16.554Z",
+  "id": "1469",
+  "amount": 40.58,
+  "invoiceId": "3040",
+  "paidToMerchant": false,
+  "identifierNumber": 2107,
+  "billingDate": "2022-12-14T21:43:16.554Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21133564",
+      "fullName": "RIGOBERTO JOSE LOPEZ BETANCOURT",
+      "phoneNumber": "+584128215727"
+    },
+    "installments": [
+      {
+        "id": "4753",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T21:43:57.127Z",
+        "amount": 6.763333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4751",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T21:43:57.127Z",
+        "amount": 6.763333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4752",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T21:43:57.127Z",
+        "amount": 6.763333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4750",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T21:43:57.127Z",
+        "amount": 20.29,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

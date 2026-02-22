@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T16:48:39.992Z",
+  "id": "11486",
+  "amount": 31.87,
+  "invoiceId": "17667",
+  "paidToMerchant": false,
+  "identifierNumber": 5170,
+  "billingDate": "2023-01-30T16:48:39.992Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26451585",
+      "fullName": "FRAYMAR ESTEFANIA QUEVEDO MEJIA",
+      "phoneNumber": "+584147093085"
+    },
+    "installments": [
+      {
+        "id": "35193",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T16:50:02.575Z",
+        "amount": 5.3100000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "35192",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T16:50:02.575Z",
+        "amount": 5.3100000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "35190",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T16:50:02.576Z",
+        "amount": 15.94,
+        "status": "DONE"
+      },
+      {
+        "id": "35191",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T16:50:02.575Z",
+        "amount": 5.3100000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

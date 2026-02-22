@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T19:51:53.844Z",
+  "id": "5512",
+  "amount": 40.56,
+  "invoiceId": "559",
+  "paidToMerchant": false,
+  "identifierNumber": 5811,
+  "billingDate": "2022-12-28T19:51:53.844Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22518137",
+      "fullName": "EUKARINA LISSET DEL GONZALEZ VILLEGAS",
+      "phoneNumber": "+584141450626"
+    },
+    "installments": [
+      {
+        "id": "18933",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:52:18.762Z",
+        "amount": 6.760000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18930",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:52:18.762Z",
+        "amount": 20.28,
+        "status": "DONE"
+      },
+      {
+        "id": "18932",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:52:18.762Z",
+        "amount": 6.760000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18931",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:52:18.762Z",
+        "amount": 6.760000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

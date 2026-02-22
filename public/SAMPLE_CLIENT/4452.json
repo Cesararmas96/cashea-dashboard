@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T19:48:30.281Z",
+  "id": "4056",
+  "amount": 69.7,
+  "invoiceId": "12939",
+  "paidToMerchant": false,
+  "identifierNumber": 4452,
+  "billingDate": "2022-12-23T19:48:30.281Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-23T04:00:01.230+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "13704",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24884210",
+      "fullName": "JHON ALBERT BARRETO ELIETT",
+      "phoneNumber": "+584129508650"
+    },
+    "installments": [
+      {
+        "id": "13705",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:48:58.282Z",
+        "amount": 11.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13704",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:48:58.282Z",
+        "amount": 11.616666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13702",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:48:58.283Z",
+        "amount": 34.85,
+        "status": "DONE"
+      },
+      {
+        "id": "13703",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:48:58.282Z",
+        "amount": 11.616666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

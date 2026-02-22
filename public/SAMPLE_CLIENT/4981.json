@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:04:37.458Z",
+  "id": "4641",
+  "amount": 40.16,
+  "invoiceId": "9107",
+  "paidToMerchant": false,
+  "identifierNumber": 4981,
+  "billingDate": "2022-12-24T17:04:37.458Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20127528",
+      "fullName": "SEBASTIAN ANDRES LABASTIDAS AVILA",
+      "phoneNumber": "+584241692235"
+    },
+    "installments": [
+      {
+        "id": "15858",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:06:19.846Z",
+        "amount": 20.08,
+        "status": "DONE"
+      },
+      {
+        "id": "15861",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:06:19.846Z",
+        "amount": 6.6933333333333325,
+        "status": "DONE"
+      },
+      {
+        "id": "15860",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:06:19.846Z",
+        "amount": 6.6933333333333325,
+        "status": "DONE"
+      },
+      {
+        "id": "15859",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:06:19.846Z",
+        "amount": 6.6933333333333325,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

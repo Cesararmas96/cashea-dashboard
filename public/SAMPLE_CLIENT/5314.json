@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T20:59:12.650Z",
+  "id": "5947",
+  "amount": 115.26,
+  "invoiceId": "1405",
+  "paidToMerchant": false,
+  "identifierNumber": 5314,
+  "billingDate": "2022-12-29T20:59:12.650Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "41",
+    "buyDebtDate": "2023-01-29T04:00:00.735+00:00",
+    "lastStoreId": 27,
+    "boughtForInstallmentId": "20540",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11163600",
+      "fullName": "LUIS EDWARD GOMEZ BATISTA",
+      "phoneNumber": "+584242844100"
+    },
+    "installments": [
+      {
+        "id": "20538",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T21:07:29.375Z",
+        "amount": 57.63,
+        "status": "DONE"
+      },
+      {
+        "id": "20539",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T21:07:29.375Z",
+        "amount": 19.21,
+        "status": "DONE"
+      },
+      {
+        "id": "20541",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T21:07:29.375Z",
+        "amount": 19.21,
+        "status": "DONE"
+      },
+      {
+        "id": "20540",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T21:07:29.375Z",
+        "amount": 19.21,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

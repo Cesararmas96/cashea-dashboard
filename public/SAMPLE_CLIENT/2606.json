@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T22:03:56.209Z",
+  "id": "2069",
+  "amount": 122.25,
+  "invoiceId": "6654",
+  "paidToMerchant": false,
+  "identifierNumber": 2606,
+  "billingDate": "2022-12-17T22:03:56.209Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18740410",
+      "fullName": "NEVER JOSE ARGUMENDO DIAZ",
+      "phoneNumber": "+584122530212"
+    },
+    "installments": [
+      {
+        "id": "6718",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:04:04.779Z",
+        "amount": 61.13,
+        "status": "DONE"
+      },
+      {
+        "id": "6719",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:04:04.779Z",
+        "amount": 20.37333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6721",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:04:04.779Z",
+        "amount": 20.37333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6720",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:04:04.779Z",
+        "amount": 20.37333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T00:39:06.204Z",
+  "id": "1164",
+  "amount": 77.48,
+  "invoiceId": "4611",
+  "paidToMerchant": false,
+  "identifierNumber": 1818,
+  "billingDate": "2022-12-11T00:39:06.204Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17425223",
+      "fullName": "LEYNIS CAROLINA TORREALBA CARAO",
+      "phoneNumber": "+584241618885"
+    },
+    "installments": [
+      {
+        "id": "3711",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T00:40:04.174Z",
+        "amount": 12.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3713",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T00:40:04.174Z",
+        "amount": 12.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3712",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T00:40:04.174Z",
+        "amount": 12.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "3710",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T00:40:04.175Z",
+        "amount": 38.74,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

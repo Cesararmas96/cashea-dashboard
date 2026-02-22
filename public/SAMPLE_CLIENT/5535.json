@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T19:08:50.272Z",
+  "id": "5235",
+  "amount": 63,
+  "invoiceId": "00002226",
+  "paidToMerchant": false,
+  "identifierNumber": 5535,
+  "billingDate": "2022-12-27T19:08:50.272Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10826904",
+      "fullName": "CLARA ELINA LOZADA QUINTERO",
+      "phoneNumber": "+584140259489"
+    },
+    "installments": [
+      {
+        "id": "17949",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T19:11:57.965Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17946",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T19:11:57.966Z",
+        "amount": 31.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17948",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T19:11:57.965Z",
+        "amount": 10.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17947",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T19:11:57.965Z",
+        "amount": 10.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

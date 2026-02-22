@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-08T20:00:22.564Z",
+  "updatedAt": "2025-05-08T20:00:22.564Z",
+  "id": 5641,
+  "name": "Insumed Los Llanos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5e9acd90-7972-49a8-bb7e-4b2cca9c403f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "insumedlosllanosc.a@gmail.com",
+    "legalName": "Ricardo Beltran",
+    "phoneNumber": "04169241191"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-02-10T16:27:07.060Z",
+      "updatedAt": "2025-02-10T16:27:07.060Z",
+      "id": 10580,
+      "merchantId": 5641,
+      "name": "Insumed Los Llanos Av Libertador Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5748,
+      "address": {
+        "name": "Insumed Los Llanos Av Libertador Acarigua",
+        "long": -69.2139375,
+        "lat": 9.559062499999982,
+        "location": "0101000020E6100000D578E926B14D51C000D7A3703D1E2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

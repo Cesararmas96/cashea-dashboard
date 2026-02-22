@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T20:55:55.565Z",
+  "id": "7208",
+  "amount": 56.03,
+  "invoiceId": "28871",
+  "paidToMerchant": false,
+  "identifierNumber": 5593,
+  "billingDate": "2023-01-02T20:55:55.565Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29617720",
+      "fullName": "SAMANTHA ANDREINA LARA RANGEL",
+      "phoneNumber": "+584141385020"
+    },
+    "installments": [
+      {
+        "id": "24978",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T20:56:28.406Z",
+        "amount": 28.02,
+        "status": "DONE"
+      },
+      {
+        "id": "24981",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T20:56:28.405Z",
+        "amount": 9.336666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "24980",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T20:56:28.405Z",
+        "amount": 9.336666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "24979",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T20:56:28.405Z",
+        "amount": 9.336666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

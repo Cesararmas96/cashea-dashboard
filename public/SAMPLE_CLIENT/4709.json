@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:43:29.137Z",
+  "id": "4363",
+  "amount": 123.41,
+  "invoiceId": "13812",
+  "paidToMerchant": false,
+  "identifierNumber": 4709,
+  "billingDate": "2022-12-23T23:43:29.137Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17705439",
+      "fullName": "ASTRID KARINA PENA HIGUITA",
+      "phoneNumber": "+584241757054"
+    },
+    "installments": [
+      {
+        "id": "14806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:43:52.491Z",
+        "amount": 61.7,
+        "status": "DONE"
+      },
+      {
+        "id": "14809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:43:52.490Z",
+        "amount": 20.569999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "14808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:43:52.490Z",
+        "amount": 20.569999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "14807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:43:52.490Z",
+        "amount": 20.569999999999997,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:26:21.923Z",
+  "id": "5926",
+  "amount": 35.48,
+  "invoiceId": "15416",
+  "paidToMerchant": false,
+  "identifierNumber": 5304,
+  "billingDate": "2022-12-29T20:26:21.923Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24663231",
+      "fullName": "JOSE GREGORIO ESCALONA MERCADO",
+      "phoneNumber": "+584125898069"
+    },
+    "installments": [
+      {
+        "id": "20442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:26:54.064Z",
+        "amount": 17.74,
+        "status": "DONE"
+      },
+      {
+        "id": "20445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:26:54.064Z",
+        "amount": 5.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:26:54.064Z",
+        "amount": 5.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:26:54.064Z",
+        "amount": 5.913333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

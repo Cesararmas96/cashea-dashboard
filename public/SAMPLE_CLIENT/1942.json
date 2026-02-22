@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T19:47:02.793Z",
+  "id": "1561",
+  "amount": 82.69,
+  "invoiceId": "12088",
+  "paidToMerchant": false,
+  "identifierNumber": 1942,
+  "billingDate": "2022-12-15T19:47:02.793Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17423178",
+      "fullName": "RONALD ALFREDO ESPINOZA MARQUINA",
+      "phoneNumber": "+584241061043"
+    },
+    "installments": [
+      {
+        "id": "5046",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T19:47:37.220Z",
+        "amount": 41.34,
+        "status": "DONE"
+      },
+      {
+        "id": "5049",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T19:47:37.220Z",
+        "amount": 13.783333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "5047",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T19:47:37.220Z",
+        "amount": 13.783333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "5048",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T19:47:37.220Z",
+        "amount": 13.783333333333331,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

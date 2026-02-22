@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:01:45.201Z",
+  "id": "3754",
+  "amount": 94.98,
+  "invoiceId": "8961",
+  "paidToMerchant": false,
+  "identifierNumber": 4153,
+  "billingDate": "2022-12-23T00:01:45.201Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14889458",
+      "fullName": "INDIRA CRISTINA GUERRA ZERPA",
+      "phoneNumber": "+584242750711"
+    },
+    "installments": [
+      {
+        "id": "12602",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:02:11.071Z",
+        "amount": 47.49,
+        "status": "DONE"
+      },
+      {
+        "id": "12605",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:02:11.070Z",
+        "amount": 15.83,
+        "status": "DONE"
+      },
+      {
+        "id": "12604",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:02:11.070Z",
+        "amount": 15.83,
+        "status": "DONE"
+      },
+      {
+        "id": "12603",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:02:11.070Z",
+        "amount": 15.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

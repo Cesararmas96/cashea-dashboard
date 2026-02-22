@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:06:27.683Z",
+  "id": "2374",
+  "amount": 46.96,
+  "invoiceId": "0000",
+  "paidToMerchant": false,
+  "identifierNumber": 2881,
+  "billingDate": "2022-12-18T23:06:27.683Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24723555",
+      "fullName": "DIWLAIM SNYDER AGUERO GONZALEZ",
+      "phoneNumber": "+584120990022"
+    },
+    "installments": [
+      {
+        "id": "7803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:06:45.469Z",
+        "amount": 7.826666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:06:45.469Z",
+        "amount": 7.826666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:06:45.469Z",
+        "amount": 7.826666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "7802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:06:45.469Z",
+        "amount": 23.48,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

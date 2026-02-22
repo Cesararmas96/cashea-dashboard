@@ -1,0 +1,74 @@
+[
+  {
+    "id": 712,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501668485",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS YM2021,CA",
+    "internalBankHolder": "DISEÑOS YM2021,CA",
+    "account": "01910055342155104794",
+    "accountType": "Corriente",
+    "phoneNumber": "4122316492",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 710,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501668485",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS YM2021,CA",
+    "internalBankHolder": "DISEÑOS YM2021,CA",
+    "account": "01910055342155104794",
+    "accountType": "Corriente",
+    "phoneNumber": "4122316492",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 711,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501668485",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS YM2021,CA",
+    "internalBankHolder": "DISEÑOS YM2021,CA",
+    "account": "01910055342155104794",
+    "accountType": "Corriente",
+    "phoneNumber": "4122316492",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 713,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501668485",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "DISEÑOS YM2021,CA",
+    "internalBankHolder": "DISEÑOS YM2021,CA",
+    "account": "01910055392355586519",
+    "accountType": "Custodia",
+    "phoneNumber": "4122316492",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

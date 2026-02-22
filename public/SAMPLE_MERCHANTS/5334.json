@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-23T13:43:41.152Z",
+  "updatedAt": "2025-05-06T15:33:23.419Z",
+  "id": 5334,
+  "name": "SENTIR SALUD M&M",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "988aa09d-6367-4a3f-a199-b63cff9fff70",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "yulimar.zambrano90@gmail.com",
+    "legalName": "YULIMAR",
+    "phoneNumber": "4241208812"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T13:55:21.230Z",
+      "updatedAt": "2025-04-23T13:55:21.230Z",
+      "id": 13175,
+      "merchantId": 5334,
+      "name": "Sentir Salud M&M Av Liberales",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7590,
+      "address": {
+        "name": "AV LIBERALES CON SAMANES EDIF RCG PISO MEZZANINA OF C10 URB EL PARAISO CARACAS ZONA POSTAL 1020",
+        "long": -66.9249375,
+        "lat": 10.490437500000013,
+        "location": "0101000020E610000004560E2D32BB50C0D076BE9F1AFB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-23T12:24:50.908Z",
+      "updatedAt": "2025-05-23T12:24:50.908Z",
+      "id": 14576,
+      "merchantId": 5334,
+      "name": "VR_SENTIR SALUD M&M",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7590,
+      "address": {
+        "name": "AV LIBERALES CON SAMANES EDIF RCG PISO MEZZANINA OF C10 URB EL PARAISO CARACAS ZONA POSTAL 1020",
+        "long": -66.9249375,
+        "lat": 10.490437500000013,
+        "location": "0101000020E610000004560E2D32BB50C0D076BE9F1AFB2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

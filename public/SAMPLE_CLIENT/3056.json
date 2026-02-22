@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:11:33.318Z",
+  "id": "2568",
+  "amount": 158.46,
+  "invoiceId": "1478",
+  "paidToMerchant": false,
+  "identifierNumber": 3056,
+  "billingDate": "2022-12-19T21:11:33.318Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9417065",
+      "fullName": "THAYNES LISBETH ESCALONA VARGAS",
+      "phoneNumber": "+584140938274"
+    },
+    "installments": [
+      {
+        "id": "8442",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:12:19.872Z",
+        "amount": 79.23,
+        "status": "DONE"
+      },
+      {
+        "id": "8444",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:12:19.871Z",
+        "amount": 26.41,
+        "status": "DONE"
+      },
+      {
+        "id": "8445",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:12:19.871Z",
+        "amount": 26.41,
+        "status": "DONE"
+      },
+      {
+        "id": "8443",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:12:19.871Z",
+        "amount": 26.41,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

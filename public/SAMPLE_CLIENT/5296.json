@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T18:39:03.404Z",
+  "id": "5028",
+  "amount": 290,
+  "invoiceId": "10710",
+  "paidToMerchant": false,
+  "identifierNumber": 5296,
+  "billingDate": "2022-12-26T18:39:03.404Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20329361",
+      "fullName": "JOHN REINALDO GAUTA HERRERA",
+      "phoneNumber": "+584123860190"
+    },
+    "installments": [
+      {
+        "id": "17249",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T18:39:47.317Z",
+        "amount": 48.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "17248",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T18:39:47.317Z",
+        "amount": 48.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "17246",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T18:39:47.318Z",
+        "amount": 145,
+        "status": "DONE"
+      },
+      {
+        "id": "17247",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T18:39:47.317Z",
+        "amount": 48.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

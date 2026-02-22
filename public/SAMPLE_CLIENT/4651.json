@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T22:42:53.573Z",
+  "id": "4273",
+  "amount": 103.39,
+  "invoiceId": "1056",
+  "paidToMerchant": false,
+  "identifierNumber": 4651,
+  "billingDate": "2022-12-23T22:42:53.573Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-09T04:00:01.426+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "14491",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17453113",
+      "fullName": "KARLA CAROLINA MARTINEZ LARRIVA",
+      "phoneNumber": "+584122282430"
+    },
+    "installments": [
+      {
+        "id": "14492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:43:46.760Z",
+        "amount": 17.23,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:43:46.760Z",
+        "amount": 17.23,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:43:46.760Z",
+        "amount": 17.23,
+        "status": "DELAYED"
+      },
+      {
+        "id": "14490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:43:46.760Z",
+        "amount": 51.7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

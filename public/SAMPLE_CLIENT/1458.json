@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-22T18:38:26.539Z",
+  "id": "148",
+  "amount": 79.69,
+  "invoiceId": "6296",
+  "paidToMerchant": false,
+  "identifierNumber": 1458,
+  "billingDate": "2022-10-22T18:38:26.539Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12398870",
+      "fullName": "MAYERLING JOSEFINA OLIVEROS ARZA",
+      "phoneNumber": "+584142831592"
+    },
+    "installments": [
+      {
+        "id": "461",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-22T18:38:37.815Z",
+        "amount": 39.84,
+        "status": "DONE"
+      },
+      {
+        "id": "464",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-03T18:38:37.814Z",
+        "amount": 13.28,
+        "status": "DONE"
+      },
+      {
+        "id": "462",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-05T18:38:37.814Z",
+        "amount": 13.28,
+        "status": "DONE"
+      },
+      {
+        "id": "463",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-19T18:38:37.814Z",
+        "amount": 13.28,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

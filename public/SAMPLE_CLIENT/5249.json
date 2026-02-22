@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T20:01:24.378Z",
+  "id": "5909",
+  "amount": 45.66,
+  "invoiceId": "13468",
+  "paidToMerchant": false,
+  "identifierNumber": 5249,
+  "billingDate": "2022-12-29T20:01:24.378Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16564961",
+      "fullName": "DESIREE JULIA DUARTE DIAZ",
+      "phoneNumber": "+584241335868"
+    },
+    "installments": [
+      {
+        "id": "20381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:01:33.255Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "20378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:01:33.256Z",
+        "amount": 22.83,
+        "status": "DONE"
+      },
+      {
+        "id": "20380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:01:33.255Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "20379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:01:33.255Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

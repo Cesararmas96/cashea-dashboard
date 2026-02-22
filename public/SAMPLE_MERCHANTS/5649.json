@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-09T00:52:14.493Z",
+  "updatedAt": "2025-05-13T14:33:04.029Z",
+  "id": 5649,
+  "name": "El Verano Market",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "6ead21a7-0a87-4708-9016-9b2bba548f3f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "sjmarielisferrer@gmail.com",
+    "legalName": "Marielis Ferrer",
+    "phoneNumber": "04248477674"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T00:57:48.126Z",
+      "updatedAt": "2025-05-09T00:57:48.126Z",
+      "id": 13852,
+      "merchantId": 5649,
+      "name": "El Verano Market Calle El Poligono Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 839,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6305,
+      "address": {
+        "name": "El Verano Market Calle El Poligono Margarita ",
+        "long": -63.8528125,
+        "lat": 10.97856250000001,
+        "location": "0101000020E61000005C8FC2F528ED4FC0202FDD2406F52540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T23:29:46.501Z",
+      "updatedAt": "2025-05-09T23:29:46.501Z",
+      "id": 13924,
+      "merchantId": 5649,
+      "name": "VR_El Verano Market",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 839,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6305,
+      "address": {
+        "name": "El Verano Market Calle El Poligono Margarita ",
+        "long": -63.8528125,
+        "lat": 10.97856250000001,
+        "location": "0101000020E61000005C8FC2F528ED4FC0202FDD2406F52540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

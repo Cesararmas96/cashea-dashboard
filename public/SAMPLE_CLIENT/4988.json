@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:51:27.470Z",
+  "id": "4629",
+  "amount": 65.53,
+  "invoiceId": "49256",
+  "paidToMerchant": false,
+  "identifierNumber": 4988,
+  "billingDate": "2022-12-24T16:51:27.470Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-24T04:00:01.287+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "15800",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13586604",
+      "fullName": "ANDRES ANTONIO ANEZ VICENTINI",
+      "phoneNumber": "+584122600052"
+    },
+    "installments": [
+      {
+        "id": "15801",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:51:54.415Z",
+        "amount": 10.92,
+        "status": "DONE"
+      },
+      {
+        "id": "15798",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:51:54.416Z",
+        "amount": 32.77,
+        "status": "DONE"
+      },
+      {
+        "id": "15799",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:51:54.415Z",
+        "amount": 10.92,
+        "status": "DONE"
+      },
+      {
+        "id": "15800",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:51:54.415Z",
+        "amount": 10.92,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

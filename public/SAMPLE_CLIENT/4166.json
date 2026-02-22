@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T01:13:33.032Z",
+  "id": "3819",
+  "amount": 66.33,
+  "invoiceId": "49050",
+  "paidToMerchant": false,
+  "identifierNumber": 4166,
+  "billingDate": "2022-12-23T01:13:33.032Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-08T04:00:00.886+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "12851",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11021162",
+      "fullName": "DEYSI LISBETH CHUELLO RAMIREZ",
+      "phoneNumber": "+584140170513"
+    },
+    "installments": [
+      {
+        "id": "12851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:14:42.171Z",
+        "amount": 11.056666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:14:42.171Z",
+        "amount": 11.056666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:14:42.171Z",
+        "amount": 11.056666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:14:42.171Z",
+        "amount": 33.16,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

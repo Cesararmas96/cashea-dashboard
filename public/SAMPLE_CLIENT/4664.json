@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T23:47:05.404Z",
+  "id": "10114",
+  "amount": 31.12,
+  "invoiceId": "45983",
+  "paidToMerchant": false,
+  "identifierNumber": 4664,
+  "billingDate": "2023-01-17T23:47:05.404Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13621960",
+      "fullName": "NOLBIS DEL CARMEN SILVA REVERON",
+      "phoneNumber": "+584142651979"
+    },
+    "installments": [
+      {
+        "id": "30277",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T23:47:45.961Z",
+        "amount": 5.1866666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "30274",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T23:47:45.962Z",
+        "amount": 15.56,
+        "status": "DONE"
+      },
+      {
+        "id": "30275",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T23:47:45.961Z",
+        "amount": 5.1866666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "30276",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T23:47:45.961Z",
+        "amount": 5.1866666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

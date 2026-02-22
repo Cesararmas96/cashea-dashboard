@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:07:02.416Z",
+  "id": "3696",
+  "amount": 85.5,
+  "invoiceId": "14872",
+  "paidToMerchant": false,
+  "identifierNumber": 4084,
+  "billingDate": "2022-12-22T23:07:02.416Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15664271",
+      "fullName": "NATHALIE VERONICA PIUNNO BRICENO",
+      "phoneNumber": "+584141783911"
+    },
+    "installments": [
+      {
+        "id": "12394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:07:22.236Z",
+        "amount": 42.75,
+        "status": "DONE"
+      },
+      {
+        "id": "12397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:07:22.236Z",
+        "amount": 14.25,
+        "status": "DONE"
+      },
+      {
+        "id": "12396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:07:22.236Z",
+        "amount": 14.25,
+        "status": "DONE"
+      },
+      {
+        "id": "12395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:07:22.236Z",
+        "amount": 14.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

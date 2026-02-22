@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:54:48.988Z",
+  "id": "2035",
+  "amount": 69.87,
+  "invoiceId": "00017795",
+  "paidToMerchant": false,
+  "identifierNumber": 2534,
+  "billingDate": "2022-12-17T20:54:48.988Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23592332",
+      "fullName": "ARTURO ALEJANDRO GUZMAN BRAZON",
+      "phoneNumber": "+584140930941"
+    },
+    "installments": [
+      {
+        "id": "6585",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:55:09.714Z",
+        "amount": 11.643333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "6583",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:55:09.714Z",
+        "amount": 11.643333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "6584",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:55:09.714Z",
+        "amount": 11.643333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "6582",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:55:09.715Z",
+        "amount": 34.94,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

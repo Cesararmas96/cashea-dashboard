@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:33:52.170Z",
+  "id": "4417",
+  "amount": 48.99,
+  "invoiceId": "1803",
+  "paidToMerchant": false,
+  "identifierNumber": 4751,
+  "billingDate": "2022-12-24T00:33:52.170Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11308365",
+      "fullName": "JOSE GREGORIO MESSINA PADILLA",
+      "phoneNumber": "+584142313360"
+    },
+    "installments": [
+      {
+        "id": "15014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:34:50.572Z",
+        "amount": 24.5,
+        "status": "DONE"
+      },
+      {
+        "id": "15017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:34:50.572Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:34:50.572Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:34:50.572Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

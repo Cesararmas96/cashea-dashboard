@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:34:06.069Z",
+  "id": "5614",
+  "amount": 56,
+  "invoiceId": "959",
+  "paidToMerchant": false,
+  "identifierNumber": 5872,
+  "billingDate": "2022-12-28T22:34:06.069Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26925193",
+      "fullName": "ANTHONY RAUL FARFAN BASTIDAS",
+      "phoneNumber": "+584124732247"
+    },
+    "installments": [
+      {
+        "id": "19306",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:36:45.441Z",
+        "amount": 28,
+        "status": "DONE"
+      },
+      {
+        "id": "19309",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:36:45.440Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19308",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:36:45.440Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19307",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:36:45.440Z",
+        "amount": 9.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

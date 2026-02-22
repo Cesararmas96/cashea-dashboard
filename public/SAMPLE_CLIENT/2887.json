@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:49:47.315Z",
+  "id": "2363",
+  "amount": 174.33,
+  "invoiceId": "48699",
+  "paidToMerchant": false,
+  "identifierNumber": 2887,
+  "billingDate": "2022-12-18T22:49:47.315Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12401404",
+      "fullName": "LUIS ENRIQUE RANGEL MATA",
+      "phoneNumber": "+584141359082"
+    },
+    "installments": [
+      {
+        "id": "7766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:50:13.699Z",
+        "amount": 87.17,
+        "status": "DONE"
+      },
+      {
+        "id": "7767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:50:13.699Z",
+        "amount": 29.053333333333338,
+        "status": "DONE"
+      },
+      {
+        "id": "7768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:50:13.699Z",
+        "amount": 29.053333333333338,
+        "status": "DONE"
+      },
+      {
+        "id": "7769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:50:13.699Z",
+        "amount": 29.053333333333338,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

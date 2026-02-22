@@ -1,0 +1,69 @@
+{
+  "createdAt": "2023-01-13T19:59:56.479Z",
+  "id": "8173",
+  "amount": 64.9948,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2438,
+  "billingDate": "2023-01-13T19:59:56.479Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": null,
+    "buyDebtDate": "2023-01-30T04:00:01.337+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "28447",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": null,
+    "installments": [
+      {
+        "id": "28449",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-24T19:59:56.523Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "28446",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-13T19:59:56.523Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "28448",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-10T19:59:56.523Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "28447",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-27T19:59:56.523Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 152,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

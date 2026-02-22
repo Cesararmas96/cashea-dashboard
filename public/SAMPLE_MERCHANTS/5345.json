@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-23T20:16:36.436Z",
+  "updatedAt": "2025-04-28T16:00:15.603Z",
+  "id": 5345,
+  "name": "Cazador de Modas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "b51f607f-2f2c-4940-a122-80483ab06578",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cazadordmodas@gmail.com",
+    "legalName": "Radi",
+    "phoneNumber": "4122111120"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T20:22:09.503Z",
+      "updatedAt": "2025-04-23T20:22:09.503Z",
+      "id": 13205,
+      "merchantId": 5345,
+      "name": "Cazador de Modas Av Baralt/CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5473,
+      "address": {
+        "name": "AV BARALT ESQUINA LA BOLSA A PEDRERA CC METROCENTER  NIVEL PB LOCAL 17/19 SECTOR CAPITOLIO CARACAS",
+        "long": -66.91043750000001,
+        "lat": 10.505187499999991,
+        "location": "0101000020E610000055E3A59B44BA50C028B29DEFA7022540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 4,
+      "name": "SPLIT_9",
+      "data": {
+        "minimumLevel": 5,
+        "installmentsAmount": 10,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 9 cuotas"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

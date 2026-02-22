@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T14:21:04.597Z",
+  "id": "4528",
+  "amount": 55,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4885,
+  "billingDate": "2022-12-24T14:21:04.597Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24802081",
+      "fullName": "LUIS ARTURO CARRENO BAUTE",
+      "phoneNumber": "+584129643091"
+    },
+    "installments": [
+      {
+        "id": "15440",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T14:21:26.008Z",
+        "amount": 9.166666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15441",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T14:21:26.008Z",
+        "amount": 9.166666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15439",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T14:21:26.008Z",
+        "amount": 9.166666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15438",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T14:21:26.008Z",
+        "amount": 27.5,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

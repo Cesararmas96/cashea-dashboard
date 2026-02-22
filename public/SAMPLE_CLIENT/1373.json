@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T21:23:06.009Z",
+  "id": "621",
+  "amount": 84.99,
+  "invoiceId": "7750",
+  "paidToMerchant": false,
+  "identifierNumber": 1373,
+  "billingDate": "2022-12-03T21:23:06.009Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12835108",
+      "fullName": "PATRICIA DEL CARMEN ARIAS GUTIERREZ",
+      "phoneNumber": "+584142491526"
+    },
+    "installments": [
+      {
+        "id": "1979",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T21:23:32.275Z",
+        "amount": 14.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "1980",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T21:23:32.275Z",
+        "amount": 14.166666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "1978",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T21:23:32.276Z",
+        "amount": 42.49,
+        "status": "DONE"
+      },
+      {
+        "id": "1981",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T21:23:32.275Z",
+        "amount": 14.166666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

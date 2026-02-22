@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1299,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501825726",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SPORT ONE 2022, C.A",
+    "internalBankHolder": "SPORT ONE 2022, C.A",
+    "account": "01910316162100161422",
+    "accountType": "Corriente",
+    "phoneNumber": "4146374459",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1297,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501825726",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SPORT ONE 2022, C.A",
+    "internalBankHolder": "SPORT ONE 2022, C.A",
+    "account": "01910316162100161422",
+    "accountType": "Corriente",
+    "phoneNumber": "4146374459",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1298,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501825726",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SPORT ONE 2022, C.A",
+    "internalBankHolder": "SPORT ONE 2022, C.A",
+    "account": "01910316162100161422",
+    "accountType": "Corriente",
+    "phoneNumber": "4146374459",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1300,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501825726",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SPORT ONE 2022, C.A",
+    "internalBankHolder": "SPORT ONE 2022, C.A",
+    "account": "01910316192300008216",
+    "accountType": "Custodia",
+    "phoneNumber": "4146374459",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

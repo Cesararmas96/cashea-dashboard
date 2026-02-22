@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T16:05:16.481Z",
+  "id": "2728",
+  "amount": 49.99,
+  "invoiceId": "00001600",
+  "paidToMerchant": false,
+  "identifierNumber": 3205,
+  "billingDate": "2022-12-20T16:05:16.481Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10628014",
+      "fullName": "GREISY JOSEFINA YEPEZ TREJO",
+      "phoneNumber": "+584142542396"
+    },
+    "installments": [
+      {
+        "id": "8993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T16:06:07.989Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "8990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T16:06:07.990Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "8992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T16:06:07.989Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "8991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T16:06:07.989Z",
+        "amount": 8.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

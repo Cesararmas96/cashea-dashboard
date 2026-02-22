@@ -1,0 +1,128 @@
+[
+  {
+    "id": 13590,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500746113",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHIC IMPORT 2021, C.A",
+    "internalBankHolder": "CHIC IMPORT 2021, C.A",
+    "account": "01910052992152145111",
+    "accountType": "Corriente",
+    "phoneNumber": "4142661650",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 13588,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500746113",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHIC IMPORT 2021, C.A",
+    "internalBankHolder": "CHIC IMPORT 2021, C.A",
+    "account": "01910052992152145111",
+    "accountType": "Corriente",
+    "phoneNumber": "4142661650",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 13589,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500746113",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHIC IMPORT 2021, C.A",
+    "internalBankHolder": "CHIC IMPORT 2021, C.A",
+    "account": "01910052992152145111",
+    "accountType": "Corriente",
+    "phoneNumber": "4142661650",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 13591,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500746113",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHIC IMPORT 2021, C.A",
+    "internalBankHolder": "CHIC IMPORT 2021, C.A",
+    "account": "01910052982352066783",
+    "accountType": "Custodia",
+    "phoneNumber": "4142661650",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

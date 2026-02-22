@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-08T18:05:28.739Z",
+  "updatedAt": "2025-08-24T20:13:16.731Z",
+  "id": 5639,
+  "name": "Coop Rx Dental Odontologia",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9ab6327a-4584-471a-8271-d0616645ec5c",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Coop.dental.ve@gmail.com",
+    "legalName": "Oriana Orta",
+    "phoneNumber": "04245581797"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-28T16:25:26.051Z",
+      "updatedAt": "2025-05-28T16:25:26.051Z",
+      "id": 14869,
+      "merchantId": 5639,
+      "name": "VR_Coop Rx Dental Odontologia Av 30 Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4099,
+      "address": {
+        "name": "Coop Rx Dental Odontologia Av 30 Acarigua",
+        "long": -69.21043750000001,
+        "lat": 9.559687499999995,
+        "location": "0101000020E61000008816D9CE774D51C0C0F5285C8F1E2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-02-07T13:35:14.143Z",
+      "updatedAt": "2025-02-07T13:35:14.143Z",
+      "id": 10525,
+      "merchantId": 5639,
+      "name": "Coop Rx Dental Odontologia Av 30 Acarigua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4099,
+      "address": {
+        "name": "Coop Rx Dental Odontologia Av 30 Acarigua",
+        "long": -69.21043750000001,
+        "lat": 9.559687499999995,
+        "location": "0101000020E61000008816D9CE774D51C0C0F5285C8F1E2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

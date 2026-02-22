@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-22T15:07:54.788Z",
+  "id": "3405",
+  "amount": 61.8,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3806,
+  "billingDate": "2022-12-22T15:07:54.788Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 37,
+    "name": "ProPlayer IPSFA/CC Los Proceres"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

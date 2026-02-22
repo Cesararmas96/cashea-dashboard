@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:28:20.039Z",
+  "id": "4817",
+  "amount": 50.94,
+  "invoiceId": "00013432",
+  "paidToMerchant": false,
+  "identifierNumber": 5085,
+  "billingDate": "2022-12-24T19:28:20.039Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20088383",
+      "fullName": "SAUL ALEXANDER PINANGO FERNANDEZ",
+      "phoneNumber": "+584241388667"
+    },
+    "installments": [
+      {
+        "id": "16501",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:28:57.080Z",
+        "amount": 8.49,
+        "status": "DONE"
+      },
+      {
+        "id": "16498",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:28:57.080Z",
+        "amount": 25.47,
+        "status": "DONE"
+      },
+      {
+        "id": "16499",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:28:57.080Z",
+        "amount": 8.49,
+        "status": "DONE"
+      },
+      {
+        "id": "16500",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:28:57.080Z",
+        "amount": 8.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

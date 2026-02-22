@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-16T19:35:26.734Z",
+  "updatedAt": "2025-05-09T16:12:57.746Z",
+  "id": 5273,
+  "name": "COMO EN ITALIA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "03204baa-4874-43eb-b6f6-f50fc719e760",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "comoenitalia1@gmail.com",
+    "legalName": "Gustavo Vieira",
+    "phoneNumber": "4124419932"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T13:46:56.485Z",
+      "updatedAt": "2025-05-15T13:46:56.485Z",
+      "id": 14161,
+      "merchantId": 5273,
+      "name": "VR_COMO EN ITALIA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5922,
+      "address": {
+        "name": "BARUTA URB SANTA FE, SANTA FE NORTE C.C SANTA FE NIVEL ALAMEDA C2",
+        "long": -66.87156250000001,
+        "lat": 10.465937499999995,
+        "location": "0101000020E6100000E27A14AEC7B750C0C0F5285C8FEE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-16T19:37:05.385Z",
+      "updatedAt": "2025-04-16T19:37:05.385Z",
+      "id": 13059,
+      "merchantId": 5273,
+      "name": "COMO EN ITALIA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5922,
+      "address": {
+        "name": "BARUTA URB SANTA FE, SANTA FE NORTE C.C SANTA FE NIVEL ALAMEDA C2",
+        "long": -66.87156250000001,
+        "lat": 10.465937499999995,
+        "location": "0101000020E6100000E27A14AEC7B750C0C0F5285C8FEE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

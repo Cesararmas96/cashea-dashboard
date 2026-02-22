@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T17:34:46.313Z",
+  "id": "5210",
+  "amount": 60.56,
+  "invoiceId": "44694",
+  "paidToMerchant": false,
+  "identifierNumber": 5487,
+  "billingDate": "2022-12-27T17:34:46.313Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10501614",
+      "fullName": "ADRIANA DURAN LUGO",
+      "phoneNumber": "+584127594914"
+    },
+    "installments": [
+      {
+        "id": "17850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T17:35:19.566Z",
+        "amount": 30.28,
+        "status": "DONE"
+      },
+      {
+        "id": "17853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T17:35:19.566Z",
+        "amount": 10.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T17:35:19.566Z",
+        "amount": 10.093333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T17:35:19.566Z",
+        "amount": 10.093333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

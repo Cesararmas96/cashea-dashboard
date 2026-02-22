@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-13T19:35:37.338Z",
+  "id": "371",
+  "amount": 215,
+  "invoiceId": "10112",
+  "paidToMerchant": false,
+  "identifierNumber": 1388,
+  "billingDate": "2022-11-13T19:35:37.338Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2022-12-29T04:00:00.546+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": 1134,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17301706",
+      "fullName": "MAIDOLI JOSEFINA OSORIO MOLINA",
+      "phoneNumber": "+584241473308"
+    },
+    "installments": [
+      {
+        "id": "1136",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-25T19:36:30.599Z",
+        "amount": 33.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "1135",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-11T19:36:30.599Z",
+        "amount": 33.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "1133",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-13T19:36:30.599Z",
+        "amount": 115,
+        "status": "DONE"
+      },
+      {
+        "id": "1134",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-27T19:36:30.599Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 848,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J310670471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LEO S OPTICA LF II,C.A.",
+    "internalBankHolder": "LEO S OPTICA LF II,C.A.",
+    "account": "01910276962100030638",
+    "accountType": "Corriente",
+    "phoneNumber": "4241862243",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 846,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J310670471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LEO S OPTICA LF II,C.A.",
+    "internalBankHolder": "LEO S OPTICA LF II,C.A.",
+    "account": "01910276962100030638",
+    "accountType": "Corriente",
+    "phoneNumber": "4241862243",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 847,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J310670471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LEO S OPTICA LF II,C.A.",
+    "internalBankHolder": "LEO S OPTICA LF II,C.A.",
+    "account": "01910276962100030638",
+    "accountType": "Corriente",
+    "phoneNumber": "4241862243",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 849,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J310670471",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LEO S OPTICA LF II,C.A.",
+    "internalBankHolder": "LEO S OPTICA LF II,C.A.",
+    "account": "01910276962300008231",
+    "accountType": "Custodia",
+    "phoneNumber": "4241862243",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

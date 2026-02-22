@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:31:33.494Z",
+  "id": "4100",
+  "amount": 146.09,
+  "invoiceId": "44899",
+  "paidToMerchant": false,
+  "identifierNumber": 4513,
+  "billingDate": "2022-12-23T20:31:33.494Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "75",
+    "buyDebtDate": "2023-02-06T04:00:00.961+00:00",
+    "lastStoreId": 62,
+    "boughtForInstallmentId": "13877",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19507959",
+      "fullName": "EGLIS CAROLINA LOZANO RODRIGUEZ",
+      "phoneNumber": "+584123393658"
+    },
+    "installments": [
+      {
+        "id": "13877",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:34:22.360Z",
+        "amount": 24.346666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13874",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:34:22.360Z",
+        "amount": 73.05,
+        "status": "DONE"
+      },
+      {
+        "id": "13876",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:34:22.360Z",
+        "amount": 24.346666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13875",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:34:22.360Z",
+        "amount": 24.346666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

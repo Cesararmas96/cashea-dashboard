@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T17:54:01.566Z",
+  "id": "5825",
+  "amount": 55.22,
+  "invoiceId": "13965",
+  "paidToMerchant": false,
+  "identifierNumber": 1443,
+  "billingDate": "2022-12-29T17:54:01.566Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13716423",
+      "fullName": "MARIA LORENA VERA VERA",
+      "phoneNumber": "+584142389589"
+    },
+    "installments": [
+      {
+        "id": "20102",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T18:01:41.091Z",
+        "amount": 27.61,
+        "status": "DONE"
+      },
+      {
+        "id": "20105",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T18:01:41.091Z",
+        "amount": 9.203333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20104",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T18:01:41.091Z",
+        "amount": 9.203333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20103",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T18:01:41.091Z",
+        "amount": 9.203333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-01T22:43:04.224Z",
+  "id": "11761",
+  "amount": 55.796,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2067,
+  "billingDate": "2023-02-01T22:43:04.224Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27429495",
+      "fullName": "DANIELA ELOISA MACHADO CAPDEVIELLE",
+      "phoneNumber": "+584124012023"
+    },
+    "installments": [
+      {
+        "id": "36178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-01T22:43:04.279Z",
+        "amount": 27.9,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-15T22:43:04.278Z",
+        "amount": 9.298666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-15T22:43:04.278Z",
+        "amount": 9.298666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-01T22:43:04.278Z",
+        "amount": 9.298666666666668,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 121,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 6148,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

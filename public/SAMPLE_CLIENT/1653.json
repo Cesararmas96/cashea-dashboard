@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:12:26.754Z",
+  "id": "1284",
+  "amount": 31.5,
+  "invoiceId": "5763",
+  "paidToMerchant": false,
+  "identifierNumber": 1653,
+  "billingDate": "2022-12-11T23:12:26.754Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11900201",
+      "fullName": "SIRIANA DOREIBY CHACON RODRIGUEZ",
+      "phoneNumber": "+584141469051"
+    },
+    "installments": [
+      {
+        "id": "4130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:13:39.383Z",
+        "amount": 15.75,
+        "status": "DONE"
+      },
+      {
+        "id": "4133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:13:39.383Z",
+        "amount": 5.25,
+        "status": "DONE"
+      },
+      {
+        "id": "4132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:13:39.383Z",
+        "amount": 5.25,
+        "status": "DONE"
+      },
+      {
+        "id": "4131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:13:39.383Z",
+        "amount": 5.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

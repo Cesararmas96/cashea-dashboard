@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-12T22:20:35.957Z",
+  "id": "1333",
+  "amount": 37.88,
+  "invoiceId": "00001475",
+  "paidToMerchant": false,
+  "identifierNumber": 1666,
+  "billingDate": "2022-12-12T22:20:35.957Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-15T04:00:00.564+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": 4292,
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23186409",
+      "fullName": "YOLEISIS CAROLINA CONTRERAS",
+      "phoneNumber": "+584141308685"
+    },
+    "installments": [
+      {
+        "id": "4290",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T22:20:55.196Z",
+        "amount": 18.94,
+        "status": "DONE"
+      },
+      {
+        "id": "4293",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T22:20:55.195Z",
+        "amount": 6.3133333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "4292",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T22:20:55.195Z",
+        "amount": 6.3133333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "4291",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T22:20:55.195Z",
+        "amount": 6.3133333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

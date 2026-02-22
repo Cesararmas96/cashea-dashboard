@@ -1,0 +1,23 @@
+{
+  "createdAt": "2023-01-02T15:08:03.407Z",
+  "id": "7175",
+  "amount": 210,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1355,
+  "billingDate": "2023-01-02T15:08:03.407Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T23:08:48.853Z",
+  "id": "636",
+  "amount": 169.95,
+  "invoiceId": "784038",
+  "paidToMerchant": false,
+  "identifierNumber": 1365,
+  "billingDate": "2022-12-03T23:08:48.853Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10975514",
+      "fullName": "NADELYS MARGARITA MARTINEZ VALERA",
+      "phoneNumber": "+584142394873"
+    },
+    "installments": [
+      {
+        "id": "2037",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T23:09:17.743Z",
+        "amount": 28.326666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "2034",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T23:09:17.743Z",
+        "amount": 84.97,
+        "status": "DONE"
+      },
+      {
+        "id": "2036",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T23:09:17.743Z",
+        "amount": 28.326666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "2035",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T23:09:17.743Z",
+        "amount": 28.326666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-31T22:23:08.177Z",
+  "id": "7161",
+  "amount": 76.23,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1312,
+  "billingDate": "2022-12-31T22:23:08.177Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27796794",
+      "fullName": "VICTOR ELI SORIA VEGAS",
+      "phoneNumber": "+584123980895"
+    },
+    "installments": [
+      {
+        "id": "24817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T22:23:41.920Z",
+        "amount": 12.703333333333335,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "24814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T22:23:41.921Z",
+        "amount": 38.12,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "24815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T22:23:41.920Z",
+        "amount": 12.703333333333335,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "24816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T22:23:41.920Z",
+        "amount": 12.703333333333335,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

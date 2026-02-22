@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:08:33.057Z",
+  "id": "2664",
+  "amount": 41.19,
+  "invoiceId": "784780",
+  "paidToMerchant": false,
+  "identifierNumber": 3139,
+  "billingDate": "2022-12-20T00:08:33.057Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "8238432",
+      "fullName": "JOSE GREGORIO CARVAJAL PEREZ",
+      "phoneNumber": "+584241306498"
+    },
+    "installments": [
+      {
+        "id": "8747",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:08:49.082Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8746",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:08:49.083Z",
+        "amount": 20.59,
+        "status": "DONE"
+      },
+      {
+        "id": "8749",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:08:49.082Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8748",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:08:49.082Z",
+        "amount": 6.866666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

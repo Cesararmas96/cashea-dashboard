@@ -1,0 +1,23 @@
+{
+  "createdAt": "2023-01-30T23:28:51.734Z",
+  "id": "11549",
+  "amount": 230,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3673,
+  "billingDate": "2023-01-30T23:28:51.734Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

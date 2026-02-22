@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-09T16:14:46.378Z",
+  "updatedAt": "2025-04-09T16:14:46.378Z",
+  "id": 5148,
+  "name": "Bodegón Camuri Mar",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9e3e704b-b074-4b0e-a5f8-c4074376f63f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "bodegoncamurim@gmail.com",
+    "legalName": "gina abrantes",
+    "phoneNumber": "4120358615"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-09T16:28:50.567Z",
+      "updatedAt": "2025-04-09T16:28:50.567Z",
+      "id": 12757,
+      "merchantId": 5148,
+      "name": "Bodegón Camuri Mar La Guaira",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3827,
+      "address": {
+        "name": "CALLE LOS JIMENEZ LOCAL NRO S/N SECTOR CAMURI GRANDE LA GUAIRA ZONA POSTAL 1160",
+        "long": -66.71418750000001,
+        "lat": 10.620062499999989,
+        "location": "0101000020E610000092ED7C3FB5AD50C0B0F3FDD4783D2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

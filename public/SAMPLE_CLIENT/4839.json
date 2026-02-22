@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T02:37:18.439Z",
+  "id": "4510",
+  "amount": 97.59,
+  "invoiceId": "13825",
+  "paidToMerchant": false,
+  "identifierNumber": 4839,
+  "billingDate": "2022-12-24T02:37:18.439Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22027748",
+      "fullName": "ELIEZER MANUEL MORILLO BENAVENTE",
+      "phoneNumber": "+584142856313"
+    },
+    "installments": [
+      {
+        "id": "15378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T02:37:53.263Z",
+        "amount": 48.8,
+        "status": "DONE"
+      },
+      {
+        "id": "15381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T02:37:53.263Z",
+        "amount": 16.263333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "15380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T02:37:53.263Z",
+        "amount": 16.263333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "15379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T02:37:53.263Z",
+        "amount": 16.263333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

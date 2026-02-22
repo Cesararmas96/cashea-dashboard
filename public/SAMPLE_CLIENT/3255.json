@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T18:57:30.893Z",
+  "id": "2780",
+  "amount": 58.95,
+  "invoiceId": "13791",
+  "paidToMerchant": false,
+  "identifierNumber": 3255,
+  "billingDate": "2022-12-20T18:57:30.893Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19720269",
+      "fullName": "DEIVIT ALEJANDRO LOPEZ LLOVERA",
+      "phoneNumber": "+584241857112"
+    },
+    "installments": [
+      {
+        "id": "9157",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T18:57:46.651Z",
+        "amount": 9.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9154",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T18:57:46.652Z",
+        "amount": 29.48,
+        "status": "DONE"
+      },
+      {
+        "id": "9156",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T18:57:46.651Z",
+        "amount": 9.823333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9155",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T18:57:46.651Z",
+        "amount": 9.823333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

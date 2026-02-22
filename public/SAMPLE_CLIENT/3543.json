@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:28:37.665Z",
+  "id": "3013",
+  "amount": 32.18,
+  "invoiceId": "14440",
+  "paidToMerchant": false,
+  "identifierNumber": 3543,
+  "billingDate": "2022-12-21T00:28:37.665Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25964956",
+      "fullName": "JEFFERSON ANTONIO NUNEZ VALENZUELA",
+      "phoneNumber": "+584125433634"
+    },
+    "installments": [
+      {
+        "id": "9953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:29:18.346Z",
+        "amount": 5.363333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:29:18.346Z",
+        "amount": 16.09,
+        "status": "DONE"
+      },
+      {
+        "id": "9952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:29:18.346Z",
+        "amount": 5.363333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:29:18.346Z",
+        "amount": 5.363333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

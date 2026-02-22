@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-14T15:36:15.882Z",
+  "updatedAt": "2025-05-23T22:10:03.733Z",
+  "id": 5762,
+  "name": "Italia Sport 8",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0aba1e6d-33c6-4be1-9ac6-3239f0f41733",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "universalcenter25@gmail.com",
+    "legalName": "Yancarlos",
+    "phoneNumber": "04267266003"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T15:40:29.048Z",
+      "updatedAt": "2025-05-14T15:40:29.048Z",
+      "id": 14115,
+      "merchantId": 5762,
+      "name": "Italia Sport 8 Calle Camejo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8092,
+      "address": {
+        "name": "CALLE CAMEJO A MEDIA CUADRA DE LA PLAZA DEL ESTUDIANTE ENTRE AVENIDA MARQUEZ DEL PUMAR Y RAFAEL MEDINA JIMENEZ",
+        "long": -66.94618750000001,
+        "lat": 10.513062500000004,
+        "location": "0101000020E6100000941804568EBC50C0A89BC420B0062540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Deporte",
+  "shipmentOptionsAvailable": []
+}

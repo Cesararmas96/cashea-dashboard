@@ -1,0 +1,74 @@
+[
+  {
+    "id": 304,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J503007575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Pachamama Trip",
+    "internalBankHolder": "Pachamama Trip",
+    "account": "01910098712198378100",
+    "accountType": "Corriente",
+    "phoneNumber": "4142800434",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 302,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J503007575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Pachamama Trip",
+    "internalBankHolder": "Pachamama Trip",
+    "account": "01910098712198378100",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 303,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J503007575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Pachamama Trip",
+    "internalBankHolder": "Pachamama Trip",
+    "account": "01910098712198378100",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 305,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J503007575",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Pachamama Trip",
+    "internalBankHolder": "Pachamama Trip",
+    "account": "01910098782398276008",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T22:37:23.539Z",
+  "id": "1264",
+  "amount": 119.97,
+  "invoiceId": "00000992",
+  "paidToMerchant": false,
+  "identifierNumber": 1909,
+  "billingDate": "2022-12-11T22:37:23.539Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6442275",
+      "fullName": "HENRY GREGORIO ZAPATA YRU",
+      "phoneNumber": "+584242049256"
+    },
+    "installments": [
+      {
+        "id": "4067",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T22:37:40.232Z",
+        "amount": 19.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4069",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T22:37:40.232Z",
+        "amount": 19.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4068",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T22:37:40.232Z",
+        "amount": 19.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "4066",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T22:37:40.233Z",
+        "amount": 59.98,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 750,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J410169621",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ORION 787, C.A.",
+    "internalBankHolder": "GRUPO ORION 787, C.A.",
+    "account": "01910098762198412371",
+    "accountType": "Corriente",
+    "phoneNumber": "4241887997",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 748,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J410169621",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ORION 787, C.A.",
+    "internalBankHolder": "GRUPO ORION 787, C.A.",
+    "account": "01910098762198412371",
+    "accountType": "Corriente",
+    "phoneNumber": "4241887997",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 749,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J410169621",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ORION 787, C.A.",
+    "internalBankHolder": "GRUPO ORION 787, C.A.",
+    "account": "01910098762198412371",
+    "accountType": "Corriente",
+    "phoneNumber": "4241887997",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 751,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J410169621",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ORION 787, C.A.",
+    "internalBankHolder": "GRUPO ORION 787, C.A.",
+    "account": "01910098712398118913",
+    "accountType": "Custodia",
+    "phoneNumber": "4241887997",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

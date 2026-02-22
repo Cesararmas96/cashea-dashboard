@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:02:12.555Z",
+  "id": "3313",
+  "amount": 50.19,
+  "invoiceId": "12715",
+  "paidToMerchant": false,
+  "identifierNumber": 3721,
+  "billingDate": "2022-12-22T00:02:12.555Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17348229",
+      "fullName": "DANIEL YORVERTHY CHAPARRO",
+      "phoneNumber": "+584129564538"
+    },
+    "installments": [
+      {
+        "id": "11026",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:02:26.762Z",
+        "amount": 25.09,
+        "status": "DONE"
+      },
+      {
+        "id": "11029",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:02:26.762Z",
+        "amount": 8.366666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "11028",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:02:26.762Z",
+        "amount": 8.366666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "11027",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:02:26.762Z",
+        "amount": 8.366666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

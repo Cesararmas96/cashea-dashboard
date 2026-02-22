@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T17:56:59.703Z",
+  "id": "4692",
+  "amount": 67.85,
+  "invoiceId": "7121",
+  "paidToMerchant": false,
+  "identifierNumber": 2116,
+  "billingDate": "2022-12-24T17:56:59.703Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-02-07T04:00:01.278+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "16057",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13535744",
+      "fullName": "ANNY PATRICIA CHINIBAS ADARRAGA",
+      "phoneNumber": "+584142051958"
+    },
+    "installments": [
+      {
+        "id": "16057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:58:31.934Z",
+        "amount": 11.309999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "16056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:58:31.934Z",
+        "amount": 11.309999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "16054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:58:31.935Z",
+        "amount": 33.92,
+        "status": "DONE"
+      },
+      {
+        "id": "16055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:58:31.934Z",
+        "amount": 11.309999999999997,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

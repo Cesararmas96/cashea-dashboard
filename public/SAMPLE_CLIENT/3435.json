@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:16:18.265Z",
+  "id": "2958",
+  "amount": 94.04,
+  "invoiceId": "00012963",
+  "paidToMerchant": false,
+  "identifierNumber": 3435,
+  "billingDate": "2022-12-20T23:16:18.265Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11201269",
+      "fullName": "DORYS COROMOTO JIMENEZ ZAMBRANO",
+      "phoneNumber": "+584129616956"
+    },
+    "installments": [
+      {
+        "id": "9762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:16:50.456Z",
+        "amount": 47.02,
+        "status": "DONE"
+      },
+      {
+        "id": "9765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:16:50.456Z",
+        "amount": 15.673333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:16:50.456Z",
+        "amount": 15.673333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:16:50.456Z",
+        "amount": 15.673333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

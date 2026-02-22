@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:24:38.487Z",
+  "id": "5458",
+  "amount": 41.94,
+  "invoiceId": "24945",
+  "paidToMerchant": false,
+  "identifierNumber": 5722,
+  "billingDate": "2022-12-28T18:24:38.487Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26902674",
+      "fullName": "KIMBERLY DEL VALLE MENESES RAMIREZ",
+      "phoneNumber": "+584123979233"
+    },
+    "installments": [
+      {
+        "id": "18754",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:24:59.262Z",
+        "amount": 20.97,
+        "status": "DONE"
+      },
+      {
+        "id": "18757",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:24:59.262Z",
+        "amount": 6.989999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "18756",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:24:59.262Z",
+        "amount": 6.989999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "18755",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:24:59.262Z",
+        "amount": 6.989999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

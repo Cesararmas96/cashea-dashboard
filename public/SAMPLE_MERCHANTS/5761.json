@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-14T15:35:23.676Z",
+  "updatedAt": "2025-05-22T14:15:37.510Z",
+  "id": 5761,
+  "name": "Pasito's",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d901bcae-631f-4591-87b2-60f6d174fe7f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "pasitosanaco@gmail.com",
+    "legalName": "Zaida",
+    "phoneNumber": "4148412818"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T15:40:31.651Z",
+      "updatedAt": "2025-05-14T15:40:31.651Z",
+      "id": 14116,
+      "merchantId": 5761,
+      "name": "Pasito's Anaco",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7224,
+      "address": {
+        "name": "CALLE SUCRE ENTRE AV MIRANDA Y CALL  MONAGAS LOCAL NRO 01 SECTOR CASCO CENTRAL ANACO ANZOATEGUI POSTAL 6003",
+        "long": -64.48043750000001,
+        "lat": 9.4320625,
+        "location": "0101000020E61000006991ED7CBF1E50C0F0A7C64B37DD2240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

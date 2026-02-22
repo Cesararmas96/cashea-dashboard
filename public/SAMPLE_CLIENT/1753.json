@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T22:47:16.686Z",
+  "id": "1121",
+  "amount": 108.09,
+  "invoiceId": "000165586",
+  "paidToMerchant": false,
+  "identifierNumber": 1753,
+  "billingDate": "2022-12-10T22:47:16.686Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16875164",
+      "fullName": "LUIS ALEJANDRO MEDINA",
+      "phoneNumber": "+584242651891"
+    },
+    "installments": [
+      {
+        "id": "3575",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T22:47:32.163Z",
+        "amount": 18.013333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "3577",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T22:47:32.163Z",
+        "amount": 18.013333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "3576",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T22:47:32.163Z",
+        "amount": 18.013333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "3574",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T22:47:32.166Z",
+        "amount": 54.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 28,
+    "name": "Zippy Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

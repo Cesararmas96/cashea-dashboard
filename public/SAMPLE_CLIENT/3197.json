@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-03T23:50:10.019Z",
+  "id": "645",
+  "amount": 160.48,
+  "invoiceId": "3924",
+  "paidToMerchant": false,
+  "identifierNumber": 3197,
+  "billingDate": "2022-12-03T23:50:10.019Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2022-12-18T04:00:00.537+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": 2067,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10094463",
+      "fullName": "CARMEN AIDEE PACHECO",
+      "phoneNumber": "+584143398650"
+    },
+    "installments": [
+      {
+        "id": "2069",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T23:52:11.417Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2067",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T23:52:11.417Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2066",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T23:52:11.417Z",
+        "amount": 80.48,
+        "status": "DONE"
+      },
+      {
+        "id": "2068",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T23:52:11.417Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

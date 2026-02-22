@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T16:46:23.340Z",
+  "id": "5411",
+  "amount": 55.78,
+  "invoiceId": "14554",
+  "paidToMerchant": false,
+  "identifierNumber": 5688,
+  "billingDate": "2022-12-28T16:46:23.340Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27160784",
+      "fullName": "RAMON ANTONIO ROMERO PERFECTO",
+      "phoneNumber": "+584123366538"
+    },
+    "installments": [
+      {
+        "id": "18590",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:47:55.559Z",
+        "amount": 27.89,
+        "status": "DONE"
+      },
+      {
+        "id": "18593",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:47:55.559Z",
+        "amount": 9.296666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18592",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:47:55.559Z",
+        "amount": 9.296666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18591",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:47:55.559Z",
+        "amount": 9.296666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

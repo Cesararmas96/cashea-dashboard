@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-14T23:48:01.708Z",
+  "updatedAt": "2025-05-14T23:48:01.708Z",
+  "id": 5776,
+  "name": "Selectos Shoes",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 51,
+  "tags": [],
+  "uuid": "d0e99b7a-eede-4bbd-8666-77c61465ea23",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "adrianafernandez@gruposelectos.com",
+    "legalName": "Adriana ",
+    "phoneNumber": "4147859088"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-05-09T21:29:53.757Z",
+      "updatedAt": "2024-05-09T21:29:53.757Z",
+      "id": 2260,
+      "merchantId": 5776,
+      "name": "Selectos Shoes Calle Fraternidad Con Igualdad Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 51,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7585,
+      "address": {
+        "name": "Selectos Shoes Calle Fraternidad Con Igualdad",
+        "long": -63.85068750000001,
+        "lat": 10.955812499999993,
+        "location": "0101000020E6100000DACEF753E3EC4FC04837894160E92540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

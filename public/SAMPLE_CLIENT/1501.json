@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T00:57:58.822Z",
+  "id": "748",
+  "amount": 57.98,
+  "invoiceId": "5187",
+  "paidToMerchant": false,
+  "identifierNumber": 1501,
+  "billingDate": "2022-12-06T00:57:58.822Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26089650",
+      "fullName": "ANGELO JOSE ORTEGANO MARTINEZ",
+      "phoneNumber": "+584140171037"
+    },
+    "installments": [
+      {
+        "id": "2434",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T00:58:32.510Z",
+        "amount": 28.99,
+        "status": "DONE"
+      },
+      {
+        "id": "2435",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T00:58:32.509Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "2436",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T00:58:32.509Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "2437",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T00:58:32.509Z",
+        "amount": 9.663333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

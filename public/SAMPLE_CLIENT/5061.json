@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:04:35.478Z",
+  "id": "4845",
+  "amount": 36.96,
+  "invoiceId": "50561",
+  "paidToMerchant": false,
+  "identifierNumber": 5061,
+  "billingDate": "2022-12-24T20:04:35.478Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14017272",
+      "fullName": "JONATHAN ANDRES CHACON GUTIERREZ",
+      "phoneNumber": "+584142871248"
+    },
+    "installments": [
+      {
+        "id": "16601",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:04:48.706Z",
+        "amount": 6.16,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16600",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:04:48.706Z",
+        "amount": 6.16,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16598",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:04:48.706Z",
+        "amount": 18.48,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16599",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:04:48.706Z",
+        "amount": 6.16,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

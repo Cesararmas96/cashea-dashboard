@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-25T16:45:55.592Z",
+  "id": "479",
+  "amount": 158,
+  "invoiceId": "40001492",
+  "paidToMerchant": false,
+  "identifierNumber": 2139,
+  "billingDate": "2022-11-25T16:45:55.592Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9968151",
+      "fullName": "PEDRO MIGUEL CORRAL GONZALEZ",
+      "phoneNumber": "+584142570707"
+    },
+    "installments": [
+      {
+        "id": "1482",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-25T16:46:29.319Z",
+        "amount": 79,
+        "status": "DONE"
+      },
+      {
+        "id": "1485",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-06T16:46:29.318Z",
+        "amount": 26.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "1484",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-23T16:46:29.318Z",
+        "amount": 26.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "1483",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-09T16:46:29.318Z",
+        "amount": 26.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

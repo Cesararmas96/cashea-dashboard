@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-15T14:15:47.322Z",
+  "updatedAt": "2025-08-20T19:29:45.829Z",
+  "id": 5235,
+  "name": "Chacao Dent",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": "clinicaysuministrosdentalesav@gmail.com",
+  "phoneNumber": "+584242457809",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "292a295f-d588-4e4d-924b-036a10755429",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "clinicaysuministrosdentalesav@gmail.com",
+    "legalName": "Ana",
+    "phoneNumber": "04120138686"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-18T17:59:45.207Z",
+      "updatedAt": "2025-08-20T20:53:05.274Z",
+      "id": 19391,
+      "merchantId": 5235,
+      "name": "Chacao Dent Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4208,
+      "address": {
+        "name": "Chacao, avenida Francisco de Miranda centro Perú torre A piso 8 oficina 84",
+        "long": -66.82875,
+        "lat": 10.491250000000008,
+        "location": "0101000020E6100000D7A3703D0AB550C0F051B81E85FB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-15T14:17:16.251Z",
+      "updatedAt": "2025-04-15T14:17:16.251Z",
+      "id": 12989,
+      "merchantId": 5235,
+      "name": "Chacao Dent Av Francisco De Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4208,
+      "address": {
+        "name": "Chacao, avenida Francisco de Miranda centro Perú torre A piso 8 oficina 84",
+        "long": -66.82875,
+        "lat": 10.491250000000008,
+        "location": "0101000020E6100000D7A3703D0AB550C0F051B81E85FB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-15T21:36:00.940Z",
+      "updatedAt": "2025-05-15T21:36:00.940Z",
+      "id": 14212,
+      "merchantId": 5235,
+      "name": "VR_Chacao Dent",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4208,
+      "address": {
+        "name": "Chacao, avenida Francisco de Miranda centro Perú torre A piso 8 oficina 84",
+        "long": -66.82875,
+        "lat": 10.491250000000008,
+        "location": "0101000020E6100000D7A3703D0AB550C0F051B81E85FB2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

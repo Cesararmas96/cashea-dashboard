@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-20T22:51:34.959Z",
+  "id": "445",
+  "amount": 123,
+  "invoiceId": "783501",
+  "paidToMerchant": false,
+  "identifierNumber": 1033,
+  "billingDate": "2022-11-20T22:51:34.959Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19885968",
+      "fullName": "JOHANDY MOISES HENRIQUEZ OVALLES",
+      "phoneNumber": "+584242472750"
+    },
+    "installments": [
+      {
+        "id": "1374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-20T22:51:48.445Z",
+        "amount": 61.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-01T22:51:48.444Z",
+        "amount": 20.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-18T22:51:48.444Z",
+        "amount": 20.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-04T22:51:48.444Z",
+        "amount": 20.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

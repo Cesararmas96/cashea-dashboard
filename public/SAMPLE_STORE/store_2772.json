@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1363,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J293627800",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR C.A.",
+    "internalBankHolder": "TODOHOGAR C.A.",
+    "account": "01340062820621047382",
+    "accountType": "Corriente",
+    "phoneNumber": "4123947533",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1361,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J293627800",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR C.A.",
+    "internalBankHolder": "TODOHOGAR C.A.",
+    "account": "01340062820621047382",
+    "accountType": "Corriente",
+    "phoneNumber": "4123947533",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1362,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J293627800",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR C.A.",
+    "internalBankHolder": "TODOHOGAR C.A.",
+    "account": "01340062820621047382",
+    "accountType": "Corriente",
+    "phoneNumber": "4123947533",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1364,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J293627800",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR C.A.",
+    "internalBankHolder": "TODOHOGAR C.A.",
+    "account": "01341736990001005000",
+    "accountType": "Custodia",
+    "phoneNumber": "4123947533",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

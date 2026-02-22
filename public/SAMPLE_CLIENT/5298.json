@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T19:55:03.004Z",
+  "id": "5905",
+  "amount": 36.5,
+  "invoiceId": "13467",
+  "paidToMerchant": false,
+  "identifierNumber": 5298,
+  "billingDate": "2022-12-29T19:55:03.004Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25869997",
+      "fullName": "CRISTOPHER VICENTE ORTIZ BORGES",
+      "phoneNumber": "+584126040318"
+    },
+    "installments": [
+      {
+        "id": "20358",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T19:55:17.708Z",
+        "amount": 18.25,
+        "status": "DONE"
+      },
+      {
+        "id": "20361",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T19:55:17.708Z",
+        "amount": 6.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20359",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T19:55:17.708Z",
+        "amount": 6.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20360",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T19:55:17.708Z",
+        "amount": 6.083333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 928,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J294843417",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "internalBankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "account": "01910098732198421758",
+    "accountType": "Corriente",
+    "phoneNumber": "4126464531",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 926,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J294843417",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "internalBankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "account": "01910098732198421758",
+    "accountType": "Corriente",
+    "phoneNumber": "4126464531",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 927,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J294843417",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "internalBankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "account": "01910098732198421758",
+    "accountType": "Corriente",
+    "phoneNumber": "4126464531",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 929,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J294843417",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "internalBankHolder": "ALMACENES ESPACIO Y DISEÑO 123, C.A",
+    "account": "01910098772398331498",
+    "accountType": "Custodia",
+    "phoneNumber": "4126464531",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

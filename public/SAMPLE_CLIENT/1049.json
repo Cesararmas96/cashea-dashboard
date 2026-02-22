@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-11-12T16:12:15.394Z",
+  "id": "361",
+  "amount": 50.000000000044,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1049,
+  "billingDate": "2022-11-12T16:12:15.394Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18359171",
+      "fullName": "PEDRO JULIO VALLENILLA SOSA",
+      "phoneNumber": "+5491133677807"
+    },
+    "installments": [
+      {
+        "id": "1100",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-24T16:12:15.440Z",
+        "amount": 8.333333333348,
+        "status": "DONE"
+      },
+      {
+        "id": "1099",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-10T16:12:15.440Z",
+        "amount": 8.333333333348,
+        "status": "DONE"
+      },
+      {
+        "id": "1098",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-26T16:12:15.440Z",
+        "amount": 8.333333333348,
+        "status": "DONE"
+      },
+      {
+        "id": "1097",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-12T16:12:15.441Z",
+        "amount": 25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 16,
+    "name": "Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 36,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

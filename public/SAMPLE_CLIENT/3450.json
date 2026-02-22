@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T23:53:23.830Z",
+  "id": "2986",
+  "amount": 80.5,
+  "invoiceId": "9163",
+  "paidToMerchant": false,
+  "identifierNumber": 3450,
+  "billingDate": "2022-12-20T23:53:23.830Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "52",
+    "buyDebtDate": "2023-02-03T04:00:01.184+00:00",
+    "lastStoreId": 38,
+    "boughtForInstallmentId": "9857",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19500341",
+      "fullName": "MARIA DE LOS ANGELES GONZALEZ INFANTE",
+      "phoneNumber": "+584242340272"
+    },
+    "installments": [
+      {
+        "id": "9857",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:54:22.641Z",
+        "amount": 9.796666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9854",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:54:22.641Z",
+        "amount": 51.11,
+        "status": "DONE"
+      },
+      {
+        "id": "9855",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:54:22.641Z",
+        "amount": 9.796666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9856",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:54:22.641Z",
+        "amount": 9.796666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

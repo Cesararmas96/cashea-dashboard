@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-15T14:35:32.896Z",
+  "updatedAt": "2025-04-15T18:45:00.495Z",
+  "id": 5238,
+  "name": "Kompras+58 tienda",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "60a6f78a-fd49-4af8-ac05-45982edc43b9",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "titoramirez76@gmail.com",
+    "legalName": "Tito felix",
+    "phoneNumber": "4141583065"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T14:36:32.480Z",
+      "updatedAt": "2025-04-15T14:36:32.480Z",
+      "id": 12993,
+      "merchantId": 5238,
+      "name": "Kompras+58 tienda Barinas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6383,
+      "address": {
+        "name": "Avenida adonay parra jimenez cc toscana plaza local 4",
+        "long": -70.2348125,
+        "lat": 8.60856249999999,
+        "location": "0101000020E61000004A0C022B078F51C0D824068195372140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T19:00:16.511Z",
+  "id": "1553",
+  "amount": 100,
+  "invoiceId": "784463",
+  "paidToMerchant": false,
+  "identifierNumber": 2162,
+  "billingDate": "2022-12-15T19:00:16.511Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28015372",
+      "fullName": "BRAYAN ALEXANDER MORENO GONCALVES",
+      "phoneNumber": "+584129170052"
+    },
+    "installments": [
+      {
+        "id": "5021",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T19:00:31.965Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5018",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T19:00:31.965Z",
+        "amount": 50,
+        "status": "DONE"
+      },
+      {
+        "id": "5019",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T19:00:31.965Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "5020",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T19:00:31.965Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

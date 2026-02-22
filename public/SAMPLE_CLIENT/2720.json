@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-18T20:01:48.139Z",
+  "id": "2248",
+  "amount": 165.28,
+  "invoiceId": "6694",
+  "paidToMerchant": false,
+  "identifierNumber": 2720,
+  "billingDate": "2022-12-18T20:01:48.139Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-04T04:00:00.321+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "7363",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16457772",
+      "fullName": "MILEIDY VIZCAINO VIZCAINO",
+      "phoneNumber": "+584120753875"
+    },
+    "installments": [
+      {
+        "id": "7364",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T20:02:04.756Z",
+        "amount": 27.546666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "7365",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T20:02:04.756Z",
+        "amount": 27.546666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "7363",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T20:02:04.756Z",
+        "amount": 27.546666666666667,
+        "status": "DELAYED"
+      },
+      {
+        "id": "7362",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T20:02:04.756Z",
+        "amount": 82.64,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

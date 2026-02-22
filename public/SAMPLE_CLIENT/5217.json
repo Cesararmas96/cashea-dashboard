@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T23:15:13.802Z",
+  "id": "4974",
+  "amount": 52.76,
+  "invoiceId": "50582",
+  "paidToMerchant": false,
+  "identifierNumber": 5217,
+  "billingDate": "2022-12-24T23:15:13.802Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29536366",
+      "fullName": "GERMARI PATRICIA ZARRAGA DAVILA",
+      "phoneNumber": "+584143908031"
+    },
+    "installments": [
+      {
+        "id": "17056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T23:15:32.309Z",
+        "amount": 8.793333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T23:15:32.309Z",
+        "amount": 26.38,
+        "status": "DONE"
+      },
+      {
+        "id": "17057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T23:15:32.309Z",
+        "amount": 8.793333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T23:15:32.309Z",
+        "amount": 8.793333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-16T18:18:23.732Z",
+  "updatedAt": "2025-06-12T14:56:36.564Z",
+  "id": 5825,
+  "name": "Esmec",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "03589bb3-06a0-40c5-bf36-476e19dd93ae",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "esmec.caracas@gmail.com",
+    "legalName": "Vanessa Gomez",
+    "phoneNumber": "4143257003"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T17:29:56.946Z",
+      "updatedAt": "2025-06-18T17:29:56.946Z",
+      "id": 15919,
+      "merchantId": 5825,
+      "name": "VR_Esmec",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4863,
+      "address": {
+        "name": "Calle geminis con acuario centro comercial santa paula nivel 2 local 26",
+        "long": -66.8335625,
+        "lat": 10.4609375,
+        "location": "0101000020E6100000022B871659B550C00000000000EC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T18:19:42.665Z",
+      "updatedAt": "2025-05-16T18:19:42.665Z",
+      "id": 14252,
+      "merchantId": 5825,
+      "name": "Esmec CC Santa Paula",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4863,
+      "address": {
+        "name": "Calle geminis con acuario centro comercial santa paula nivel 2 local 26",
+        "long": -66.8335625,
+        "lat": 10.4609375,
+        "location": "0101000020E6100000022B871659B550C00000000000EC2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

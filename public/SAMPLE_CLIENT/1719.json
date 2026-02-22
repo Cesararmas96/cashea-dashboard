@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T23:44:34.477Z",
+  "id": "1028",
+  "amount": 42,
+  "invoiceId": "4509",
+  "paidToMerchant": false,
+  "identifierNumber": 1719,
+  "billingDate": "2022-12-09T23:44:34.477Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21150876",
+      "fullName": "CORINA VANESSA TRUJILLO GUDIÑO",
+      "phoneNumber": "+584127022495"
+    },
+    "installments": [
+      {
+        "id": "3265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T23:44:49.230Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "3262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T23:44:49.230Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "3263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T23:44:49.230Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "3264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T23:44:49.230Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

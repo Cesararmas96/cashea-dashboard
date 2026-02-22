@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-22T19:57:12.749Z",
+  "updatedAt": "2025-04-22T19:57:12.749Z",
+  "id": 5321,
+  "name": "Rio Vida Grill & Bar",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 494,
+  "tags": [],
+  "uuid": "f452ddcc-f9ac-436d-a57a-c859833664a1",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gerenciageneral@riovidasupermercados.com",
+    "legalName": "Yamileth Gimenez",
+    "phoneNumber": "04141196328"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-22T20:04:07.895Z",
+      "updatedAt": "2025-04-22T20:04:07.895Z",
+      "id": 13160,
+      "merchantId": 5321,
+      "name": "Rio Vida Grill & Bar Av Andrés Bello",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 494,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7810,
+      "address": {
+        "name": "Av. Andres Bello y Buenos Aires, Terreno y Casa Quinta San Bernardo, N°17. Urbanización Los Caobos, Distrito Capital",
+        "long": -66.88418750000001,
+        "lat": 10.503687499999998,
+        "location": "0101000020E61000000D022B8796B850C0D8CEF753E3012540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

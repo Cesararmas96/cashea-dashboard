@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:32:06.928Z",
+  "id": "4557",
+  "amount": 44.8,
+  "invoiceId": "00002170",
+  "paidToMerchant": false,
+  "identifierNumber": 4897,
+  "billingDate": "2022-12-24T15:32:06.928Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6970890",
+      "fullName": "EMILIA JOSEFINA IBARRA HERNANDEZ",
+      "phoneNumber": "+584123797254"
+    },
+    "installments": [
+      {
+        "id": "15548",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:32:49.320Z",
+        "amount": 7.466666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15546",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:32:49.321Z",
+        "amount": 22.4,
+        "status": "DONE"
+      },
+      {
+        "id": "15549",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:32:49.320Z",
+        "amount": 7.466666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15547",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:32:49.320Z",
+        "amount": 7.466666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

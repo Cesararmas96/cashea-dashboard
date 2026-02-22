@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-10T13:12:01.464Z",
+  "updatedAt": "2025-04-24T15:15:20.570Z",
+  "id": 5160,
+  "name": "Autorepuestos Japón",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5bd70ba9-4335-46a0-8367-082960e16ddd",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "autorepuestosjaponccs@gmail.com",
+    "legalName": "José",
+    "phoneNumber": "04122515790"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-04T19:47:15.383Z",
+      "updatedAt": "2025-09-04T19:47:15.383Z",
+      "id": 20641,
+      "merchantId": 5160,
+      "name": "VR_Autorepuestos Japón",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11281,
+      "address": {
+        "name": "Esquina de Mamey, entre calles Oeste 16 y Av Sur 4, Edif 158, PB, local 3, Urb Santa Teresa, Caracas,  Dtto Capital, Zona postal 1010",
+        "long": -66.9208125,
+        "lat": 10.4975625,
+        "location": "0101000020E6100000DF4F8D97EEBA50C0986E1283C0FE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-10T13:13:29.045Z",
+      "updatedAt": "2025-04-10T13:13:29.045Z",
+      "id": 12794,
+      "merchantId": 5160,
+      "name": "Autorepuestos Japón Caracas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11281,
+      "address": {
+        "name": "Esquina de Mamey, entre calles Oeste 16 y Av Sur 4, Edif 158, PB, local 3, Urb Santa Teresa, Caracas,  Dtto Capital, Zona postal 1010",
+        "long": -66.9208125,
+        "lat": 10.4975625,
+        "location": "0101000020E6100000DF4F8D97EEBA50C0986E1283C0FE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

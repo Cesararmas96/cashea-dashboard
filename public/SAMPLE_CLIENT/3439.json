@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:40:07.684Z",
+  "id": "2973",
+  "amount": 33.58,
+  "invoiceId": "8738",
+  "paidToMerchant": false,
+  "identifierNumber": 3439,
+  "billingDate": "2022-12-20T23:40:07.684Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25037852",
+      "fullName": "JHOJARBY RAFAEL HIDALGO COLMENARES",
+      "phoneNumber": "+584242499768"
+    },
+    "installments": [
+      {
+        "id": "9818",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:42:07.483Z",
+        "amount": 16.79,
+        "status": "DONE"
+      },
+      {
+        "id": "9820",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:42:07.482Z",
+        "amount": 5.596666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9821",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:42:07.482Z",
+        "amount": 5.596666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9819",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:42:07.482Z",
+        "amount": 5.596666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

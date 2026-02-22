@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-19T16:48:31.787Z",
+  "id": "121",
+  "amount": 45,
+  "invoiceId": "0000003",
+  "paidToMerchant": false,
+  "identifierNumber": 1227,
+  "billingDate": "2022-10-19T16:48:31.787Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25964033",
+      "fullName": "CRISTINA MOSQUERA OSTOS",
+      "phoneNumber": "+584127078075"
+    },
+    "installments": [
+      {
+        "id": "385",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-19T16:49:50.450Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "388",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-30T16:49:50.449Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "386",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-02T16:49:50.449Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "387",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-16T16:49:50.449Z",
+        "amount": 7.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

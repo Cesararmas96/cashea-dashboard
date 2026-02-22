@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T01:00:26.195Z",
+  "id": "2446",
+  "amount": 57.76,
+  "invoiceId": "6723",
+  "paidToMerchant": false,
+  "identifierNumber": 2934,
+  "billingDate": "2022-12-19T01:00:26.195Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12378908",
+      "fullName": "AMN YUSMERY RANGEL RODRIGUEZ",
+      "phoneNumber": "+584160102372"
+    },
+    "installments": [
+      {
+        "id": "8065",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T01:00:58.486Z",
+        "amount": 9.626666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8063",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T01:00:58.486Z",
+        "amount": 9.626666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8062",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T01:00:58.487Z",
+        "amount": 28.88,
+        "status": "DONE"
+      },
+      {
+        "id": "8064",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T01:00:58.486Z",
+        "amount": 9.626666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

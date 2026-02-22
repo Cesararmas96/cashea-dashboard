@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:44:56.409Z",
+  "id": "3476",
+  "amount": 70,
+  "invoiceId": "14254",
+  "paidToMerchant": false,
+  "identifierNumber": 3922,
+  "billingDate": "2022-12-22T18:44:56.409Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16411725",
+      "fullName": "DESIREE FABIOLA CATENACCI GARAICOECHEA",
+      "phoneNumber": "+584125616123"
+    },
+    "installments": [
+      {
+        "id": "11629",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:48:51.276Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11628",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:48:51.276Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11626",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:48:51.277Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "11627",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:48:51.276Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

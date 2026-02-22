@@ -1,0 +1,120 @@
+{
+  "createdAt": "2025-05-02T15:02:46.577Z",
+  "updatedAt": "2025-05-08T14:06:40.776Z",
+  "id": 5504,
+  "name": "PERSONE BOUTIQUE",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a75eb8f9-019f-4c86-a4ed-d25bdde50ee4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "tiendasleoni02@gmail.com",
+    "legalName": "JOSE LEONI",
+    "phoneNumber": "4143438726"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T15:05:27.392Z",
+      "updatedAt": "2025-05-02T15:05:27.392Z",
+      "id": 13529,
+      "merchantId": 5504,
+      "name": "PERSONE BOUTIQUE CC Las Americas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5988,
+      "address": {
+        "name": "Av las Delicias centro comercial las Américas nivel planta baja local 230",
+        "long": -67.5933125,
+        "lat": 10.25581249999999,
+        "location": "0101000020E6100000B6F3FDD4F8E550C0E0D022DBF9822440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-20T17:34:20.547Z",
+      "updatedAt": "2025-05-20T17:34:20.547Z",
+      "id": 14397,
+      "merchantId": 5504,
+      "name": "PERSONE BOUTIQUE CC Galeria Plaza Maracay",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": 0.2,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5988,
+      "address": {
+        "name": "AVENIDA BOLIVAR CENTRO COMERCIAL GALERÍAS PLAZA, NIVEL 1 LOCAL 112 Y 113",
+        "long": -67.6066875,
+        "lat": 10.252687499999993,
+        "location": "0101000020E610000017D9CEF7D3E650C04837894160812440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

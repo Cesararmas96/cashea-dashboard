@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T00:32:56.696Z",
+  "id": "2432",
+  "amount": 142.54,
+  "invoiceId": "6720",
+  "paidToMerchant": false,
+  "identifierNumber": 2938,
+  "billingDate": "2022-12-19T00:32:56.696Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15539085",
+      "fullName": "RICHARD HERNANDO WILCHES PRIETO",
+      "phoneNumber": "+584141638558"
+    },
+    "installments": [
+      {
+        "id": "8014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T00:35:53.068Z",
+        "amount": 71.27,
+        "status": "DONE"
+      },
+      {
+        "id": "8015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T00:35:53.068Z",
+        "amount": 23.756666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "8016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T00:35:53.068Z",
+        "amount": 23.756666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "8017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T00:35:53.068Z",
+        "amount": 23.756666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

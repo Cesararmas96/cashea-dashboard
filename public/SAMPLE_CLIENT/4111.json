@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T23:41:57.049Z",
+  "id": "3726",
+  "amount": 101.92,
+  "invoiceId": "12848",
+  "paidToMerchant": false,
+  "identifierNumber": 4111,
+  "billingDate": "2022-12-22T23:41:57.049Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-08T04:00:00.814+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "12507",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18245603",
+      "fullName": "ANGELO JOSE HERNANDEZ AUDIVET",
+      "phoneNumber": "+584122087591"
+    },
+    "installments": [
+      {
+        "id": "12509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:42:13.574Z",
+        "amount": 16.986666666666668,
+        "status": "DELAYED"
+      },
+      {
+        "id": "12508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:42:13.574Z",
+        "amount": 16.986666666666668,
+        "status": "DELAYED"
+      },
+      {
+        "id": "12507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:42:13.574Z",
+        "amount": 16.986666666666668,
+        "status": "DELAYED"
+      },
+      {
+        "id": "12506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:42:13.574Z",
+        "amount": 50.96,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

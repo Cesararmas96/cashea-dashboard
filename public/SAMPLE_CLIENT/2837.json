@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T22:04:10.592Z",
+  "id": "2327",
+  "amount": 45.49,
+  "invoiceId": "8563",
+  "paidToMerchant": false,
+  "identifierNumber": 2837,
+  "billingDate": "2022-12-18T22:04:10.592Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25367722",
+      "fullName": "MILENA ANDREINA FAJARDO RAMIREZ",
+      "phoneNumber": "+584242159466"
+    },
+    "installments": [
+      {
+        "id": "7654",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T22:06:52.978Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "7655",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T22:06:52.977Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "7657",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T22:06:52.977Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "7656",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T22:06:52.977Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

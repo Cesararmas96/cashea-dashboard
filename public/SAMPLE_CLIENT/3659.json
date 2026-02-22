@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:45:31.049Z",
+  "id": "3227",
+  "amount": 39.9,
+  "invoiceId": "9253",
+  "paidToMerchant": false,
+  "identifierNumber": 3659,
+  "billingDate": "2022-12-21T21:45:31.049Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14146904",
+      "fullName": "VICTOR MANUEL CARABALLO BAEZ",
+      "phoneNumber": "+584140837948"
+    },
+    "installments": [
+      {
+        "id": "10710",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:46:34.074Z",
+        "amount": 19.95,
+        "status": "DONE"
+      },
+      {
+        "id": "10713",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:46:34.074Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "10712",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:46:34.074Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "10711",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:46:34.074Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

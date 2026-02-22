@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:29:41.785Z",
+  "id": "3014",
+  "amount": 161.97,
+  "invoiceId": "26613",
+  "paidToMerchant": false,
+  "identifierNumber": 3531,
+  "billingDate": "2022-12-21T00:29:41.785Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16888026",
+      "fullName": "NOHELIA MARIANA FIGUEROA GONZALEZ",
+      "phoneNumber": "+584241087026"
+    },
+    "installments": [
+      {
+        "id": "9958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:30:15.718Z",
+        "amount": 80.98,
+        "status": "DONE"
+      },
+      {
+        "id": "9960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:30:15.718Z",
+        "amount": 26.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:30:15.718Z",
+        "amount": 26.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "9959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:30:15.718Z",
+        "amount": 26.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

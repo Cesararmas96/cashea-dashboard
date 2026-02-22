@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-15T13:26:32.368Z",
+  "updatedAt": "2025-05-19T13:37:02.692Z",
+  "id": 5780,
+  "name": "grupo ferretero paya",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "86733bba-a15f-460c-8591-331c31be1f9b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "grupoinversionistacastimar941@gmail.com",
+    "legalName": "jose miguel",
+    "phoneNumber": "04141259186"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T13:28:45.476Z",
+      "updatedAt": "2025-05-15T13:28:45.476Z",
+      "id": 14155,
+      "merchantId": 5780,
+      "name": "grupo ferretero paya Guarenas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5500,
+      "address": {
+        "name": "CALLE FRANCISCO RAFAEL GARCIA LOCAL 10 SECTOR VALLE VERDE GUARENAS ESTADO MIRANDA",
+        "long": -66.6181875,
+        "lat": 10.471687500000002,
+        "location": "0101000020E6100000F2D24D6290A750C030DD240681F12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-27T18:32:58.589Z",
+      "updatedAt": "2025-05-27T18:32:58.589Z",
+      "id": 14758,
+      "merchantId": 5780,
+      "name": "VR_grupo ferretero paya",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5500,
+      "address": {
+        "name": "CALLE FRANCISCO RAFAEL GARCIA LOCAL 10 SECTOR VALLE VERDE GUARENAS ESTADO MIRANDA",
+        "long": -66.6181875,
+        "lat": 10.471687500000002,
+        "location": "0101000020E6100000F2D24D6290A750C030DD240681F12440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T16:28:01.036Z",
+  "id": "2192",
+  "amount": 55.45,
+  "invoiceId": "8333",
+  "paidToMerchant": false,
+  "identifierNumber": 2703,
+  "billingDate": "2022-12-18T16:28:01.036Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "5886906",
+      "fullName": "ROSANNA ADELINA RINALDI SOTTOLANO",
+      "phoneNumber": "+584129032214"
+    },
+    "installments": [
+      {
+        "id": "7166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T16:29:31.912Z",
+        "amount": 27.73,
+        "status": "DONE"
+      },
+      {
+        "id": "7169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T16:29:31.912Z",
+        "amount": 9.24,
+        "status": "DONE"
+      },
+      {
+        "id": "7168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T16:29:31.912Z",
+        "amount": 9.24,
+        "status": "DONE"
+      },
+      {
+        "id": "7167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T16:29:31.912Z",
+        "amount": 9.24,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

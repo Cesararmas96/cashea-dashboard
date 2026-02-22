@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-28T22:33:07.655Z",
+  "id": "541",
+  "amount": 40,
+  "invoiceId": "6989",
+  "paidToMerchant": false,
+  "identifierNumber": 1034,
+  "billingDate": "2022-11-28T22:33:07.655Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20975643",
+      "fullName": "SAIDALIS ROXANA MEDINA GUEVARA",
+      "phoneNumber": "+584149236089"
+    },
+    "installments": [
+      {
+        "id": "1709",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-09T22:34:00.105Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1706",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-28T22:34:00.106Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "1707",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-12T22:34:00.105Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "1708",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-26T22:34:00.105Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

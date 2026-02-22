@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:37:20.637Z",
+  "id": "5666",
+  "amount": 36.06,
+  "invoiceId": "13949",
+  "paidToMerchant": false,
+  "identifierNumber": 5925,
+  "billingDate": "2022-12-28T23:37:20.637Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23662659",
+      "fullName": "YESITH ALFONSO ANAYA TORRES",
+      "phoneNumber": "+584141125120"
+    },
+    "installments": [
+      {
+        "id": "19510",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:39:35.413Z",
+        "amount": 18.03,
+        "status": "DONE"
+      },
+      {
+        "id": "19511",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:39:35.412Z",
+        "amount": 6.010000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "19513",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:39:35.412Z",
+        "amount": 6.010000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "19512",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:39:35.412Z",
+        "amount": 6.010000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

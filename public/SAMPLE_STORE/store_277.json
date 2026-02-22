@@ -1,0 +1,128 @@
+[
+  {
+    "id": 228,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501333220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "internalBankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "account": "01910098742198359821",
+    "accountType": "Corriente",
+    "phoneNumber": "4123384559",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 226,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501333220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "internalBankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "account": "01910098742198359821",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 227,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501333220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "internalBankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "account": "01910098742198359821",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 229,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501333220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "internalBankHolder": "INVERSIONES ACTITUD DEPORTIVA, C.A.",
+    "account": "01910098712398252474",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

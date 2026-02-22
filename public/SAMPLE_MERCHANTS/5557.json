@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-06T14:25:22.534Z",
+  "updatedAt": "2025-05-09T22:12:03.677Z",
+  "id": 5557,
+  "name": "Inversiones y Materiales Rofi",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "720f23f5-da25-4659-a4b0-a42e7a8fd902",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "imlacolmenaca@gmail.com",
+    "legalName": "JORGE LUIS",
+    "phoneNumber": "04244471923"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T14:32:21.035Z",
+      "updatedAt": "2025-05-06T14:32:21.035Z",
+      "id": 13630,
+      "merchantId": 5557,
+      "name": "Inversiones y Materiales Rofi Urb Las Corinas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6281,
+      "address": {
+        "name": "Av Principal entre entre Urb Las Corinas y Urb San Esteban Sector 601 Local Parcela Nro 002 Urb Las Corinas Puerto Cabello",
+        "long": -68.0043125,
+        "lat": 10.4555625,
+        "location": "0101000020E6100000B29DEFA7460051C06891ED7C3FE92440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

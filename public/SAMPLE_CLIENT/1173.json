@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-09T19:19:00.786Z",
+  "id": "94",
+  "amount": 178,
+  "invoiceId": "1197",
+  "paidToMerchant": false,
+  "identifierNumber": 1173,
+  "billingDate": "2022-10-09T19:19:00.786Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10166872",
+      "fullName": "RAMON ORLANDO ROSALES CUEVAS",
+      "phoneNumber": "+584122761252"
+    },
+    "installments": [
+      {
+        "id": "297",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-09T19:20:09.002Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "300",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-11-20T19:20:09.001Z",
+        "amount": 26,
+        "status": "DONE"
+      },
+      {
+        "id": "299",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-06T19:20:09.001Z",
+        "amount": 26,
+        "status": "DONE"
+      },
+      {
+        "id": "298",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-10-23T19:20:09.001Z",
+        "amount": 26,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

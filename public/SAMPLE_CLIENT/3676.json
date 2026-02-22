@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:11:13.250Z",
+  "id": "3244",
+  "amount": 118.45,
+  "invoiceId": "307442",
+  "paidToMerchant": false,
+  "identifierNumber": 3676,
+  "billingDate": "2022-12-21T22:11:13.250Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27756761",
+      "fullName": "HILARY DE LOS ANGELES CADENAS GARCIA",
+      "phoneNumber": "+584242642228"
+    },
+    "installments": [
+      {
+        "id": "10766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:11:41.165Z",
+        "amount": 59.23,
+        "status": "DONE"
+      },
+      {
+        "id": "10769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:11:41.165Z",
+        "amount": 19.740000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "10768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:11:41.165Z",
+        "amount": 19.740000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "10767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:11:41.165Z",
+        "amount": 19.740000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

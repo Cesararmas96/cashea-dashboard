@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1146,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J307128399",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PREVALER, C.A.",
+    "internalBankHolder": "PREVALER, C.A.",
+    "account": "01910076622176105621",
+    "accountType": "Corriente",
+    "phoneNumber": "4145946593",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1144,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J307128399",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PREVALER, C.A.",
+    "internalBankHolder": "PREVALER, C.A.",
+    "account": "01910076622176105621",
+    "accountType": "Corriente",
+    "phoneNumber": "4145946593",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1145,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J307128399",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PREVALER, C.A.",
+    "internalBankHolder": "PREVALER, C.A.",
+    "account": "01910076622176105621",
+    "accountType": "Corriente",
+    "phoneNumber": "4145946593",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1147,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J307128399",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PREVALER, C.A.",
+    "internalBankHolder": "PREVALER, C.A.",
+    "account": "01910076682376017027",
+    "accountType": "Custodia",
+    "phoneNumber": "4145946593",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

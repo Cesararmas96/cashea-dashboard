@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T18:22:01.817Z",
+  "id": "8549",
+  "amount": 220,
+  "invoiceId": "11072",
+  "paidToMerchant": false,
+  "identifierNumber": 3189,
+  "billingDate": "2023-01-16T18:22:01.817Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17718175",
+      "fullName": "FATIMA MARIA DE ASCENCAO MEDINA",
+      "phoneNumber": "+584242437878"
+    },
+    "installments": [
+      {
+        "id": "29849",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T18:22:56.605Z",
+        "amount": 36.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "29848",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T18:22:56.605Z",
+        "amount": 36.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "29846",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T18:22:56.606Z",
+        "amount": 110,
+        "status": "DONE"
+      },
+      {
+        "id": "29847",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T18:22:56.605Z",
+        "amount": 36.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

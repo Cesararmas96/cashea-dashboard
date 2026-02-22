@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-27T20:02:07.154Z",
+  "id": "525",
+  "amount": 89.25,
+  "invoiceId": "6957",
+  "paidToMerchant": false,
+  "identifierNumber": 1133,
+  "billingDate": "2022-11-27T20:02:07.154Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14583058",
+      "fullName": "JOHNNY AARON LINARES SEQUERA",
+      "phoneNumber": "+584129635136"
+    },
+    "installments": [
+      {
+        "id": "1650",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T20:02:41.408Z",
+        "amount": 44.63,
+        "status": "DONE"
+      },
+      {
+        "id": "1653",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T20:02:41.407Z",
+        "amount": 14.873333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1652",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T20:02:41.407Z",
+        "amount": 14.873333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1651",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T20:02:41.407Z",
+        "amount": 14.873333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

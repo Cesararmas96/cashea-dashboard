@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T14:33:28.400Z",
+  "id": "4532",
+  "amount": 39.57,
+  "invoiceId": "9099",
+  "paidToMerchant": false,
+  "identifierNumber": 4914,
+  "billingDate": "2022-12-24T14:33:28.400Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19254862",
+      "fullName": "GUSTAVO ALEJANDRO MONTANEZ GARCIA",
+      "phoneNumber": "+584244401175"
+    },
+    "installments": [
+      {
+        "id": "15458",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T14:33:57.474Z",
+        "amount": 19.79,
+        "status": "DONE"
+      },
+      {
+        "id": "15459",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T14:33:57.473Z",
+        "amount": 6.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15461",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T14:33:57.473Z",
+        "amount": 6.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15460",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T14:33:57.473Z",
+        "amount": 6.593333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

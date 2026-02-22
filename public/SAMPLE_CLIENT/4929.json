@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T16:38:04.185Z",
+  "id": "4612",
+  "amount": 84.43,
+  "invoiceId": "18538",
+  "paidToMerchant": false,
+  "identifierNumber": 4929,
+  "billingDate": "2022-12-24T16:38:04.185Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14598725",
+      "fullName": "DEYANIRA ELIZABETH SARTI ANDARA",
+      "phoneNumber": "+584142775577"
+    },
+    "installments": [
+      {
+        "id": "15734",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:38:24.435Z",
+        "amount": 42.22,
+        "status": "DONE"
+      },
+      {
+        "id": "15736",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:38:24.434Z",
+        "amount": 14.070000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15737",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:38:24.434Z",
+        "amount": 14.070000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "15735",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:38:24.434Z",
+        "amount": 14.070000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

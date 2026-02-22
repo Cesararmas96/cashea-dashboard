@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T22:28:11.137Z",
+  "id": "2914",
+  "amount": 80,
+  "invoiceId": "742",
+  "paidToMerchant": false,
+  "identifierNumber": 3365,
+  "billingDate": "2022-12-20T22:28:11.137Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "36",
+    "buyDebtDate": "2023-01-06T04:00:00.876+00:00",
+    "lastStoreId": 20,
+    "boughtForInstallmentId": "9611",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28149611",
+      "fullName": "EZEQUIEL JESUS SARABIA VILLASMIL",
+      "phoneNumber": "+584241287139"
+    },
+    "installments": [
+      {
+        "id": "9613",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:30:04.013Z",
+        "amount": 13.333333333333334,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9611",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:30:04.013Z",
+        "amount": 13.333333333333334,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9612",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:30:04.013Z",
+        "amount": 13.333333333333334,
+        "status": "DELAYED"
+      },
+      {
+        "id": "9610",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:30:04.013Z",
+        "amount": 40,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:51:04.924Z",
+  "id": "5018",
+  "amount": 36.8,
+  "invoiceId": "13129",
+  "paidToMerchant": false,
+  "identifierNumber": 5290,
+  "billingDate": "2022-12-26T17:51:04.924Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22027822",
+      "fullName": "MARIA DE LOS ANGELES PENICHE ALVAREZ",
+      "phoneNumber": "+584242141922"
+    },
+    "installments": [
+      {
+        "id": "17209",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:51:49.296Z",
+        "amount": 6.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17206",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:51:49.297Z",
+        "amount": 18.4,
+        "status": "DONE"
+      },
+      {
+        "id": "17208",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:51:49.296Z",
+        "amount": 6.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17207",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:51:49.296Z",
+        "amount": 6.133333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T01:01:40.297Z",
+  "id": "5175",
+  "amount": 49.98,
+  "invoiceId": "14890",
+  "paidToMerchant": false,
+  "identifierNumber": 5439,
+  "billingDate": "2022-12-27T01:01:40.297Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22288834",
+      "fullName": "ARBEL YERCAIN RAMIREZ TORRES",
+      "phoneNumber": "+584242010275"
+    },
+    "installments": [
+      {
+        "id": "17737",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T01:02:28.707Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "17734",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T01:02:28.708Z",
+        "amount": 24.99,
+        "status": "DONE"
+      },
+      {
+        "id": "17736",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T01:02:28.707Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "17735",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T01:02:28.707Z",
+        "amount": 8.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

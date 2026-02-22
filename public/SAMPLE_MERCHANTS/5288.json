@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-17T14:50:20.584Z",
+  "updatedAt": "2025-04-24T21:34:44.768Z",
+  "id": 5288,
+  "name": "OPTICA SANTS",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "8b24680f-ff7e-4197-925f-56c990a45128",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "optica.sants2021@gmail.com",
+    "legalName": "Adrian Santos",
+    "phoneNumber": "4142163100"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-17T14:54:27.053Z",
+      "updatedAt": "2025-04-17T14:54:27.053Z",
+      "id": 13074,
+      "merchantId": 5288,
+      "name": "OPTICA SANTS Teatro Avila / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7112,
+      "address": {
+        "name": "AV SUR 4 Y AV OESTE 6, ESQUINA BOLSA A MERCADERES TEATRO AVILA (ANTIGUO CINE AVILA) PISO PB LOCAL 52",
+        "long": -66.9168125,
+        "lat": 10.503937499999992,
+        "location": "0101000020E61000001904560EADBA50C0B874931804022540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

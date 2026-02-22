@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-31T20:26:14.572Z",
+  "updatedAt": "2025-04-09T19:43:11.685Z",
+  "id": 4934,
+  "name": "Frigorifico Super Carnes San Jacinto",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4a50c8f3-05d7-4b30-b82f-d3e891280b77",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "dianadasilvasepulveda@gmail.com",
+    "legalName": "Manuel",
+    "phoneNumber": "04145981926"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-16T21:12:21.391Z",
+      "updatedAt": "2025-06-16T21:12:21.391Z",
+      "id": 15745,
+      "merchantId": 4934,
+      "name": "VR_Frigorifico Super Carnes San Jacinto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5372,
+      "address": {
+        "name": "AV 4 TA. CC PARQUE SAN JACINTO NIVEL PB LOCAL 15 URB SAN JACINTO MARACAY ARAGUA ZONA POSTAL 2102",
+        "long": -67.56093750000001,
+        "lat": 10.240187500000005,
+        "location": "0101000020E610000067666666E6E350C0E8D022DBF97A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T20:27:49.027Z",
+      "updatedAt": "2025-03-31T20:27:49.027Z",
+      "id": 12430,
+      "merchantId": 4934,
+      "name": "Frigorifico Super Carnes San Jacinto CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5372,
+      "address": {
+        "name": "AV 4 TA. CC PARQUE SAN JACINTO NIVEL PB LOCAL 15 URB SAN JACINTO MARACAY ARAGUA ZONA POSTAL 2102",
+        "long": -67.56093750000001,
+        "lat": 10.240187500000005,
+        "location": "0101000020E610000067666666E6E350C0E8D022DBF97A2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

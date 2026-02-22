@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-27T23:19:23.826Z",
+  "id": "532",
+  "amount": 161.7,
+  "invoiceId": "783823",
+  "paidToMerchant": false,
+  "identifierNumber": 1037,
+  "billingDate": "2022-11-27T23:19:23.826Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14444207",
+      "fullName": "JOHANDER RAFAEL QUINTERO AGUILAR",
+      "phoneNumber": "+584127019162"
+    },
+    "installments": [
+      {
+        "id": "1670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T23:19:46.768Z",
+        "amount": 81.7,
+        "status": "DONE"
+      },
+      {
+        "id": "1672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T23:19:46.767Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T23:19:46.767Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T23:19:46.767Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

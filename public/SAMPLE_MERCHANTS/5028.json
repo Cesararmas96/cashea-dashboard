@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-03T21:05:32.194Z",
+  "updatedAt": "2025-05-12T17:27:33.108Z",
+  "id": 5028,
+  "name": "Lab 365",
+  "ecommerceUrl": null,
+  "changePolicy": "No realizamos devoluciones ya que somos un laboratorio",
+  "email": "lab365.cashea@gmail.com",
+  "phoneNumber": "+584242503146",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "163e69de-479b-465c-80e6-25af810f4cc3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "minsignaress@hotmail.com",
+    "legalName": "Martin",
+    "phoneNumber": "40122218840"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-03T21:09:18.747Z",
+      "updatedAt": "2025-04-03T21:09:18.747Z",
+      "id": 12587,
+      "merchantId": 5028,
+      "name": "Lab 365",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6400,
+      "address": {
+        "name": "AV PRINCIPAL DE RUIZ PINEDA, CC CARICUAO, NIVEL MEZZ 1, LOCAL B, URB RUIZ PINEDA, CARACAS, DISTRITO CAPITAL, ZONA POSTAL 1010",
+        "long": -66.9913125,
+        "lat": 10.438187499999998,
+        "location": "0101000020E61000006DE7FBA971BF50C03008AC1C5AE02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-12T14:07:17.545Z",
+      "updatedAt": "2025-05-12T14:07:17.545Z",
+      "id": 13957,
+      "merchantId": 5028,
+      "name": "Lab 365 Marketplace",
+      "statusId": 1,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6400,
+      "address": {
+        "name": "AV PRINCIPAL DE RUIZ PINEDA, CC CARICUAO, NIVEL MEZZ 1, LOCAL B, URB RUIZ PINEDA, CARACAS, DISTRITO CAPITAL, ZONA POSTAL 1010",
+        "long": -66.9913125,
+        "lat": 10.438187499999998,
+        "location": "0101000020E61000006DE7FBA971BF50C03008AC1C5AE02440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T14:59:35.035Z",
+      "updatedAt": "2025-05-12T17:34:30.263Z",
+      "id": 13638,
+      "merchantId": 5028,
+      "name": "VR_Lab 365",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6400,
+      "address": {
+        "name": "AV PRINCIPAL DE RUIZ PINEDA, CC CARICUAO, NIVEL MEZZ 1, LOCAL B, URB RUIZ PINEDA, CARACAS, DISTRITO CAPITAL, ZONA POSTAL 1010",
+        "long": -66.9913125,
+        "lat": 10.438187499999998,
+        "location": "0101000020E61000006DE7FBA971BF50C03008AC1C5AE02440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

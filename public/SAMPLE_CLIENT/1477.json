@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T00:09:50.931Z",
+  "id": "717",
+  "amount": 67.4,
+  "invoiceId": "00016799",
+  "paidToMerchant": false,
+  "identifierNumber": 1477,
+  "billingDate": "2022-12-05T00:09:50.931Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12415874",
+      "fullName": "EDGAR JOSE QUINTANA GALINDEZ",
+      "phoneNumber": "+584141739056"
+    },
+    "installments": [
+      {
+        "id": "2320",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T00:10:06.676Z",
+        "amount": 11.233333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2318",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T00:10:06.677Z",
+        "amount": 33.7,
+        "status": "DONE"
+      },
+      {
+        "id": "2321",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T00:10:06.676Z",
+        "amount": 11.233333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2319",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T00:10:06.676Z",
+        "amount": 11.233333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T20:27:18.539Z",
+  "id": "2015",
+  "amount": 85.52,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2542,
+  "billingDate": "2022-12-17T20:27:18.539Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27710120",
+      "fullName": "DIANA PATRICIA FIGUERA DE ZAPATA",
+      "phoneNumber": "+584242133884"
+    },
+    "installments": [
+      {
+        "id": "6538",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T20:27:44.094Z",
+        "amount": 42.76,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6541",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T20:27:44.094Z",
+        "amount": 14.253333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6539",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T20:27:44.094Z",
+        "amount": 14.253333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6540",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T20:27:44.094Z",
+        "amount": 14.253333333333332,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

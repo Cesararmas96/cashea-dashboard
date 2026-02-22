@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:40:23.857Z",
+  "id": "3790",
+  "amount": 40.6,
+  "invoiceId": "8968",
+  "paidToMerchant": false,
+  "identifierNumber": 3830,
+  "billingDate": "2022-12-23T00:40:23.857Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12833917",
+      "fullName": "YAJAIRA ROSA NOGUERA SANCHEZ",
+      "phoneNumber": "+584241633338"
+    },
+    "installments": [
+      {
+        "id": "12770",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:47:49.029Z",
+        "amount": 20.3,
+        "status": "DONE"
+      },
+      {
+        "id": "12773",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:47:49.029Z",
+        "amount": 6.766666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12772",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:47:49.029Z",
+        "amount": 6.766666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12771",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:47:49.029Z",
+        "amount": 6.766666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

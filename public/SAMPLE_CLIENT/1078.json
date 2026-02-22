@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-29T23:06:12.714Z",
+  "id": "11456",
+  "amount": 127.7,
+  "invoiceId": "00005603",
+  "paidToMerchant": false,
+  "identifierNumber": 1078,
+  "billingDate": "2023-01-29T23:06:12.714Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-03-15T04:00:01.352+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "35089",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24698668",
+      "fullName": "JAIFRED JOSE PASTRAN ZAA",
+      "phoneNumber": "+584123993848"
+    },
+    "installments": [
+      {
+        "id": "35089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-12T23:06:28.746Z",
+        "amount": 21.283333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "35088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-26T23:06:28.746Z",
+        "amount": 21.283333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "35086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-29T23:06:28.747Z",
+        "amount": 63.85,
+        "status": "DONE"
+      },
+      {
+        "id": "35087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-12T23:06:28.746Z",
+        "amount": 21.283333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

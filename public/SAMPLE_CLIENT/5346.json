@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T21:25:47.515Z",
+  "id": "5077",
+  "amount": 48.99,
+  "invoiceId": "000",
+  "paidToMerchant": false,
+  "identifierNumber": 5346,
+  "billingDate": "2022-12-26T21:25:47.515Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18269434",
+      "fullName": "YOHANA ALEXANDRA JAIMES CABRERA",
+      "phoneNumber": "+584142885612"
+    },
+    "installments": [
+      {
+        "id": "17413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T21:26:26.727Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T21:26:26.727Z",
+        "amount": 24.5,
+        "status": "DONE"
+      },
+      {
+        "id": "17412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T21:26:26.727Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T21:26:26.727Z",
+        "amount": 8.163333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

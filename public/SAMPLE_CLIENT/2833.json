@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T21:45:19.254Z",
+  "id": "2316",
+  "amount": 79.11,
+  "invoiceId": "44555",
+  "paidToMerchant": false,
+  "identifierNumber": 2833,
+  "billingDate": "2022-12-18T21:45:19.254Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11024670",
+      "fullName": "IVIS MILENI HERNANDEZ ZAMBRANO",
+      "phoneNumber": "+584141115154"
+    },
+    "installments": [
+      {
+        "id": "7618",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T21:45:52.824Z",
+        "amount": 39.55,
+        "status": "DONE"
+      },
+      {
+        "id": "7619",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T21:45:52.823Z",
+        "amount": 13.186666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7621",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T21:45:52.823Z",
+        "amount": 13.186666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7620",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T21:45:52.823Z",
+        "amount": 13.186666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

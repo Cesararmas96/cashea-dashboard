@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-30T19:57:38.751Z",
+  "updatedAt": "2025-05-08T12:55:11.232Z",
+  "id": 5469,
+  "name": "Optica Vista Royal lg",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9761833f-3d20-4e13-8ff3-b1b26e3b3800",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "opticavistaroyalg@gmail.com",
+    "legalName": "Hector",
+    "phoneNumber": "04128093813"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-23T20:19:19.097Z",
+      "updatedAt": "2025-09-23T20:19:19.097Z",
+      "id": 22211,
+      "merchantId": 5469,
+      "name": "VR_Optica Vista Royal lg, Av la Costanera",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7130,
+      "address": {
+        "name": "Av la Costanera qta carmiiña local NRO 2 urb palmar este  Caraballeda la Guaira",
+        "long": -66.8484375,
+        "lat": 10.618437499999985,
+        "location": "0101000020E6100000CDCCCCCC4CB650C0683D0AD7A33C2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-30T20:00:01.198Z",
+      "updatedAt": "2025-04-30T20:00:01.198Z",
+      "id": 13478,
+      "merchantId": 5469,
+      "name": "Optica Vista Royal lg Av la Costanera",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7130,
+      "address": {
+        "name": "Av la Costanera qta carmiiña local NRO 2 urb palmar este  Caraballeda la Guaira",
+        "long": -66.8484375,
+        "lat": 10.618437499999985,
+        "location": "0101000020E6100000CDCCCCCC4CB650C0683D0AD7A33C2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

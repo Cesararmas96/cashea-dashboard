@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-08T23:37:02.295Z",
+  "id": "951",
+  "amount": 49.98,
+  "invoiceId": "13849",
+  "paidToMerchant": false,
+  "identifierNumber": 1629,
+  "billingDate": "2022-12-08T23:37:02.295Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "48",
+    "buyDebtDate": "2023-01-22T04:00:00.939+00:00",
+    "lastStoreId": 34,
+    "boughtForInstallmentId": "3013",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22892717",
+      "fullName": "JERALD RUBEN PEREZ",
+      "phoneNumber": "+584122436650"
+    },
+    "installments": [
+      {
+        "id": "3013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-19T23:37:17.725Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "3011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-22T23:37:17.725Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "3012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-05T23:37:17.725Z",
+        "amount": 8.33,
+        "status": "DONE"
+      },
+      {
+        "id": "3010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-08T23:37:17.726Z",
+        "amount": 24.99,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

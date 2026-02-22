@@ -1,0 +1,200 @@
+[
+  {
+    "id": 447,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098732198403812",
+    "accountType": "Corriente",
+    "phoneNumber": "4141344850",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 447,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098732198403812",
+    "accountType": "Corriente",
+    "phoneNumber": "4141344850",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 445,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098732198403812",
+    "accountType": "Corriente",
+    "phoneNumber": "4141344850",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 445,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098732198403812",
+    "accountType": "Corriente",
+    "phoneNumber": "4141344850",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 446,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098732198403812",
+    "accountType": "Corriente",
+    "phoneNumber": "4141344850",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 446,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098732198403812",
+    "accountType": "Corriente",
+    "phoneNumber": "4141344850",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 448,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098702398005965",
+    "accountType": "Custodia",
+    "phoneNumber": "4141344850",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 448,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J312719168",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P., C.A.",
+    "internalBankHolder": "ELECTRODOMESTICOS HOME PRODUCTS E.H.P, C.A",
+    "account": "01910098702398005965",
+    "accountType": "Custodia",
+    "phoneNumber": "4141344850",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

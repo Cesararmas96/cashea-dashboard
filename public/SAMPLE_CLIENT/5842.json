@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:04:33.684Z",
+  "id": "5544",
+  "amount": 40.36,
+  "invoiceId": "8682",
+  "paidToMerchant": false,
+  "identifierNumber": 5842,
+  "billingDate": "2022-12-28T21:04:33.684Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16683774",
+      "fullName": "MILAGROS DEL VALLE DIAZ BARRIOS",
+      "phoneNumber": "+584141261096"
+    },
+    "installments": [
+      {
+        "id": "19053",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:05:22.307Z",
+        "amount": 6.726666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19050",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:05:22.308Z",
+        "amount": 20.18,
+        "status": "DONE"
+      },
+      {
+        "id": "19051",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:05:22.307Z",
+        "amount": 6.726666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19052",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:05:22.307Z",
+        "amount": 6.726666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 60,
+    "name": "Parfois CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

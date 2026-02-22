@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:40:42.842Z",
+  "id": "2975",
+  "amount": 59.96,
+  "invoiceId": "14429",
+  "paidToMerchant": false,
+  "identifierNumber": 3423,
+  "billingDate": "2022-12-20T23:40:42.842Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21535535",
+      "fullName": "JAYDUARD ARMANDO RIVERO CARDOZO",
+      "phoneNumber": "+584128053813"
+    },
+    "installments": [
+      {
+        "id": "9828",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:43:29.682Z",
+        "amount": 9.993333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9826",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:43:29.682Z",
+        "amount": 29.98,
+        "status": "DONE"
+      },
+      {
+        "id": "9829",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:43:29.682Z",
+        "amount": 9.993333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9827",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:43:29.682Z",
+        "amount": 9.993333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

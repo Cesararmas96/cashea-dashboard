@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-15T16:13:38.793Z",
+  "updatedAt": "2025-04-24T12:55:38.068Z",
+  "id": 5254,
+  "name": "Inversiones Pirulos Motos",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "1f76ac17-ce2e-46c8-bff0-02700f54fc3c",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "pirulosmotos@gmail.com",
+    "legalName": "Luz Alejandra",
+    "phoneNumber": "4249490711"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-12T13:40:54.585Z",
+      "updatedAt": "2025-09-12T13:40:54.585Z",
+      "id": 21286,
+      "merchantId": 5254,
+      "name": "VR_Inversiones Pirulos Motos,AV. 4, SECTOR 2",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6158,
+      "address": {
+        "name": "AV. 4 CASA NRO 24 SECTOR 2 - UANRE II CUIDAD GUAYANA BOLIVAR",
+        "long": -62.75943749999999,
+        "lat": 8.2770625,
+        "location": "0101000020E610000090ED7C3F35614FC060E5D022DB8D2040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-15T16:15:25.708Z",
+      "updatedAt": "2025-04-15T16:15:25.708Z",
+      "id": 13016,
+      "merchantId": 5254,
+      "name": "Inversiones Pirulos Motos Ciudad Guayana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6158,
+      "address": {
+        "name": "AV. 4 CASA NRO 24 SECTOR 2 - UANRE II CUIDAD GUAYANA BOLIVAR",
+        "long": -62.75943749999999,
+        "lat": 8.2770625,
+        "location": "0101000020E610000090ED7C3F35614FC060E5D022DB8D2040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

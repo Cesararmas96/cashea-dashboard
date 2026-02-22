@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-21T21:03:34.819Z",
+  "updatedAt": "2025-04-21T21:03:34.819Z",
+  "id": 5305,
+  "name": "CORPORACION MULTIZONE",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "8b813b20-e867-44fb-a37d-d88a50ee94d8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "corporacionmultizon@gmail.com",
+    "legalName": "Carolina Espinoza",
+    "phoneNumber": "4148210224"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-21T21:05:15.198Z",
+      "updatedAt": "2025-04-21T21:05:15.198Z",
+      "id": 13119,
+      "merchantId": 5305,
+      "name": "CORPORACION MULTIZONE CHACAO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4466,
+      "address": {
+        "name": "Av. José felix sosa, bello campo, al frente del centro comercial bello campo a media cuadra chacao",
+        "long": -66.8513125,
+        "lat": 10.493312500000002,
+        "location": "0101000020E6100000448B6CE77BB650C0806ABC7493FC2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

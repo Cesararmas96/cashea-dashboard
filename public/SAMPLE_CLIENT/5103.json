@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:24:32.731Z",
+  "id": "4859",
+  "amount": 41.79,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5103,
+  "billingDate": "2022-12-24T20:24:32.731Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21291890",
+      "fullName": "LAZARO VICTOR ANDRES MORENO",
+      "phoneNumber": "+584141031583"
+    },
+    "installments": [
+      {
+        "id": "16647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:24:53.176Z",
+        "amount": 6.966666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:24:53.177Z",
+        "amount": 20.89,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:24:53.176Z",
+        "amount": 6.966666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "16649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:24:53.176Z",
+        "amount": 6.966666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

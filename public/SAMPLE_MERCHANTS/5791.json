@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-15T16:10:58.360Z",
+  "updatedAt": "2025-05-29T20:37:51.080Z",
+  "id": 5791,
+  "name": "Inversiones las trincheras",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "df33f5bb-25ba-43f0-80b3-b779c76ed852",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "efrain_618@hotmail.com",
+    "legalName": "Efrain antonio",
+    "phoneNumber": "04123414390"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-15T16:13:41.634Z",
+      "updatedAt": "2025-05-15T16:13:41.634Z",
+      "id": 14181,
+      "merchantId": 5791,
+      "name": "Inversiones las trincheras Naguanagua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6034,
+      "address": {
+        "name": "Calle la Belén casa n03sector la Belén trincheras Naguanagua Carabobo zona postal 2005",
+        "long": -68.0836875,
+        "lat": 10.305562499999994,
+        "location": "0101000020E610000060E5D0225B0551C098C420B0729C2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

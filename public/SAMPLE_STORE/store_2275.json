@@ -1,0 +1,74 @@
+[
+  {
+    "id": 791,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500844220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "internalBankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "account": "01910098762198423645",
+    "accountType": "Corriente",
+    "phoneNumber": "4124297162",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 789,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500844220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "internalBankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "account": "01910098762198423645",
+    "accountType": "Corriente",
+    "phoneNumber": "4124297162",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 790,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500844220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "internalBankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "account": "01910098762198423645",
+    "accountType": "Corriente",
+    "phoneNumber": "4124297162",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 792,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500844220",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "internalBankHolder": "LA WAWA VENEZUELA 2021, C.A.",
+    "account": "01910098722398334834",
+    "accountType": "Custodia",
+    "phoneNumber": "4124297162",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

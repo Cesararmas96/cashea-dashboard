@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-15T18:42:02.579Z",
+  "id": "1547",
+  "amount": 90,
+  "invoiceId": "00001260",
+  "paidToMerchant": false,
+  "identifierNumber": 2163,
+  "billingDate": "2022-12-15T18:42:02.579Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "40",
+    "buyDebtDate": "2023-01-29T04:00:00.458+00:00",
+    "lastStoreId": 26,
+    "boughtForInstallmentId": "5001",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9302352",
+      "fullName": "IVAN JOSE ROJAS CAMPOS",
+      "phoneNumber": "+584123734175"
+    },
+    "installments": [
+      {
+        "id": "5001",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T18:42:34.822Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "4998",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T18:42:34.823Z",
+        "amount": 45,
+        "status": "DONE"
+      },
+      {
+        "id": "4999",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T18:42:34.822Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "5000",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T18:42:34.822Z",
+        "amount": 15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

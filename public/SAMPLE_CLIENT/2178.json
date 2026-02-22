@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T21:22:27.933Z",
+  "id": "1585",
+  "amount": 70,
+  "invoiceId": "00001269",
+  "paidToMerchant": false,
+  "identifierNumber": 2178,
+  "billingDate": "2022-12-15T21:22:27.933Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20977826",
+      "fullName": "ARIANA CECILIA MANCINI CASTANO",
+      "phoneNumber": "+584241481252"
+    },
+    "installments": [
+      {
+        "id": "5125",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T21:23:51.754Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5122",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T21:23:51.754Z",
+        "amount": 35,
+        "status": "DONE"
+      },
+      {
+        "id": "5123",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T21:23:51.754Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5124",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T21:23:51.754Z",
+        "amount": 11.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

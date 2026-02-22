@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:22:44.735Z",
+  "id": "5608",
+  "amount": 41.99,
+  "invoiceId": "00977",
+  "paidToMerchant": false,
+  "identifierNumber": 5873,
+  "billingDate": "2022-12-28T22:22:44.735Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11228516",
+      "fullName": "YUNIRAY ROMERO AGUILAR",
+      "phoneNumber": "+584125446118"
+    },
+    "installments": [
+      {
+        "id": "19279",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:23:11.269Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19278",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:23:11.269Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "19281",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:23:11.269Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19280",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:23:11.269Z",
+        "amount": 6.996666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

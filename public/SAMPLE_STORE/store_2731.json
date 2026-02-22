@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1359,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J311876103",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR VISTAMAR C.A",
+    "internalBankHolder": "TODOHOGAR VISTAMAR C.A",
+    "account": "01340062810621047383",
+    "accountType": "Corriente",
+    "phoneNumber": "4148132117",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1357,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J311876103",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR VISTAMAR C.A",
+    "internalBankHolder": "TODOHOGAR VISTAMAR C.A",
+    "account": "01340062810621047383",
+    "accountType": "Corriente",
+    "phoneNumber": "4148132117",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1358,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J311876103",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR VISTAMAR C.A",
+    "internalBankHolder": "TODOHOGAR VISTAMAR C.A",
+    "account": "01340062810621047383",
+    "accountType": "Corriente",
+    "phoneNumber": "4148132117",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1360,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J311876103",
+    "bankName": "Banesco",
+    "bankHolder": "TODOHOGAR VISTAMAR C.A",
+    "internalBankHolder": "TODOHOGAR VISTAMAR C.A",
+    "account": "01341736970001005001",
+    "accountType": "Custodia",
+    "phoneNumber": "4148132117",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

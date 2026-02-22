@@ -1,0 +1,137 @@
+{
+  "createdAt": "2025-03-27T20:40:57.489Z",
+  "updatedAt": "2025-06-06T21:01:40.587Z",
+  "id": 4884,
+  "name": "Boumac",
+  "ecommerceUrl": null,
+  "changePolicy": "Fundición Pacífico, C.A. garantiza el normal funcionamiento de nuestra grifería durante cinco (5) años para uso residencial y de un (1) año para uso institucional (hoteles, restaurantes, balnearios, oficinas, centros comerciales, centros médicos, entre otros) a partir de la fecha de su factura de compra.\n\nDurante el período de garantía, Fundición Pacífico, C.A., a través de su asistencia técnica, reparará, reemplazará o realizará ajustes para poner operativo el producto, presentando la factura de compra.\n\nAPLICACIÓN DE LA GARANTÍA:\nLa garantía aplica en los siguientes casos:\n\nDefectos de fábrica que afecten el buen funcionamiento del producto.\nDefectos estéticos y de acabado, siempre que no sean ocasionados por manipulación, uso de productos químicos u objetos abrasivos.\nPiezas y accesorios faltantes al momento de adquirir la grifería.\nPiezas y accesorios que no correspondan con la grifería.\nProductos que no coincidan con la descripción escrita en el empaque.\nPÉRDIDA DE LA GARANTÍA:\nLa garantía pierde su validez en caso de daños sufridos como consecuencia de:\n\nInstalación incorrecta.\nDeterioro por caídas.\nMalos tratos.\nUso inadecuado.\nManipulación inadecuada.\nDaños en el acabado por productos químicos, solventes, concreto, pintura, esponjas abrasivas, detergentes abrasivos o ambientes con condiciones extremas (temperatura, humos, vapores).\nReparaciones realizadas por personas no autorizadas.\nUso de piezas o partes que no sean originales o adaptaciones.\nInstalaciones en lugares donde el agua es considerada no potable o que contenga sustancias e impurezas extrañas.\nPresencia de objetos extraños en el interior del producto.\nLa responsabilidad de la garantía no excederá el valor del producto en reclamo, por lo que no incluye gastos incurridos por transporte ni mano de obra.\n\nPara aquellos países donde no tenemos distribuidor de Fundición Pacífico, C.A., se excluyen los gastos de envío por garantía, nacionalización y demás trámites que apliquen en el país de destino.",
+  "email": "ecommerce@fundicionpacifico.com",
+  "phoneNumber": "+584144743601",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "1f280831-ce6d-4b2d-aa58-497a09a64656",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "alopez@fundicionpacifico.com",
+    "legalName": "Alfredo López Sánchez",
+    "phoneNumber": "+584142609272"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T17:16:38.633Z",
+      "updatedAt": "2025-06-06T21:01:40.653Z",
+      "id": 12338,
+      "merchantId": 4884,
+      "name": "Boumac Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3859,
+      "address": {
+        "name": "Caracas: el tiempo de entrega es máximo 2 horas, dependiendo de la zona. El costo de delivery es de $4 o su equivalente a la tasa del día para compras menores a $100, y es gratuito a partir de compras de $100.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-03T15:12:17.484Z",
+      "updatedAt": "2025-04-03T15:12:17.484Z",
+      "id": 12576,
+      "merchantId": 4884,
+      "name": "VR_Boumac",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3859,
+      "address": {
+        "name": "Caracas: el tiempo de entrega es máximo 2 horas, dependiendo de la zona. El costo de delivery es de $4 o su equivalente a la tasa del día para compras menores a $100, y es gratuito a partir de compras de $100.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

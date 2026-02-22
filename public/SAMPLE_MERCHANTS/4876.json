@@ -1,0 +1,150 @@
+{
+  "createdAt": "2025-03-27T14:56:32.943Z",
+  "updatedAt": "2025-04-02T22:44:45.473Z",
+  "id": 4876,
+  "name": "ImprePIDE",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4936fb8e-98fa-4bab-b125-311acd2aecae",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "contacto@imprepide.com",
+    "legalName": "Teodoro Salazar",
+    "phoneNumber": "4242188506"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-27T14:58:15.059Z",
+      "updatedAt": "2025-03-27T14:58:15.059Z",
+      "id": 12273,
+      "merchantId": 4876,
+      "name": "ImprePIDE Puerto Ordaz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 598,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7344,
+      "address": {
+        "name": "Orinokia MALL, Plaza Santo Tome IV Piso 2, Local P2-9 y P2-10, Puerto Ordaz, Edo. Bolívar, VENEZUELA.",
+        "long": -62.741562500000015,
+        "lat": 8.2926875,
+        "location": "0101000020E610000054B81E85EB5E4FC060E5D022DB952040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-27T15:07:53.003Z",
+      "updatedAt": "2025-03-27T15:07:53.003Z",
+      "id": 12274,
+      "merchantId": 4876,
+      "name": "ImprePIDE Sabana Grande",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 598,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7344,
+      "address": {
+        "name": "Av. Abrahan Lincoln (Boulevard de Sabana Grande), Edificio Don Elias, Piso 5, Oficina 501, Caracas, VENEZUELA.",
+        "long": -66.8743125,
+        "lat": 10.49293750000001,
+        "location": "0101000020E6100000FA7E6ABCF4B750C0B0F1D24D62FC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-04T17:47:49.823Z",
+      "updatedAt": "2025-04-04T17:47:49.823Z",
+      "id": 12622,
+      "merchantId": 4876,
+      "name": "vr_ImprePIDE",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7344,
+      "address": {
+        "name": "Orinokia MALL, Plaza Santo Tome IV Piso 2, Local P2-9 y P2-10, Puerto Ordaz, Edo. Bolívar, VENEZUELA.",
+        "long": -62.741562500000015,
+        "lat": 8.2926875,
+        "location": "0101000020E610000054B81E85EB5E4FC060E5D022DB952040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

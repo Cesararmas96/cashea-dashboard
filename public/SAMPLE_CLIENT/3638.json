@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:46:01.519Z",
+  "id": "3189",
+  "amount": 58.99,
+  "invoiceId": "1551",
+  "paidToMerchant": false,
+  "identifierNumber": 3638,
+  "billingDate": "2022-12-21T20:46:01.519Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25565258",
+      "fullName": "VALERIA ALEJANDRA CAIBETT BAPTISTA",
+      "phoneNumber": "+584241795301"
+    },
+    "installments": [
+      {
+        "id": "10573",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:47:17.529Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "10570",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:47:17.530Z",
+        "amount": 29.5,
+        "status": "DONE"
+      },
+      {
+        "id": "10572",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:47:17.529Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "10571",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:47:17.529Z",
+        "amount": 9.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

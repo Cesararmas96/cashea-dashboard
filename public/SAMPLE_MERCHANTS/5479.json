@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-01T13:33:03.001Z",
+  "updatedAt": "2026-02-06T19:46:47.986Z",
+  "id": 5479,
+  "name": "Monday 1",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "3294c3ce-3c6c-4cdd-8184-318928e47195",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "monday1.gestion@gmail.com",
+    "legalName": "Ghaleb Bzeih",
+    "phoneNumber": "+584148075654"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T15:06:08.105Z",
+      "updatedAt": "2025-05-06T15:06:08.105Z",
+      "id": 13641,
+      "merchantId": 5479,
+      "name": "VR_Monday 1",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6788,
+      "address": {
+        "name": "Monday 1 Barcelona",
+        "long": -64.6850625,
+        "lat": 10.130187499999991,
+        "location": "0101000020E6100000D34D6210D82B50C028B29DEFA7422440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-01T13:34:07.176Z",
+      "updatedAt": "2025-05-01T13:34:07.176Z",
+      "id": 13496,
+      "merchantId": 5479,
+      "name": "Monday 1 Barcelona",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6788,
+      "address": {
+        "name": "Monday 1 Barcelona",
+        "long": -64.6850625,
+        "lat": 10.130187499999991,
+        "location": "0101000020E6100000D34D6210D82B50C028B29DEFA7422440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

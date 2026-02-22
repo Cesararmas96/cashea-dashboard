@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T17:01:39.144Z",
+  "id": "3933",
+  "amount": 56.04,
+  "invoiceId": "14135",
+  "paidToMerchant": false,
+  "identifierNumber": 4342,
+  "billingDate": "2022-12-23T17:01:39.144Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27127583",
+      "fullName": "PAOLA PATRICIA PEREIRA CORONADO",
+      "phoneNumber": "+584241740954"
+    },
+    "installments": [
+      {
+        "id": "13258",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:02:29.496Z",
+        "amount": 28.02,
+        "status": "DONE"
+      },
+      {
+        "id": "13261",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:02:29.495Z",
+        "amount": 9.34,
+        "status": "DONE"
+      },
+      {
+        "id": "13260",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:02:29.495Z",
+        "amount": 9.34,
+        "status": "DONE"
+      },
+      {
+        "id": "13259",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:02:29.495Z",
+        "amount": 9.34,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

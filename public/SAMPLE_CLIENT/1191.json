@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-07T20:18:49.297Z",
+  "id": "290",
+  "amount": 50,
+  "invoiceId": "008",
+  "paidToMerchant": false,
+  "identifierNumber": 1191,
+  "billingDate": "2022-11-07T20:18:49.297Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24591246",
+      "fullName": "JORGE ENRIQUE RAMONCINI ESCOBAR",
+      "phoneNumber": "+584241228569"
+    },
+    "installments": [
+      {
+        "id": "917",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-07T20:19:13.896Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "920",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-19T20:19:13.896Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "918",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-21T20:19:13.896Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "919",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-05T20:19:13.896Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 6,
+    "name": "Cusica Crew Los Chorros"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

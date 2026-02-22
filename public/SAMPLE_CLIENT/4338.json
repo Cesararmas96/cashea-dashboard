@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T17:04:15.813Z",
+  "id": "1916",
+  "amount": 61.78,
+  "invoiceId": "1573",
+  "paidToMerchant": false,
+  "identifierNumber": 4338,
+  "billingDate": "2022-12-17T17:04:15.813Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25530286",
+      "fullName": "AMANDA CRESPO VIDAL",
+      "phoneNumber": "+584127040317"
+    },
+    "installments": [
+      {
+        "id": "6230",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T17:04:53.944Z",
+        "amount": 30.89,
+        "status": "DONE"
+      },
+      {
+        "id": "6233",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T17:04:53.943Z",
+        "amount": 10.296666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6231",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T17:04:53.943Z",
+        "amount": 10.296666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "6232",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T17:04:53.943Z",
+        "amount": 10.296666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

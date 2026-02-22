@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T00:50:47.392Z",
+  "id": "4436",
+  "amount": 147.9,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4811,
+  "billingDate": "2022-12-24T00:50:47.392Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25964974",
+      "fullName": "EMERSON DAVIC NOGUERA OSORIO",
+      "phoneNumber": "+584241631603"
+    },
+    "installments": [
+      {
+        "id": "15096",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:51:30.662Z",
+        "amount": 24.650000000000002,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15095",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:51:30.662Z",
+        "amount": 24.650000000000002,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15097",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:51:30.662Z",
+        "amount": 24.650000000000002,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15094",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:51:30.663Z",
+        "amount": 73.95,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

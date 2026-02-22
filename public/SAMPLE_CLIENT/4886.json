@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T15:06:52.789Z",
+  "id": "4543",
+  "amount": 30.23,
+  "invoiceId": "13027",
+  "paidToMerchant": false,
+  "identifierNumber": 4886,
+  "billingDate": "2022-12-24T15:06:52.789Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-10T04:00:00.741+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "15495",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23947714",
+      "fullName": "MARIA GABRIELA PEREZ MARQUEZ",
+      "phoneNumber": "+584242022240"
+    },
+    "installments": [
+      {
+        "id": "15497",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:06:57.213Z",
+        "amount": 5.036666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15495",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:06:57.213Z",
+        "amount": 5.036666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15496",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:06:57.213Z",
+        "amount": 5.036666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15494",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:06:57.213Z",
+        "amount": 15.12,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

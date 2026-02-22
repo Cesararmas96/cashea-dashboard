@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:17:40.800Z",
+  "id": "4033",
+  "amount": 35.98,
+  "invoiceId": "12563",
+  "paidToMerchant": false,
+  "identifierNumber": 4461,
+  "billingDate": "2022-12-23T19:17:40.800Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25915155",
+      "fullName": "KEIBER JAVIER SEGOVIA VILLALONGA",
+      "phoneNumber": "+584242642422"
+    },
+    "installments": [
+      {
+        "id": "13617",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:17:50.754Z",
+        "amount": 5.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13614",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:17:50.754Z",
+        "amount": 17.99,
+        "status": "DONE"
+      },
+      {
+        "id": "13616",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:17:50.754Z",
+        "amount": 5.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13615",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:17:50.754Z",
+        "amount": 5.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

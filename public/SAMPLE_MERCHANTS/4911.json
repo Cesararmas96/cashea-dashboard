@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-03-28T18:21:00.388Z",
+  "updatedAt": "2025-04-02T20:32:01.533Z",
+  "id": 4911,
+  "name": "Mundo en dos ruedas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a383412d-1728-4fd6-9773-f585a04f7698",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "aleandratarache@gmail.com",
+    "legalName": "Javier",
+    "phoneNumber": "4120830056"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T17:56:25.278Z",
+      "updatedAt": "2025-04-28T17:56:25.278Z",
+      "id": 13368,
+      "merchantId": 4911,
+      "name": "VR_Mundo en dos ruedas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6929,
+      "address": {
+        "name": "AV JOSE ANTONIO ANOZATEGUI LOCAL S/N SECTOR CENTRO DE PUERTO PIRITU ANOZATEGUI",
+        "long": -65.03943749999999,
+        "lat": 10.056687499999995,
+        "location": "0101000020E61000001A2FDD24864250C0182FDD24061D2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T18:25:07.313Z",
+      "updatedAt": "2025-03-28T18:25:07.313Z",
+      "id": 12342,
+      "merchantId": 4911,
+      "name": "Mundo en dos ruedas Anzoategui",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6929,
+      "address": {
+        "name": "AV JOSE ANTONIO ANOZATEGUI LOCAL S/N SECTOR CENTRO DE PUERTO PIRITU ANOZATEGUI",
+        "long": -65.03943749999999,
+        "lat": 10.056687499999995,
+        "location": "0101000020E61000001A2FDD24864250C0182FDD24061D2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

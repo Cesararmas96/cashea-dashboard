@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T20:24:25.710Z",
+  "id": "688",
+  "amount": 37.98,
+  "invoiceId": "5063",
+  "paidToMerchant": false,
+  "identifierNumber": 1422,
+  "billingDate": "2022-12-04T20:24:25.710Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23618285",
+      "fullName": "GENESIS YURMAR PEREZ HERRERA",
+      "phoneNumber": "+584241704448"
+    },
+    "installments": [
+      {
+        "id": "2212",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T20:25:07.275Z",
+        "amount": 6.329999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "2210",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T20:25:07.276Z",
+        "amount": 18.99,
+        "status": "DONE"
+      },
+      {
+        "id": "2213",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T20:25:07.275Z",
+        "amount": 6.329999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "2211",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T20:25:07.275Z",
+        "amount": 6.329999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

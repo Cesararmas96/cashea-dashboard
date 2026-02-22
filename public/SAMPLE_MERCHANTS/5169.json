@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-04-10T15:03:42.249Z",
+  "updatedAt": "2025-04-14T14:50:47.469Z",
+  "id": 5169,
+  "name": "Tecno Forza",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2d7d63db-ca60-41a7-9200-81c25dc4aaf4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "administracion@tecnoforza.com",
+    "legalName": "Juan Carlos Jiménez",
+    "phoneNumber": "04121165003"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T15:00:02.645Z",
+      "updatedAt": "2025-04-14T15:00:02.645Z",
+      "id": 12933,
+      "merchantId": 5169,
+      "name": "Tecno Forza Cumaná",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11709,
+      "address": {
+        "name": "Tecno Forza Cumaná",
+        "long": -64.16368750000001,
+        "lat": 10.472062499999993,
+        "location": "0101000020E6100000E6D022DB790A50C000560E2DB2F12440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-10T15:07:47.337Z",
+      "updatedAt": "2025-04-10T15:07:47.337Z",
+      "id": 12803,
+      "merchantId": 5169,
+      "name": "Tecno Forza La Urbina",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11709,
+      "address": {
+        "name": "Av Principal de La Urbina, Centro Comercial Súper Centro Petare,  local G-7 y G-8,  Caracas Venezuela",
+        "long": -66.80768749999999,
+        "lat": 10.479312500000006,
+        "location": "0101000020E6100000D478E926B1B350C0C820B07268F52440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T13:46:11.437Z",
+      "updatedAt": "2025-04-14T13:46:11.437Z",
+      "id": 12921,
+      "merchantId": 5169,
+      "name": "Tecno Forza Av Libertador",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11709,
+      "address": {
+        "name": "Av. Libertador, edificio La Línea, PB Oficina L0C-A Galanet Pto de referencia diagonal a la tienda IVOO de plaza Venezuela",
+        "long": -66.88156250000002,
+        "lat": 10.498062500000003,
+        "location": "0101000020E610000053B81E856BB850C060BA490C02FF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

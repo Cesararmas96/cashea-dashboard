@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T19:07:08.932Z",
+  "id": "10079",
+  "amount": 49.95,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2544,
+  "billingDate": "2023-01-17T19:07:08.932Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27454110",
+      "fullName": "ANGIE MILEIDY VILLARROEL CUBARRUBIA",
+      "phoneNumber": "+584120988510"
+    },
+    "installments": [
+      {
+        "id": "30164",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T19:10:08.677Z",
+        "amount": 8.323333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "30165",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T19:10:08.677Z",
+        "amount": 8.323333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "30163",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T19:10:08.677Z",
+        "amount": 8.323333333333334,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "30162",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T19:10:08.678Z",
+        "amount": 24.98,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

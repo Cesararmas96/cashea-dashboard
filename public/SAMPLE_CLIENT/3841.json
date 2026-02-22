@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T17:02:55.089Z",
+  "id": "3438",
+  "amount": 40,
+  "invoiceId": "00018240",
+  "paidToMerchant": false,
+  "identifierNumber": 3841,
+  "billingDate": "2022-12-22T17:02:55.089Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "40",
+    "buyDebtDate": "2023-01-08T04:00:00.479+00:00",
+    "lastStoreId": 26,
+    "boughtForInstallmentId": "11483",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20827741",
+      "fullName": "CARLOS ALBERTO CHIRINO ARCILA",
+      "phoneNumber": "+584242333948"
+    },
+    "installments": [
+      {
+        "id": "11484",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T17:03:54.004Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11485",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T17:03:54.004Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11483",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T17:03:54.004Z",
+        "amount": 6.666666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "11482",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T17:03:54.005Z",
+        "amount": 20,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

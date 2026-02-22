@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T18:43:04.516Z",
+  "id": "5030",
+  "amount": 40.5,
+  "invoiceId": "3384",
+  "paidToMerchant": false,
+  "identifierNumber": 5365,
+  "billingDate": "2022-12-26T18:43:04.516Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6454032",
+      "fullName": "MARINA ANTONIA ALVAREZ GUEVARA",
+      "phoneNumber": "+584142048643"
+    },
+    "installments": [
+      {
+        "id": "17254",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T18:43:35.543Z",
+        "amount": 20.25,
+        "status": "DONE"
+      },
+      {
+        "id": "17257",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T18:43:35.542Z",
+        "amount": 6.75,
+        "status": "DONE"
+      },
+      {
+        "id": "17255",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T18:43:35.542Z",
+        "amount": 6.75,
+        "status": "DONE"
+      },
+      {
+        "id": "17256",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T18:43:35.542Z",
+        "amount": 6.75,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 55,
+    "name": "Aldo CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

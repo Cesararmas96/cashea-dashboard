@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-28T13:47:10.165Z",
+  "updatedAt": "2025-04-30T19:35:23.427Z",
+  "id": 5417,
+  "name": "Que Gangazo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "3532ec4f-9722-40a9-a369-b60e0a6f5366",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "quegangazo44@gmail.com",
+    "legalName": "Lourdes",
+    "phoneNumber": "04143899673"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T13:49:26.525Z",
+      "updatedAt": "2025-04-28T13:49:26.525Z",
+      "id": 13331,
+      "merchantId": 5417,
+      "name": "Que Gangazo Edf La paz",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5908,
+      "address": {
+        "name": "Edificio La Paz, avenida o'higgins entre avenida intercomunal y, Piso PB 2da Avenida, Caracas 1020, Distrito Capital",
+        "long": -66.94656250000001,
+        "lat": 10.475687500000006,
+        "location": "0101000020E6100000AF47E17A94BC50C0683BDF4F8DF32440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

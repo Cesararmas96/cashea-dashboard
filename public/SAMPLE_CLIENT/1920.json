@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T21:13:27.865Z",
+  "id": "1235",
+  "amount": 66.32,
+  "invoiceId": "00001453",
+  "paidToMerchant": false,
+  "identifierNumber": 1920,
+  "billingDate": "2022-12-11T21:13:27.865Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12533585",
+      "fullName": "YERIGSON NEOMAR ESTRADA SOJO",
+      "phoneNumber": "+584129564591"
+    },
+    "installments": [
+      {
+        "id": "3969",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T21:14:06.939Z",
+        "amount": 11.053333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3966",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T21:14:06.939Z",
+        "amount": 33.16,
+        "status": "DONE"
+      },
+      {
+        "id": "3967",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T21:14:06.939Z",
+        "amount": 11.053333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3968",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T21:14:06.939Z",
+        "amount": 11.053333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

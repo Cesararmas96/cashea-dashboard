@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-11-17T19:55:26.984Z",
+  "id": "408",
+  "amount": 41,
+  "invoiceId": "6683",
+  "paidToMerchant": false,
+  "identifierNumber": 4340,
+  "billingDate": "2022-11-17T19:55:26.984Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "5",
+    "buyDebtDate": "2023-01-01T04:00:00.119+00:00",
+    "lastStoreId": 2,
+    "boughtForInstallmentId": "1253",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27313004",
+      "fullName": "DUNIOR ANDRES GARCIA DIAZ",
+      "phoneNumber": "+584125383010"
+    },
+    "installments": [
+      {
+        "id": "1253",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-29T19:56:25.645Z",
+        "amount": 6.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1250",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-17T19:56:25.646Z",
+        "amount": 20.5,
+        "status": "DONE"
+      },
+      {
+        "id": "1252",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-15T19:56:25.645Z",
+        "amount": 6.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "1251",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-01T19:56:25.645Z",
+        "amount": 6.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

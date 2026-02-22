@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T00:18:31.113Z",
+  "id": "5167",
+  "amount": 48.23,
+  "invoiceId": "13203",
+  "paidToMerchant": false,
+  "identifierNumber": 5434,
+  "billingDate": "2022-12-27T00:18:31.113Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-12T04:00:00.259+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "17703",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23538441",
+      "fullName": "NAIK DERVISON CONTRERAS NAVA",
+      "phoneNumber": "+584241959177"
+    },
+    "installments": [
+      {
+        "id": "17703",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T00:19:02.727Z",
+        "amount": 8.04,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17705",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T00:19:02.727Z",
+        "amount": 8.04,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17704",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T00:19:02.727Z",
+        "amount": 8.04,
+        "status": "DELAYED"
+      },
+      {
+        "id": "17702",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T00:19:02.729Z",
+        "amount": 24.11,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

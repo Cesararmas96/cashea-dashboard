@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T16:51:16.552Z",
+  "id": "3432",
+  "amount": 37.01,
+  "invoiceId": "00013087",
+  "paidToMerchant": false,
+  "identifierNumber": 3851,
+  "billingDate": "2022-12-22T16:51:16.552Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13716510",
+      "fullName": "MARICARMEN TRUJILLO NUNEZ",
+      "phoneNumber": "+584241412167"
+    },
+    "installments": [
+      {
+        "id": "11465",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T16:53:35.681Z",
+        "amount": 6.169999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11464",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T16:53:35.681Z",
+        "amount": 6.169999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11463",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T16:53:35.681Z",
+        "amount": 6.169999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11462",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T16:53:35.682Z",
+        "amount": 18.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

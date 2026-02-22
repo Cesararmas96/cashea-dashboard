@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:52:10.843Z",
+  "id": "5576",
+  "amount": 45.58,
+  "invoiceId": "12881",
+  "paidToMerchant": false,
+  "identifierNumber": 5883,
+  "billingDate": "2022-12-28T21:52:10.843Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12258820",
+      "fullName": "DUVERLIS DEL VALLE SARMIENTO MARCANO",
+      "phoneNumber": "+584166330625"
+    },
+    "installments": [
+      {
+        "id": "19166",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:52:27.734Z",
+        "amount": 22.79,
+        "status": "DONE"
+      },
+      {
+        "id": "19168",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:52:27.733Z",
+        "amount": 7.596666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19169",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:52:27.733Z",
+        "amount": 7.596666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19167",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:52:27.733Z",
+        "amount": 7.596666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T02:52:26.659Z",
+  "id": "4515",
+  "amount": 30.66,
+  "invoiceId": "13009",
+  "paidToMerchant": false,
+  "identifierNumber": 4868,
+  "billingDate": "2022-12-24T02:52:26.659Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24439181",
+      "fullName": "DEILIMAR ALEXANDRA PAJARO DAVID",
+      "phoneNumber": "+584122561787"
+    },
+    "installments": [
+      {
+        "id": "15396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T02:52:32.860Z",
+        "amount": 5.11,
+        "status": "DONE"
+      },
+      {
+        "id": "15394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T02:52:32.861Z",
+        "amount": 15.33,
+        "status": "DONE"
+      },
+      {
+        "id": "15397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T02:52:32.860Z",
+        "amount": 5.11,
+        "status": "DONE"
+      },
+      {
+        "id": "15395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T02:52:32.860Z",
+        "amount": 5.11,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

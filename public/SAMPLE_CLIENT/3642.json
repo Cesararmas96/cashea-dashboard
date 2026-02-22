@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-05T00:49:52.397Z",
+  "id": "12383",
+  "amount": 155.55599999999998,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3642,
+  "billingDate": "2023-02-05T00:49:52.397Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14141863",
+      "fullName": "LUIS ALCIDES PEREZ DIAZ",
+      "phoneNumber": "+584241106581"
+    },
+    "installments": [
+      {
+        "id": "38388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-05T00:49:52.440Z",
+        "amount": 25.925333333333327,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-05T00:49:52.440Z",
+        "amount": 77.78,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-19T00:49:52.440Z",
+        "amount": 25.925333333333327,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-19T00:49:52.440Z",
+        "amount": 25.925333333333327,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 105,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2593,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

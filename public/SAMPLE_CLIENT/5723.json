@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T17:59:41.973Z",
+  "id": "5445",
+  "amount": 45.6,
+  "invoiceId": "00002356",
+  "paidToMerchant": false,
+  "identifierNumber": 5723,
+  "billingDate": "2022-12-28T17:59:41.973Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-14T04:00:00.454+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "18711",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28554826",
+      "fullName": "LUIS ALEXANDER GUERRA ZABALA",
+      "phoneNumber": "+584248491415"
+    },
+    "installments": [
+      {
+        "id": "18713",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T17:59:59.943Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "18710",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T17:59:59.944Z",
+        "amount": 22.8,
+        "status": "DONE"
+      },
+      {
+        "id": "18712",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T17:59:59.943Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "18711",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T17:59:59.943Z",
+        "amount": 7.6000000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

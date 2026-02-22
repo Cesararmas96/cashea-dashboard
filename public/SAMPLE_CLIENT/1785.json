@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T19:20:24.833Z",
+  "id": "11608",
+  "amount": 46,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1785,
+  "billingDate": "2023-01-31T19:20:24.833Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11376264",
+      "fullName": "ALEXZAHY DANIEL GUTIERREZ PEDROZA",
+      "phoneNumber": "+584125571146"
+    },
+    "installments": [
+      {
+        "id": "35638",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T19:26:04.481Z",
+        "amount": 23,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35639",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T19:26:04.479Z",
+        "amount": 7.666666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35641",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T19:26:04.479Z",
+        "amount": 7.666666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35640",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T19:26:04.479Z",
+        "amount": 7.666666666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 138,
+    "name": "Shoebox C.C. Sambil Nivel Acuario"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

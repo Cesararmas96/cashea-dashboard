@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:37:31.449Z",
+  "id": "4190",
+  "amount": 86.85,
+  "invoiceId": "1040",
+  "paidToMerchant": false,
+  "identifierNumber": 4567,
+  "billingDate": "2022-12-23T21:37:31.449Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20173644",
+      "fullName": "LUIS ADRIAN MORENO DE ABREU",
+      "phoneNumber": "+584123066968"
+    },
+    "installments": [
+      {
+        "id": "14190",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:37:55.037Z",
+        "amount": 43.42,
+        "status": "DONE"
+      },
+      {
+        "id": "14191",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:37:55.037Z",
+        "amount": 14.476666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "14193",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:37:55.037Z",
+        "amount": 14.476666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "14192",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:37:55.037Z",
+        "amount": 14.476666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

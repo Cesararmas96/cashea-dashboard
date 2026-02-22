@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1439,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J412804987",
+    "bankName": "Banesco",
+    "bankHolder": "FARMA FIT C.A",
+    "internalBankHolder": "FARMA FIT C.A",
+    "account": "01340262112621033755",
+    "accountType": "Corriente",
+    "phoneNumber": "4148211882",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1437,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J412804987",
+    "bankName": "Banesco",
+    "bankHolder": "FARMA FIT C.A",
+    "internalBankHolder": "FARMA FIT C.A",
+    "account": "01340262112621033755",
+    "accountType": "Corriente",
+    "phoneNumber": "4148211882",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1438,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J412804987",
+    "bankName": "Banesco",
+    "bankHolder": "FARMA FIT C.A",
+    "internalBankHolder": "FARMA FIT C.A",
+    "account": "01340262112621033755",
+    "accountType": "Corriente",
+    "phoneNumber": "4148211882",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1440,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J412804987",
+    "bankName": "Banesco",
+    "bankHolder": "FARMA FIT C.A",
+    "internalBankHolder": "FARMA FIT C.A",
+    "account": "01341736980001005006",
+    "accountType": "Custodia",
+    "phoneNumber": "4148211882",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

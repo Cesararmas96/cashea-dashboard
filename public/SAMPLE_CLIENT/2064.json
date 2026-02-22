@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-14T19:34:09.135Z",
+  "id": "1443",
+  "amount": 45.36,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2064,
+  "billingDate": "2022-12-14T19:34:09.135Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T21:51:58.569Z",
+  "id": "11538",
+  "amount": 72.21,
+  "invoiceId": "50947",
+  "paidToMerchant": false,
+  "identifierNumber": 1131,
+  "billingDate": "2023-01-30T21:51:58.569Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20577618",
+      "fullName": "LISBETH ELENA DIAZ SOLANO",
+      "phoneNumber": "+584166077426"
+    },
+    "installments": [
+      {
+        "id": "35389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T21:52:27.677Z",
+        "amount": 12.036666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T21:52:27.677Z",
+        "amount": 12.036666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T21:52:27.677Z",
+        "amount": 12.036666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "35386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T21:52:27.678Z",
+        "amount": 36.1,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

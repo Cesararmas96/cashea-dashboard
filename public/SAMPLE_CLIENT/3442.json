@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:10:33.593Z",
+  "id": "2952",
+  "amount": 72.76,
+  "invoiceId": "13843",
+  "paidToMerchant": false,
+  "identifierNumber": 3442,
+  "billingDate": "2022-12-20T23:10:33.593Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20803382",
+      "fullName": "ZORAIDA ESTHER MENDOZA MALDONADO",
+      "phoneNumber": "+584241726168"
+    },
+    "installments": [
+      {
+        "id": "9737",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:10:54.582Z",
+        "amount": 12.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9734",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:10:54.583Z",
+        "amount": 36.38,
+        "status": "DONE"
+      },
+      {
+        "id": "9736",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:10:54.582Z",
+        "amount": 12.126666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9735",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:10:54.582Z",
+        "amount": 12.126666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

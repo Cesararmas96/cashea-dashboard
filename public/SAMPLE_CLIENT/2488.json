@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T19:36:18.501Z",
+  "id": "1986",
+  "amount": 36.05,
+  "invoiceId": "727",
+  "paidToMerchant": false,
+  "identifierNumber": 2488,
+  "billingDate": "2022-12-17T19:36:18.501Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11534917",
+      "fullName": "HILDA MARIA OCHOA GOMEZ",
+      "phoneNumber": "+584143306609"
+    },
+    "installments": [
+      {
+        "id": "6449",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T19:37:17.037Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "6448",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T19:37:17.037Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "6446",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T19:37:17.038Z",
+        "amount": 18.02,
+        "status": "DONE"
+      },
+      {
+        "id": "6447",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T19:37:17.037Z",
+        "amount": 6.009999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

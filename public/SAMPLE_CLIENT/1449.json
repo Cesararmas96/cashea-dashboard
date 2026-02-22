@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T19:28:02.034Z",
+  "id": "729",
+  "amount": 32.04,
+  "invoiceId": "00016803",
+  "paidToMerchant": false,
+  "identifierNumber": 1449,
+  "billingDate": "2022-12-05T19:28:02.034Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25037148",
+      "fullName": "MARCEL GABRIEL MORETT OSORIO",
+      "phoneNumber": "+584242408174"
+    },
+    "installments": [
+      {
+        "id": "2367",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T19:28:23.171Z",
+        "amount": 5.34,
+        "status": "DONE"
+      },
+      {
+        "id": "2368",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T19:28:23.171Z",
+        "amount": 5.34,
+        "status": "DONE"
+      },
+      {
+        "id": "2366",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T19:28:23.172Z",
+        "amount": 16.02,
+        "status": "DONE"
+      },
+      {
+        "id": "2369",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T19:28:23.171Z",
+        "amount": 5.34,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

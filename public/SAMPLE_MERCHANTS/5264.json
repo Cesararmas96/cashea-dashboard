@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-16T13:32:43.422Z",
+  "updatedAt": "2025-04-24T14:11:54.759Z",
+  "id": 5264,
+  "name": "COMERCIAL SOMOS AMIGOS2050",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "3c5b9001-d0c4-46a8-80b9-9441dbbc84af",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ibrahimbz3@icloud.com",
+    "legalName": "Ibrahim Bzieh",
+    "phoneNumber": "04248859105"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-05T17:03:07.019Z",
+      "updatedAt": "2025-06-05T17:03:07.019Z",
+      "id": 15249,
+      "merchantId": 5264,
+      "name": "VR_COMERCIAL SOMOS AMIGOS2050",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4342,
+      "address": {
+        "name": "AV 5 DE JULIO LOCAL NRO 8-95",
+        "long": -64.67500000000001,
+        "lat": 10.124999999999993,
+        "location": "0101000020E610000034333333332B50C0FCFFFFFFFF3F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-16T13:35:12.379Z",
+      "updatedAt": "2025-04-16T13:35:12.379Z",
+      "id": 13045,
+      "merchantId": 5264,
+      "name": "COMERCIAL SOMOS AMIGOS2050 ANZOATEGUI",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4342,
+      "address": {
+        "name": "AV 5 DE JULIO LOCAL NRO 8-95",
+        "long": -64.67500000000001,
+        "lat": 10.124999999999993,
+        "location": "0101000020E610000034333333332B50C0FCFFFFFFFF3F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1347,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J404854185",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHEVERE SALUD, C.A.",
+    "internalBankHolder": "CHEVERE SALUD, C.A.",
+    "account": "01910098722198431389",
+    "accountType": "Corriente",
+    "phoneNumber": "4242508884",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1345,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J404854185",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHEVERE SALUD, C.A.",
+    "internalBankHolder": "CHEVERE SALUD, C.A.",
+    "account": "01910098722198431389",
+    "accountType": "Corriente",
+    "phoneNumber": "4242508884",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1346,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J404854185",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHEVERE SALUD, C.A.",
+    "internalBankHolder": "CHEVERE SALUD, C.A.",
+    "account": "01910098722198431389",
+    "accountType": "Corriente",
+    "phoneNumber": "4242508884",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1348,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J404854185",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CHEVERE SALUD, C.A.",
+    "internalBankHolder": "CHEVERE SALUD, C.A.",
+    "account": "01910098732398340544",
+    "accountType": "Custodia",
+    "phoneNumber": "4242508884",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

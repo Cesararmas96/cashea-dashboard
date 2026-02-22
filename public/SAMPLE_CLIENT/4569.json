@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:44:38.232Z",
+  "id": "4201",
+  "amount": 51.59,
+  "invoiceId": "12956",
+  "paidToMerchant": false,
+  "identifierNumber": 4569,
+  "billingDate": "2022-12-23T21:44:38.232Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18676461",
+      "fullName": "KLIBERLYN AGUSTINA MALDONADO MARIN",
+      "phoneNumber": "+584123267684"
+    },
+    "installments": [
+      {
+        "id": "14222",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:45:33.484Z",
+        "amount": 25.8,
+        "status": "DONE"
+      },
+      {
+        "id": "14225",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:45:33.484Z",
+        "amount": 8.596666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14224",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:45:33.484Z",
+        "amount": 8.596666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "14223",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:45:33.484Z",
+        "amount": 8.596666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 260,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J315450437",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REINALDO SPORT, CA",
+    "internalBankHolder": "REINALDO SPORT, CA",
+    "account": "01910098702198373584",
+    "accountType": "Corriente",
+    "phoneNumber": "4142365321",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 258,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J315450437",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REINALDO SPORT, CA",
+    "internalBankHolder": "REINALDO SPORT, CA",
+    "account": "01910098702198373584",
+    "accountType": "Corriente",
+    "phoneNumber": "4142365321",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 259,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J315450437",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REINALDO SPORT, CA",
+    "internalBankHolder": "REINALDO SPORT, CA",
+    "account": "01910098702198373584",
+    "accountType": "Corriente",
+    "phoneNumber": "4142365321",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 261,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J315450437",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "REINALDO SPORT, CA",
+    "internalBankHolder": "REINALDO SPORT, CA",
+    "account": "01910098762398269089",
+    "accountType": "Custodia ",
+    "phoneNumber": "4142365321",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

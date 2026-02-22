@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T22:47:22.734Z",
+  "id": "2619",
+  "amount": 109.25,
+  "invoiceId": "12496",
+  "paidToMerchant": false,
+  "identifierNumber": 3126,
+  "billingDate": "2022-12-19T22:47:22.734Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12454552",
+      "fullName": "TERESA ORTIZ PINO",
+      "phoneNumber": "+584122058982"
+    },
+    "installments": [
+      {
+        "id": "8597",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:48:00.834Z",
+        "amount": 18.206666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8594",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:48:00.834Z",
+        "amount": 54.63,
+        "status": "DONE"
+      },
+      {
+        "id": "8595",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:48:00.834Z",
+        "amount": 18.206666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8596",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:48:00.834Z",
+        "amount": 18.206666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

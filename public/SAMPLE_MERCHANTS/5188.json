@@ -1,0 +1,171 @@
+{
+  "createdAt": "2025-04-11T21:03:02.389Z",
+  "updatedAt": "2025-08-22T14:42:37.339Z",
+  "id": 5188,
+  "name": "Spiro Hair Restoration Center",
+  "ecommerceUrl": null,
+  "changePolicy": "Políticas de reserva y cambio de fechas\n\nReserva 200$ (No reembolsable ni transferible)\n\nLa Reserva 200$ es un pago inicial que confirma y asegura tu cupo. Es importante que tengas en cuenta que esta reserva no es reembolsable bajo ninguna circunstancia. Si decides cancelar o no asistir, el monto de la reserva se perderá por completo.\n\nAsimismo, la reserva es intransferible, lo que significa que no puede ser utilizada por otra persona o asignada a un servicio o evento diferente. El nombre del titular de la reserva es el único autorizado para hacer uso de ella.\n\nCambio de fechas (con un límite de 3 meses)\n\nEntendemos que los planes pueden cambiar, por lo que ofrecemos la posibilidad de cambiar la fecha de tu servicio. Si necesitas realizar una modificación, debes solicitarla con antelación.\n\nEste cambio te permite reprogramar tu servicio para una fecha futura, con un plazo máximo de 3 meses a partir de la fecha original de tu reserva. Si el cambio se solicita después de este período, la reserva se considerará cancelada y se perderá el monto pagado.\n",
+  "email": "Admspiro1@gmail.com",
+  "phoneNumber": "+584126882430",
+  "logoUrl": null,
+  "data": {
+    "properties": {
+      "more_installments_in_store": true
+    }
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d24f20ef-c9c7-46fe-a210-afba9a98e358",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "spirohairclinic@gmail.com",
+    "legalName": "Carlotta",
+    "phoneNumber": "4142497081"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T18:27:38.560Z",
+      "updatedAt": "2025-05-22T18:27:38.560Z",
+      "id": 14543,
+      "merchantId": 5188,
+      "name": "VR_Spiro Hair Restoration Center",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11687,
+      "address": {
+        "name": "Av Circunvalacion del sol Edif Santa Paula Plaza II Piso 5 OF 504 Sector F-Urbanizacion Santa Paula Caracas ( El Cefetal )",
+        "long": -66.83993749999999,
+        "lat": 10.463687500000006,
+        "location": "0101000020E6100000C64B3789C1B550C0C820B07268ED2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-11T21:04:40.178Z",
+      "updatedAt": "2025-04-11T21:04:40.178Z",
+      "id": 12875,
+      "merchantId": 5188,
+      "name": "Spiro Hair Restoration Center Edif Santa Paula Plaza",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11687,
+      "address": {
+        "name": "Av Circunvalacion del sol Edif Santa Paula Plaza II Piso 5 OF 504 Sector F-Urbanizacion Santa Paula Caracas ( El Cefetal )",
+        "long": -66.83993749999999,
+        "lat": 10.463687500000006,
+        "location": "0101000020E6100000C64B3789C1B550C0C820B07268ED2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-01T15:14:58.708Z",
+      "updatedAt": "2025-08-22T14:42:37.270Z",
+      "id": 18487,
+      "merchantId": 5188,
+      "name": "Spiro Hair Restoration Center Marketplace",
+      "statusId": 1,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11687,
+      "address": {
+        "name": "Spiro Hair Restoration Center",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    },
+    {
+      "id": 3,
+      "name": "SPLIT_6",
+      "data": {
+        "minimumLevel": 3,
+        "installmentsAmount": 7,
+        "installmentsInterestRate": 0,
+        "installmentFirstPayment": 0,
+        "installmentGracePeriod": 0,
+        "installmentsFrequency": {
+          "number": 2,
+          "unit": "week"
+        }
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Modo 6 cuotas"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T22:08:36.635Z",
+  "id": "2890",
+  "amount": 107.59,
+  "invoiceId": "13627",
+  "paidToMerchant": false,
+  "identifierNumber": 3358,
+  "billingDate": "2022-12-20T22:08:36.635Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-03T04:00:01.066+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "9537",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18010290",
+      "fullName": "JOSE ANTONIO LUGO CAMEJO",
+      "phoneNumber": "+584242459523"
+    },
+    "installments": [
+      {
+        "id": "9537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:12:28.096Z",
+        "amount": 17.930000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "9534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:12:28.097Z",
+        "amount": 53.8,
+        "status": "DONE"
+      },
+      {
+        "id": "9536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:12:28.096Z",
+        "amount": 17.930000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "9535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:12:28.096Z",
+        "amount": 17.930000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

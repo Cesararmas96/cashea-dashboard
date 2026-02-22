@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T15:18:27.193Z",
+  "id": "4546",
+  "amount": 80,
+  "invoiceId": "9475",
+  "paidToMerchant": false,
+  "identifierNumber": 4919,
+  "billingDate": "2022-12-24T15:18:27.193Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11305849",
+      "fullName": "JUAN PABLO DE ABREU DE JESUS",
+      "phoneNumber": "+584122921182"
+    },
+    "installments": [
+      {
+        "id": "15508",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:19:12.147Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15506",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:19:12.148Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "15509",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:19:12.147Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "15507",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:19:12.147Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

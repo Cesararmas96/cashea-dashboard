@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:54:48.279Z",
+  "id": "2706",
+  "amount": 39.96,
+  "invoiceId": "12525",
+  "paidToMerchant": false,
+  "identifierNumber": 3148,
+  "billingDate": "2022-12-20T01:54:48.279Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "636.732",
+      "fullName": "FERNANDO TORRES BARRUETA",
+      "phoneNumber": "+584141254689"
+    },
+    "installments": [
+      {
+        "id": "8906",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:55:11.234Z",
+        "amount": 19.98,
+        "status": "DONE"
+      },
+      {
+        "id": "8909",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:55:11.234Z",
+        "amount": 6.66,
+        "status": "DONE"
+      },
+      {
+        "id": "8907",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:55:11.234Z",
+        "amount": 6.66,
+        "status": "DONE"
+      },
+      {
+        "id": "8908",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:55:11.234Z",
+        "amount": 6.66,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

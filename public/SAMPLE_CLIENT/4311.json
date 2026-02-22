@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T23:26:46.057Z",
+  "id": "5148",
+  "amount": 69.01,
+  "invoiceId": "15235",
+  "paidToMerchant": false,
+  "identifierNumber": 4311,
+  "billingDate": "2022-12-26T23:26:46.057Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10527847",
+      "fullName": "MARISOL CARRERO MELENDEZ",
+      "phoneNumber": "+584142407777"
+    },
+    "installments": [
+      {
+        "id": "17638",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:27:14.695Z",
+        "amount": 34.51,
+        "status": "DONE"
+      },
+      {
+        "id": "17641",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:27:14.694Z",
+        "amount": 11.500000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17640",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:27:14.694Z",
+        "amount": 11.500000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17639",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:27:14.694Z",
+        "amount": 11.500000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

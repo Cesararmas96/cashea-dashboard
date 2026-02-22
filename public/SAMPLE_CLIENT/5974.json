@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:54:46.926Z",
+  "id": "5687",
+  "amount": 130.45,
+  "invoiceId": "13952",
+  "paidToMerchant": false,
+  "identifierNumber": 5974,
+  "billingDate": "2022-12-28T23:54:46.926Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29662671",
+      "fullName": "DAYERLIN MARIALY RIVAS ALVAREZ",
+      "phoneNumber": "+584241807531"
+    },
+    "installments": [
+      {
+        "id": "19642",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T00:25:47.508Z",
+        "amount": 65.22,
+        "status": "DONE"
+      },
+      {
+        "id": "19645",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T00:25:47.507Z",
+        "amount": 21.74333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19644",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T00:25:47.507Z",
+        "amount": 21.74333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19643",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T00:25:47.507Z",
+        "amount": 21.74333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-14T15:37:20.751Z",
+  "id": "1406",
+  "amount": 64.9948,
+  "invoiceId": "10473",
+  "paidToMerchant": false,
+  "identifierNumber": 1988,
+  "billingDate": "2022-12-14T15:37:20.751Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23102133",
+      "fullName": "JEYNER DAVID MARQUEZ FIGUERA",
+      "phoneNumber": "+584242158292"
+    },
+    "installments": [
+      {
+        "id": "4537",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T15:37:20.795Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "4535",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T15:37:20.795Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "4536",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T15:37:20.795Z",
+        "amount": 10.8316,
+        "status": "DONE"
+      },
+      {
+        "id": "4534",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T15:37:20.795Z",
+        "amount": 32.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 57,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

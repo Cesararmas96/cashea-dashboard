@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:33:18.160Z",
+  "id": "4820",
+  "amount": 30.17,
+  "invoiceId": "7136",
+  "paidToMerchant": false,
+  "identifierNumber": 5083,
+  "billingDate": "2022-12-24T19:33:18.160Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18750088",
+      "fullName": "EDWARD FELIX ANDRES APONTE BLANCO",
+      "phoneNumber": "+584242013267"
+    },
+    "installments": [
+      {
+        "id": "16514",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:36:37.742Z",
+        "amount": 15.09,
+        "status": "DONE"
+      },
+      {
+        "id": "16515",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:36:37.742Z",
+        "amount": 5.026666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16517",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:36:37.742Z",
+        "amount": 5.026666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16516",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:36:37.742Z",
+        "amount": 5.026666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

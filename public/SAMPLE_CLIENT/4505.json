@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:43:34.849Z",
+  "id": "4120",
+  "amount": 132.96,
+  "invoiceId": "13785",
+  "paidToMerchant": false,
+  "identifierNumber": 4505,
+  "billingDate": "2022-12-23T20:43:34.849Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19510198",
+      "fullName": "EYRA VICTORIA MORALES MANZANARES",
+      "phoneNumber": "+584142462356"
+    },
+    "installments": [
+      {
+        "id": "13934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:44:46.901Z",
+        "amount": 66.48,
+        "status": "DONE"
+      },
+      {
+        "id": "13935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:44:46.901Z",
+        "amount": 22.16,
+        "status": "DONE"
+      },
+      {
+        "id": "13937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:44:46.901Z",
+        "amount": 22.16,
+        "status": "DONE"
+      },
+      {
+        "id": "13936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:44:46.901Z",
+        "amount": 22.16,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

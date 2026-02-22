@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:52:16.714Z",
+  "id": "3480",
+  "amount": 224,
+  "invoiceId": "40001716",
+  "paidToMerchant": false,
+  "identifierNumber": 3905,
+  "billingDate": "2022-12-22T18:52:16.714Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "8757736",
+      "fullName": "MARTIN FELICIANO CASTILLO ROMERO",
+      "phoneNumber": "+584169051997"
+    },
+    "installments": [
+      {
+        "id": "11634",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:53:27.314Z",
+        "amount": 124,
+        "status": "DONE"
+      },
+      {
+        "id": "11637",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:53:27.313Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "11635",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:53:27.313Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "11636",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:53:27.313Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

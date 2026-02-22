@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T20:45:50.550Z",
+  "id": "1366",
+  "amount": 36.8,
+  "invoiceId": "11930",
+  "paidToMerchant": false,
+  "identifierNumber": 1984,
+  "billingDate": "2022-12-13T20:45:50.550Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27245757",
+      "fullName": "LUIS JOSE OSTOS APONTE",
+      "phoneNumber": "+584129050135"
+    },
+    "installments": [
+      {
+        "id": "4413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T20:47:13.581Z",
+        "amount": 6.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T20:47:13.581Z",
+        "amount": 6.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T20:47:13.581Z",
+        "amount": 6.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T20:47:13.582Z",
+        "amount": 18.4,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

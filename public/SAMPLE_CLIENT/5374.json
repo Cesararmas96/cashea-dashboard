@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T19:45:31.339Z",
+  "id": "5046",
+  "amount": 157.33,
+  "invoiceId": "49358",
+  "paidToMerchant": false,
+  "identifierNumber": 5374,
+  "billingDate": "2022-12-26T19:45:31.339Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18369459",
+      "fullName": "YUSLEIBIS CAROLINA VELASQUEZ REYES",
+      "phoneNumber": "+584128218274"
+    },
+    "installments": [
+      {
+        "id": "17306",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T19:45:59.523Z",
+        "amount": 78.67,
+        "status": "DONE"
+      },
+      {
+        "id": "17308",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T19:45:59.522Z",
+        "amount": 26.220000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17309",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T19:45:59.522Z",
+        "amount": 26.220000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "17307",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T19:45:59.522Z",
+        "amount": 26.220000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

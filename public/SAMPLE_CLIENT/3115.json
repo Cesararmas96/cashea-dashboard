@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T22:46:35.713Z",
+  "id": "2618",
+  "amount": 39.99,
+  "invoiceId": "00001550",
+  "paidToMerchant": false,
+  "identifierNumber": 3115,
+  "billingDate": "2022-12-19T22:46:35.713Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26647304",
+      "fullName": "JOSE MANUEL TEIXEIRA DE GOUVEIA",
+      "phoneNumber": "+584143362554"
+    },
+    "installments": [
+      {
+        "id": "8590",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:47:10.844Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "8593",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:47:10.843Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8591",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:47:10.843Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8592",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:47:10.843Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

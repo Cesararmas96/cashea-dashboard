@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-28T15:30:41.655Z",
+  "updatedAt": "2025-04-29T20:25:26.698Z",
+  "id": 5426,
+  "name": "MUZ",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "73d29023-8f64-406d-a66d-f59e6e95a45d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "muzmcbo@gmail.com",
+    "legalName": "Francisco Santamaria",
+    "phoneNumber": "+584140625635"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T15:33:49.014Z",
+      "updatedAt": "2025-04-28T15:33:49.014Z",
+      "id": 13343,
+      "merchantId": 5426,
+      "name": "MUZ Mall Paseo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6717,
+      "address": {
+        "name": "MUZ Mall Paseo",
+        "long": -71.6188125,
+        "lat": 10.555937499999985,
+        "location": "0101000020E6100000C976BE9F9AE751C0683D0AD7A31C2540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T15:40:34.340Z",
+      "updatedAt": "2025-04-28T15:40:34.340Z",
+      "id": 13345,
+      "merchantId": 5426,
+      "name": "Mercadito USA Ciudad Ojeda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6717,
+      "address": {
+        "name": "MUZ Ciudad Ojeda",
+        "long": -71.3184375,
+        "lat": 10.195187500000003,
+        "location": "0101000020E61000007B14AE4761D451C0102DB29DEF632440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

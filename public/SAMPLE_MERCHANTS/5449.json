@@ -1,0 +1,152 @@
+{
+  "createdAt": "2025-04-29T13:18:24.143Z",
+  "updatedAt": "2025-06-16T19:42:17.529Z",
+  "id": 5449,
+  "name": "Marine Parts Tucacas",
+  "ecommerceUrl": null,
+  "changePolicy": "Condiciones Generales para Cambios y Devoluciones\nPlazo: Tienes un plazo de treinta (30) días calendario a partir de la fecha de compra para solicitar un cambio o devolución.\nEstado del Producto: Para que un producto sea elegible para cambio o devolución, debe estar en perfectas condiciones, sin usar, sin instalar, sin daños y en su empaque original (incluyendo manuales, etiquetas, precintos y accesorios). No se aceptarán productos que muestren signos de uso, instalación o manipulación.\nFactura/Recibo: Es indispensable presentar la factura o recibo de compra original para cualquier solicitud de cambio o devolución.\nProductos No Retornables: Algunos productos no son elegibles para cambio o devolución debido a su naturaleza. Estos incluyen:\n•\tProductos electrónicos que hayan sido instalados o activados.\n•\tProductos personalizados o fabricados a medida.\n•\tLíquidos, aceites, lubricantes y químicos que hayan sido abiertos o utilizados.\n•\tArtículos de seguridad (chalecos salvavidas, bengalas, etc.) una vez abiertos sus empaques.\n",
+  "email": "marinepartstucacas@gmail.com",
+  "phoneNumber": "+584244694350",
+  "logoUrl": null,
+  "data": {
+    "rif": "J412721186"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "51c5d5ca-b12d-4582-905d-6cd68046c3b1",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "marinepartstucacas@gmail.com",
+    "legalName": "Alejandro",
+    "phoneNumber": "04244694350"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T18:11:54.676Z",
+      "updatedAt": "2025-05-13T18:11:54.676Z",
+      "id": 14063,
+      "merchantId": 5449,
+      "name": "vr_Marine Parts Tucacas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6617,
+      "address": {
+        "name": "Mimossas Calle 13 Guanare",
+        "long": -69.7491875,
+        "lat": 9.044937500000003,
+        "location": "0101000020E61000009CC420B0F26F51C060BA490C02172240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-16T14:26:33.159Z",
+      "updatedAt": "2025-06-16T14:26:33.159Z",
+      "id": 15713,
+      "merchantId": 5449,
+      "name": "Marine Parts Tucacas Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6617,
+      "address": {
+        "name": "marinepartstucacas@gmail.com",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T13:19:48.931Z",
+      "updatedAt": "2025-04-29T13:19:48.931Z",
+      "id": 13411,
+      "merchantId": 5449,
+      "name": "Marine Parts Tucacas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6617,
+      "address": {
+        "name": "CARRETERA NACIONAL MORON - CORO, EDIFICIO SEVERINO PB LOCAL L-3, TUCACAS ESTADO FALCON",
+        "long": -68.3234375,
+        "lat": 10.788062499999995,
+        "location": "0101000020E610000033333333B31451C0706891ED7C932540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

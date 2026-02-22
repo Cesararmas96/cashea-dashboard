@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-04T16:58:52.398Z",
+  "updatedAt": "2025-04-22T15:28:30.188Z",
+  "id": 5052,
+  "name": "OFTALMOCENTER ",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9d861987-e1a3-4d9c-8904-12d1132a6fc4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "oftalmocentercpv@gmail.com",
+    "legalName": "Gabriela",
+    "phoneNumber": "04144120378"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T18:03:56.187Z",
+      "updatedAt": "2025-04-04T18:03:56.187Z",
+      "id": 12625,
+      "merchantId": 5052,
+      "name": "OFTALMOCENTER La Viña",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11613,
+      "address": {
+        "name": "CENTRO POLICLÍNICO VALENCIA TORRE C PISO 2 CONSULTORIO 2-11 LA VIÑA VALENCIA ESTADO CARABOBO",
+        "long": -68.0159375,
+        "lat": 10.220312499999991,
+        "location": "0101000020E6100000EC51B81E050151C0C8CCCCCCCC702440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-22T18:53:16.750Z",
+      "updatedAt": "2025-05-22T18:53:16.750Z",
+      "id": 14546,
+      "merchantId": 5052,
+      "name": "VR_OFTALMOCENTER",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11613,
+      "address": {
+        "name": "CENTRO POLICLÍNICO VALENCIA TORRE C PISO 2 CONSULTORIO 2-11 LA VIÑA VALENCIA ESTADO CARABOBO",
+        "long": -68.0159375,
+        "lat": 10.220312499999991,
+        "location": "0101000020E6100000EC51B81E050151C0C8CCCCCCCC702440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

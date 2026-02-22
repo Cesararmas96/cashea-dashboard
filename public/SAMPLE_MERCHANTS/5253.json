@@ -1,0 +1,151 @@
+{
+  "createdAt": "2025-04-15T16:00:15.153Z",
+  "updatedAt": "2025-07-31T12:53:14.694Z",
+  "id": 5253,
+  "name": "Kaiser Store",
+  "ecommerceUrl": null,
+  "changePolicy": "Los cambios deben solicitarse de inmediato. Una vez que reciba el producto, tendrá un plazo de 24 horas para solicitar la devolución. Es importante que el producto no tenga ningún daño o detalle, ya que esto es necesario para que podamos asumir nuestra garantía.\n\n(Todos nuestros productos son revisados y probados antes de realizar el envío).",
+  "email": "Kaiserstoreve@gmail.com",
+  "phoneNumber": "+584147622901",
+  "logoUrl": null,
+  "data": {
+    "rif": "J505756885"
+  },
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "904c2407-e376-41b8-9b8c-d8bc89ba55cd",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "diegoalekaiser@gmail.com",
+    "legalName": "Diego Centeno",
+    "phoneNumber": "4128701363"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-29T15:01:42.246Z",
+      "updatedAt": "2025-07-29T15:01:42.246Z",
+      "id": 18261,
+      "merchantId": 5253,
+      "name": "VR Kaiser Store",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4906,
+      "address": {
+        "name": "Kaiser Store Maturin",
+        "long": -63.19093750000002,
+        "lat": 9.782312500000003,
+        "location": "0101000020E6100000400AD7A370984FC0088195438B902340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-07-29T14:08:19.067Z",
+      "updatedAt": "2025-07-29T14:08:19.067Z",
+      "id": 18253,
+      "merchantId": 5253,
+      "name": "Kaiser Store Maturín Marketplace",
+      "statusId": 1,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4906,
+      "address": {
+        "name": "Kaiser Store Maturin",
+        "long": -63.19093750000002,
+        "lat": 9.782312500000003,
+        "location": "0101000020E6100000400AD7A370984FC0088195438B902340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-15T16:54:25.364Z",
+      "updatedAt": "2025-04-15T16:54:25.364Z",
+      "id": 13020,
+      "merchantId": 5253,
+      "name": "Kaiser Store Maturin",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4906,
+      "address": {
+        "name": "Kaiser Store Maturin",
+        "long": -63.19093750000002,
+        "lat": 9.782312500000003,
+        "location": "0101000020E6100000400AD7A370984FC0088195438B902340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

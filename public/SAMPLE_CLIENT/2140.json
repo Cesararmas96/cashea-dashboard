@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-31T22:39:28.913Z",
+  "id": "7168",
+  "amount": 35.49,
+  "invoiceId": "30,57",
+  "paidToMerchant": false,
+  "identifierNumber": 2140,
+  "billingDate": "2022-12-31T22:39:28.913Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25306258",
+      "fullName": "LEYDI ESTEFANIA VARGAS VIVAS",
+      "phoneNumber": "+584242700428"
+    },
+    "installments": [
+      {
+        "id": "24845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T22:39:41.173Z",
+        "amount": 5.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "24844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T22:39:41.173Z",
+        "amount": 5.913333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "24842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T22:39:41.174Z",
+        "amount": 17.75,
+        "status": "DONE"
+      },
+      {
+        "id": "24843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T22:39:41.173Z",
+        "amount": 5.913333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

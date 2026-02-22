@@ -1,0 +1,110 @@
+[
+  {
+    "id": 518,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502455744",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PENGUIN 6 C.A",
+    "internalBankHolder": "PENGUIN 6 C.A",
+    "account": "01910161492100062998",
+    "accountType": "Corriente",
+    "phoneNumber": "4248117991",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 519,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502455744",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PENGUIN 6 C.A",
+    "internalBankHolder": "PENGUIN 6 C.A",
+    "account": "01910161492100062998",
+    "accountType": "Corriente",
+    "phoneNumber": "4248117991",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 521,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502455744",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "PENGUIN 6 C.A",
+    "internalBankHolder": "PENGUIN 6 C.A",
+    "account": "01910161452300017380",
+    "accountType": "Custodia",
+    "phoneNumber": "4248117991",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

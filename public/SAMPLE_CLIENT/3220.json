@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T15:49:14.224Z",
+  "id": "2726",
+  "amount": 52.51,
+  "invoiceId": "13739",
+  "paidToMerchant": false,
+  "identifierNumber": 3220,
+  "billingDate": "2022-12-20T15:49:14.224Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19710696",
+      "fullName": "JORDAN ALEXANDER DURAN BETANCOURT",
+      "phoneNumber": "+584141519974"
+    },
+    "installments": [
+      {
+        "id": "8982",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T15:49:56.160Z",
+        "amount": 26.25,
+        "status": "DONE"
+      },
+      {
+        "id": "8985",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T15:49:56.159Z",
+        "amount": 8.753333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8983",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T15:49:56.159Z",
+        "amount": 8.753333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "8984",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T15:49:56.159Z",
+        "amount": 8.753333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

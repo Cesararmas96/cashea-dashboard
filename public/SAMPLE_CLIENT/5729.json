@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:52:44.220Z",
+  "id": "5477",
+  "amount": 31.76,
+  "invoiceId": "13346",
+  "paidToMerchant": false,
+  "identifierNumber": 5729,
+  "billingDate": "2022-12-28T18:52:44.220Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25213637",
+      "fullName": "JOCELYN LORENA MORALES PONCE",
+      "phoneNumber": "+584160594256"
+    },
+    "installments": [
+      {
+        "id": "18814",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:53:01.117Z",
+        "amount": 15.88,
+        "status": "DONE"
+      },
+      {
+        "id": "18817",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:53:01.116Z",
+        "amount": 5.293333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18816",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:53:01.116Z",
+        "amount": 5.293333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "18815",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:53:01.116Z",
+        "amount": 5.293333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

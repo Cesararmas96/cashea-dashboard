@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T19:22:39.764Z",
+  "id": "1722",
+  "amount": 99.42,
+  "invoiceId": "12179",
+  "paidToMerchant": false,
+  "identifierNumber": 2331,
+  "billingDate": "2022-12-16T19:22:39.764Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24672842",
+      "fullName": "ALEJANDRA INES PETAQUERO ZARZA",
+      "phoneNumber": "+584120209101"
+    },
+    "installments": [
+      {
+        "id": "5541",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T19:26:42.066Z",
+        "amount": 16.57,
+        "status": "DONE"
+      },
+      {
+        "id": "5539",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T19:26:42.066Z",
+        "amount": 16.57,
+        "status": "DONE"
+      },
+      {
+        "id": "5540",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T19:26:42.066Z",
+        "amount": 16.57,
+        "status": "DONE"
+      },
+      {
+        "id": "5538",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T19:26:42.067Z",
+        "amount": 49.71,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

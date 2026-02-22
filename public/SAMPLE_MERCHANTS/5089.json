@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-07T14:47:05.056Z",
+  "updatedAt": "2025-04-15T13:34:50.219Z",
+  "id": 5089,
+  "name": "OPTIRANGO",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "402eb308-faaf-4c98-a540-cf6c7d70e8c3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jhonnytorresforro@gmail.com",
+    "legalName": "Jhonny",
+    "phoneNumber": "4246406797"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T16:08:56.855Z",
+      "updatedAt": "2025-05-06T16:08:56.855Z",
+      "id": 13651,
+      "merchantId": 5089,
+      "name": "VR_OPTIRANGO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7149,
+      "address": {
+        "name": "AV URDANETA ESQUINA DE IBARRAS A PELOTAS EDIF CENTRO PROFECIONAL URDANETA PISO 7 OF 7-D",
+        "long": -73.91168750000001,
+        "lat": 42.5073125,
+        "location": "0101000020E6100000032B8716597A52C00E2DB29DEF404540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-07T14:48:48.939Z",
+      "updatedAt": "2025-04-07T14:48:48.939Z",
+      "id": 12662,
+      "merchantId": 5089,
+      "name": "OPTI RANGO AV URDANETA CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7149,
+      "address": {
+        "name": "AV URDANETA ESQUINA DE IBARRAS A PELOTAS EDIF CENTRO PROFECIONAL URDANETA PISO 7 OF 7-D",
+        "long": -73.91168750000001,
+        "lat": 42.5073125,
+        "location": "0101000020E6100000032B8716597A52C00E2DB29DEF404540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

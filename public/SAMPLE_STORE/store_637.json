@@ -1,0 +1,110 @@
+[
+  {
+    "id": 348,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J002711442",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "FERRETERIA EPA, C.A.",
+    "internalBankHolder": "FERRETERIA EPA, C.A. ",
+    "account": "01910127422100270645",
+    "accountType": "Corriente",
+    "phoneNumber": "04244041780",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 346,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J002711442",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "FERRETERIA EPA, C.A.",
+    "internalBankHolder": "FERRETERIA EPA, C.A. ",
+    "account": "01910127422100270645",
+    "accountType": "Corriente",
+    "phoneNumber": "04244041780",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 347,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J002711442",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "FERRETERIA EPA, C.A.",
+    "internalBankHolder": "FERRETERIA EPA, C.A. ",
+    "account": "01910127422100270645",
+    "accountType": "Corriente",
+    "phoneNumber": "04244041780",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Pago Móvil",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Tarjeta",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:10:05.127Z",
+  "id": "4793",
+  "amount": 52.54,
+  "invoiceId": "13851",
+  "paidToMerchant": false,
+  "identifierNumber": 5048,
+  "billingDate": "2022-12-24T19:10:05.127Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6917998",
+      "fullName": "ISABEL MARIA CONTASTI PINANGO",
+      "phoneNumber": "+584166211541"
+    },
+    "installments": [
+      {
+        "id": "16418",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:11:08.743Z",
+        "amount": 26.27,
+        "status": "DONE"
+      },
+      {
+        "id": "16421",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:11:08.742Z",
+        "amount": 8.756666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16420",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:11:08.742Z",
+        "amount": 8.756666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "16419",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:11:08.742Z",
+        "amount": 8.756666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

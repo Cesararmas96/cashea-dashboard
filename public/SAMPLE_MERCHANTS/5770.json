@@ -1,0 +1,178 @@
+{
+  "createdAt": "2025-05-14T16:47:49.211Z",
+  "updatedAt": "2025-05-23T21:32:59.751Z",
+  "id": 5770,
+  "name": "Comercial Siriatus 2003",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 870,
+  "tags": [],
+  "uuid": "ee531810-f4c8-4fd1-91c9-df9325c0f304",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "csiriatus@gmail.com",
+    "legalName": "Basil Baddour",
+    "phoneNumber": "4241679005"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-09-12T14:00:45.516Z",
+      "updatedAt": "2025-09-12T14:00:45.516Z",
+      "id": 21295,
+      "merchantId": 5770,
+      "name": "Comercial Siriatus 2003 Calle 19 De Abril  Guatire Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4341,
+      "address": {
+        "name": "Guatire Calle 19 de Abril Local Nro 27",
+        "long": -66.53875,
+        "lat": 10.458749999999995,
+        "location": "0101000020E610000014AE47E17AA250C07814AE47E1EA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-09-12T14:26:46.088Z",
+      "updatedAt": "2025-09-12T14:26:46.088Z",
+      "id": 21307,
+      "merchantId": 5770,
+      "name": "Comercial Siriatus 2003 Calle Miranda Guatire Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4341,
+      "address": {
+        "name": "Guatire Calle Miranda Local Nro 87",
+        "long": -66.53875,
+        "lat": 10.458749999999995,
+        "location": "0101000020E610000014AE47E17AA250C07814AE47E1EA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T16:50:29.015Z",
+      "updatedAt": "2025-05-14T16:50:29.015Z",
+      "id": 14126,
+      "merchantId": 5770,
+      "name": "Comercial Siriatus 2003 Guatire",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 870,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4341,
+      "address": {
+        "name": "Av Bermudez Local Nro s/n casco central de Guatire",
+        "long": -66.53875,
+        "lat": 10.458749999999995,
+        "location": "0101000020E610000014AE47E17AA250C07814AE47E1EA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T19:04:09.831Z",
+      "updatedAt": "2025-05-14T19:04:09.831Z",
+      "id": 14129,
+      "merchantId": 5770,
+      "name": "Comercial Siriatus 2003 Local 42 Guatire",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 870,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4341,
+      "address": {
+        "name": "Av Bermudez Local Nro 42 casco central de Guatire",
+        "long": -66.53875,
+        "lat": 10.458749999999995,
+        "location": "0101000020E610000014AE47E17AA250C07814AE47E1EA2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

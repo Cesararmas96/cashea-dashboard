@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:36:57.705Z",
+  "id": "3589",
+  "amount": 48.69,
+  "invoiceId": "8986",
+  "paidToMerchant": false,
+  "identifierNumber": 3978,
+  "billingDate": "2022-12-22T21:36:57.705Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18140964",
+      "fullName": "GARCIA FELA",
+      "phoneNumber": "+584242668861"
+    },
+    "installments": [
+      {
+        "id": "12037",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:39:39.894Z",
+        "amount": 8.116666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "12034",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:39:39.895Z",
+        "amount": 24.34,
+        "status": "DONE"
+      },
+      {
+        "id": "12036",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:39:39.894Z",
+        "amount": 8.116666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "12035",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:39:39.894Z",
+        "amount": 8.116666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-17T18:48:32.998Z",
+  "id": "10076",
+  "amount": 67.85,
+  "invoiceId": "45845",
+  "paidToMerchant": false,
+  "identifierNumber": 1321,
+  "billingDate": "2023-01-17T18:48:32.998Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26014443",
+      "fullName": "THEQESCARLETH ROSALES ZAMBRANO",
+      "phoneNumber": "+584123066787"
+    },
+    "installments": [
+      {
+        "id": "30152",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-14T18:48:51.321Z",
+        "amount": 11.309999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "30153",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-28T18:48:51.321Z",
+        "amount": 11.309999999999997,
+        "status": "DONE"
+      },
+      {
+        "id": "30150",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-17T18:48:51.322Z",
+        "amount": 33.92,
+        "status": "DONE"
+      },
+      {
+        "id": "30151",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-31T18:48:51.321Z",
+        "amount": 11.309999999999997,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

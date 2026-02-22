@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T23:17:49.715Z",
+  "id": "2959",
+  "amount": 63.97,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3453,
+  "billingDate": "2022-12-20T23:17:49.715Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25964956",
+      "fullName": "JEFFERSON ANTONIO NUNEZ VALENZUELA",
+      "phoneNumber": "+584125433634"
+    },
+    "installments": [
+      {
+        "id": "9795",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T23:32:10.704Z",
+        "amount": 10.663333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9797",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T23:32:10.704Z",
+        "amount": 10.663333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9794",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T23:32:10.704Z",
+        "amount": 31.98,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "9796",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T23:32:10.704Z",
+        "amount": 10.663333333333332,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

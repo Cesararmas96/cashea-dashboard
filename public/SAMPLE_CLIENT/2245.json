@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T23:42:47.179Z",
+  "id": "1636",
+  "amount": 47.39,
+  "invoiceId": "43704",
+  "paidToMerchant": false,
+  "identifierNumber": 2245,
+  "billingDate": "2022-12-15T23:42:47.179Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "5425793",
+      "fullName": "YOLANDA RODRIGUEZ LUCERO",
+      "phoneNumber": "+584141112398"
+    },
+    "installments": [
+      {
+        "id": "5273",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T23:43:23.521Z",
+        "amount": 7.896666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5271",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T23:43:23.521Z",
+        "amount": 7.896666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5272",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T23:43:23.521Z",
+        "amount": 7.896666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5270",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T23:43:23.521Z",
+        "amount": 23.7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

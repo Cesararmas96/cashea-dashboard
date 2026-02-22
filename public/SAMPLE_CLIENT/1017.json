@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T17:55:18.255Z",
+  "id": "6888",
+  "amount": 112.59,
+  "invoiceId": "00002552",
+  "paidToMerchant": false,
+  "identifierNumber": 1017,
+  "billingDate": "2022-12-31T17:55:18.255Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-17T04:00:01.073+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "23807",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25990747",
+      "fullName": "MARIA JOSE BARRA HERNANDEZ",
+      "phoneNumber": "+584241278180"
+    },
+    "installments": [
+      {
+        "id": "23807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T17:55:29.452Z",
+        "amount": 17.67,
+        "status": "DELAYED"
+      },
+      {
+        "id": "23808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T17:55:29.452Z",
+        "amount": 17.67,
+        "status": "DELAYED"
+      },
+      {
+        "id": "23809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T17:55:29.452Z",
+        "amount": 17.67,
+        "status": "DELAYED"
+      },
+      {
+        "id": "23806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T17:55:29.452Z",
+        "amount": 59.58,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T00:28:30.476Z",
+  "id": "2430",
+  "amount": 54.9,
+  "invoiceId": "11228",
+  "paidToMerchant": false,
+  "identifierNumber": 2928,
+  "billingDate": "2022-12-19T00:28:30.476Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22649105",
+      "fullName": "THAHIRYS MARIAN ALEMAN MORILLO",
+      "phoneNumber": "+584142689898"
+    },
+    "installments": [
+      {
+        "id": "8005",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T00:28:57.741Z",
+        "amount": 9.15,
+        "status": "DONE"
+      },
+      {
+        "id": "8002",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T00:28:57.741Z",
+        "amount": 27.45,
+        "status": "DONE"
+      },
+      {
+        "id": "8003",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T00:28:57.741Z",
+        "amount": 9.15,
+        "status": "DONE"
+      },
+      {
+        "id": "8004",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T00:28:57.741Z",
+        "amount": 9.15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

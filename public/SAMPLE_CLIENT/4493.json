@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:42:34.107Z",
+  "id": "4116",
+  "amount": 78.7,
+  "invoiceId": "00002093",
+  "paidToMerchant": false,
+  "identifierNumber": 4493,
+  "billingDate": "2022-12-23T20:42:34.107Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-23T04:00:01.248+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "13920",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25915155",
+      "fullName": "KEIBER JAVIER SEGOVIA VILLALONGA",
+      "phoneNumber": "+584242642422"
+    },
+    "installments": [
+      {
+        "id": "13920",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:42:41.373Z",
+        "amount": 13.116666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13918",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:42:41.374Z",
+        "amount": 39.35,
+        "status": "DONE"
+      },
+      {
+        "id": "13921",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:42:41.373Z",
+        "amount": 13.116666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "13919",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:42:41.373Z",
+        "amount": 13.116666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

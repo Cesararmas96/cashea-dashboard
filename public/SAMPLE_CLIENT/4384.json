@@ -1,0 +1,73 @@
+{
+  "createdAt": "2023-02-07T14:45:18.248Z",
+  "id": "12638",
+  "amount": 76.6992,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4384,
+  "billingDate": "2023-02-07T14:45:18.248Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": null,
+    "buyDebtDate": "2023-03-10T04:00:01.461+00:00",
+    "lastStoreId": 105,
+    "boughtForInstallmentId": "39280",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19564869",
+      "fullName": "MARINA DEL CARMEN ROJAS BELLO",
+      "phoneNumber": "+584241466334"
+    },
+    "installments": [
+      {
+        "id": "39280",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-07T14:45:18.291Z",
+        "amount": 12.783066666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "39279",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-21T14:45:18.291Z",
+        "amount": 12.783066666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "39278",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-07T14:45:18.292Z",
+        "amount": 38.35,
+        "status": "DONE"
+      },
+      {
+        "id": "39281",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-21T14:45:18.291Z",
+        "amount": 12.783066666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2588,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

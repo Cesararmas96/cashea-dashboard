@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1254,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J413138530",
+    "bankName": "Banesco",
+    "bankHolder": "INVERSIONES ORIENTE 20.20, C.A",
+    "internalBankHolder": "INVERSIONES ORIENTE 20.20 C.A",
+    "account": "01340062870621047340",
+    "accountType": "Corriente",
+    "phoneNumber": "4248485347",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1252,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J413138530",
+    "bankName": "Banesco",
+    "bankHolder": "INVERSIONES ORIENTE 20.20, C.A",
+    "internalBankHolder": "INVERSIONES ORIENTE 20.20 C.A",
+    "account": "01340062870621047340",
+    "accountType": "Corriente",
+    "phoneNumber": "4248485347",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1253,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J413138530",
+    "bankName": "Banesco",
+    "bankHolder": "INVERSIONES ORIENTE 20.20, C.A",
+    "internalBankHolder": "INVERSIONES ORIENTE 20.20 C.A",
+    "account": "01340062870621047340",
+    "accountType": "Corriente",
+    "phoneNumber": "4248485347",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1255,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J413138530",
+    "bankName": "Banesco",
+    "bankHolder": "INVERSIONES ORIENTE 20.20, C.A",
+    "internalBankHolder": "INVERSIONES ORIENTE 20.20 C.A",
+    "account": "01341736910001004998",
+    "accountType": "Custodia",
+    "phoneNumber": "4248485347",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

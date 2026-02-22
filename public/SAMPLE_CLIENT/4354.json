@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T16:43:42.027Z",
+  "id": "3931",
+  "amount": 83.18,
+  "invoiceId": "14934",
+  "paidToMerchant": false,
+  "identifierNumber": 4354,
+  "billingDate": "2022-12-23T16:43:42.027Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25528554",
+      "fullName": "CARLOS ALBERTO MADRID CARPINTERO",
+      "phoneNumber": "+584248997752"
+    },
+    "installments": [
+      {
+        "id": "13250",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T16:44:06.639Z",
+        "amount": 41.59,
+        "status": "DONE"
+      },
+      {
+        "id": "13253",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T16:44:06.639Z",
+        "amount": 13.863333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "13251",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T16:44:06.639Z",
+        "amount": 13.863333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "13252",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T16:44:06.639Z",
+        "amount": 13.863333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

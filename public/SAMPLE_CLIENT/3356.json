@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T21:12:31.579Z",
+  "id": "2855",
+  "amount": 81.2,
+  "invoiceId": "000157",
+  "paidToMerchant": false,
+  "identifierNumber": 3356,
+  "billingDate": "2022-12-20T21:12:31.579Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "83",
+    "buyDebtDate": "2023-01-06T04:00:00.717+00:00",
+    "lastStoreId": 68,
+    "boughtForInstallmentId": "9407",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26221067",
+      "fullName": "LUIS EDUARDO BASTARDO REPRESAS",
+      "phoneNumber": "+584126117954"
+    },
+    "installments": [
+      {
+        "id": "9406",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T21:12:53.878Z",
+        "amount": 40.6,
+        "status": "DONE"
+      },
+      {
+        "id": "9409",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T21:12:53.877Z",
+        "amount": 13.533333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9408",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T21:12:53.877Z",
+        "amount": 13.533333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9407",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T21:12:53.877Z",
+        "amount": 13.533333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-29T14:23:08.594Z",
+  "updatedAt": "2025-04-29T14:23:08.594Z",
+  "id": 5453,
+  "name": "Bioimagen",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e1cf83cd-8854-4b41-ab96-b50a7e09c622",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Victorlmc@hotmail.com",
+    "legalName": "Victor López ",
+    "phoneNumber": "04126840003"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-29T14:29:33.928Z",
+      "updatedAt": "2025-04-29T14:29:33.928Z",
+      "id": 13415,
+      "merchantId": 5453,
+      "name": "Bioimagen Coro",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3809,
+      "address": {
+        "name": "Bioimagen Coro.",
+        "long": -69.6639375,
+        "lat": 11.406687500000004,
+        "location": "0101000020E6100000A245B6F37D6A51C05062105839D02640",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

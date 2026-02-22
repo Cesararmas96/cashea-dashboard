@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:57:34.224Z",
+  "id": "4496",
+  "amount": 39.1,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4858,
+  "billingDate": "2022-12-24T01:57:34.224Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25778746",
+      "fullName": "ANDRES JOSE CASTRO BRACHO",
+      "phoneNumber": "+584127180876"
+    },
+    "installments": [
+      {
+        "id": "15318",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:58:00.384Z",
+        "amount": 19.55,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15319",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:58:00.384Z",
+        "amount": 6.516666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15321",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:58:00.384Z",
+        "amount": 6.516666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15320",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:58:00.384Z",
+        "amount": 6.516666666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

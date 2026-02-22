@@ -1,0 +1,128 @@
+[
+  {
+    "id": 821,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J000525641",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "internalBankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "account": "01910060072160163632",
+    "accountType": "Corriente",
+    "phoneNumber": "4245611775",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 819,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J000525641",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "internalBankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "account": "01910060072160163632",
+    "accountType": "Corriente",
+    "phoneNumber": "4245611775",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 820,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J000525641",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "internalBankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "account": "01910060072160163632",
+    "accountType": "Corriente",
+    "phoneNumber": "4245611775",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 822,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J000525641",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "internalBankHolder": "LABORATORIO CLINICO MASCIA, S.A.",
+    "account": "01910060082360064410",
+    "accountType": "Custodia",
+    "phoneNumber": "4245611775",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "createdAt": "2023-01-17T20:27:29.216Z",
+  "id": "10092",
+  "amount": 245.0036,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4976,
+  "billingDate": "2023-01-17T20:27:29.216Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 169,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "OPEN"
+}

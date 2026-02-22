@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-12T00:44:44.523Z",
+  "id": "1301",
+  "amount": 102.4,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1598,
+  "billingDate": "2022-12-12T00:44:44.523Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23694905",
+      "fullName": "KAREN GISEL VALERO BENITEZ",
+      "phoneNumber": "+584123692456"
+    },
+    "installments": [
+      {
+        "id": "4195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T00:44:44.593Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T00:44:44.593Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T00:44:44.594Z",
+        "amount": 51.2,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "4197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T00:44:44.593Z",
+        "amount": 17.066666666666666,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 49,
+    "name": "CÚSICA FEST 2022 Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 50,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

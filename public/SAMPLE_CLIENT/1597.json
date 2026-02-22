@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-12T18:42:48.479Z",
+  "id": "1314",
+  "amount": 43.98,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1597,
+  "billingDate": "2022-12-12T18:42:48.479Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 59,
+    "name": "Mango Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

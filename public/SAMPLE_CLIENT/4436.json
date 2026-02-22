@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T19:19:26.755Z",
+  "id": "4034",
+  "amount": 66.83,
+  "invoiceId": "00002079",
+  "paidToMerchant": false,
+  "identifierNumber": 4436,
+  "billingDate": "2022-12-23T19:19:26.755Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-09T04:00:01.057+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "13619",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25741708",
+      "fullName": "DORYELIZ CAROLINA VILLA",
+      "phoneNumber": "+584127250582"
+    },
+    "installments": [
+      {
+        "id": "13620",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:19:49.239Z",
+        "amount": 11.14,
+        "status": "DONE"
+      },
+      {
+        "id": "13621",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:19:49.239Z",
+        "amount": 11.14,
+        "status": "DONE"
+      },
+      {
+        "id": "13619",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:19:49.239Z",
+        "amount": 11.14,
+        "status": "DONE"
+      },
+      {
+        "id": "13618",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:19:49.240Z",
+        "amount": 33.41,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

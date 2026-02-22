@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T21:26:18.971Z",
+  "id": "5078",
+  "amount": 62.39,
+  "invoiceId": "17812",
+  "paidToMerchant": false,
+  "identifierNumber": 5378,
+  "billingDate": "2022-12-26T21:26:18.971Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23608435",
+      "fullName": "GERARDO ENRIQUE FREY GERIK",
+      "phoneNumber": "+584125433512"
+    },
+    "installments": [
+      {
+        "id": "17420",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T21:26:48.678Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17418",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T21:26:48.678Z",
+        "amount": 31.2,
+        "status": "DONE"
+      },
+      {
+        "id": "17421",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T21:26:48.678Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "17419",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T21:26:48.678Z",
+        "amount": 10.396666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 53,
+    "name": "Balú Hogar Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

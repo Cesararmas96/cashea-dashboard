@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T00:33:25.524Z",
+  "id": "4416",
+  "amount": 38,
+  "invoiceId": "1076",
+  "paidToMerchant": false,
+  "identifierNumber": 4767,
+  "billingDate": "2022-12-24T00:33:25.524Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-23T04:00:00.838+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "15012",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25523312",
+      "fullName": "VICTORIA WHALESKA ARAUJO RAMIREZ",
+      "phoneNumber": "+584143293977"
+    },
+    "installments": [
+      {
+        "id": "15013",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T00:34:16.304Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15010",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T00:34:16.305Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "15012",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T00:34:16.304Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "15011",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T00:34:16.304Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

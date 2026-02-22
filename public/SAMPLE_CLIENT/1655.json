@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-10T19:54:31.309Z",
+  "id": "1087",
+  "amount": 259.86,
+  "invoiceId": "564",
+  "paidToMerchant": false,
+  "identifierNumber": 1655,
+  "billingDate": "2022-12-10T19:54:31.309Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "57",
+    "buyDebtDate": "2023-01-10T04:00:00.564+00:00",
+    "lastStoreId": 43,
+    "boughtForInstallmentId": "3452",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15446390",
+      "fullName": "ELSY GABRIELA ARMAS COLMENARES",
+      "phoneNumber": "+584242078524"
+    },
+    "installments": [
+      {
+        "id": "3453",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T19:57:25.397Z",
+        "amount": 43.31,
+        "status": "DONE"
+      },
+      {
+        "id": "3452",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T19:57:25.397Z",
+        "amount": 43.31,
+        "status": "DONE"
+      },
+      {
+        "id": "3451",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T19:57:25.397Z",
+        "amount": 43.31,
+        "status": "DONE"
+      },
+      {
+        "id": "3450",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T19:57:25.398Z",
+        "amount": 129.93,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

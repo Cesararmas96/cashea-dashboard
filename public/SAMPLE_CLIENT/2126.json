@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T01:05:16.333Z",
+  "id": "1522",
+  "amount": 58.8,
+  "invoiceId": "12067",
+  "paidToMerchant": false,
+  "identifierNumber": 2126,
+  "billingDate": "2022-12-15T01:05:16.333Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28303227",
+      "fullName": "ANDY RAYDAN MATOS CELIS",
+      "phoneNumber": "+584129004243"
+    },
+    "installments": [
+      {
+        "id": "4922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T01:06:36.706Z",
+        "amount": 29.4,
+        "status": "DONE"
+      },
+      {
+        "id": "4925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T01:06:36.706Z",
+        "amount": 9.799999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "4924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T01:06:36.706Z",
+        "amount": 9.799999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "4923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T01:06:36.706Z",
+        "amount": 9.799999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

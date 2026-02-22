@@ -1,0 +1,128 @@
+[
+  {
+    "id": 476,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J312820411",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "internalBankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "account": "01910098702198396329",
+    "accountType": "Corriente",
+    "phoneNumber": "4120932765",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 474,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J312820411",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "internalBankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "account": "01910098702198396329",
+    "accountType": "Corriente",
+    "phoneNumber": "4120932765",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 475,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J312820411",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "internalBankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "account": "01910098702198396329",
+    "accountType": "Corriente",
+    "phoneNumber": "4120932765",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 477,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J312820411",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "internalBankHolder": "Productos Arquitectonicos Proarca, C.A.",
+    "account": "01910098772398302163",
+    "accountType": "Custodia",
+    "phoneNumber": "4120932765",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

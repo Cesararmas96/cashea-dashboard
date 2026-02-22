@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T00:36:45.583Z",
+  "id": "2435",
+  "amount": 129,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2914,
+  "billingDate": "2022-12-19T00:36:45.583Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 31,
+    "name": "Swarovski Sambil / IN"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

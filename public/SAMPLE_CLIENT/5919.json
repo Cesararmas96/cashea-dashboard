@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:28:18.235Z",
+  "id": "5661",
+  "amount": 45.49,
+  "invoiceId": "4269",
+  "paidToMerchant": false,
+  "identifierNumber": 5919,
+  "billingDate": "2022-12-28T23:28:18.235Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25518236",
+      "fullName": "FELIX MANUEL PACHECO ALONSO",
+      "phoneNumber": "+584143293929"
+    },
+    "installments": [
+      {
+        "id": "19479",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:28:47.588Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "19478",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:28:47.588Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "19481",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:28:47.588Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "19480",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:28:47.588Z",
+        "amount": 7.580000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

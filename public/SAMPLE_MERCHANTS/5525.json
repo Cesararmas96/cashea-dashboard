@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-05T16:14:18.793Z",
+  "updatedAt": "2025-05-09T01:10:52.940Z",
+  "id": 5525,
+  "name": "Centro Ortodoncia Caracas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "427fe972-22a9-415c-895c-b33592fce176",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "martinezdiazdesiree2205@gmail.com",
+    "legalName": "Desiree",
+    "phoneNumber": "04140267985"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T23:49:57.201Z",
+      "updatedAt": "2025-06-18T23:49:57.201Z",
+      "id": 15939,
+      "merchantId": 5525,
+      "name": "VR_Centro Ortodoncia Caracas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4123,
+      "address": {
+        "name": "Av Anauco con panteón, residencia portico del Ávila, local N12.",
+        "long": -66.90406250000001,
+        "lat": 10.5108125,
+        "location": "0101000020E610000090C2F528DCB950C0A8C64B3789052540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-05T16:15:44.784Z",
+      "updatedAt": "2025-05-05T16:15:44.784Z",
+      "id": 13576,
+      "merchantId": 5525,
+      "name": "Centro Ortodoncia Caracas Av Panteón",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4123,
+      "address": {
+        "name": "Av Anauco con panteón, residencia portico del Ávila, local N12.",
+        "long": -66.90406250000001,
+        "lat": 10.5108125,
+        "location": "0101000020E610000090C2F528DCB950C0A8C64B3789052540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

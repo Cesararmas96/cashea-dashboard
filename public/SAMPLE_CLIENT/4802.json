@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T01:18:05.007Z",
+  "id": "4459",
+  "amount": 40.59,
+  "invoiceId": "9091",
+  "paidToMerchant": false,
+  "identifierNumber": 4802,
+  "billingDate": "2022-12-24T01:18:05.007Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-23T04:00:01.077+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": "15176",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18492691",
+      "fullName": "KALEYDE KATHERINE GUILLEN PINTO",
+      "phoneNumber": "+584241782242"
+    },
+    "installments": [
+      {
+        "id": "15176",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:18:57.238Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "15177",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:18:57.238Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "15174",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:18:57.238Z",
+        "amount": 20.3,
+        "status": "DONE"
+      },
+      {
+        "id": "15175",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:18:57.238Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

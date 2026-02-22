@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1068,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501419043",
+    "bankName": "Banesco",
+    "bankHolder": "CONSORCIO FARMACIAS SAN IGNACIO, CONSORCIO",
+    "internalBankHolder": "Consorcio Farmacias San Ignacio",
+    "account": "01341203180001010816",
+    "accountType": "Corriente",
+    "phoneNumber": "4145611986",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1131,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501419043",
+    "bankName": "Banesco",
+    "bankHolder": "CONSORCIO FARMACIAS SAN IGNACIO, CONSORCIO",
+    "internalBankHolder": "Consorcio Farmacias San Ignacio",
+    "account": "01341736910001004993",
+    "accountType": "Custodia",
+    "phoneNumber": "4145611986",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

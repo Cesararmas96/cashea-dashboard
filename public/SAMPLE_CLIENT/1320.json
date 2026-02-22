@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-26T17:14:23.560Z",
+  "id": "5008",
+  "amount": 53.998,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1320,
+  "billingDate": "2022-12-26T17:14:23.560Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12300874",
+      "fullName": "BERNARDO ANTONIO SEQUERA DIAZ",
+      "phoneNumber": "+584122111931"
+    },
+    "installments": [
+      {
+        "id": "17173",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:14:23.603Z",
+        "amount": 8.999333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17170",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:14:23.604Z",
+        "amount": 27,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17171",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:14:23.603Z",
+        "amount": 8.999333333333333,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17172",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:14:23.603Z",
+        "amount": 8.999333333333333,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 158,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

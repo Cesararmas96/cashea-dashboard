@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T21:32:52.007Z",
+  "id": "4925",
+  "amount": 89.16,
+  "invoiceId": "15138",
+  "paidToMerchant": false,
+  "identifierNumber": 5186,
+  "billingDate": "2022-12-24T21:32:52.007Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-02-07T04:00:01.306+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "16885",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18374012",
+      "fullName": "LUIS ALBERTO LEON YANEZ",
+      "phoneNumber": "+584142162657"
+    },
+    "installments": [
+      {
+        "id": "16885",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:33:34.665Z",
+        "amount": 14.86,
+        "status": "DONE"
+      },
+      {
+        "id": "16882",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:33:34.665Z",
+        "amount": 44.58,
+        "status": "DONE"
+      },
+      {
+        "id": "16884",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:33:34.665Z",
+        "amount": 14.86,
+        "status": "DONE"
+      },
+      {
+        "id": "16883",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:33:34.665Z",
+        "amount": 14.86,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

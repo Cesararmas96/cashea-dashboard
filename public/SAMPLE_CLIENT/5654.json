@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-15T23:35:22.786Z",
+  "id": "393",
+  "amount": 264,
+  "invoiceId": "6656",
+  "paidToMerchant": false,
+  "identifierNumber": 5654,
+  "billingDate": "2022-11-15T23:35:22.786Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16283466",
+      "fullName": "EDUAR ALEJANDRO CHAVEZ SIERRA",
+      "phoneNumber": "+584142204531"
+    },
+    "installments": [
+      {
+        "id": "1197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-27T23:37:53.044Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-15T23:37:53.044Z",
+        "amount": 134,
+        "status": "DONE"
+      },
+      {
+        "id": "1196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-13T23:37:53.044Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "1195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-29T23:37:53.044Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

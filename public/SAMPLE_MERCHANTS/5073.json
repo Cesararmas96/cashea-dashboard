@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-04T21:19:07.257Z",
+  "updatedAt": "2025-04-23T17:08:59.533Z",
+  "id": 5073,
+  "name": "CANDOBUS",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "62614d24-1f85-4937-9abb-efe039e7c642",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "leonardo_loreto@hotmail.com",
+    "legalName": "Leonardo",
+    "phoneNumber": "4123301925"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-07T20:28:15.031Z",
+      "updatedAt": "2025-04-07T20:28:15.031Z",
+      "id": 12692,
+      "merchantId": 5073,
+      "name": "CANDOBUS URB EL CEMENTERIO",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4266,
+      "address": {
+        "name": "Av Roosevelt entre calles los jabillos y los castaños casa NRO 11 local b urb el Cementerio",
+        "long": -66.9145625,
+        "lat": 10.477812499999999,
+        "location": "0101000020E610000079E9263188BA50C0703D0AD7A3F42440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

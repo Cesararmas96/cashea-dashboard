@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T01:21:09.608Z",
+  "id": "2696",
+  "amount": 69.23,
+  "invoiceId": "44599",
+  "paidToMerchant": false,
+  "identifierNumber": 3137,
+  "billingDate": "2022-12-20T01:21:09.608Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "75",
+    "buyDebtDate": "2023-01-05T04:00:00.537+00:00",
+    "lastStoreId": 62,
+    "boughtForInstallmentId": "8867",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20871243",
+      "fullName": "MINDIFER CAROL GUTIERREZ PORRAS",
+      "phoneNumber": "+584142609660"
+    },
+    "installments": [
+      {
+        "id": "8867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:21:14.840Z",
+        "amount": 11.536666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "8869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:21:14.840Z",
+        "amount": 11.536666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "8868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:21:14.840Z",
+        "amount": 11.536666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "8866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:21:14.840Z",
+        "amount": 34.62,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-05T15:41:16.404Z",
+  "id": "12387",
+  "amount": 91.524,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4873,
+  "billingDate": "2023-02-05T15:41:16.404Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16842333",
+      "fullName": "ADOLFO JOSE BEJARANO COVA",
+      "phoneNumber": "+584241596679"
+    },
+    "installments": [
+      {
+        "id": "38404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-05T15:41:16.446Z",
+        "amount": 15.254666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-19T15:41:16.446Z",
+        "amount": 15.254666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-19T15:41:16.446Z",
+        "amount": 15.254666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "38402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-05T15:41:16.447Z",
+        "amount": 45.76,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 114,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2766,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

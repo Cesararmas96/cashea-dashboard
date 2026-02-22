@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T00:22:03.809Z",
+  "id": "2676",
+  "amount": 40.49,
+  "invoiceId": "14558",
+  "paidToMerchant": false,
+  "identifierNumber": 3134,
+  "billingDate": "2022-12-20T00:22:03.809Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-05T04:00:00.512+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "8787",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18676640",
+      "fullName": "BRALLAN RAMON DELGADO DELGADO",
+      "phoneNumber": "+584127398241"
+    },
+    "installments": [
+      {
+        "id": "8789",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:22:32.548Z",
+        "amount": 6.746666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8788",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:22:32.548Z",
+        "amount": 6.746666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8787",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:22:32.548Z",
+        "amount": 6.746666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8786",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:22:32.549Z",
+        "amount": 20.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

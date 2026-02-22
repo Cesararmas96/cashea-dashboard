@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-13T22:00:59.843Z",
+  "id": "1375",
+  "amount": 31.47,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1991,
+  "billingDate": "2022-12-13T22:00:59.843Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-11T23:34:15.421Z",
+  "updatedAt": "2025-05-13T20:14:03.701Z",
+  "id": 5192,
+  "name": "Todo En 1",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a75f1d4c-568e-4889-bb01-5ae0ce0635a5",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "lourdesgoncalvez@hotmail.com",
+    "legalName": "Lourdes Gonzalez",
+    "phoneNumber": "04263077084"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-10-28T17:46:16.488Z",
+      "updatedAt": "2024-10-28T17:46:16.488Z",
+      "id": 6239,
+      "merchantId": 5192,
+      "name": "Todo En 1 Av Principal CC Centro Plaza Cabudare",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3913,
+      "address": {
+        "name": "Todo En 1 Av Principal CC Centro Plaza Cabudare",
+        "long": -71.6345625,
+        "lat": 10.55693749999999,
+        "location": "0101000020E6100000273108AC9CE851C0F8D478E9261D2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

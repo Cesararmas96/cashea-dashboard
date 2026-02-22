@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-07T16:34:26.655Z",
+  "updatedAt": "2025-05-29T14:54:46.462Z",
+  "id": 5589,
+  "name": "NIKIBIKI",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "ed7e278b-c2da-4b1d-b036-12ee95493441",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "adm.grupororaima2019@gmail.com",
+    "legalName": "NICOLAS MAKDESSI",
+    "phoneNumber": "4127228921"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T16:37:28.818Z",
+      "updatedAt": "2025-05-07T16:37:28.818Z",
+      "id": 13715,
+      "merchantId": 5589,
+      "name": "NIKIBIKI Sabana Grande",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8153,
+      "address": {
+        "name": "AV ABRAHAM LINCOLN CRUCE CON CALLE SAN GERONIMO LOCAL NRO 163 BOULEVARD DE SABANA GRANDE",
+        "long": -66.92500000000001,
+        "lat": 10.475000000000001,
+        "location": "0101000020E61000003433333333BB50C03433333333F32440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

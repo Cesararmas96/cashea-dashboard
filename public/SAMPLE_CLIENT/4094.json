@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:14:05.691Z",
+  "id": "3704",
+  "amount": 72.89,
+  "invoiceId": "14873",
+  "paidToMerchant": false,
+  "identifierNumber": 4094,
+  "billingDate": "2022-12-22T23:14:05.691Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19105997",
+      "fullName": "MARIA ANTONIETTA PINZON QUERO",
+      "phoneNumber": "+584127005751"
+    },
+    "installments": [
+      {
+        "id": "12418",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:14:38.148Z",
+        "amount": 36.45,
+        "status": "DONE"
+      },
+      {
+        "id": "12421",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:14:38.147Z",
+        "amount": 12.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12420",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:14:38.147Z",
+        "amount": 12.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12419",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:14:38.147Z",
+        "amount": 12.146666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

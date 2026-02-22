@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T02:37:08.186Z",
+  "id": "2710",
+  "amount": 104.25,
+  "invoiceId": "50145",
+  "paidToMerchant": false,
+  "identifierNumber": 3186,
+  "billingDate": "2022-12-20T02:37:08.186Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27340539",
+      "fullName": "MARIA DE LOS ANGELES DA SILVA OBANDO",
+      "phoneNumber": "+584129278167"
+    },
+    "installments": [
+      {
+        "id": "8926",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T02:38:31.582Z",
+        "amount": 52.13,
+        "status": "DONE"
+      },
+      {
+        "id": "8927",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T02:38:31.582Z",
+        "amount": 17.37333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8928",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T02:38:31.582Z",
+        "amount": 17.37333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8929",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T02:38:31.582Z",
+        "amount": 17.37333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

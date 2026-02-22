@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:10:04.325Z",
+  "id": "2630",
+  "amount": 45.4,
+  "invoiceId": "00001744",
+  "paidToMerchant": false,
+  "identifierNumber": 3089,
+  "billingDate": "2022-12-19T23:10:04.325Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25037368",
+      "fullName": "JOSE IGNACIO APONTE RIVAS",
+      "phoneNumber": "+584142046554"
+    },
+    "installments": [
+      {
+        "id": "8638",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:10:31.043Z",
+        "amount": 22.7,
+        "status": "DONE"
+      },
+      {
+        "id": "8639",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:10:31.042Z",
+        "amount": 7.566666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8640",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:10:31.042Z",
+        "amount": 7.566666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8641",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:10:31.042Z",
+        "amount": 7.566666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

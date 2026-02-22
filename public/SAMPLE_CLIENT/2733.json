@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T18:04:43.247Z",
+  "id": "2212",
+  "amount": 74.97,
+  "invoiceId": "14382",
+  "paidToMerchant": false,
+  "identifierNumber": 2733,
+  "billingDate": "2022-12-18T18:04:43.247Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21622764",
+      "fullName": "PATRICIA LORENA GELVIZ PETIT",
+      "phoneNumber": "+584166325828"
+    },
+    "installments": [
+      {
+        "id": "7234",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T18:05:02.225Z",
+        "amount": 37.48,
+        "status": "DONE"
+      },
+      {
+        "id": "7235",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T18:05:02.225Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "7237",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T18:05:02.225Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "7236",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T18:05:02.225Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

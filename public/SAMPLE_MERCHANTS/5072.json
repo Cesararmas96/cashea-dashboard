@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-04T20:32:28.952Z",
+  "updatedAt": "2025-04-08T15:07:31.663Z",
+  "id": 5072,
+  "name": "TOTAL One Stop Tools Station Coro",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "82f817a6-1d01-4258-996f-b93395a70d2d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "totaltoolspf@gmail.com",
+    "legalName": "ALI",
+    "phoneNumber": "04120292029"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T20:33:39.946Z",
+      "updatedAt": "2025-04-04T20:33:39.946Z",
+      "id": 12650,
+      "merchantId": 5072,
+      "name": "Total One Stop Tools Station Punto Fijo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8009,
+      "address": {
+        "name": "AV. MAPARARI DETRAS PLAZA LINARES EDIFICIO PLAZA NRO 03 SECTOR CENTRO SANTA ANA DE CORO",
+        "long": -69.6733125,
+        "lat": 11.4050625,
+        "location": "0101000020E61000003BDF4F8D176B51C008AC1C5A64CF2640",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:14:08.664Z",
+  "id": "2571",
+  "amount": 84.89,
+  "invoiceId": "48136",
+  "paidToMerchant": false,
+  "identifierNumber": 3069,
+  "billingDate": "2022-12-19T21:14:08.664Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26051491",
+      "fullName": "MICHELLE ESTEFANIA FERNANDES GONCALVES",
+      "phoneNumber": "+584144517979"
+    },
+    "installments": [
+      {
+        "id": "8450",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:14:30.143Z",
+        "amount": 42.45,
+        "status": "DONE"
+      },
+      {
+        "id": "8453",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:14:30.143Z",
+        "amount": 14.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8451",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:14:30.143Z",
+        "amount": 14.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8452",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:14:30.143Z",
+        "amount": 14.146666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

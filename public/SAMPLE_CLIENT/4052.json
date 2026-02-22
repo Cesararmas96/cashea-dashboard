@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:20:14.499Z",
+  "id": "3638",
+  "amount": 108.57,
+  "invoiceId": "14070",
+  "paidToMerchant": false,
+  "identifierNumber": 4052,
+  "billingDate": "2022-12-22T22:20:14.499Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18599309",
+      "fullName": "FRANCIS JOHANA LOPEZ BRAZON",
+      "phoneNumber": "+584241394176"
+    },
+    "installments": [
+      {
+        "id": "12194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:21:12.061Z",
+        "amount": 54.28,
+        "status": "DONE"
+      },
+      {
+        "id": "12197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:21:12.061Z",
+        "amount": 18.096666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "12196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:21:12.061Z",
+        "amount": 18.096666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "12195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:21:12.061Z",
+        "amount": 18.096666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

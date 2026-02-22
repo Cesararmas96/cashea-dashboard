@@ -1,0 +1,238 @@
+{
+  "createdAt": "2025-03-29T03:06:28.159Z",
+  "updatedAt": "2025-03-31T19:20:48.630Z",
+  "id": 4916,
+  "name": "Omar Sport",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 605,
+  "tags": [],
+  "uuid": "b1d69d51-c87e-4893-8b54-15ca7ac35035",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "abdelmoneim404@outlook.com",
+    "legalName": "Katty",
+    "phoneNumber": "4148443568"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-29T03:14:55.480Z",
+      "updatedAt": "2025-03-29T03:14:55.480Z",
+      "id": 12377,
+      "merchantId": 4916,
+      "name": "Omar Sport Av. Miranda Anaco",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Omar Sport Av. Miranda Anaco",
+        "long": -64.48093750000001,
+        "lat": 9.431562499999998,
+        "location": "0101000020E6100000E27A14AEC71E50C0285C8FC2F5DC2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-29T03:11:47.287Z",
+      "updatedAt": "2025-03-29T03:11:47.287Z",
+      "id": 12374,
+      "merchantId": 4916,
+      "name": "Omar Sport Calle Sucre Centro PLC",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Omar Sport Calle Sucre Centro PLC",
+        "long": -64.63481250000001,
+        "lat": 10.218812499999999,
+        "location": "0101000020E6100000E4A59BC4A02850C078E9263108702440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-29T03:12:25.374Z",
+      "updatedAt": "2025-03-29T03:12:25.374Z",
+      "id": 12375,
+      "merchantId": 4916,
+      "name": "Omar Sport Boulevard 5 de Julio Edif Media Naranja",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Omar Sport Boulevard 5 de Julio Edif Media Naranja",
+        "long": -64.6856875,
+        "lat": 10.132437499999995,
+        "location": "0101000020E6100000AAF1D24DE22B50C0288716D9CE432440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-29T03:13:52.366Z",
+      "updatedAt": "2025-03-29T03:13:52.366Z",
+      "id": 12376,
+      "merchantId": 4916,
+      "name": "Omar Sport Av. Miranda Local 123",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Omar Sport Av. Miranda Local 123",
+        "long": -63.17981250000001,
+        "lat": 9.74718750000001,
+        "location": "0101000020E6100000BE74931804974FC0C8F5285C8F7E2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-29T03:09:51.593Z",
+      "updatedAt": "2025-03-29T03:09:51.593Z",
+      "id": 12372,
+      "merchantId": 4916,
+      "name": "Omar Sport Boulevard 5 de Julio Local 12-11",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Omar Sport Boulevard 5 de Julio Local 12-11",
+        "long": -64.6863125,
+        "lat": 10.134937499999992,
+        "location": "0101000020E61000008195438BEC2B50C008022B8716452440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-29T03:11:00.000Z",
+      "updatedAt": "2025-03-29T03:11:00.000Z",
+      "id": 12373,
+      "merchantId": 4916,
+      "name": "Omar Sport Boulevard 5 de Julio Calle 8-7",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7044,
+      "address": {
+        "name": "Omar Sport Boulevard 5 de Julio Calle 8-7",
+        "long": -64.68593750000001,
+        "lat": 10.133937499999988,
+        "location": "0101000020E610000067666666E62B50C0786ABC7493442440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

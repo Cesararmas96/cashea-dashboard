@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-02T17:07:16.727Z",
+  "updatedAt": "2025-04-08T18:23:31.412Z",
+  "id": 4993,
+  "name": "Inversiones alsalami 2024",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "e4200a9a-1462-444a-ac4a-62eb95a18132",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "omaralsalami115@gmail.com",
+    "legalName": "Omran Alsalami",
+    "phoneNumber": "4245520025"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T20:49:45.173Z",
+      "updatedAt": "2025-05-06T20:49:45.173Z",
+      "id": 13670,
+      "merchantId": 4993,
+      "name": "VR_Inversiones alsalami 2024",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11486,
+      "address": {
+        "name": "AV LIBERTADOR CON CALLE MANUEL PIAR LOCAL NRO S/NSECTOR CENTRO OSPINO PORTUGUESA ZONA POSTAL 3352",
+        "long": -69.18125,
+        "lat": 9.551249999999996,
+        "location": "0101000020E61000009A999999994B51C008D7A3703D1A2340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T19:47:23.857Z",
+      "updatedAt": "2025-04-02T19:47:23.857Z",
+      "id": 12543,
+      "merchantId": 4993,
+      "name": "Inversiones alsalami 2024 Av Libertador",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11486,
+      "address": {
+        "name": "AV LIBERTADOR CON CALLE MANUEL PIAR LOCAL NRO S/NSECTOR CENTRO OSPINO PORTUGUESA ZONA POSTAL 3352",
+        "long": -69.18125,
+        "lat": 9.551249999999996,
+        "location": "0101000020E61000009A999999994B51C008D7A3703D1A2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

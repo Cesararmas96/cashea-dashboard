@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-25T11:45:45.986Z",
+  "updatedAt": "2025-04-25T11:48:14.261Z",
+  "id": 5375,
+  "name": "Optica Universidad",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 746,
+  "tags": [],
+  "uuid": "76f1f9f1-d822-4bd3-bee6-09bfceb29456",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "krociop85@gmail.com",
+    "legalName": "Carmen Rocio Perez Romero",
+    "phoneNumber": "4145936923"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T11:47:47.060Z",
+      "updatedAt": "2025-04-25T11:47:47.060Z",
+      "id": 13264,
+      "merchantId": 5375,
+      "name": "Optica Universidad Av. Luis del Valle Garcia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7120,
+      "address": {
+        "name": "Optica Universidad Av. Luis del Valle Garcia",
+        "long": -63.17281249999999,
+        "lat": 9.74356250000001,
+        "location": "0101000020E610000084EB51B81E964FC068105839B47C2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

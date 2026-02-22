@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T19:27:46.372Z",
+  "id": "1983",
+  "amount": 59.29,
+  "invoiceId": "1599",
+  "paidToMerchant": false,
+  "identifierNumber": 2527,
+  "billingDate": "2022-12-17T19:27:46.372Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-05T04:00:00.314+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": 6435,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20154941",
+      "fullName": "FRANKLIN SABAS VARGAS NAVARRO",
+      "phoneNumber": "+584242926172"
+    },
+    "installments": [
+      {
+        "id": "6434",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T19:30:42.940Z",
+        "amount": 29.64,
+        "status": "DONE"
+      },
+      {
+        "id": "6437",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T19:30:42.939Z",
+        "amount": 9.883333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6436",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T19:30:42.939Z",
+        "amount": 9.883333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "6435",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T19:30:42.939Z",
+        "amount": 9.883333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 96,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J301548973",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "internalBankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "account": "01910082132182013366",
+    "accountType": "Corriente",
+    "phoneNumber": "4243039809",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J301548973",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "internalBankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "account": "01910082132182013366",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J301548973",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "internalBankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "account": "01910082132182013366",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J301548973",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "internalBankHolder": "CENTRO COMERCIAL MACUTO I, C. A.",
+    "account": "01910082162382015179",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

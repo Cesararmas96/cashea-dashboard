@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T17:57:20.305Z",
+  "id": "5020",
+  "amount": 42,
+  "invoiceId": "10316",
+  "paidToMerchant": false,
+  "identifierNumber": 5327,
+  "billingDate": "2022-12-26T17:57:20.305Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11409994",
+      "fullName": "ALI GERARDO LOPEZ MAIOLINO",
+      "phoneNumber": "+584242388683"
+    },
+    "installments": [
+      {
+        "id": "17217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T17:57:42.612Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "17216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T17:57:42.612Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "17214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T17:57:42.612Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "17215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T17:57:42.612Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

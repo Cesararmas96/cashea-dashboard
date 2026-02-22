@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T14:21:15.092Z",
+  "id": "3885",
+  "amount": 39.99,
+  "invoiceId": "1137",
+  "paidToMerchant": false,
+  "identifierNumber": 4321,
+  "billingDate": "2022-12-23T14:21:15.092Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22749837",
+      "fullName": "ESTEFANY LINET VALENCIA NIETO",
+      "phoneNumber": "+584241456865"
+    },
+    "installments": [
+      {
+        "id": "13098",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T14:23:44.798Z",
+        "amount": 20,
+        "status": "DONE"
+      },
+      {
+        "id": "13101",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T14:23:44.797Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13100",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T14:23:44.797Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "13099",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T14:23:44.797Z",
+        "amount": 6.663333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 27,
+    "name": "Women Secret Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

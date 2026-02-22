@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T23:00:26.476Z",
+  "id": "3692",
+  "amount": 74.56,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4089,
+  "billingDate": "2022-12-22T23:00:26.476Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24223639",
+      "fullName": "JOHANDRY MILAGROS VANDERDYS LARES",
+      "phoneNumber": "+584142234832"
+    },
+    "installments": [
+      {
+        "id": "12388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T23:01:17.579Z",
+        "amount": 12.426666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "12389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T23:01:17.579Z",
+        "amount": 12.426666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "12386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T23:01:17.580Z",
+        "amount": 37.28,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "12387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T23:01:17.579Z",
+        "amount": 12.426666666666668,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

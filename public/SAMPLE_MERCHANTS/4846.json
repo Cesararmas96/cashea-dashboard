@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-03-26T13:57:01.196Z",
+  "updatedAt": "2025-03-28T14:10:36.336Z",
+  "id": 4846,
+  "name": "Oftalmo clinic",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "8693ef32-82c1-446c-a24b-2f2ae1a4ba60",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "oftalmoclinicvzla@gmail.com",
+    "legalName": "Subji Kasabji",
+    "phoneNumber": "04140511402"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-26T14:03:12.877Z",
+      "updatedAt": "2025-03-26T14:03:12.877Z",
+      "id": 12210,
+      "merchantId": 4846,
+      "name": "Oftalmo Clinic C.C Paseo Las Delicias",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7035,
+      "address": {
+        "name": "Oftalmo Clinic C.C Paseo Las Delicias.",
+        "long": -67.5914375,
+        "lat": 10.256312499999993,
+        "location": "0101000020E61000003108AC1CDAE550C0A81C5A643B832440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

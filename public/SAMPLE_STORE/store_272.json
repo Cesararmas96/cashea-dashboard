@@ -1,0 +1,128 @@
+[
+  {
+    "id": 192,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J314452860",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "internalBankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "account": "01910098712198366514",
+    "accountType": "Corriente",
+    "phoneNumber": "4122476079",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 190,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J314452860",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "internalBankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "account": "01910098712198366514",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 191,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J314452860",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "internalBankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "account": "01910098712198366514",
+    "accountType": "Corriente",
+    "phoneNumber": null,
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 193,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J314452860",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "internalBankHolder": "INVERSIONES VENECOR LOS NARANJOS, C.A.",
+    "account": "01910098712398257116",
+    "accountType": "Custodia ",
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

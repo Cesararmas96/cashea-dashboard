@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:33:01.706Z",
+  "id": "2830",
+  "amount": 79.43,
+  "invoiceId": "12585",
+  "paidToMerchant": false,
+  "identifierNumber": 3311,
+  "billingDate": "2022-12-20T20:33:01.706Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10354787",
+      "fullName": "CENOVIA MARIA VILLASMIL GUILLEN",
+      "phoneNumber": "+584142986486"
+    },
+    "installments": [
+      {
+        "id": "9325",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:33:27.047Z",
+        "amount": 13.23666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9322",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:33:27.048Z",
+        "amount": 39.72,
+        "status": "DONE"
+      },
+      {
+        "id": "9324",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:33:27.047Z",
+        "amount": 13.23666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9323",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:33:27.047Z",
+        "amount": 13.23666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

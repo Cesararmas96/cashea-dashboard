@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T22:50:08.742Z",
+  "id": "11547",
+  "amount": 34.9,
+  "invoiceId": "17716",
+  "paidToMerchant": false,
+  "identifierNumber": 3028,
+  "billingDate": "2023-01-30T22:50:08.742Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24940530",
+      "fullName": "ALBERN HERNANDO MENDOZA DIMEY",
+      "phoneNumber": "+584122048913"
+    },
+    "installments": [
+      {
+        "id": "35420",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T22:50:53.050Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35418",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T22:50:53.051Z",
+        "amount": 17.45,
+        "status": "DONE"
+      },
+      {
+        "id": "35421",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T22:50:53.050Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "35419",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T22:50:53.050Z",
+        "amount": 5.816666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

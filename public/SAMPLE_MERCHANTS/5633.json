@@ -1,0 +1,208 @@
+{
+  "createdAt": "2025-05-08T15:25:32.411Z",
+  "updatedAt": "2025-05-09T18:06:12.859Z",
+  "id": 5633,
+  "name": "Mundo Repuestos Motorcicley 3030",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "8eb4d80c-f074-480d-b0f5-402c39ce90b2",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cleiberfreite19@gmail.com",
+    "legalName": "cleyber",
+    "phoneNumber": "4129891110"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T15:45:42.568Z",
+      "updatedAt": "2025-05-08T15:45:42.568Z",
+      "id": 13813,
+      "merchantId": 5633,
+      "name": "Mundo Repuestos Motorcicley 3030 Cua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6940,
+      "address": {
+        "name": "CUA-URDANETA CALLE FLORIDA LOCAL Nª32",
+        "long": -66.89156250000002,
+        "lat": 10.170812499999997,
+        "location": "0101000020E6100000C4F5285C0FB950C0F87E6ABC74572440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T16:11:35.309Z",
+      "updatedAt": "2025-05-08T16:11:35.309Z",
+      "id": 13818,
+      "merchantId": 5633,
+      "name": "Mundo Repuestos Motorcicley 3030 Ocumare del Tuy",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6940,
+      "address": {
+        "name": "OCUMARE DEL TUY AVENIDA MIRANDA LOCAL Nª 69",
+        "long": -66.7751875,
+        "lat": 10.117687499999988,
+        "location": "0101000020E6100000273108AC9CB150C0C04B3789413C2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-14T22:39:57.486Z",
+      "updatedAt": "2025-05-14T22:39:57.486Z",
+      "id": 14139,
+      "merchantId": 5633,
+      "name": "VR_Mundo Repuestos Motorcicley 3030",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6940,
+      "address": {
+        "name": "DISTRITO CAPITAL MUNICIO LIBERTADOR PARROQUIA SANTA TERESA LOCAL Nª19",
+        "long": -66.91731250000001,
+        "lat": 10.496312500000002,
+        "location": "0101000020E610000092ED7C3FB5BA50C0283108AC1CFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T15:29:45.044Z",
+      "updatedAt": "2025-05-08T15:29:45.044Z",
+      "id": 13805,
+      "merchantId": 5633,
+      "name": "Mundo Repuestos Motorcicley 3030 CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6940,
+      "address": {
+        "name": "DISTRITO CAPITAL MUNICIO LIBERTADOR PARROQUIA SANTA TERESA LOCAL Nª19",
+        "long": -66.91731250000001,
+        "lat": 10.496312500000002,
+        "location": "0101000020E610000092ED7C3FB5BA50C0283108AC1CFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-08T15:36:35.071Z",
+      "updatedAt": "2025-05-08T15:36:35.071Z",
+      "id": 13811,
+      "merchantId": 5633,
+      "name": "Mundo Repuestos Motorcicley 3030 Calle Rivas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6940,
+      "address": {
+        "name": "OCUMARE DEL TUY CALLE RIVAS Nª 1 LOCAL",
+        "long": -66.77125,
+        "lat": 10.116249999999994,
+        "location": "0101000020E61000008FC2F5285CB150C0E851B81E853B2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T23:06:40.004Z",
+  "id": "5142",
+  "amount": 62.49,
+  "invoiceId": "15231",
+  "paidToMerchant": false,
+  "identifierNumber": 5451,
+  "billingDate": "2022-12-26T23:06:40.004Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9972618",
+      "fullName": "ANTONIO MIGNOLI MEDICI",
+      "phoneNumber": "+584128250000"
+    },
+    "installments": [
+      {
+        "id": "17621",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T23:08:33.064Z",
+        "amount": 10.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17618",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T23:08:33.064Z",
+        "amount": 31.25,
+        "status": "DONE"
+      },
+      {
+        "id": "17620",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T23:08:33.064Z",
+        "amount": 10.413333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "17619",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T23:08:33.064Z",
+        "amount": 10.413333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

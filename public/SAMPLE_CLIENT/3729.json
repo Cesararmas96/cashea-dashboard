@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:37:06.354Z",
+  "id": "3294",
+  "amount": 115.72,
+  "invoiceId": "12712",
+  "paidToMerchant": false,
+  "identifierNumber": 3729,
+  "billingDate": "2022-12-21T23:37:06.354Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26646338",
+      "fullName": "GERALDINE CELESTE CARIPE AGUILERA",
+      "phoneNumber": "+584248550154"
+    },
+    "installments": [
+      {
+        "id": "10958",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:37:33.579Z",
+        "amount": 57.86,
+        "status": "DONE"
+      },
+      {
+        "id": "10961",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:37:33.578Z",
+        "amount": 19.286666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "10960",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:37:33.578Z",
+        "amount": 19.286666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "10959",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:37:33.578Z",
+        "amount": 19.286666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

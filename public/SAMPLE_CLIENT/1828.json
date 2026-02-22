@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T22:32:23.915Z",
+  "id": "1334",
+  "amount": 58.99,
+  "invoiceId": "927",
+  "paidToMerchant": false,
+  "identifierNumber": 1828,
+  "billingDate": "2022-12-12T22:32:23.915Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19649111",
+      "fullName": "YUSLEIDIS AYARIS RODRIGUEZ VARGAS",
+      "phoneNumber": "+584241682335"
+    },
+    "installments": [
+      {
+        "id": "4294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T22:32:55.713Z",
+        "amount": 29.5,
+        "status": "DONE"
+      },
+      {
+        "id": "4295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T22:32:55.713Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "4296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T22:32:55.713Z",
+        "amount": 9.83,
+        "status": "DONE"
+      },
+      {
+        "id": "4297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T22:32:55.713Z",
+        "amount": 9.83,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

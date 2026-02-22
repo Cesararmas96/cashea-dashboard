@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:22:47.269Z",
+  "id": "3769",
+  "amount": 74.98,
+  "invoiceId": "00001877",
+  "paidToMerchant": false,
+  "identifierNumber": 1985,
+  "billingDate": "2022-12-23T00:22:47.269Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27798586",
+      "fullName": "RAYMONT JAVIER YANEZ ROMERO",
+      "phoneNumber": "+584141549064"
+    },
+    "installments": [
+      {
+        "id": "12658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:23:03.104Z",
+        "amount": 37.49,
+        "status": "DONE"
+      },
+      {
+        "id": "12661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:23:03.103Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:23:03.103Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:23:03.103Z",
+        "amount": 12.496666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

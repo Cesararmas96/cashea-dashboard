@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T19:29:51.952Z",
+  "id": "5495",
+  "amount": 60,
+  "invoiceId": "9578",
+  "paidToMerchant": false,
+  "identifierNumber": 5801,
+  "billingDate": "2022-12-28T19:29:51.952Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19628951",
+      "fullName": "ELIZABETH CORINA CASTELLANO VARGAS",
+      "phoneNumber": "+584122688734"
+    },
+    "installments": [
+      {
+        "id": "18890",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:33:46.098Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "18893",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:33:46.097Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "18891",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:33:46.097Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "18892",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:33:46.097Z",
+        "amount": 10,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

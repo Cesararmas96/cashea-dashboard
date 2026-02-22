@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T18:36:48.798Z",
+  "id": "6936",
+  "amount": 60.5,
+  "invoiceId": "4548",
+  "paidToMerchant": false,
+  "identifierNumber": 1478,
+  "billingDate": "2022-12-31T18:36:48.798Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-17T04:00:01.128+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "23979",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24933296",
+      "fullName": "PAOLA CAROLINA RODRIGUEZ CARRERA",
+      "phoneNumber": "+584241549446"
+    },
+    "installments": [
+      {
+        "id": "23981",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T18:37:01.604Z",
+        "amount": 10.083333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "23979",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T18:37:01.604Z",
+        "amount": 10.083333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "23978",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T18:37:01.605Z",
+        "amount": 30.25,
+        "status": "DONE"
+      },
+      {
+        "id": "23980",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T18:37:01.604Z",
+        "amount": 10.083333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

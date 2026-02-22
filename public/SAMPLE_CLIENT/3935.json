@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T20:39:16.963Z",
+  "id": "3542",
+  "amount": 60,
+  "invoiceId": "9306",
+  "paidToMerchant": false,
+  "identifierNumber": 3935,
+  "billingDate": "2022-12-22T20:39:16.963Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "52",
+    "buyDebtDate": "2023-01-08T04:00:00.561+00:00",
+    "lastStoreId": 38,
+    "boughtForInstallmentId": "11863",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16937680",
+      "fullName": "LEIDAMAA DIAZ HERNANDEZ",
+      "phoneNumber": "+584242095627"
+    },
+    "installments": [
+      {
+        "id": "11865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T20:39:40.174Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T20:39:40.174Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T20:39:40.174Z",
+        "amount": 34,
+        "status": "DONE"
+      },
+      {
+        "id": "11863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T20:39:40.174Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

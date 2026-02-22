@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-04-28T13:19:05.625Z",
+  "updatedAt": "2025-05-19T20:40:46.229Z",
+  "id": 5409,
+  "name": "INVERSIONES FERRETERIA SAN JOSE",
+  "ecommerceUrl": null,
+  "changePolicy": "En INFERSANCA, nos esforzamos por la satisfacción de nuestros clientes. Si no estás contento con tu compra, puedes devolverla dentro de los 7 días posteriores a la fecha de compra.\n\nPara devoluciones con reembolso, el producto debe estar en su embalaje original y en perfectas condiciones, sin daños. El reembolso se realizará a través del mismo método de pago utilizado en la compra.\n\nPlazo de devolución: 7 días a partir de la fecha de compra.\n\nCondiciones de devolución: El producto o productos deben estar en su embalaje original. No se aceptarán cambios o devoluciones si el producto ha sufrido descargas eléctricas, golpes, caídas o modificaciones.\n\nTipos de devolución: De acuerdo con la política mencionada anteriormente.\n\nProceso de devolución: Contactar vía telefónica o acudir personalmente a la tienda con el producto.\n\nCosto de envío por devoluciones: A cargo del cliente.\n\nExcepciones: Consultar al momento de la compra.\n\nContactanos 0412-1007693 / 0412-6531398",
+  "email": "ferreteriainfersanca@gmail.com",
+  "phoneNumber": "+584121007693",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "3451c090-2e64-4351-847f-319e4901bbd9",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ferreteriainfersanca@gmail.com",
+    "legalName": "ASTERIO JOSE",
+    "phoneNumber": "4121007693"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T21:22:15.510Z",
+      "updatedAt": "2025-05-22T21:22:15.510Z",
+      "id": 14567,
+      "merchantId": 5409,
+      "name": "VR_INVERSIONES FERRETERIA SAN JOSE",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5942,
+      "address": {
+        "name": "El envío es inmediato, cuesta entre \\10 y \\20, solo para Machiques de Perijá. La tarifa se paga directamente al comercio, y usamos una empresa propia para entregas.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T13:20:49.515Z",
+      "updatedAt": "2025-04-28T13:20:49.515Z",
+      "id": 13324,
+      "merchantId": 5409,
+      "name": "INVERSIONES FERRETERIA SAN JOSE ZULIA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5942,
+      "address": {
+        "name": "CALLE 8 ENTRE AVENIDAS SUCRE Y COLON CASA NRO N/A SECTOR SAN JOSE DE PERIJA SAN JOSE ESTADO ZULIA  ZONA POSTAL 4021",
+        "long": -72.3969375,
+        "lat": 10.0108125,
+        "location": "0101000020E610000096438B6C671952C0A8C64B3789052440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T13:33:47.373Z",
+      "updatedAt": "2025-05-19T20:40:52.217Z",
+      "id": 14220,
+      "merchantId": 5409,
+      "name": "INVERSIONES FERRETERIA SAN JOSE Markterplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5942,
+      "address": {
+        "name": "El envío es inmediato, cuesta entre \\10 y \\20, solo para Machiques de Perijá. La tarifa se paga directamente al comercio, y usamos una empresa propia para entregas.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:58:39.954Z",
+  "id": "5581",
+  "amount": 45.9,
+  "invoiceId": "578",
+  "paidToMerchant": false,
+  "identifierNumber": 5888,
+  "billingDate": "2022-12-28T21:58:39.954Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23966936",
+      "fullName": "ELENA NINIBETH MORETTI CARRASQUEL",
+      "phoneNumber": "+584129636865"
+    },
+    "installments": [
+      {
+        "id": "19193",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:59:56.026Z",
+        "amount": 7.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "19190",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:59:56.026Z",
+        "amount": 22.95,
+        "status": "DONE"
+      },
+      {
+        "id": "19191",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:59:56.026Z",
+        "amount": 7.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "19192",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:59:56.026Z",
+        "amount": 7.6499999999999995,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

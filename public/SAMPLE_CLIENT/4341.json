@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T17:22:57.710Z",
+  "id": "3945",
+  "amount": 44,
+  "invoiceId": "17664",
+  "paidToMerchant": false,
+  "identifierNumber": 4341,
+  "billingDate": "2022-12-23T17:22:57.710Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "66",
+    "buyDebtDate": "2023-01-09T04:00:00.937+00:00",
+    "lastStoreId": 53,
+    "boughtForInstallmentId": "13295",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11414137",
+      "fullName": "FRANCISCO ANGEL MONROY MORET",
+      "phoneNumber": "+584142846936"
+    },
+    "installments": [
+      {
+        "id": "13297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:23:18.153Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:23:18.153Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:23:18.153Z",
+        "amount": 7.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:23:18.153Z",
+        "amount": 22,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

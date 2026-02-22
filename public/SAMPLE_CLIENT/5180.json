@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:57:00.524Z",
+  "id": "4945",
+  "amount": 197.2,
+  "invoiceId": "49322",
+  "paidToMerchant": false,
+  "identifierNumber": 5180,
+  "billingDate": "2022-12-24T21:57:00.524Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26194688",
+      "fullName": "YUSLEIDY YUSBELI GARCIA HERRERA",
+      "phoneNumber": "+584249200666"
+    },
+    "installments": [
+      {
+        "id": "16950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:58:16.329Z",
+        "amount": 98.6,
+        "status": "DONE"
+      },
+      {
+        "id": "16953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:58:16.328Z",
+        "amount": 32.86666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:58:16.328Z",
+        "amount": 32.86666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "16951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:58:16.328Z",
+        "amount": 32.86666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

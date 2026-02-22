@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-07T19:45:31.544Z",
+  "id": "852",
+  "amount": 333,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1587,
+  "billingDate": "2022-12-07T19:45:31.544Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 23,
+    "name": "Cortefiel C.C Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1170,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J500777671",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "internalBankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "account": "01910176252100123170",
+    "accountType": "Corriente",
+    "phoneNumber": "4129790009",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1168,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J500777671",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "internalBankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "account": "01910176252100123170",
+    "accountType": "Corriente",
+    "phoneNumber": "4129790009",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1169,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J500777671",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "internalBankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "account": "01910176252100123170",
+    "accountType": "Corriente",
+    "phoneNumber": "4129790009",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1171,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J500777671",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "internalBankHolder": "INVERSIONES E IMPORTACIONES D` MARIE C.A",
+    "account": "01910176202300056598",
+    "accountType": "Custodia",
+    "phoneNumber": "4129790009",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

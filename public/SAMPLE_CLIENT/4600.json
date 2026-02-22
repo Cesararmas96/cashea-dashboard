@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:19:56.888Z",
+  "id": "4171",
+  "amount": 51.83,
+  "invoiceId": "00013300",
+  "paidToMerchant": false,
+  "identifierNumber": 4600,
+  "billingDate": "2022-12-23T21:19:56.888Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10555744",
+      "fullName": "JOSE GREGORIO SANCHEZ RODRIGUEZ",
+      "phoneNumber": "+584125843335"
+    },
+    "installments": [
+      {
+        "id": "14125",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:20:15.216Z",
+        "amount": 8.639999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14122",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:20:15.216Z",
+        "amount": 25.91,
+        "status": "DONE"
+      },
+      {
+        "id": "14124",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:20:15.216Z",
+        "amount": 8.639999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "14123",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:20:15.216Z",
+        "amount": 8.639999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

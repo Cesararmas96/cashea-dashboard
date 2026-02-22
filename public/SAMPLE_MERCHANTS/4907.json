@@ -1,0 +1,120 @@
+{
+  "createdAt": "2025-03-28T17:39:58.247Z",
+  "updatedAt": "2025-07-08T14:47:26.299Z",
+  "id": 4907,
+  "name": "CLINICA VETERINARIA AVILA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "343d5f0a-0fe2-42ab-8fbf-4bbad1247c5f",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "admcvavila@gmail.com",
+    "legalName": "DORA LISIS",
+    "phoneNumber": "4241722507"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T16:42:09.267Z",
+      "updatedAt": "2025-04-28T16:42:09.267Z",
+      "id": 13355,
+      "merchantId": 4907,
+      "name": "VR_CLINICA VETERINARIA AVILA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4206,
+      "address": {
+        "name": "Calle El Arenal, Quinta La Nena, La Trinidad, Baruta",
+        "long": -66.86093750000002,
+        "lat": 10.436187500000003,
+        "location": "0101000020E61000009B99999919B750C018D9CEF753DF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-28T17:43:18.989Z",
+      "updatedAt": "2025-03-28T17:43:18.989Z",
+      "id": 12339,
+      "merchantId": 4907,
+      "name": "CLINICA VETERINARIA AVILA LA TRINIDAD",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4206,
+      "address": {
+        "name": "Calle El Arenal, Quinta La Nena, La Trinidad, Baruta",
+        "long": -66.86093750000002,
+        "lat": 10.436187500000003,
+        "location": "0101000020E61000009B99999919B750C018D9CEF753DF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

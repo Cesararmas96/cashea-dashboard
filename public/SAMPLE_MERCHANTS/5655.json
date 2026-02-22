@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-09T03:04:17.338Z",
+  "updatedAt": "2025-05-09T03:04:17.338Z",
+  "id": 5655,
+  "name": "Premium Shoes",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 840,
+  "tags": [],
+  "uuid": "ccd4de72-6f87-4b8d-8529-d449e969296f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "brandcenter2024@gmail.com",
+    "legalName": "PAOLA EL KHOURY",
+    "phoneNumber": "4249529048"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T03:07:02.846Z",
+      "updatedAt": "2025-05-09T03:07:02.846Z",
+      "id": 13860,
+      "merchantId": 5655,
+      "name": "Premium Shoes Av. Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3862,
+      "address": {
+        "name": "Premium Shoes Av. Miranda",
+        "long": -63.17981250000001,
+        "lat": 9.74718750000001,
+        "location": "0101000020E6100000BE74931804974FC0C8F5285C8F7E2340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

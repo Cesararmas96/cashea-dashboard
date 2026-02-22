@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:40:25.031Z",
+  "id": "3594",
+  "amount": 41.2,
+  "invoiceId": "901",
+  "paidToMerchant": false,
+  "identifierNumber": 4013,
+  "billingDate": "2022-12-22T21:40:25.031Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19510700",
+      "fullName": "VICTOR DANIEL PEREZ PAREDES",
+      "phoneNumber": "+584149106671"
+    },
+    "installments": [
+      {
+        "id": "12041",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:40:35.058Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12040",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:40:35.058Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "12038",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:40:35.059Z",
+        "amount": 20.6,
+        "status": "DONE"
+      },
+      {
+        "id": "12039",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:40:35.058Z",
+        "amount": 6.866666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 608,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J411397326",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "internalBankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "account": "01910272652100032173",
+    "accountType": "Corriente",
+    "phoneNumber": "4242404064",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 606,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J411397326",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "internalBankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "account": "01910272652100032173",
+    "accountType": "Corriente",
+    "phoneNumber": "4242404064",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 607,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J411397326",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "internalBankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "account": "01910272652100032173",
+    "accountType": "Corriente",
+    "phoneNumber": "4242404064",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 609,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J411397326",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "internalBankHolder": "CAUCHOS ACCESORIOS TONO WHEELS 028 C.A.",
+    "account": "01910272622300004507",
+    "accountType": "Custodia",
+    "phoneNumber": "4242404064",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

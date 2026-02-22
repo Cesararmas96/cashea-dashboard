@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:03:17.097Z",
+  "id": "2812",
+  "amount": 36.88,
+  "invoiceId": "13621",
+  "paidToMerchant": false,
+  "identifierNumber": 3304,
+  "billingDate": "2022-12-20T20:03:17.097Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20301982",
+      "fullName": "GENESIS CAROLAY ARMAS",
+      "phoneNumber": "+584125413788"
+    },
+    "installments": [
+      {
+        "id": "9262",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:06:31.195Z",
+        "amount": 18.44,
+        "status": "DONE"
+      },
+      {
+        "id": "9264",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:06:31.194Z",
+        "amount": 6.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9263",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:06:31.194Z",
+        "amount": 6.146666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9265",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:06:31.194Z",
+        "amount": 6.146666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

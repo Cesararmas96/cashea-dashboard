@@ -1,0 +1,110 @@
+[
+  {
+    "id": 807,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J315730693",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MUNDOFERTA MARGARITA, C.A",
+    "internalBankHolder": "MUNDOFERTA MARGARITA, C.A",
+    "account": "01910146112100180558",
+    "accountType": "Corriente",
+    "phoneNumber": "4241754654",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 805,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J315730693",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MUNDOFERTA MARGARITA, C.A",
+    "internalBankHolder": "MUNDOFERTA MARGARITA, C.A",
+    "account": "01910146112100180558",
+    "accountType": "Corriente",
+    "phoneNumber": "4241754654",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 806,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J315730693",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "MUNDOFERTA MARGARITA, C.A",
+    "internalBankHolder": "MUNDOFERTA MARGARITA, C.A",
+    "account": "01910146112100180558",
+    "accountType": "Corriente",
+    "phoneNumber": "4241754654",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

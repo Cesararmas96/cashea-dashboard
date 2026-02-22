@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T18:47:07.546Z",
+  "id": "4004",
+  "amount": 40.59,
+  "invoiceId": "9041",
+  "paidToMerchant": false,
+  "identifierNumber": 4392,
+  "billingDate": "2022-12-23T18:47:07.546Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20093236",
+      "fullName": "EUCARYS ODALYTZA ARCIA GUERRA",
+      "phoneNumber": "+584129633298"
+    },
+    "installments": [
+      {
+        "id": "13522",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:48:38.952Z",
+        "amount": 20.3,
+        "status": "DONE"
+      },
+      {
+        "id": "13525",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:48:38.951Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "13524",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:48:38.951Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      },
+      {
+        "id": "13523",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:48:38.951Z",
+        "amount": 6.7633333333333345,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

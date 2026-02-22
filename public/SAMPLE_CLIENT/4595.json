@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:50:55.909Z",
+  "id": "4207",
+  "amount": 43.05,
+  "invoiceId": "00002109",
+  "paidToMerchant": false,
+  "identifierNumber": 4595,
+  "billingDate": "2022-12-23T21:50:55.909Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17442720",
+      "fullName": "DARYL GRICEL MONTOYA CASTILLO",
+      "phoneNumber": "+584142641393"
+    },
+    "installments": [
+      {
+        "id": "14246",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:51:22.150Z",
+        "amount": 21.52,
+        "status": "DONE"
+      },
+      {
+        "id": "14249",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:51:22.149Z",
+        "amount": 7.176666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14248",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:51:22.149Z",
+        "amount": 7.176666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14247",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:51:22.149Z",
+        "amount": 7.176666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

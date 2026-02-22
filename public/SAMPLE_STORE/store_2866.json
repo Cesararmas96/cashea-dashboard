@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2053,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J405820659",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "internalBankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "account": "01910093642193098039",
+    "accountType": "Corriente",
+    "phoneNumber": "4147460263",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 2051,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J405820659",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "internalBankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "account": "01910093642193098039",
+    "accountType": "Corriente",
+    "phoneNumber": "4147460263",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 2052,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J405820659",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "internalBankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "account": "01910093642193098039",
+    "accountType": "Corriente",
+    "phoneNumber": "4147460263",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 2054,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J405820659",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "internalBankHolder": "TODOSUPPLIES LOS ANDES C.A.",
+    "account": "01910093612393037794",
+    "accountType": "Custodia",
+    "phoneNumber": "4147460263",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

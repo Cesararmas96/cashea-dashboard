@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:13:22.442Z",
+  "id": "5649",
+  "amount": 47.47,
+  "invoiceId": "00983",
+  "paidToMerchant": false,
+  "identifierNumber": 5940,
+  "billingDate": "2022-12-28T23:13:22.442Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26576194",
+      "fullName": "JAVIER ENRIQUE PRESILLA VILLEGAS",
+      "phoneNumber": "+584241646004"
+    },
+    "installments": [
+      {
+        "id": "19438",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:13:35.804Z",
+        "amount": 23.73,
+        "status": "DONE"
+      },
+      {
+        "id": "19441",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:13:35.804Z",
+        "amount": 7.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19440",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:13:35.804Z",
+        "amount": 7.913333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19439",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:13:35.804Z",
+        "amount": 7.913333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T01:10:17.963Z",
+  "id": "3815",
+  "amount": 475,
+  "invoiceId": "2989",
+  "paidToMerchant": false,
+  "identifierNumber": 4190,
+  "billingDate": "2022-12-23T01:10:17.963Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15757435",
+      "fullName": "YORBY DAVID SOTO HERNANDEZ",
+      "phoneNumber": "+584245183878"
+    },
+    "installments": [
+      {
+        "id": "12842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:13:20.494Z",
+        "amount": 375,
+        "status": "DONE"
+      },
+      {
+        "id": "12843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:13:20.494Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "12844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:13:20.494Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "12845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:13:20.494Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

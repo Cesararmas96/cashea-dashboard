@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T01:52:41.755Z",
+  "id": "3059",
+  "amount": 219.93,
+  "invoiceId": "6845",
+  "paidToMerchant": false,
+  "identifierNumber": 3544,
+  "billingDate": "2022-12-21T01:52:41.755Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11669586",
+      "fullName": "HUMBERTO JOSE III DEL NOGAL CAMPOS",
+      "phoneNumber": "+584140926921"
+    },
+    "installments": [
+      {
+        "id": "10121",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:53:36.729Z",
+        "amount": 36.653333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "10120",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:53:36.729Z",
+        "amount": 36.653333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "10118",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:53:36.729Z",
+        "amount": 109.97,
+        "status": "DONE"
+      },
+      {
+        "id": "10119",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:53:36.729Z",
+        "amount": 36.653333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

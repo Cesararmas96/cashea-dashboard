@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-16T20:35:52.503Z",
+  "updatedAt": "2025-06-12T15:13:48.719Z",
+  "id": 5833,
+  "name": "Subi Baja",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "98d099d2-1197-4f1c-bfcd-8900c1657055",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "laurap810@gmail.com",
+    "legalName": "Laura",
+    "phoneNumber": "04241999482"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T23:19:22.407Z",
+      "updatedAt": "2025-06-18T23:19:22.407Z",
+      "id": 15934,
+      "merchantId": 5833,
+      "name": "VR_Subi Baja",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3893,
+      "address": {
+        "name": "Calle San Luis ",
+        "long": -66.8446875,
+        "lat": 10.4675625,
+        "location": "0101000020E6100000C3F5285C0FB650C008AC1C5A64EF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T20:39:20.407Z",
+      "updatedAt": "2025-05-16T20:39:20.407Z",
+      "id": 14265,
+      "merchantId": 5833,
+      "name": "Subi Baja San Luis",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3893,
+      "address": {
+        "name": "Calle San Luis ",
+        "long": -66.8446875,
+        "lat": 10.4675625,
+        "location": "0101000020E6100000C3F5285C0FB650C008AC1C5A64EF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

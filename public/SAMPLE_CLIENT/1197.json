@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T17:27:26.055Z",
+  "id": "4667",
+  "amount": 42.22,
+  "invoiceId": "17467",
+  "paidToMerchant": false,
+  "identifierNumber": 1197,
+  "billingDate": "2022-12-24T17:27:26.055Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "42",
+    "buyDebtDate": "2023-01-24T04:00:01.349+00:00",
+    "lastStoreId": 28,
+    "boughtForInstallmentId": "15952",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24477956",
+      "fullName": "ANYELI KARLINA BERROTERAN VERA",
+      "phoneNumber": "+584129701551"
+    },
+    "installments": [
+      {
+        "id": "15952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:27:55.420Z",
+        "amount": 7.036666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:27:55.420Z",
+        "amount": 21.11,
+        "status": "DONE"
+      },
+      {
+        "id": "15951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:27:55.420Z",
+        "amount": 7.036666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "15953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:27:55.420Z",
+        "amount": 7.036666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

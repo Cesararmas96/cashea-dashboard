@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:39:48.081Z",
+  "id": "4613",
+  "amount": 107.5,
+  "invoiceId": "3341",
+  "paidToMerchant": false,
+  "identifierNumber": 4965,
+  "billingDate": "2022-12-24T16:39:48.081Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "68",
+    "buyDebtDate": "2023-02-07T04:00:01.259+00:00",
+    "lastStoreId": 55,
+    "boughtForInstallmentId": "15741",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14142438",
+      "fullName": "MARLYN YENIFFER VEGAS FUENTES",
+      "phoneNumber": "+584140298235"
+    },
+    "installments": [
+      {
+        "id": "15741",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:40:15.263Z",
+        "amount": 17.916666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "15738",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:40:15.264Z",
+        "amount": 53.75,
+        "status": "DONE"
+      },
+      {
+        "id": "15739",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:40:15.263Z",
+        "amount": 17.916666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "15740",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:40:15.263Z",
+        "amount": 17.916666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

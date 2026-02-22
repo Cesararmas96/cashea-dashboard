@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:16:21.566Z",
+  "id": "4234",
+  "amount": 66.96,
+  "invoiceId": "7244",
+  "paidToMerchant": false,
+  "identifierNumber": 4625,
+  "billingDate": "2022-12-23T22:16:21.566Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19085432",
+      "fullName": "EMMANUEL JESUS RENGIFO MENDOZA",
+      "phoneNumber": "+584143173400"
+    },
+    "installments": [
+      {
+        "id": "14350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:16:46.060Z",
+        "amount": 33.48,
+        "status": "DONE"
+      },
+      {
+        "id": "14353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:16:46.060Z",
+        "amount": 11.159999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "14352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:16:46.060Z",
+        "amount": 11.159999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "14351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:16:46.060Z",
+        "amount": 11.159999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

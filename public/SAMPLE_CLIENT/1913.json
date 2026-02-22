@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T22:06:25.184Z",
+  "id": "1251",
+  "amount": 97.98,
+  "invoiceId": "26153",
+  "paidToMerchant": false,
+  "identifierNumber": 1913,
+  "billingDate": "2022-12-11T22:06:25.184Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25253318",
+      "fullName": "YURIANT NAZARETH CALDERON MONCADA",
+      "phoneNumber": "+584142226460"
+    },
+    "installments": [
+      {
+        "id": "4023",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T22:06:55.001Z",
+        "amount": 16.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "4022",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T22:06:55.001Z",
+        "amount": 48.99,
+        "status": "DONE"
+      },
+      {
+        "id": "4025",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T22:06:55.001Z",
+        "amount": 16.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "4024",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T22:06:55.001Z",
+        "amount": 16.330000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

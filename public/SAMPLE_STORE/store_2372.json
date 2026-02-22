@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1117,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J505281780",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ON POINT, C.A.",
+    "internalBankHolder": "GRUPO ON POINT, C.A.",
+    "account": "01910052922152138379",
+    "accountType": "Corriente",
+    "phoneNumber": "4241685003",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1115,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J505281780",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ON POINT, C.A.",
+    "internalBankHolder": "GRUPO ON POINT, C.A.",
+    "account": "01910052922152138379",
+    "accountType": "Corriente",
+    "phoneNumber": "4241685003",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1116,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J505281780",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ON POINT, C.A.",
+    "internalBankHolder": "GRUPO ON POINT, C.A.",
+    "account": "01910052922152138379",
+    "accountType": "Corriente",
+    "phoneNumber": "4241685003",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1118,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J505281780",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO ON POINT, C.A.",
+    "internalBankHolder": "GRUPO ON POINT, C.A.",
+    "account": "01910052982352056576",
+    "accountType": "Custodia",
+    "phoneNumber": "4241685003",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

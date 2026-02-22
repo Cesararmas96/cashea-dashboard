@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T19:05:46.055Z",
+  "id": "1967",
+  "amount": 139.99,
+  "invoiceId": "00001388",
+  "paidToMerchant": false,
+  "identifierNumber": 2232,
+  "billingDate": "2022-12-17T19:05:46.055Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27531615",
+      "fullName": "GABRIEL JESUS DE JESUS MORA",
+      "phoneNumber": "+584128045378"
+    },
+    "installments": [
+      {
+        "id": "6393",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T19:06:35.336Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6391",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T19:06:35.336Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6392",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T19:06:35.336Z",
+        "amount": 23.330000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "6390",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T19:06:35.337Z",
+        "amount": 70,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

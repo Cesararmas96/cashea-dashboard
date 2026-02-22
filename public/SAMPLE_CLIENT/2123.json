@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-15T15:13:54.370Z",
+  "id": "1531",
+  "amount": 57.5,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2123,
+  "billingDate": "2022-12-15T15:13:54.370Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 57,
+    "name": "Desigual Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

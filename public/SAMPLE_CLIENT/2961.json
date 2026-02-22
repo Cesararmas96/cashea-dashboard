@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T02:06:19.352Z",
+  "id": "2482",
+  "amount": 60.7,
+  "invoiceId": "6729",
+  "paidToMerchant": false,
+  "identifierNumber": 2961,
+  "billingDate": "2022-12-19T02:06:19.352Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13853821",
+      "fullName": "MAYBRICK SARAMY VILLARROEL TORRES",
+      "phoneNumber": "+584143662958"
+    },
+    "installments": [
+      {
+        "id": "8182",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T02:07:24.040Z",
+        "amount": 30.35,
+        "status": "DONE"
+      },
+      {
+        "id": "8184",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T02:07:24.040Z",
+        "amount": 10.116666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8183",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T02:07:24.040Z",
+        "amount": 10.116666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8185",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T02:07:24.040Z",
+        "amount": 10.116666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

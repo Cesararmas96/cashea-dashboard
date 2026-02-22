@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T22:22:10.371Z",
+  "id": "4246",
+  "amount": 82,
+  "invoiceId": "1053",
+  "paidToMerchant": false,
+  "identifierNumber": 4639,
+  "billingDate": "2022-12-23T22:22:10.371Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11409994",
+      "fullName": "ALI GERARDO LOPEZ MAIOLINO",
+      "phoneNumber": "+584242388683"
+    },
+    "installments": [
+      {
+        "id": "14382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:22:44.336Z",
+        "amount": 41,
+        "status": "DONE"
+      },
+      {
+        "id": "14385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:22:44.336Z",
+        "amount": 13.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:22:44.336Z",
+        "amount": 13.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "14383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:22:44.336Z",
+        "amount": 13.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

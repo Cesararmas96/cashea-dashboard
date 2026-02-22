@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-03-28T15:48:08.775Z",
+  "updatedAt": "2025-04-08T15:08:21.915Z",
+  "id": 4905,
+  "name": "NOBEL COLORS",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "98c906e2-0809-4b45-aae8-43165a2df372",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "nobelcolors@gmail.com",
+    "legalName": "Ali Alexander",
+    "phoneNumber": "04143244920"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-28T15:49:53.608Z",
+      "updatedAt": "2025-03-28T15:49:53.608Z",
+      "id": 12333,
+      "merchantId": 4905,
+      "name": "NOBEL COLORS Baruta",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6982,
+      "address": {
+        "name": "Calle Sucre, Municipio Baruta, Centro Empresarial Baruta PB",
+        "long": -66.87543750000002,
+        "lat": 10.434187500000007,
+        "location": "0101000020E61000004B0C022B07B850C000AAF1D24DDE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-05T13:28:22.420Z",
+      "updatedAt": "2025-06-05T13:28:22.420Z",
+      "id": 15229,
+      "merchantId": 4905,
+      "name": "VR_NOBEL COLORS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6982,
+      "address": {
+        "name": "Calle Sucre, Municipio Baruta, Centro Empresarial Baruta PB",
+        "long": -66.87543750000002,
+        "lat": 10.434187500000007,
+        "location": "0101000020E61000004B0C022B07B850C000AAF1D24DDE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

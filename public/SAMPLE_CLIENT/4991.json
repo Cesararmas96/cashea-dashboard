@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T17:24:25.213Z",
+  "id": "4665",
+  "amount": 32.88,
+  "invoiceId": "00013390",
+  "paidToMerchant": false,
+  "identifierNumber": 4991,
+  "billingDate": "2022-12-24T17:24:25.213Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21618028",
+      "fullName": "DANIEL JOSE MANZANILLA CALDERON",
+      "phoneNumber": "+584124695930"
+    },
+    "installments": [
+      {
+        "id": "15942",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T17:24:33.068Z",
+        "amount": 16.44,
+        "status": "DONE"
+      },
+      {
+        "id": "15944",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T17:24:33.067Z",
+        "amount": 5.48,
+        "status": "DONE"
+      },
+      {
+        "id": "15943",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T17:24:33.067Z",
+        "amount": 5.48,
+        "status": "DONE"
+      },
+      {
+        "id": "15945",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T17:24:33.067Z",
+        "amount": 5.48,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

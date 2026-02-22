@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T21:07:06.644Z",
+  "id": "1002",
+  "amount": 125,
+  "invoiceId": "40001543",
+  "paidToMerchant": false,
+  "identifierNumber": 1676,
+  "billingDate": "2022-12-09T21:07:06.644Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20416502",
+      "fullName": "JORGE LUIS MELO",
+      "phoneNumber": "+584126395812"
+    },
+    "installments": [
+      {
+        "id": "3175",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T21:08:47.358Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3177",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T21:08:47.358Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3176",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T21:08:47.358Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3174",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T21:08:47.358Z",
+        "amount": 62.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

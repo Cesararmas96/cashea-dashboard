@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-16T20:21:05.119Z",
+  "updatedAt": "2025-05-26T16:14:57.197Z",
+  "id": 5829,
+  "name": "Diezseconds",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "42e6bbbd-9202-44c5-8b1f-7409b0950928",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "samiwakfie@gmail.com",
+    "legalName": "Remates Populares",
+    "phoneNumber": "04126746016"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-12T17:09:05.156Z",
+      "updatedAt": "2025-07-12T17:09:05.156Z",
+      "id": 17255,
+      "merchantId": 5829,
+      "name": "VR_Diezseconds CC La Bodega, Juangriego Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3421,
+      "address": {
+        "name": "Av Jesús Leandro c la bodega nivel Pb local 5a sector centro juangriego nueva esparta",
+        "long": -63.97125,
+        "lat": 11.07875,
+        "location": "0101000020E6100000B81E85EB51FC4FC0B81E85EB51282640",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T20:22:34.966Z",
+      "updatedAt": "2025-05-16T20:22:34.966Z",
+      "id": 14260,
+      "merchantId": 5829,
+      "name": "Diezseconds CC La Bodega",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3421,
+      "address": {
+        "name": "Av Jesús Leandro c la bodega nivel Pb local 5a sector centro juangriego nueva esparta",
+        "long": -63.97125,
+        "lat": 11.07875,
+        "location": "0101000020E6100000B81E85EB51FC4FC0B81E85EB51282640",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

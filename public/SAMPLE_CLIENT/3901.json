@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T18:27:00.542Z",
+  "id": "3466",
+  "amount": 47.9,
+  "invoiceId": "00001943",
+  "paidToMerchant": false,
+  "identifierNumber": 3901,
+  "billingDate": "2022-12-22T18:27:00.542Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15837086",
+      "fullName": "JHORMAN ALEXANDER MEJIAS SEQUERA",
+      "phoneNumber": "+584242933162"
+    },
+    "installments": [
+      {
+        "id": "11585",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T18:27:30.751Z",
+        "amount": 7.983333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11584",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T18:27:30.751Z",
+        "amount": 7.983333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11583",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T18:27:30.751Z",
+        "amount": 7.983333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "11582",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T18:27:30.752Z",
+        "amount": 23.95,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T00:56:07.123Z",
+  "id": "1671",
+  "amount": 208.94,
+  "invoiceId": "14346",
+  "paidToMerchant": false,
+  "identifierNumber": 2301,
+  "billingDate": "2022-12-16T00:56:07.123Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30708353",
+      "fullName": "NICOLE ALEJANDRA CASTILLO DUARTE",
+      "phoneNumber": "+584242128990"
+    },
+    "installments": [
+      {
+        "id": "5377",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T00:56:47.427Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "5374",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T00:56:47.428Z",
+        "amount": 108.94,
+        "status": "DONE"
+      },
+      {
+        "id": "5376",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T00:56:47.427Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "5375",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T00:56:47.427Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

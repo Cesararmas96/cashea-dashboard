@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T19:02:50.506Z",
+  "id": "4785",
+  "amount": 34.99,
+  "invoiceId": "14747",
+  "paidToMerchant": false,
+  "identifierNumber": 5029,
+  "billingDate": "2022-12-24T19:02:50.506Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27545429",
+      "fullName": "NEPTALI DANIEL FIGUERA MEJIAS",
+      "phoneNumber": "+584127158698"
+    },
+    "installments": [
+      {
+        "id": "16382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T19:04:21.253Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "16383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T19:04:21.252Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T19:04:21.252Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "16384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T19:04:21.252Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

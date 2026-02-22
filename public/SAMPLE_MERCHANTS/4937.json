@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-03-31T21:07:53.789Z",
+  "updatedAt": "2025-04-07T17:20:16.627Z",
+  "id": 4937,
+  "name": "Stove Urban",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4309012a-03b9-4f87-bcac-0aa5cf19e8a8",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "nazareth1diaz@gmail.com",
+    "legalName": "Nazaret",
+    "phoneNumber": "04123777017"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T12:55:43.708Z",
+      "updatedAt": "2025-04-01T12:55:43.708Z",
+      "id": 12445,
+      "merchantId": 4937,
+      "name": "Stove Urban La Sabana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 611,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7729,
+      "address": {
+        "name": "Urbanización la Sabana, recto la Sabana Guatire.",
+        "long": -66.5535625,
+        "lat": 10.456062500000002,
+        "location": "0101000020E6100000B07268916DA350C030DD240681E92440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-31T21:09:29.299Z",
+      "updatedAt": "2025-03-31T21:09:29.299Z",
+      "id": 12434,
+      "merchantId": 4937,
+      "name": "Stove Urban CC La Rosa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 611,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7729,
+      "address": {
+        "name": "Urbanización Rosa centro comercial la Rosa nivel estacionamiento",
+        "long": -66.5191875,
+        "lat": 10.463562500000009,
+        "location": "0101000020E61000007D3F355E3AA150C0D84D621058ED2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

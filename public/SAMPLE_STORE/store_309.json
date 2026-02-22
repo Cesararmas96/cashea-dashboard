@@ -1,0 +1,128 @@
+[
+  {
+    "id": 244,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501745358",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO WIN CA",
+    "internalBankHolder": "GRUPO WIN CA",
+    "account": "01910098792198373741",
+    "accountType": "Corriente",
+    "phoneNumber": "4248117991",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 242,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501745358",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO WIN CA",
+    "internalBankHolder": "GRUPO WIN CA",
+    "account": "01910098792198373741",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 243,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501745358",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO WIN CA",
+    "internalBankHolder": "GRUPO WIN CA",
+    "account": "01910098792198373741",
+    "accountType": "Corriente",
+    "phoneNumber": "",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 245,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501745358",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO WIN CA",
+    "internalBankHolder": "GRUPO WIN CA",
+    "account": "01910098712398269069",
+    "accountType": "Custodia ",
+    "phoneNumber": "",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

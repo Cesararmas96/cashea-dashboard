@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-07T20:53:52.112Z",
+  "id": "869",
+  "amount": 138,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1448,
+  "billingDate": "2022-12-07T20:53:52.112Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 31,
+    "name": "Swarovski Sambil / IN"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

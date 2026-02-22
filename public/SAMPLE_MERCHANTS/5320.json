@@ -1,0 +1,253 @@
+{
+  "createdAt": "2025-04-22T17:08:22.424Z",
+  "updatedAt": "2025-05-05T14:30:01.658Z",
+  "id": 5320,
+  "name": "Koa American Food",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "03851f64-4a93-4d70-8a51-7914be72c534",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "carloseduardo1891@gmail.com",
+    "legalName": "Carlos Maury",
+    "phoneNumber": "04122292557"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-25T16:49:30.732Z",
+      "updatedAt": "2025-04-25T16:49:30.732Z",
+      "id": 13285,
+      "merchantId": 5320,
+      "name": "Web Koa American Food Altamira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5920,
+      "address": {
+        "name": "TRANSVERSAL 2 CON AVENIDA SAN JUAN BOSCO, EDIFICIO TEREKAY PLANTA BAJA LOCAL B, ALTAMIRA",
+        "long": -66.8499375,
+        "lat": 10.498437499999994,
+        "location": "0101000020E61000003789416065B650C03033333333FF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-22T17:23:20.526Z",
+      "updatedAt": "2025-04-22T17:23:20.526Z",
+      "id": 13148,
+      "merchantId": 5320,
+      "name": "Koa American Food Altamira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5920,
+      "address": {
+        "name": "TRANSVERSAL 2 CON AVENIDA SAN JUAN BOSCO, EDIFICIO TEREKAY PLANTA BAJA LOCAL B, ALTAMIRA",
+        "long": -66.8499375,
+        "lat": 10.498437499999994,
+        "location": "0101000020E61000003789416065B650C03033333333FF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-22T17:24:13.045Z",
+      "updatedAt": "2025-04-22T17:24:13.045Z",
+      "id": 13149,
+      "merchantId": 5320,
+      "name": "Koa American Food La Boyera",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5920,
+      "address": {
+        "name": "CTRA INTERCOMUNAL LA TRINIDAD EL HATILLO CC TRINALTA NIVEL  PB LOCAL 2 URB LA TAHONA BARUTA CARACAS MIRANDA ZONA POSTAL 1083",
+        "long": -66.8456875,
+        "lat": 10.430812500000002,
+        "location": "0101000020E6100000B4C876BE1FB650C0806ABC7493DC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-20T23:23:12.798Z",
+      "updatedAt": "2025-05-20T23:23:12.798Z",
+      "id": 14423,
+      "merchantId": 5320,
+      "name": "VR_Koa American Food Altamira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5920,
+      "address": {
+        "name": "TRANSVERSAL 2 CON AVENIDA SAN JUAN BOSCO, EDIFICIO TEREKAY PLANTA BAJA LOCAL B, ALTAMIRA",
+        "long": -66.8499375,
+        "lat": 10.498437499999994,
+        "location": "0101000020E61000003789416065B650C03033333333FF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-02T16:39:30.725Z",
+      "updatedAt": "2025-06-02T16:39:30.725Z",
+      "id": 15054,
+      "merchantId": 5320,
+      "name": "VR_Koa American Food La Bollera",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5920,
+      "address": {
+        "name": "CTRA INTERCOMUNAL LA TRINIDAD EL HATILLO CC TRINALTA NIVEL  PB LOCAL 2 URB LA TAHONA BARUTA CARACAS MIRANDA ZONA POSTAL 1083",
+        "long": -66.8456875,
+        "lat": 10.430812500000002,
+        "location": "0101000020E6100000B4C876BE1FB650C0806ABC7493DC2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-25T16:50:08.730Z",
+      "updatedAt": "2025-04-25T16:50:08.730Z",
+      "id": 13286,
+      "merchantId": 5320,
+      "name": "Web Koa American Food La Boyera",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_APP"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5920,
+      "address": {
+        "name": "CTRA INTERCOMUNAL LA TRINIDAD EL HATILLO CC TRINALTA NIVEL  PB LOCAL 2 URB LA TAHONA BARUTA CARACAS MIRANDA ZONA POSTAL 1083",
+        "long": -66.8456875,
+        "lat": 10.430812500000002,
+        "location": "0101000020E6100000B4C876BE1FB650C0806ABC7493DC2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

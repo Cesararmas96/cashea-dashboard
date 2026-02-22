@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:43:21.235Z",
+  "id": "4200",
+  "amount": 35,
+  "invoiceId": "3018",
+  "paidToMerchant": false,
+  "identifierNumber": 4570,
+  "billingDate": "2022-12-23T21:43:21.235Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20154941",
+      "fullName": "FRANKLIN SABAS VARGAS NAVARRO",
+      "phoneNumber": "+584242926172"
+    },
+    "installments": [
+      {
+        "id": "14214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:43:45.656Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "14217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:43:45.656Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:43:45.656Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:43:45.656Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

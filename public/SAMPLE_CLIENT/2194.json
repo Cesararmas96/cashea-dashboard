@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T22:46:40.199Z",
+  "id": "1608",
+  "amount": 60,
+  "invoiceId": "8899",
+  "paidToMerchant": false,
+  "identifierNumber": 2194,
+  "billingDate": "2022-12-15T22:46:40.199Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26824354",
+      "fullName": "JENIFFER ESPERANZA RIOS MATOS",
+      "phoneNumber": "+584141382353"
+    },
+    "installments": [
+      {
+        "id": "5197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T22:47:01.119Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "5195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T22:47:01.119Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "5196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T22:47:01.119Z",
+        "amount": 10,
+        "status": "DONE"
+      },
+      {
+        "id": "5194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T22:47:01.119Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

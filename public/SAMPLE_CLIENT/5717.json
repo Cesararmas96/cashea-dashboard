@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T16:48:53.942Z",
+  "id": "5413",
+  "amount": 115.25,
+  "invoiceId": "00920",
+  "paidToMerchant": false,
+  "identifierNumber": 5717,
+  "billingDate": "2022-12-28T16:48:53.942Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27871495",
+      "fullName": "DARIELIS DEL VALLE OYER RITONDALE",
+      "phoneNumber": "+584122066157"
+    },
+    "installments": [
+      {
+        "id": "18594",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:49:29.746Z",
+        "amount": 57.63,
+        "status": "DONE"
+      },
+      {
+        "id": "18597",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:49:29.745Z",
+        "amount": 19.206666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18596",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:49:29.745Z",
+        "amount": 19.206666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "18595",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:49:29.745Z",
+        "amount": 19.206666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:22:35.999Z",
+  "id": "3581",
+  "amount": 304.1,
+  "invoiceId": "44363",
+  "paidToMerchant": false,
+  "identifierNumber": 4014,
+  "billingDate": "2022-12-22T21:22:35.999Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17997874",
+      "fullName": "CAROLINA ESPERANZA COGOLLO AQUINO",
+      "phoneNumber": "+584143924775"
+    },
+    "installments": [
+      {
+        "id": "12006",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:28:57.785Z",
+        "amount": 152.05,
+        "status": "DONE"
+      },
+      {
+        "id": "12009",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:28:57.785Z",
+        "amount": 50.68333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12008",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:28:57.785Z",
+        "amount": 50.68333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12007",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:28:57.785Z",
+        "amount": 50.68333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

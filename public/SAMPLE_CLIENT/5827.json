@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T21:21:39.093Z",
+  "id": "5556",
+  "amount": 30.66,
+  "invoiceId": "569",
+  "paidToMerchant": false,
+  "identifierNumber": 5827,
+  "billingDate": "2022-12-28T21:21:39.093Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-14T04:00:00.524+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "19099",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6256027",
+      "fullName": "LIVIA JOSEFINA LARRIVA MONTEROLA",
+      "phoneNumber": "+584242941462"
+    },
+    "installments": [
+      {
+        "id": "19101",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:23:53.785Z",
+        "amount": 5.11,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19099",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:23:53.785Z",
+        "amount": 5.11,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19100",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:23:53.785Z",
+        "amount": 5.11,
+        "status": "DELAYED"
+      },
+      {
+        "id": "19098",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:23:53.785Z",
+        "amount": 15.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

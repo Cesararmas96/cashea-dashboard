@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T20:52:45.584Z",
+  "id": "8611",
+  "amount": 30.6,
+  "invoiceId": "20100",
+  "paidToMerchant": false,
+  "identifierNumber": 4927,
+  "billingDate": "2023-01-16T20:52:45.584Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20129742",
+      "fullName": "LEIDY DAYANA SUAREZ GONZALEZ",
+      "phoneNumber": "+584140298047"
+    },
+    "installments": [
+      {
+        "id": "29906",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T20:53:38.769Z",
+        "amount": 15.3,
+        "status": "DONE"
+      },
+      {
+        "id": "29908",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T20:53:38.768Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "29909",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T20:53:38.768Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "29907",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T20:53:38.768Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

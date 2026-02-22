@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:40:03.800Z",
+  "id": "2745",
+  "amount": 69.8,
+  "invoiceId": "9141",
+  "paidToMerchant": false,
+  "identifierNumber": 4830,
+  "billingDate": "2022-12-20T17:40:03.800Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20615434",
+      "fullName": "JOANNY JOSE OROZCO MARCHENA",
+      "phoneNumber": "+584143781115"
+    },
+    "installments": [
+      {
+        "id": "9050",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:43:40.794Z",
+        "amount": 34.9,
+        "status": "DONE"
+      },
+      {
+        "id": "9051",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:43:40.794Z",
+        "amount": 11.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9053",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:43:40.794Z",
+        "amount": 11.633333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "9052",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:43:40.794Z",
+        "amount": 11.633333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

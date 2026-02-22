@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:06:28.862Z",
+  "id": "5096",
+  "amount": 49.8,
+  "invoiceId": "13183",
+  "paidToMerchant": false,
+  "identifierNumber": 5406,
+  "billingDate": "2022-12-26T22:06:28.862Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28309022",
+      "fullName": "LAURA NAZARETH TERAN MOSQUEDA",
+      "phoneNumber": "+584241875405"
+    },
+    "installments": [
+      {
+        "id": "17468",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:06:44.948Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "17466",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:06:44.948Z",
+        "amount": 24.9,
+        "status": "DONE"
+      },
+      {
+        "id": "17467",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:06:44.948Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "17469",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:06:44.948Z",
+        "amount": 8.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

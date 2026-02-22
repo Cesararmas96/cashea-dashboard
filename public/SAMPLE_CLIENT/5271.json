@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T19:24:26.058Z",
+  "id": "5883",
+  "amount": 108.35,
+  "invoiceId": "638",
+  "paidToMerchant": false,
+  "identifierNumber": 5271,
+  "billingDate": "2022-12-29T19:24:26.058Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16544002",
+      "fullName": "ANGEL JOSE ALCALA PEREIRA",
+      "phoneNumber": "+584241283833"
+    },
+    "installments": [
+      {
+        "id": "20293",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T19:25:55.780Z",
+        "amount": 18.06,
+        "status": "DONE"
+      },
+      {
+        "id": "20290",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T19:25:55.780Z",
+        "amount": 54.17,
+        "status": "DONE"
+      },
+      {
+        "id": "20292",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T19:25:55.780Z",
+        "amount": 18.06,
+        "status": "DONE"
+      },
+      {
+        "id": "20291",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T19:25:55.780Z",
+        "amount": 18.06,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

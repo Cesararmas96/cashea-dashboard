@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-28T16:46:02.497Z",
+  "id": "5410",
+  "amount": 38.19,
+  "invoiceId": "18808",
+  "paidToMerchant": false,
+  "identifierNumber": 5675,
+  "billingDate": "2022-12-28T16:46:02.497Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-14T04:00:00.434+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "18583",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27254744",
+      "fullName": "LUIS ALBERTO ZAMBRANO ALETA",
+      "phoneNumber": "+584129223125"
+    },
+    "installments": [
+      {
+        "id": "18584",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T16:46:54.923Z",
+        "amount": 6.366666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18585",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T16:46:54.923Z",
+        "amount": 6.366666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18583",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T16:46:54.923Z",
+        "amount": 6.366666666666666,
+        "status": "DELAYED"
+      },
+      {
+        "id": "18582",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T16:46:54.924Z",
+        "amount": 19.09,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

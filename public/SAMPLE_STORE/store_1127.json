@@ -1,0 +1,92 @@
+[
+  {
+    "id": 566,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501327106",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ZAPATO GRANDE HN, C.A",
+    "internalBankHolder": "ZAPATO GRANDE HN, C.A",
+    "account": "01910098762198410118",
+    "accountType": "Corriente",
+    "phoneNumber": "4122385195",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 569,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501327106",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ZAPATO GRANDE HN, C.A",
+    "internalBankHolder": "ZAPATO GRANDE HN, C.A",
+    "account": "01910098762398314032",
+    "accountType": "Custodia",
+    "phoneNumber": "4122385195",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

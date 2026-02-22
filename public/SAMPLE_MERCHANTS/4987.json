@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-02T16:28:24.457Z",
+  "updatedAt": "2025-04-08T18:30:26.129Z",
+  "id": 4987,
+  "name": "CYRUZ",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4d81dbad-fe2e-47c2-9631-53bd1cc88466",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cyruzcorp2025@gmail.com",
+    "legalName": "Jiong Wen",
+    "phoneNumber": "04129702299"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-07-30T13:30:04.512Z",
+      "updatedAt": "2025-07-30T13:30:04.512Z",
+      "id": 18292,
+      "merchantId": 4987,
+      "name": "VR_CYRUZ, Calle Norte 3",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11353,
+      "address": {
+        "name": "Calle Norte 3 entre las Esquinas Marron a la Pelota, Edif. Internacional.",
+        "long": -66.91156250000002,
+        "lat": 10.506062499999999,
+        "location": "0101000020E6100000A5703D0A57BA50C0C876BE9F1A032540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T16:38:13.787Z",
+      "updatedAt": "2025-04-02T16:38:13.787Z",
+      "id": 12523,
+      "merchantId": 4987,
+      "name": "CYRUZ Edf Internacional",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11353,
+      "address": {
+        "name": "Calle Norte 3 entre las Esquinas Marron a la Pelota, Edif. Internacional.",
+        "long": -66.91156250000002,
+        "lat": 10.506062499999999,
+        "location": "0101000020E6100000A5703D0A57BA50C0C876BE9F1A032540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:44:30.140Z",
+  "id": "2836",
+  "amount": 46.21,
+  "invoiceId": "50198",
+  "paidToMerchant": false,
+  "identifierNumber": 3294,
+  "billingDate": "2022-12-20T20:44:30.140Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26443321",
+      "fullName": "NEOSIBEL ALEJANDRA GONZALEZ",
+      "phoneNumber": "+584241851747"
+    },
+    "installments": [
+      {
+        "id": "9350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:45:12.449Z",
+        "amount": 23.11,
+        "status": "DONE"
+      },
+      {
+        "id": "9353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:45:12.447Z",
+        "amount": 7.7,
+        "status": "DONE"
+      },
+      {
+        "id": "9352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:45:12.447Z",
+        "amount": 7.7,
+        "status": "DONE"
+      },
+      {
+        "id": "9351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:45:12.447Z",
+        "amount": 7.7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T16:15:50.510Z",
+  "id": "2729",
+  "amount": 266.98,
+  "invoiceId": "26558",
+  "paidToMerchant": false,
+  "identifierNumber": 3179,
+  "billingDate": "2022-12-20T16:15:50.510Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21471609",
+      "fullName": "GENESIS ZAILEMAR MIJARES RAMIREZ",
+      "phoneNumber": "+584242731881"
+    },
+    "installments": [
+      {
+        "id": "8994",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T16:17:12.174Z",
+        "amount": 133.49,
+        "status": "DONE"
+      },
+      {
+        "id": "8997",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T16:17:12.173Z",
+        "amount": 44.49666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8995",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T16:17:12.173Z",
+        "amount": 44.49666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8996",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T16:17:12.173Z",
+        "amount": 44.49666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 41,
+    "name": "Mango Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

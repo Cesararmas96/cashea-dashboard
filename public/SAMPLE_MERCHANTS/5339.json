@@ -1,0 +1,90 @@
+{
+  "createdAt": "2025-04-23T17:42:33.909Z",
+  "updatedAt": "2025-04-23T17:44:02.540Z",
+  "id": 5339,
+  "name": "Administradora Integral Margarita",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 737,
+  "tags": [],
+  "uuid": "db5f79be-1a0b-4ccc-9070-aaf96ce03768",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "atencion@integralmargarita.com.ve",
+    "legalName": "Hector Velasquez ",
+    "phoneNumber": "04147753409"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-23T17:55:11.189Z",
+      "updatedAt": "2025-04-23T17:55:11.189Z",
+      "id": 13192,
+      "merchantId": 5339,
+      "name": "Administradora Integral Margarita CC La Redoma",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3475,
+      "address": {
+        "name": "Administradora Integral Margarita CC La Redoma",
+        "long": -63.838937499999986,
+        "lat": 10.988687499999997,
+        "location": "0101000020E6100000A8F1D24D62EB4FC090ED7C3F35FA2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

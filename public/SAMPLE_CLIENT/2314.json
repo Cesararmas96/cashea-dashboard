@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-16T19:00:58.489Z",
+  "id": "1714",
+  "amount": 285,
+  "invoiceId": "14062",
+  "paidToMerchant": false,
+  "identifierNumber": 2314,
+  "billingDate": "2022-12-16T19:00:58.489Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "46",
+    "buyDebtDate": "2023-01-02T04:00:00.327+00:00",
+    "lastStoreId": 32,
+    "boughtForInstallmentId": "5499",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21205531",
+      "fullName": "YONATHAN ANTONIO GODOY MORENO",
+      "phoneNumber": "+584149072523"
+    },
+    "installments": [
+      {
+        "id": "5501",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T19:01:25.005Z",
+        "amount": 43.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "5500",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T19:01:25.005Z",
+        "amount": 43.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "5499",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T19:01:25.005Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "5498",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T19:01:25.006Z",
+        "amount": 155,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

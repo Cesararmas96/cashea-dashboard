@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-01T23:15:30.347Z",
+  "id": "11778",
+  "amount": 91.524,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3634,
+  "billingDate": "2023-02-01T23:15:30.347Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30111574",
+      "fullName": "DREXLES XAVIER TRIBINO GOMEZ",
+      "phoneNumber": "+584126053350"
+    },
+    "installments": [
+      {
+        "id": "36234",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-01T23:15:30.391Z",
+        "amount": 45.76,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36236",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-01T23:15:30.391Z",
+        "amount": 15.254666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36235",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-15T23:15:30.391Z",
+        "amount": 15.254666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "36237",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-15T23:15:30.391Z",
+        "amount": 15.254666666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 114,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 2769,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

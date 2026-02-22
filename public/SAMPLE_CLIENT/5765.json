@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:28:33.701Z",
+  "id": "5461",
+  "amount": 200,
+  "invoiceId": "545",
+  "paidToMerchant": false,
+  "identifierNumber": 5765,
+  "billingDate": "2022-12-28T18:28:33.701Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14594390",
+      "fullName": "MARLYN REBECA LANDAETA CHACON",
+      "phoneNumber": "+584242344599"
+    },
+    "installments": [
+      {
+        "id": "18762",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:29:14.475Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "18765",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:29:14.474Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "18764",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:29:14.474Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "18763",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:29:14.474Z",
+        "amount": 33.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

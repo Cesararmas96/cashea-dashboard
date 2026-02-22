@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-09T19:20:35.156Z",
+  "updatedAt": "2025-05-12T15:25:57.903Z",
+  "id": 5676,
+  "name": "SNEAKERS",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 154,
+  "tags": [],
+  "uuid": "84c0b822-aaee-4922-b7d9-26c1d0861c5d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "contabilidadgruporadical1@gmail.com",
+    "legalName": "NATASHA CASTRO",
+    "phoneNumber": "04127083506"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T19:21:55.959Z",
+      "updatedAt": "2025-05-09T19:21:55.959Z",
+      "id": 13896,
+      "merchantId": 5676,
+      "name": "Sneakers Unicentro El Marques",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6000,
+      "address": {
+        "name": "UNICENTRO EL MARQUES, MUNICIPO SUCRE DEL ESTADO BOLIVARIANO DE MIRANDA, NIVEL +7, LOCAL 247",
+        "long": -66.8184375,
+        "lat": 10.482187500000009,
+        "location": "0101000020E61000007B14AE4761B450C08014AE47E1F62440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

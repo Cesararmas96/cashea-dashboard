@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T23:32:02.227Z",
+  "id": "3290",
+  "amount": 30,
+  "invoiceId": "00048234",
+  "paidToMerchant": false,
+  "identifierNumber": 3711,
+  "billingDate": "2022-12-21T23:32:02.227Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "5600440",
+      "fullName": "LOURDES COROMOTO MARTINEZ BARRIOS",
+      "phoneNumber": "+584241268125"
+    },
+    "installments": [
+      {
+        "id": "10942",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T23:32:07.608Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "10945",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T23:32:07.607Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "10944",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T23:32:07.607Z",
+        "amount": 5,
+        "status": "DONE"
+      },
+      {
+        "id": "10943",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T23:32:07.607Z",
+        "amount": 5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

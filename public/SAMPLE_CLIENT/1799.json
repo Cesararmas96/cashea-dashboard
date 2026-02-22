@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T00:10:25.303Z",
+  "id": "1157",
+  "amount": 48.98,
+  "invoiceId": "4608",
+  "paidToMerchant": false,
+  "identifierNumber": 1799,
+  "billingDate": "2022-12-11T00:10:25.303Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "9972618",
+      "fullName": "ANTONIO MIGNOLI MEDICI",
+      "phoneNumber": "+584128250000"
+    },
+    "installments": [
+      {
+        "id": "3687",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T00:11:00.747Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3689",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T00:11:00.747Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3688",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T00:11:00.747Z",
+        "amount": 8.163333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3686",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T00:11:00.747Z",
+        "amount": 24.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

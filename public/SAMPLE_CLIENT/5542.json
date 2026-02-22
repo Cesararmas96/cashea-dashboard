@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T20:37:07.943Z",
+  "id": "5263",
+  "amount": 59.34,
+  "invoiceId": "00013552",
+  "paidToMerchant": false,
+  "identifierNumber": 5542,
+  "billingDate": "2022-12-27T20:37:07.943Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28218574",
+      "fullName": "STEPHANY ELEANI VAZQUEZ TERAN",
+      "phoneNumber": "+584126122007"
+    },
+    "installments": [
+      {
+        "id": "18050",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T20:37:25.400Z",
+        "amount": 29.67,
+        "status": "DONE"
+      },
+      {
+        "id": "18053",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T20:37:25.400Z",
+        "amount": 9.89,
+        "status": "DONE"
+      },
+      {
+        "id": "18052",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T20:37:25.400Z",
+        "amount": 9.89,
+        "status": "DONE"
+      },
+      {
+        "id": "18051",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T20:37:25.400Z",
+        "amount": 9.89,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

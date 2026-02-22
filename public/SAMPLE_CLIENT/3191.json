@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-31T20:53:59.760Z",
+  "id": "7101",
+  "amount": 129.25,
+  "invoiceId": "50910",
+  "paidToMerchant": false,
+  "identifierNumber": 3191,
+  "billingDate": "2022-12-31T20:53:59.760Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-17T04:00:01.329+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "24603",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26609051",
+      "fullName": "KEILA ELIZABETH GASPAR MONTILLA",
+      "phoneNumber": "+584149056875"
+    },
+    "installments": [
+      {
+        "id": "24605",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-11T20:54:21.655Z",
+        "amount": 21.540000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "24604",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-28T20:54:21.655Z",
+        "amount": 21.540000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "24603",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-14T20:54:21.655Z",
+        "amount": 21.540000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "24602",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-31T20:54:21.655Z",
+        "amount": 64.63,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

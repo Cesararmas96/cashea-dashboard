@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T21:18:30.211Z",
+  "id": "3208",
+  "amount": 125,
+  "invoiceId": "9129",
+  "paidToMerchant": false,
+  "identifierNumber": 3636,
+  "billingDate": "2022-12-21T21:18:30.211Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11039622",
+      "fullName": "ERGLYS DEL VALLE PEREZ CONTRERAS",
+      "phoneNumber": "+584242752662"
+    },
+    "installments": [
+      {
+        "id": "10693",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T21:40:36.258Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10690",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T21:40:36.258Z",
+        "amount": 62.5,
+        "status": "DONE"
+      },
+      {
+        "id": "10692",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T21:40:36.258Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "10691",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T21:40:36.258Z",
+        "amount": 20.833333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 23,
+    "name": "Cortefiel C.C Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

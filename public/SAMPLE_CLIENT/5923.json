@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:52:41.998Z",
+  "id": "5626",
+  "amount": 35.77,
+  "invoiceId": "584",
+  "paidToMerchant": false,
+  "identifierNumber": 5923,
+  "billingDate": "2022-12-28T22:52:41.998Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29637320",
+      "fullName": "JESUS RAFAEL RONDON ARIAS",
+      "phoneNumber": "+584242250540"
+    },
+    "installments": [
+      {
+        "id": "19354",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:56:59.376Z",
+        "amount": 17.89,
+        "status": "DONE"
+      },
+      {
+        "id": "19357",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:56:59.376Z",
+        "amount": 5.960000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "19355",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:56:59.376Z",
+        "amount": 5.960000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "19356",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:56:59.376Z",
+        "amount": 5.960000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

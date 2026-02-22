@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T01:26:15.863Z",
+  "id": "4469",
+  "amount": 58.97,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4829,
+  "billingDate": "2022-12-24T01:26:15.863Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25545054",
+      "fullName": "CRISTEL ANDREINA GALLEGO CALDERON",
+      "phoneNumber": "+584242210424"
+    },
+    "installments": [
+      {
+        "id": "15224",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T01:27:51.050Z",
+        "amount": 9.83,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15223",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T01:27:51.050Z",
+        "amount": 9.83,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15222",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T01:27:51.051Z",
+        "amount": 29.48,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "15225",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T01:27:51.050Z",
+        "amount": 9.83,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

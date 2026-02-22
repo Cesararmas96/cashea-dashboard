@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-24T13:08:05.220Z",
+  "updatedAt": "2025-06-09T18:17:41.200Z",
+  "id": 5363,
+  "name": "Innova Electronics",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "26db0428-7d80-426b-82f0-67898d84318c",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "innovaelectronics14@gmail.com",
+    "legalName": "Susana",
+    "phoneNumber": "04120636629"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-18T17:14:39.325Z",
+      "updatedAt": "2025-06-18T17:14:39.325Z",
+      "id": 15918,
+      "merchantId": 5363,
+      "name": "VR_Innova Electronics",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5724,
+      "address": {
+        "name": "AV PRINCIPAL DE LECHERÍA CC CARIBBEAN CENTER NIVEL 1LOCAL 12",
+        "long": -64.6886875,
+        "lat": 10.1893125,
+        "location": "0101000020E61000007F6ABC74132C50C0B0726891ED602440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-04-24T13:16:55.042Z",
+      "updatedAt": "2025-04-24T13:16:55.042Z",
+      "id": 13237,
+      "merchantId": 5363,
+      "name": "Innova Electronics Punto Fijo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5724,
+      "address": {
+        "name": "Avenida ollarvides entgre calle cabure y trompillo local nro sn Puerta Maraven Punta Cardon Punto Fijo Edo Falcon",
+        "long": -70.20625,
+        "lat": 11.648749999999993,
+        "location": "0101000020E610000033333333338D51C0588FC2F5284C2740",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Tecnología",
+  "shipmentOptionsAvailable": []
+}

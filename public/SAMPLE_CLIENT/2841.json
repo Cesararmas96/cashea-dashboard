@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T21:37:03.334Z",
+  "id": "2312",
+  "amount": 77.26,
+  "invoiceId": "00012802",
+  "paidToMerchant": false,
+  "identifierNumber": 2841,
+  "billingDate": "2022-12-18T21:37:03.334Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19023683",
+      "fullName": "LUIS ARMANDO TORRES APONTE",
+      "phoneNumber": "+584129854930"
+    },
+    "installments": [
+      {
+        "id": "7605",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T21:37:49.925Z",
+        "amount": 12.876666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7602",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T21:37:49.926Z",
+        "amount": 38.63,
+        "status": "DONE"
+      },
+      {
+        "id": "7603",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T21:37:49.925Z",
+        "amount": 12.876666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "7604",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T21:37:49.925Z",
+        "amount": 12.876666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

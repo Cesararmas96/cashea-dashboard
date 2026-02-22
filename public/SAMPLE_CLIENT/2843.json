@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T21:59:00.477Z",
+  "id": "2324",
+  "amount": 138.33,
+  "invoiceId": "17894",
+  "paidToMerchant": false,
+  "identifierNumber": 2843,
+  "billingDate": "2022-12-18T21:59:00.477Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12683423",
+      "fullName": "WILLIANS KIUWMAN GUILLEN ORDAZ",
+      "phoneNumber": "+584142962715"
+    },
+    "installments": [
+      {
+        "id": "7645",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T21:59:35.185Z",
+        "amount": 23.053333333333338,
+        "status": "DONE"
+      },
+      {
+        "id": "7642",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T21:59:35.186Z",
+        "amount": 69.17,
+        "status": "DONE"
+      },
+      {
+        "id": "7643",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T21:59:35.185Z",
+        "amount": 23.053333333333338,
+        "status": "DONE"
+      },
+      {
+        "id": "7644",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T21:59:35.185Z",
+        "amount": 23.053333333333338,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

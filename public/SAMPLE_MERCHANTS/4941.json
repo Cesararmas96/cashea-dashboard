@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-01T13:08:57.028Z",
+  "updatedAt": "2025-04-14T20:52:24.712Z",
+  "id": 4941,
+  "name": "Picasso's Bakery",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "bd879364-b34e-445f-afbf-536fa923dcdc",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gruposamaven@gmail.com",
+    "legalName": "JUAN",
+    "phoneNumber": "04148695316"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T13:10:36.625Z",
+      "updatedAt": "2025-04-01T13:10:36.625Z",
+      "id": 12450,
+      "merchantId": 4941,
+      "name": "Picasos's Bakery Express CC Costa Atlantica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7256,
+      "address": {
+        "name": "Avenida Atlantico, Ciudad Guayana 8050, Bolívar",
+        "long": -62.75393749999999,
+        "lat": 8.266937499999997,
+        "location": "0101000020E61000002EDD240681604FC0E8263108AC882040",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-06T20:06:16.211Z",
+      "updatedAt": "2025-05-06T20:06:16.211Z",
+      "id": 13663,
+      "merchantId": 4941,
+      "name": "VR_Picasso's Bakery",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7256,
+      "address": {
+        "name": "Avenida Atlantico, Ciudad Guayana 8050, Bolívar",
+        "long": -62.75393749999999,
+        "lat": 8.266937499999997,
+        "location": "0101000020E61000002EDD240681604FC0E8263108AC882040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,90 @@
+{
+  "createdAt": "2025-04-02T19:47:09.608Z",
+  "updatedAt": "2025-04-10T15:03:57.832Z",
+  "id": 4999,
+  "name": "FARMAVIDA LA FONTANA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "9754a093-3777-4794-8c61-f16fa884538d",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "farmavidalafontana@gmail.com",
+    "legalName": "JOSE LUIS",
+    "phoneNumber": "4120367284"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T19:49:29.222Z",
+      "updatedAt": "2025-04-02T19:49:29.222Z",
+      "id": 12544,
+      "merchantId": 4999,
+      "name": "FARMAVIDA LA FONTANA CC LA FONTANA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5177,
+      "address": {
+        "name": "Valor de propiedad CALLE RIVAS DAVILA C/C LONGARIA CC LA FONTANA NIVEL PB LOCAL 7-A SECTOR LA VICTORIA",
+        "long": -67.3330625,
+        "lat": 10.227562500000005,
+        "location": "0101000020E6100000894160E550D550C090976E1283742440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

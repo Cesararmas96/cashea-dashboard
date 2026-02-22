@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T14:53:01.301Z",
+  "id": "3081",
+  "amount": 200.85,
+  "invoiceId": "48868",
+  "paidToMerchant": false,
+  "identifierNumber": 3509,
+  "billingDate": "2022-12-21T14:53:01.301Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "3496587",
+      "fullName": "MAGALY JOSEFINA BECERRA DE SANTANA",
+      "phoneNumber": "+584122237563"
+    },
+    "installments": [
+      {
+        "id": "10206",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T14:55:55.902Z",
+        "amount": 100.42,
+        "status": "DONE"
+      },
+      {
+        "id": "10209",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T14:55:55.901Z",
+        "amount": 33.47666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10208",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T14:55:55.901Z",
+        "amount": 33.47666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10207",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T14:55:55.901Z",
+        "amount": 33.47666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

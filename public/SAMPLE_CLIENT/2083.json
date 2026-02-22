@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-14T23:45:51.666Z",
+  "id": "1500",
+  "amount": 300,
+  "invoiceId": "10480",
+  "paidToMerchant": false,
+  "identifierNumber": 2083,
+  "billingDate": "2022-12-14T23:45:51.666Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "26",
+    "buyDebtDate": "2023-01-14T04:00:00.338+00:00",
+    "lastStoreId": 8,
+    "boughtForInstallmentId": "4844",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "IN_PROGRESS",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16301069",
+      "fullName": "JUAN JAVIER VIERA GASCON",
+      "phoneNumber": "+584149166395"
+    },
+    "installments": [
+      {
+        "id": "4844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T23:46:27.247Z",
+        "amount": 43.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "4845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T23:46:27.247Z",
+        "amount": 43.333333333333336,
+        "status": "DELAYED"
+      },
+      {
+        "id": "4843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T23:46:27.247Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "4842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T23:46:27.249Z",
+        "amount": 170,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "PENDING"
+}

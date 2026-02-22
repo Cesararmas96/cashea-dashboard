@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-04-23T19:54:23.537Z",
+  "updatedAt": "2025-04-25T12:20:45.281Z",
+  "id": 5343,
+  "name": "StockX",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "406cda20-72e1-48a4-9369-db2fb13a5746",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "comercializadorama2018ca@gmail.com",
+    "legalName": "María Carolina ",
+    "phoneNumber": "04143494306"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-10-14T14:09:51.438Z",
+      "updatedAt": "2025-10-14T14:09:51.438Z",
+      "id": 23607,
+      "merchantId": 5343,
+      "name": "Stockx Calle 138 Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 12939,
+      "address": {
+        "name": "CALLE 138 LAS DELICIAS NRO 100-26 EDIFICIO VENEZUELA PISO PLANTA BAJA, VALENCIA, Carabobo, ",
+        "long": -68.025,
+        "lat": 10.074999999999996,
+        "location": "0101000020E61000009A999999990151C06466666666262440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-23T19:58:40.098Z",
+      "updatedAt": "2025-04-23T19:58:40.098Z",
+      "id": 13202,
+      "merchantId": 5343,
+      "name": "StockX  CC Hipergaleria Guacara",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7727,
+      "address": {
+        "name": "StockX  CC Hipergaleria Guacara.",
+        "long": -67.89568750000001,
+        "lat": 10.217687499999997,
+        "location": "0101000020E6100000E8FBA9F152F950C0F87E6ABC746F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-24T16:21:14.248Z",
+      "updatedAt": "2025-04-24T16:21:14.248Z",
+      "id": 13249,
+      "merchantId": 5343,
+      "name": "VR_StockX  CC Hipergaleria Guacara",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7727,
+      "address": {
+        "name": "StockX  CC Hipergaleria Guacara.",
+        "long": -67.89568750000001,
+        "lat": 10.217687499999997,
+        "location": "0101000020E6100000E8FBA9F152F950C0F87E6ABC746F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,298 @@
+{
+  "createdAt": "2025-04-02T19:06:15.073Z",
+  "updatedAt": "2025-04-02T19:06:15.073Z",
+  "id": 4996,
+  "name": "Asistanet",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 623,
+  "tags": [],
+  "uuid": "53865907-06b5-4b3d-aa78-cf4b1a436cd4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "eddyespinosa@segurosconstitucion.com",
+    "legalName": "Asistanet",
+    "phoneNumber": "04143017458"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-29T19:49:37.499Z",
+      "updatedAt": "2025-05-29T19:49:37.499Z",
+      "id": 14961,
+      "merchantId": 4996,
+      "name": "Asistanet Valencia",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Parroquia San José, Municipio Valencia, Parcela de terreno, identificada con el Nro. 03 y 04, que forman parte de la Urbanización El viñedo, Av. 106, Nro. 138-A-47, Manzana 17, Jurisdicción.",
+        "long": -68.025,
+        "lat": 10.074999999999996,
+        "location": "0101000020E61000009A999999990151C06466666666262440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-11-05T16:13:49.159Z",
+      "updatedAt": "2025-11-05T16:13:49.159Z",
+      "id": 25078,
+      "merchantId": 4996,
+      "name": "ASISTANET AV TAMANACO CARACAS",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 10166,
+      "address": {
+        "name": " AV TAMANACO EDIF TORRE NORD PISO 03 OF P3 URB ELROSAL CARACAS (CHACAO) MIRANDA ZONA POSTAL 1060",
+        "long": -66.86506250000001,
+        "lat": 10.490437500000013,
+        "location": "0101000020E6100000BF9F1A2F5DB750C0D076BE9F1AFB2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-29T19:59:46.641Z",
+      "updatedAt": "2025-05-29T19:59:46.641Z",
+      "id": 14962,
+      "merchantId": 4996,
+      "name": "Asistanet Charallave",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Local Comercial Nro. 7, Planta Baja del Edificio “Multioficinas Conex”, Urbanización Paso Real, Sector A, Parcela Comercial C-1, Municipio Cristóbal Rojas, Estado Bolivariano de Miranda.",
+        "long": -66.85293750000001,
+        "lat": 10.217437500000003,
+        "location": "0101000020E61000000D022B8796B650C018D9CEF7536F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-29T20:00:49.539Z",
+      "updatedAt": "2025-05-29T20:00:49.539Z",
+      "id": 14963,
+      "merchantId": 4996,
+      "name": "Asistanet Guarenas",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 10166,
+      "address": {
+        "name": "Local P1-09 Y Local P1-10, del primer Piso del Centro Turístico Cultural y Comercial la Parada, ubicada en la Av. Intercomunal Guarenas – Guatire, Municipio Zamaro, Estado Bolivariano de Miranda.",
+        "long": -66.5029375,
+        "lat": 10.402937500000007,
+        "location": "0101000020E6100000A69BC42030A050C000AAF1D24DCE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-29T20:05:31.855Z",
+      "updatedAt": "2025-05-29T20:05:31.855Z",
+      "id": 14964,
+      "merchantId": 4996,
+      "name": "Asistanet CC Atlantic Center La Guaira",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Locales Comerciales P4-01, P4-02, P4-03, P4-04 y P4-05 del piso 4 del Centro Comercial Atlantic Center, Manzana 28, Parcela de Terreno D, Av. Catia la Mar, Urbanización la Atlantic, Parroquia Catia la Mar, Municipio Vargas, Estado la Guaira.",
+        "long": -67.03125,
+        "lat": 10.603749999999991,
+        "location": "0101000020E61000000000000000C250C080EB51B81E352540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T19:09:00.879Z",
+      "updatedAt": "2025-04-02T19:09:00.879Z",
+      "id": 12538,
+      "merchantId": 4996,
+      "name": "Asistanet Av Avila",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 623,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 10166,
+      "address": {
+        "name": "Avenida Ávila Quinta Dilcar N° 8 Urb. La Castellana  Caracas Municipio Chaco Miranda",
+        "long": -66.8536875,
+        "lat": 10.496937500000001,
+        "location": "0101000020E61000004260E5D0A2B650C0E04F8D976EFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T19:37:22.234Z",
+      "updatedAt": "2025-04-02T19:37:22.234Z",
+      "id": 12542,
+      "merchantId": 4996,
+      "name": "Asistanet Edf Paraiso",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 623,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 10166,
+      "address": {
+        "name": "Edificio Paraiso. Sabana Grande, Parroquia El Recreo, Municipio Libertador del Dtto. Capital",
+        "long": -66.9233125,
+        "lat": 10.498062500000003,
+        "location": "0101000020E61000003BDF4F8D17BB50C060BA490C02FF2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-08-18T15:04:07.318Z",
+      "updatedAt": "2025-08-18T15:04:07.318Z",
+      "id": 19360,
+      "merchantId": 4996,
+      "name": "Asistanet CC Provemed Nueva Esparta",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 10166,
+      "address": {
+        "name": "Av. Bolívar Centro Comercial Proveemed, Piso 2, Urb. Playa el ángel, Estado Nueva Esparta, Oficina 42",
+        "long": -63.81625,
+        "lat": 10.988749999999996,
+        "location": "0101000020E610000014AE47E17AE84FC008D7A3703DFA2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

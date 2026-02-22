@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-13T16:13:27.553Z",
+  "updatedAt": "2025-06-26T18:52:00.946Z",
+  "id": 5739,
+  "name": "K´LENDULAS FASHION",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5111a906-b25d-41ea-9418-0c0feca04e50",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "yusbeyrojas@gmail.com",
+    "legalName": "yusbey",
+    "phoneNumber": "04122819038"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-06T14:33:07.977Z",
+      "updatedAt": "2025-06-06T14:33:07.977Z",
+      "id": 15315,
+      "merchantId": 5739,
+      "name": "K´LENDULAS FASHION CC VICTORIA",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11548,
+      "address": {
+        "name": "CALLE COMERCIO CC VICTORIA LOCAL N° 03 NIVEL PLANTA BAJ LOCAL N° 03 SECTOR CENTRO CAGUA ARAGUA",
+        "long": -67.46231250000001,
+        "lat": 10.185562500000003,
+        "location": "0101000020E61000000D022B8796DD50C060BA490C025F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-09T18:25:52.434Z",
+  "id": "983",
+  "amount": 149.23,
+  "invoiceId": "539",
+  "paidToMerchant": false,
+  "identifierNumber": 1667,
+  "billingDate": "2022-12-09T18:25:52.434Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6366481",
+      "fullName": "NATACHA LOVERA GUDINO",
+      "phoneNumber": "+584242165007"
+    },
+    "installments": [
+      {
+        "id": "3109",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-20T18:26:37.765Z",
+        "amount": 24.87333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3107",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-23T18:26:37.765Z",
+        "amount": 24.87333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3108",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-06T18:26:37.765Z",
+        "amount": 24.87333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3106",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-09T18:26:37.766Z",
+        "amount": 74.61,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 43,
+    "name": "Women Secret Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T15:41:48.738Z",
+  "id": "4566",
+  "amount": 65.99,
+  "invoiceId": "9979",
+  "paidToMerchant": false,
+  "identifierNumber": 4906,
+  "billingDate": "2022-12-24T15:41:48.738Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "72",
+    "buyDebtDate": "2023-01-10T04:00:00.788+00:00",
+    "lastStoreId": 59,
+    "boughtForInstallmentId": "15587",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23292604",
+      "fullName": "YOSMARY DEL CARMEN RODRIGUEZ MENDOZA",
+      "phoneNumber": "+584149112426"
+    },
+    "installments": [
+      {
+        "id": "15586",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T15:46:36.250Z",
+        "amount": 32.99,
+        "status": "DONE"
+      },
+      {
+        "id": "15589",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T15:46:36.250Z",
+        "amount": 10.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "15588",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T15:46:36.250Z",
+        "amount": 10.999999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "15587",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T15:46:36.250Z",
+        "amount": 10.999999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

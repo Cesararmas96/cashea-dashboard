@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T23:16:39.458Z",
+  "id": "885",
+  "amount": 43,
+  "invoiceId": "10377",
+  "paidToMerchant": false,
+  "identifierNumber": 1569,
+  "billingDate": "2022-12-07T23:16:39.458Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20416502",
+      "fullName": "JORGE LUIS MELO",
+      "phoneNumber": "+584126395812"
+    },
+    "installments": [
+      {
+        "id": "2810",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T23:20:20.119Z",
+        "amount": 21.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2813",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T23:20:20.119Z",
+        "amount": 7.166666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2812",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T23:20:20.119Z",
+        "amount": 7.166666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "2811",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T23:20:20.119Z",
+        "amount": 7.166666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

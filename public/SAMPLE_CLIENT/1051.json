@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-11-08T21:50:59.875Z",
+  "id": "309",
+  "amount": 58,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1051,
+  "billingDate": "2022-11-08T21:50:59.875Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19022807",
+      "fullName": "REGULO ALBERTO GOMEZ BOLIVAR",
+      "phoneNumber": "+584241359664"
+    },
+    "installments": [
+      {
+        "id": "944",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-20T21:50:59.927Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "941",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-08T21:50:59.928Z",
+        "amount": 29,
+        "status": "DONE"
+      },
+      {
+        "id": "943",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-06T21:50:59.927Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "942",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-22T21:50:59.927Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 16,
+    "name": "Los Chorros"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 36,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

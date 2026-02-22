@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T00:06:51.723Z",
+  "id": "5334",
+  "amount": 49,
+  "invoiceId": "10386",
+  "paidToMerchant": false,
+  "identifierNumber": 5650,
+  "billingDate": "2022-12-28T00:06:51.723Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21534335",
+      "fullName": "PEDRO EMILIO FLOREZ CAICEDO",
+      "phoneNumber": "+584241023069"
+    },
+    "installments": [
+      {
+        "id": "18322",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T00:07:53.021Z",
+        "amount": 24.5,
+        "status": "DONE"
+      },
+      {
+        "id": "18325",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T00:07:53.021Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18323",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T00:07:53.021Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18324",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T00:07:53.021Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

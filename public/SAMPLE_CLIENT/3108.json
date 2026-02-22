@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-19T22:19:01.249Z",
+  "id": "2603",
+  "amount": 55.8,
+  "invoiceId": "1587",
+  "paidToMerchant": false,
+  "identifierNumber": 3108,
+  "billingDate": "2022-12-19T22:19:01.249Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "44",
+    "buyDebtDate": "2023-01-19T04:00:00.422+00:00",
+    "lastStoreId": 30,
+    "boughtForInstallmentId": "8560",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20118635",
+      "fullName": "FENILIN STEFANI BLANCO ASCANIO",
+      "phoneNumber": "+584123709069"
+    },
+    "installments": [
+      {
+        "id": "8561",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T22:30:43.302Z",
+        "amount": 9.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8558",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T22:30:43.303Z",
+        "amount": 27.9,
+        "status": "DONE"
+      },
+      {
+        "id": "8559",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T22:30:43.302Z",
+        "amount": 9.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8560",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T22:30:43.302Z",
+        "amount": 9.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

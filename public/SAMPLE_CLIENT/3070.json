@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T21:27:11.319Z",
+  "id": "2581",
+  "amount": 47.98,
+  "invoiceId": "1339",
+  "paidToMerchant": false,
+  "identifierNumber": 3070,
+  "billingDate": "2022-12-19T21:27:11.319Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26334784",
+      "fullName": "MAIKOL JAVIER QUEVEDO MATERANO",
+      "phoneNumber": "+584141043249"
+    },
+    "installments": [
+      {
+        "id": "8486",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T21:28:47.630Z",
+        "amount": 23.99,
+        "status": "DONE"
+      },
+      {
+        "id": "8487",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T21:28:47.629Z",
+        "amount": 7.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8488",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T21:28:47.629Z",
+        "amount": 7.996666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "8489",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T21:28:47.629Z",
+        "amount": 7.996666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 44,
+    "name": "Zippy Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

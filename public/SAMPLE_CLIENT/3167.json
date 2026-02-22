@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:46:42.231Z",
+  "id": "2686",
+  "amount": 99.47,
+  "invoiceId": "6708",
+  "paidToMerchant": false,
+  "identifierNumber": 3167,
+  "billingDate": "2022-12-20T00:46:42.231Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26619116",
+      "fullName": "NOHELY DAIJES ANTILLANO APONTE",
+      "phoneNumber": "+584242796061"
+    },
+    "installments": [
+      {
+        "id": "8842",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:54:50.205Z",
+        "amount": 49.73,
+        "status": "DONE"
+      },
+      {
+        "id": "8844",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:54:50.205Z",
+        "amount": 16.580000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "8845",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:54:50.205Z",
+        "amount": 16.580000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "8843",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:54:50.205Z",
+        "amount": 16.580000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

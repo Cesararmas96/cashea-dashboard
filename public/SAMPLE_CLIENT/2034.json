@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-14T18:11:06.183Z",
+  "id": "1420",
+  "amount": 180,
+  "invoiceId": "0595",
+  "paidToMerchant": false,
+  "identifierNumber": 2034,
+  "billingDate": "2022-12-14T18:11:06.183Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24758288",
+      "fullName": "KELVIN JOSE BLANCO AMAYA",
+      "phoneNumber": "+584129528961"
+    },
+    "installments": [
+      {
+        "id": "4578",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-14T18:17:48.482Z",
+        "amount": 90,
+        "status": "DONE"
+      },
+      {
+        "id": "4581",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-25T18:17:48.481Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "4580",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-11T18:17:48.481Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "4579",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-28T18:17:48.481Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T23:52:15.112Z",
+  "id": "2410",
+  "amount": 45,
+  "invoiceId": "784701",
+  "paidToMerchant": false,
+  "identifierNumber": 2279,
+  "billingDate": "2022-12-18T23:52:15.112Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25229356",
+      "fullName": "JEAN PAUL CHANG CHECA",
+      "phoneNumber": "+584142332305"
+    },
+    "installments": [
+      {
+        "id": "7929",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T23:52:29.019Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "7926",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T23:52:29.019Z",
+        "amount": 22.5,
+        "status": "DONE"
+      },
+      {
+        "id": "7928",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T23:52:29.019Z",
+        "amount": 7.5,
+        "status": "DONE"
+      },
+      {
+        "id": "7927",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T23:52:29.019Z",
+        "amount": 7.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

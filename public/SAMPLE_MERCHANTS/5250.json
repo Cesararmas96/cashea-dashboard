@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-15T15:51:12.202Z",
+  "updatedAt": "2025-05-07T13:55:27.956Z",
+  "id": 5250,
+  "name": "Panadería y pastelería Que viva el pan",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c314bd31-c707-48e2-b215-c578d94148ef",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "vivaelpandeltuy@gmail.com",
+    "legalName": "Oscar",
+    "phoneNumber": "04241050558"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-22T18:13:47.973Z",
+      "updatedAt": "2025-05-22T18:13:47.973Z",
+      "id": 14542,
+      "merchantId": 5250,
+      "name": "VR_Panadería y pastelería Que viva el pan",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7194,
+      "address": {
+        "name": "AV. .LANDER, LOCAL NRO 17, ZONA CENTRAL, OCUMARE DEL TUY, MIRANDA.",
+        "long": -66.77381249999999,
+        "lat": 10.116937499999992,
+        "location": "0101000020E61000001A2FDD2486B150C0185A643BDF3B2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-15T15:57:14.845Z",
+      "updatedAt": "2025-04-15T15:57:14.845Z",
+      "id": 13013,
+      "merchantId": 5250,
+      "name": "Panadería y pastelería Que viva el pan",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7194,
+      "address": {
+        "name": "AV. .LANDER, LOCAL NRO 17, ZONA CENTRAL, OCUMARE DEL TUY, MIRANDA.",
+        "long": -66.77381249999999,
+        "lat": 10.116937499999992,
+        "location": "0101000020E61000001A2FDD2486B150C0185A643BDF3B2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

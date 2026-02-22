@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T16:23:16.720Z",
+  "id": "8525",
+  "amount": 54.85,
+  "invoiceId": "16317",
+  "paidToMerchant": false,
+  "identifierNumber": 1694,
+  "billingDate": "2023-01-16T16:23:16.720Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15604756",
+      "fullName": "EMELY ANDREINA BAUTE",
+      "phoneNumber": "+584129314684"
+    },
+    "installments": [
+      {
+        "id": "29785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T16:23:30.164Z",
+        "amount": 9.14,
+        "status": "DONE"
+      },
+      {
+        "id": "29782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T16:23:30.165Z",
+        "amount": 27.43,
+        "status": "DONE"
+      },
+      {
+        "id": "29783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T16:23:30.164Z",
+        "amount": 9.14,
+        "status": "DONE"
+      },
+      {
+        "id": "29784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T16:23:30.164Z",
+        "amount": 9.14,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

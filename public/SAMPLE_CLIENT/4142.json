@@ -1,0 +1,23 @@
+{
+  "createdAt": "2023-01-31T15:50:26.280Z",
+  "id": "11578",
+  "amount": 30.54,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4142,
+  "billingDate": "2023-01-31T15:50:26.280Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

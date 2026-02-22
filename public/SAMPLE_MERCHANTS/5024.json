@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-03T15:38:20.748Z",
+  "updatedAt": "2025-04-07T21:07:29.369Z",
+  "id": 5024,
+  "name": "DHC",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "6415253f-e7a4-498f-901b-36c4a663dff5",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "servicios.confortlab@gmail.com",
+    "legalName": "Diana",
+    "phoneNumber": "04265181723"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-03T15:40:32.494Z",
+      "updatedAt": "2025-04-03T15:40:32.494Z",
+      "id": 12578,
+      "merchantId": 5024,
+      "name": "DHC CC El Valle",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5488,
+      "address": {
+        "name": "AV INTERCOMUNAL EL VALLE CC EL VALLE NIVEL 4 LOCAL PLAZA P-31A URB EL VALLE CARACAS DISTRITO CAPITAL ZONA POSTAL 1090",
+        "long": -66.9051875,
+        "lat": 10.467187500000009,
+        "location": "0101000020E6100000DF4F8D97EEB950C03833333333EF2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

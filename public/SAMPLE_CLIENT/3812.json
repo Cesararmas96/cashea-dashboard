@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:53:54.674Z",
+  "id": "3383",
+  "amount": 40.39,
+  "invoiceId": "12734",
+  "paidToMerchant": false,
+  "identifierNumber": 3812,
+  "billingDate": "2022-12-22T01:53:54.674Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "7948449",
+      "fullName": "JOHAN HILDEMAR BOLIVAR HERRERA",
+      "phoneNumber": "+584129957800"
+    },
+    "installments": [
+      {
+        "id": "11290",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:54:35.275Z",
+        "amount": 20.2,
+        "status": "DONE"
+      },
+      {
+        "id": "11292",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:54:35.274Z",
+        "amount": 6.73,
+        "status": "DONE"
+      },
+      {
+        "id": "11291",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:54:35.274Z",
+        "amount": 6.73,
+        "status": "DONE"
+      },
+      {
+        "id": "11293",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:54:35.274Z",
+        "amount": 6.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

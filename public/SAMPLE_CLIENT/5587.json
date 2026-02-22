@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T22:07:51.706Z",
+  "id": "5280",
+  "amount": 48.31,
+  "invoiceId": "24924",
+  "paidToMerchant": false,
+  "identifierNumber": 5587,
+  "billingDate": "2022-12-27T22:07:51.706Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11681847",
+      "fullName": "MARY AZUCENA DELGADO AULAR",
+      "phoneNumber": "+584123262031"
+    },
+    "installments": [
+      {
+        "id": "18130",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T22:09:04.829Z",
+        "amount": 24.16,
+        "status": "DONE"
+      },
+      {
+        "id": "18133",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T22:09:04.828Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "18132",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T22:09:04.828Z",
+        "amount": 8.05,
+        "status": "DONE"
+      },
+      {
+        "id": "18131",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T22:09:04.828Z",
+        "amount": 8.05,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

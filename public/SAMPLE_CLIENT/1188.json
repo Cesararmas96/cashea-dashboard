@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-31T23:31:32.916Z",
+  "id": "222",
+  "amount": 105,
+  "invoiceId": "9950",
+  "paidToMerchant": false,
+  "identifierNumber": 1188,
+  "billingDate": "2022-10-31T23:31:32.916Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18021948",
+      "fullName": "MIGUEL DAVID RADA LADJEVIC",
+      "phoneNumber": "+584122110334"
+    },
+    "installments": [
+      {
+        "id": "681",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-31T23:32:00.595Z",
+        "amount": 60,
+        "status": "DONE"
+      },
+      {
+        "id": "682",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-14T23:32:00.591Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "684",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-12T23:32:00.591Z",
+        "amount": 15,
+        "status": "DONE"
+      },
+      {
+        "id": "683",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-28T23:32:00.591Z",
+        "amount": 15,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

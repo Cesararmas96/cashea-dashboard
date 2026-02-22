@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1651,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J412254928",
+    "bankName": "Banesco",
+    "bankHolder": "FAMILY MARKET, C.A",
+    "internalBankHolder": "FAMILY MARKET, C.A",
+    "account": "01340411914111076108",
+    "accountType": "Corriente",
+    "phoneNumber": "4248633805",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1649,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J412254928",
+    "bankName": "Banesco",
+    "bankHolder": "FAMILY MARKET, C.A",
+    "internalBankHolder": "FAMILY MARKET, C.A",
+    "account": "01340411914111076108",
+    "accountType": "Corriente",
+    "phoneNumber": "4248633805",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1650,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J412254928",
+    "bankName": "Banesco",
+    "bankHolder": "FAMILY MARKET, C.A",
+    "internalBankHolder": "FAMILY MARKET, C.A",
+    "account": "01340411914111076108",
+    "accountType": "Corriente",
+    "phoneNumber": "4248633805",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1694,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J412254928",
+    "bankName": "Banesco",
+    "bankHolder": "FAMILY MARKET, C.A",
+    "internalBankHolder": "FAMILY MARKET, C.A",
+    "account": "01341736930001005020",
+    "accountType": "Custodia",
+    "phoneNumber": "4248633805",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

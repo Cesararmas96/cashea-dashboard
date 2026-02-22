@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:49:25.087Z",
+  "id": "2840",
+  "amount": 34.78,
+  "invoiceId": "8702",
+  "paidToMerchant": false,
+  "identifierNumber": 3355,
+  "billingDate": "2022-12-20T20:49:25.087Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28330482",
+      "fullName": "RAYMOND JESUS GOMES DE ABREU",
+      "phoneNumber": "+584242946633"
+    },
+    "installments": [
+      {
+        "id": "9389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:55:06.478Z",
+        "amount": 5.796666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:55:06.478Z",
+        "amount": 17.39,
+        "status": "DONE"
+      },
+      {
+        "id": "9388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:55:06.478Z",
+        "amount": 5.796666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:55:06.478Z",
+        "amount": 5.796666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

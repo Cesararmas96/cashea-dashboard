@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:18:02.726Z",
+  "id": "3169",
+  "amount": 35,
+  "invoiceId": "7346",
+  "paidToMerchant": false,
+  "identifierNumber": 3626,
+  "billingDate": "2022-12-21T20:18:02.726Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10544084",
+      "fullName": "SIUDY ELENA PINEDA GRATEROL",
+      "phoneNumber": "+584142144989"
+    },
+    "installments": [
+      {
+        "id": "10493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:19:00.829Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:19:00.830Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "10491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:19:00.829Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:19:00.829Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T23:24:10.466Z",
+  "id": "2639",
+  "amount": 38.29,
+  "invoiceId": "13705",
+  "paidToMerchant": false,
+  "identifierNumber": 3113,
+  "billingDate": "2022-12-19T23:24:10.466Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22047474",
+      "fullName": "EDRIKZON MANUEL SOJO CONTRERAS",
+      "phoneNumber": "+584241972681"
+    },
+    "installments": [
+      {
+        "id": "8662",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T23:24:44.187Z",
+        "amount": 19.14,
+        "status": "DONE"
+      },
+      {
+        "id": "8663",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T23:24:44.187Z",
+        "amount": 6.383333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8665",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T23:24:44.187Z",
+        "amount": 6.383333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8664",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T23:24:44.187Z",
+        "amount": 6.383333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

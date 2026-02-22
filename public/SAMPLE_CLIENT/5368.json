@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T21:22:43.109Z",
+  "id": "5074",
+  "amount": 127.33,
+  "invoiceId": "15209",
+  "paidToMerchant": false,
+  "identifierNumber": 5368,
+  "billingDate": "2022-12-26T21:22:43.109Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16562758",
+      "fullName": "JORGE MIGUEL DIAZ GALINDEZ",
+      "phoneNumber": "+584242311170"
+    },
+    "installments": [
+      {
+        "id": "17402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T21:23:07.720Z",
+        "amount": 63.66,
+        "status": "DONE"
+      },
+      {
+        "id": "17405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T21:23:07.719Z",
+        "amount": 21.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T21:23:07.719Z",
+        "amount": 21.223333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T21:23:07.719Z",
+        "amount": 21.223333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

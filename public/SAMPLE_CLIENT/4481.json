@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T20:16:57.331Z",
+  "id": "4082",
+  "amount": 99.32,
+  "invoiceId": "1023",
+  "paidToMerchant": false,
+  "identifierNumber": 4481,
+  "billingDate": "2022-12-23T20:16:57.331Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-09T04:00:01.140+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "13791",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15132603",
+      "fullName": "DUBEN DAYHAN SALAX SERRADA",
+      "phoneNumber": "+584242188254"
+    },
+    "installments": [
+      {
+        "id": "13792",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:17:05.397Z",
+        "amount": 16.55333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13790",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:17:05.398Z",
+        "amount": 49.66,
+        "status": "DONE"
+      },
+      {
+        "id": "13793",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:17:05.397Z",
+        "amount": 16.55333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13791",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:17:05.397Z",
+        "amount": 16.55333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:29:06.460Z",
+  "id": "3176",
+  "amount": 75.58,
+  "invoiceId": "12327",
+  "paidToMerchant": false,
+  "identifierNumber": 3624,
+  "billingDate": "2022-12-21T20:29:06.460Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14350579",
+      "fullName": "MARIHEY CARLOTA THORRENS",
+      "phoneNumber": "+584242135572"
+    },
+    "installments": [
+      {
+        "id": "10522",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:29:32.144Z",
+        "amount": 37.79,
+        "status": "DONE"
+      },
+      {
+        "id": "10525",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:29:32.143Z",
+        "amount": 12.596666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10524",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:29:32.143Z",
+        "amount": 12.596666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "10523",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:29:32.143Z",
+        "amount": 12.596666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

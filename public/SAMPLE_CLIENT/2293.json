@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-16T15:58:20.840Z",
+  "id": "1689",
+  "amount": 120,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2293,
+  "billingDate": "2022-12-16T15:58:20.840Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

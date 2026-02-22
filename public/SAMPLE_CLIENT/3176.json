@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:47:06.542Z",
+  "id": "2704",
+  "amount": 50,
+  "invoiceId": "784789",
+  "paidToMerchant": false,
+  "identifierNumber": 3176,
+  "billingDate": "2022-12-20T01:47:06.542Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10542482",
+      "fullName": "YOSMELIN COROMOTO CHONG RAMIREZ",
+      "phoneNumber": "+584142349002"
+    },
+    "installments": [
+      {
+        "id": "8901",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:48:51.458Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8898",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:48:51.458Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "8899",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:48:51.458Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8900",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:48:51.458Z",
+        "amount": 8.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

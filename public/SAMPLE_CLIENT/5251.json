@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T15:51:25.896Z",
+  "id": "4992",
+  "amount": 43.87,
+  "invoiceId": "7177",
+  "paidToMerchant": false,
+  "identifierNumber": 5251,
+  "billingDate": "2022-12-26T15:51:25.896Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13866100",
+      "fullName": "BRENDA MARITZA ANDRADE JARA",
+      "phoneNumber": "+584122632623"
+    },
+    "installments": [
+      {
+        "id": "17117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T15:54:11.143Z",
+        "amount": 7.313333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T15:54:11.143Z",
+        "amount": 7.313333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T15:54:11.143Z",
+        "amount": 21.93,
+        "status": "DONE"
+      },
+      {
+        "id": "17115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T15:54:11.143Z",
+        "amount": 7.313333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

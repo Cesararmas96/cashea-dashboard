@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:40:33.766Z",
+  "id": "4357",
+  "amount": 45.5,
+  "invoiceId": "1964",
+  "paidToMerchant": false,
+  "identifierNumber": 4733,
+  "billingDate": "2022-12-23T23:40:33.766Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6484178",
+      "fullName": "FLOR ANGEL LEON IZAGUIRRE",
+      "phoneNumber": "+584242501167"
+    },
+    "installments": [
+      {
+        "id": "14797",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:41:35.815Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14794",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:41:35.815Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "14796",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:41:35.815Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "14795",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:41:35.815Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 40,
+    "name": "Aldo Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

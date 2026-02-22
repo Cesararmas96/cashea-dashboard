@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T20:05:34.869Z",
+  "id": "11618",
+  "amount": 77.11,
+  "invoiceId": "46449",
+  "paidToMerchant": false,
+  "identifierNumber": 5753,
+  "billingDate": "2023-01-31T20:05:34.869Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13531653",
+      "fullName": "ERNESTO JOSE BRITO BRAVO",
+      "phoneNumber": "+584126086956"
+    },
+    "installments": [
+      {
+        "id": "35673",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T20:06:00.277Z",
+        "amount": 12.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35672",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T20:06:00.277Z",
+        "amount": 12.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35671",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T20:06:00.277Z",
+        "amount": 12.853333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "35670",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T20:06:00.277Z",
+        "amount": 38.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

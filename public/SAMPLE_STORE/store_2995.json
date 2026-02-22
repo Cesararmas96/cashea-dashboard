@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1628,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J294823068",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "internalBankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "account": "01910185132100108628",
+    "accountType": "Corriente",
+    "phoneNumber": "4144304197",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1626,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J294823068",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "internalBankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "account": "01910185132100108628",
+    "accountType": "Corriente",
+    "phoneNumber": "4144304197",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1627,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J294823068",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "internalBankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "account": "01910185132100108628",
+    "accountType": "Corriente",
+    "phoneNumber": "4144304197",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1629,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J294823068",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "internalBankHolder": "SAG CONSTRUCCIONES Y SUMINISTROS C.A",
+    "account": "01910185112300020769",
+    "accountType": "Custodia",
+    "phoneNumber": "4144304197",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

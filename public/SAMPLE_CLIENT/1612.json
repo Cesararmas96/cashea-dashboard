@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-08T21:04:01.053Z",
+  "id": "931",
+  "amount": 122.47,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1612,
+  "billingDate": "2022-12-08T21:04:01.053Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 52,
+    "name": "Swarovski Corner Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

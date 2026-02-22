@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T20:38:54.754Z",
+  "id": "2555",
+  "amount": 66.85,
+  "invoiceId": "00012855",
+  "paidToMerchant": false,
+  "identifierNumber": 2993,
+  "billingDate": "2022-12-19T20:38:54.754Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25641512",
+      "fullName": "VICTOR MANUEL ACEVEDO RANGEL",
+      "phoneNumber": "+584269160481"
+    },
+    "installments": [
+      {
+        "id": "8394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T20:39:40.279Z",
+        "amount": 33.42,
+        "status": "DONE"
+      },
+      {
+        "id": "8395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T20:39:40.278Z",
+        "amount": 11.14333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T20:39:40.278Z",
+        "amount": 11.14333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T20:39:40.278Z",
+        "amount": 11.14333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

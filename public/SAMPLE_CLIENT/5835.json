@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T21:18:21.299Z",
+  "id": "5553",
+  "amount": 30.43,
+  "invoiceId": "18862",
+  "paidToMerchant": false,
+  "identifierNumber": 5835,
+  "billingDate": "2022-12-28T21:18:21.299Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16556059",
+      "fullName": "RICARDO DAVID NUNEZ CHACON",
+      "phoneNumber": "+584242031127"
+    },
+    "installments": [
+      {
+        "id": "19086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T21:19:07.826Z",
+        "amount": 15.21,
+        "status": "DONE"
+      },
+      {
+        "id": "19089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T21:19:07.825Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T21:19:07.825Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "19087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T21:19:07.825Z",
+        "amount": 5.073333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

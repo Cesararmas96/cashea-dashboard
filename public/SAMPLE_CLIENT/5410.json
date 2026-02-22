@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T22:23:56.893Z",
+  "id": "5109",
+  "amount": 35.18,
+  "invoiceId": "00002274",
+  "paidToMerchant": false,
+  "identifierNumber": 5410,
+  "billingDate": "2022-12-26T22:23:56.893Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12258820",
+      "fullName": "DUVERLIS DEL VALLE SARMIENTO MARCANO",
+      "phoneNumber": "+584166330625"
+    },
+    "installments": [
+      {
+        "id": "17505",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T22:24:09.810Z",
+        "amount": 5.863333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17502",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T22:24:09.810Z",
+        "amount": 17.59,
+        "status": "DONE"
+      },
+      {
+        "id": "17504",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T22:24:09.810Z",
+        "amount": 5.863333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "17503",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T22:24:09.810Z",
+        "amount": 5.863333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

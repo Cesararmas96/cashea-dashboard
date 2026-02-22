@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:05:32.164Z",
+  "id": "2994",
+  "amount": 69.06,
+  "invoiceId": "3696",
+  "paidToMerchant": false,
+  "identifierNumber": 3446,
+  "billingDate": "2022-12-21T00:05:32.164Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26946836",
+      "fullName": "WILDER JONAIKEL TOMOCHE SALAX",
+      "phoneNumber": "+584120128946"
+    },
+    "installments": [
+      {
+        "id": "9889",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:07:21.877Z",
+        "amount": 11.51,
+        "status": "DONE"
+      },
+      {
+        "id": "9888",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:07:21.877Z",
+        "amount": 11.51,
+        "status": "DONE"
+      },
+      {
+        "id": "9886",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:07:21.877Z",
+        "amount": 34.53,
+        "status": "DONE"
+      },
+      {
+        "id": "9887",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:07:21.877Z",
+        "amount": 11.51,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

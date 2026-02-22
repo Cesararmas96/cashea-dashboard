@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-01T23:00:56.849Z",
+  "id": "233",
+  "amount": 173,
+  "invoiceId": "9958",
+  "paidToMerchant": false,
+  "identifierNumber": 1322,
+  "billingDate": "2022-11-01T23:00:56.849Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25715112",
+      "fullName": "CARLOS DANIEL ALVARADO BELLORIN",
+      "phoneNumber": "+584120164290"
+    },
+    "installments": [
+      {
+        "id": "705",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-01T23:01:31.408Z",
+        "amount": 100,
+        "status": "DONE"
+      },
+      {
+        "id": "708",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-13T23:01:31.408Z",
+        "amount": 24.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "707",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-29T23:01:31.408Z",
+        "amount": 24.3333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "706",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-15T23:01:31.408Z",
+        "amount": 24.3333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

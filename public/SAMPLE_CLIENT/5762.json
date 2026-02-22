@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:36:13.931Z",
+  "id": "5467",
+  "amount": 98,
+  "invoiceId": "00018642",
+  "paidToMerchant": false,
+  "identifierNumber": 5762,
+  "billingDate": "2022-12-28T18:36:13.931Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21289377",
+      "fullName": "AGUSTIN TORRAS DE ARMAS",
+      "phoneNumber": "+584141340831"
+    },
+    "installments": [
+      {
+        "id": "18782",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:37:07.266Z",
+        "amount": 49,
+        "status": "DONE"
+      },
+      {
+        "id": "18785",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:37:07.266Z",
+        "amount": 16.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "18784",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:37:07.266Z",
+        "amount": 16.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "18783",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:37:07.266Z",
+        "amount": 16.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

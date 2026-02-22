@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T01:17:35.022Z",
+  "id": "3827",
+  "amount": 70.66,
+  "invoiceId": "12860",
+  "paidToMerchant": false,
+  "identifierNumber": 4182,
+  "billingDate": "2022-12-23T01:17:35.022Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-08T04:00:00.891+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "12871",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16429248",
+      "fullName": "NEARLIS LISSETTE CHAPARRO GARCIA",
+      "phoneNumber": "+584242487190"
+    },
+    "installments": [
+      {
+        "id": "12870",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:18:08.297Z",
+        "amount": 35.33,
+        "status": "DONE"
+      },
+      {
+        "id": "12872",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:18:08.296Z",
+        "amount": 11.776666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12873",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:18:08.296Z",
+        "amount": 11.776666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12871",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:18:08.296Z",
+        "amount": 11.776666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

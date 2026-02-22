@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:03:08.615Z",
+  "id": "1276",
+  "amount": 80.6,
+  "invoiceId": "11804",
+  "paidToMerchant": false,
+  "identifierNumber": 2942,
+  "billingDate": "2022-12-11T23:03:08.615Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6968865",
+      "fullName": "YANIRA COROMOTO ACEVEDO MILANES",
+      "phoneNumber": "+584120285081"
+    },
+    "installments": [
+      {
+        "id": "4104",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:03:24.221Z",
+        "amount": 13.433333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4103",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:03:24.221Z",
+        "amount": 13.433333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4105",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:03:24.221Z",
+        "amount": 13.433333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4102",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:03:24.222Z",
+        "amount": 40.3,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

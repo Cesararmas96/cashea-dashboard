@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T17:49:23.627Z",
+  "id": "5213",
+  "amount": 57.33,
+  "invoiceId": "55",
+  "paidToMerchant": false,
+  "identifierNumber": 5520,
+  "billingDate": "2022-12-27T17:49:23.627Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25019586",
+      "fullName": "ANGEL GABRIEL FONSECA JIMENEZ",
+      "phoneNumber": "+584129927644"
+    },
+    "installments": [
+      {
+        "id": "17865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T17:50:29.595Z",
+        "amount": 9.556666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T17:50:29.596Z",
+        "amount": 28.66,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T17:50:29.595Z",
+        "amount": 9.556666666666667,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T17:50:29.595Z",
+        "amount": 9.556666666666667,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

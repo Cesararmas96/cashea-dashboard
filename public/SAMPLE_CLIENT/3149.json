@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T02:08:03.827Z",
+  "id": "2707",
+  "amount": 46.33,
+  "invoiceId": "12526",
+  "paidToMerchant": false,
+  "identifierNumber": 3149,
+  "billingDate": "2022-12-20T02:08:03.827Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28333385",
+      "fullName": "ANGIE DANIELA HEREDIA FREITES",
+      "phoneNumber": "+584126046836"
+    },
+    "installments": [
+      {
+        "id": "8910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T02:08:14.960Z",
+        "amount": 23.16,
+        "status": "DONE"
+      },
+      {
+        "id": "8913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T02:08:14.958Z",
+        "amount": 7.723333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T02:08:14.958Z",
+        "amount": 7.723333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T02:08:14.958Z",
+        "amount": 7.723333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

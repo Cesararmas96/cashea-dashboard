@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-02T15:43:21.064Z",
+  "updatedAt": "2025-04-09T13:40:28.810Z",
+  "id": 4984,
+  "name": "H&M - Valera",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f3cf0d06-4ad3-47b2-a995-88870e68af68",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "mohamadfakih327@yahoo.es",
+    "legalName": "Mohamad",
+    "phoneNumber": "04247647826"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-02T15:45:59.618Z",
+      "updatedAt": "2025-04-02T15:45:59.618Z",
+      "id": 12518,
+      "merchantId": 4984,
+      "name": "H&M - Valera Av 11",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 445,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5631,
+      "address": {
+        "name": "Esquina avenida 11 con calle 10 valera estado trujillo",
+        "long": -70.60375,
+        "lat": 9.318749999999994,
+        "location": "0101000020E6100000713D0AD7A3A651C03033333333A32240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-02T16:23:15.841Z",
+      "updatedAt": "2025-04-02T16:23:15.841Z",
+      "id": 12521,
+      "merchantId": 4984,
+      "name": "H&M - Valera Av 10",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 445,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5631,
+      "address": {
+        "name": "Avenida 10 entre calle 10 y 11 valera estado trujillo",
+        "long": -70.60375,
+        "lat": 9.318749999999994,
+        "location": "0101000020E6100000713D0AD7A3A651C03033333333A32240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

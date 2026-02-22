@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T20:54:37.499Z",
+  "id": "2847",
+  "amount": 45.57,
+  "invoiceId": "14400",
+  "paidToMerchant": false,
+  "identifierNumber": 3332,
+  "billingDate": "2022-12-20T20:54:37.499Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22748199",
+      "fullName": "WENDY LISSETH JARA LUNA",
+      "phoneNumber": "+584142358723"
+    },
+    "installments": [
+      {
+        "id": "9382",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:54:59.876Z",
+        "amount": 22.79,
+        "status": "DONE"
+      },
+      {
+        "id": "9383",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:54:59.875Z",
+        "amount": 7.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9385",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:54:59.875Z",
+        "amount": 7.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "9384",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:54:59.875Z",
+        "amount": 7.593333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

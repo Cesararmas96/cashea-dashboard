@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-26T20:51:23.677Z",
+  "id": "5068",
+  "amount": 158,
+  "invoiceId": "40001778",
+  "paidToMerchant": false,
+  "identifierNumber": 5379,
+  "billingDate": "2022-12-26T20:51:23.677Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17306137",
+      "fullName": "SOFIA CAROLINA BASTIDAS HERNANDEZ",
+      "phoneNumber": "+584245922394"
+    },
+    "installments": [
+      {
+        "id": "17380",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-23T20:53:12.544Z",
+        "amount": 26.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "17379",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-09T20:53:12.544Z",
+        "amount": 26.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "17378",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-26T20:53:12.544Z",
+        "amount": 79,
+        "status": "DONE"
+      },
+      {
+        "id": "17381",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-06T20:53:12.544Z",
+        "amount": 26.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-09T18:35:48.726Z",
+  "updatedAt": "2025-04-16T13:57:29.642Z",
+  "id": 5153,
+  "name": "Makita",
+  "ecommerceUrl": null,
+  "changePolicy": "Política de Cambios:\n•\tEl producto debe estar completamente nuevo.\n•\tSe tiene un plazo de 5 días para realizar el cambio.\n•\tEl cambio debe hacerse exclusivamente en la tienda.\n",
+  "email": "aruca.maquinarias@gmail.com",
+  "phoneNumber": "+584126109597",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "628dc1ba-9c83-42ce-9e8e-e057ece49552",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "aruca.rrss@gmail.com",
+    "legalName": "Hernan Rojas",
+    "phoneNumber": "+584126109597"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T12:50:36.650Z",
+      "updatedAt": "2025-05-14T12:50:36.650Z",
+      "id": 14087,
+      "merchantId": 5153,
+      "name": "VR_Makita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3618,
+      "address": {
+        "name": "Servicio de entrega de 1 hora aprox. por $5 en la Gran Caracas, con motorizado de la compañía Tealca o MRW. El retiro se puede realizar en la tienda en Filas de Mariche.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T18:40:52.099Z",
+      "updatedAt": "2025-04-16T13:57:13.340Z",
+      "id": 12770,
+      "merchantId": 5153,
+      "name": "Makita Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3618,
+      "address": {
+        "name": "Servicio de entrega de 1 hora aprox. por $5 en la Gran Caracas, con motorizado de la compañía Tealca o MRW. El retiro se puede realizar en la tienda en Filas de Mariche.",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

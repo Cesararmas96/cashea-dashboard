@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:36:16.667Z",
+  "id": "3344",
+  "amount": 392.37,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3761,
+  "billingDate": "2022-12-22T00:36:16.667Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16676330",
+      "fullName": "LUIS CARLO BARRIOS TAPIAS",
+      "phoneNumber": "+584248093997"
+    },
+    "installments": [
+      {
+        "id": "11149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:39:16.767Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:39:16.767Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:39:16.767Z",
+        "amount": 292.37,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "11148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:39:16.767Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

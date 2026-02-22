@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T18:29:37.760Z",
+  "id": "3989",
+  "amount": 119,
+  "invoiceId": "40001751",
+  "paidToMerchant": false,
+  "identifierNumber": 4409,
+  "billingDate": "2022-12-23T18:29:37.760Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "1",
+    "buyDebtDate": "2023-01-23T04:00:01.209+00:00",
+    "lastStoreId": 1,
+    "boughtForInstallmentId": "13452",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14679723",
+      "fullName": "BARBARA NAZARETH MORENO BECERRA",
+      "phoneNumber": "+584241433382"
+    },
+    "installments": [
+      {
+        "id": "13453",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T18:29:50.618Z",
+        "amount": 19.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "13451",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T18:29:50.618Z",
+        "amount": 19.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "13452",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T18:29:50.618Z",
+        "amount": 19.833333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "13450",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T18:29:50.618Z",
+        "amount": 59.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

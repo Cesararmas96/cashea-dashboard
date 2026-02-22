@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T23:50:06.195Z",
+  "id": "5326",
+  "amount": 69.23,
+  "invoiceId": "00002332",
+  "paidToMerchant": false,
+  "identifierNumber": 5658,
+  "billingDate": "2022-12-27T23:50:06.195Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27545287",
+      "fullName": "LUIS EDUARDO URBINA RAMOS",
+      "phoneNumber": "+584265118065"
+    },
+    "installments": [
+      {
+        "id": "18298",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T00:03:24.028Z",
+        "amount": 34.62,
+        "status": "DONE"
+      },
+      {
+        "id": "18300",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T00:03:24.028Z",
+        "amount": 11.536666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "18301",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T00:03:24.028Z",
+        "amount": 11.536666666666669,
+        "status": "DONE"
+      },
+      {
+        "id": "18299",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T00:03:24.028Z",
+        "amount": 11.536666666666669,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

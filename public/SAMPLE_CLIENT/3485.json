@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-31T15:42:40.788Z",
+  "id": "11573",
+  "amount": 44.06,
+  "invoiceId": "00014584",
+  "paidToMerchant": false,
+  "identifierNumber": 3485,
+  "billingDate": "2023-01-31T15:42:40.788Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13290210",
+      "fullName": "JOSE ENRIQUE VELASQUEZ MONTILLA",
+      "phoneNumber": "+584141319127"
+    },
+    "installments": [
+      {
+        "id": "35505",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-14T15:43:03.154Z",
+        "amount": 7.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35504",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-28T15:43:03.154Z",
+        "amount": 7.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35502",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-31T15:43:03.155Z",
+        "amount": 22.03,
+        "status": "DONE"
+      },
+      {
+        "id": "35503",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-14T15:43:03.154Z",
+        "amount": 7.343333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

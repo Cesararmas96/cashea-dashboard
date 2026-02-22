@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T00:29:24.783Z",
+  "id": "5708",
+  "amount": 32.62,
+  "invoiceId": "596",
+  "paidToMerchant": false,
+  "identifierNumber": 5969,
+  "billingDate": "2022-12-29T00:29:24.783Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22386432",
+      "fullName": "JORGE GARRINZON CARABALLO RUDAS",
+      "phoneNumber": "+584241993913"
+    },
+    "installments": [
+      {
+        "id": "19662",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T00:30:22.154Z",
+        "amount": 16.31,
+        "status": "DONE"
+      },
+      {
+        "id": "19663",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T00:30:22.154Z",
+        "amount": 5.4366666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "19665",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T00:30:22.154Z",
+        "amount": 5.4366666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "19664",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T00:30:22.154Z",
+        "amount": 5.4366666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

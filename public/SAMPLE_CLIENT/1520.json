@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-06T18:59:43.358Z",
+  "id": "777",
+  "amount": 42,
+  "invoiceId": "7116",
+  "paidToMerchant": false,
+  "identifierNumber": 1520,
+  "billingDate": "2022-12-06T18:59:43.358Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19221387",
+      "fullName": "LUIS ALFREDO SANTAELLA FUENTES",
+      "phoneNumber": "+584144619372"
+    },
+    "installments": [
+      {
+        "id": "2514",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-06T19:01:57.760Z",
+        "amount": 21,
+        "status": "DONE"
+      },
+      {
+        "id": "2516",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-03T19:01:57.760Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "2515",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-20T19:01:57.760Z",
+        "amount": 7,
+        "status": "DONE"
+      },
+      {
+        "id": "2517",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-17T19:01:57.760Z",
+        "amount": 7,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

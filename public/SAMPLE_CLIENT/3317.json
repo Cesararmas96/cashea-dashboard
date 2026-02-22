@@ -1,0 +1,67 @@
+{
+  "createdAt": "2023-02-04T18:09:58.247Z",
+  "id": "12181",
+  "amount": 55.796,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3317,
+  "billingDate": "2023-02-04T18:09:58.247Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24279658",
+      "fullName": "LEANDRO JESUS BOLIVAR ARESTIGUETA",
+      "phoneNumber": "+584241615801"
+    },
+    "installments": [
+      {
+        "id": "37646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-02-04T18:09:58.297Z",
+        "amount": 27.9,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "37647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-18T18:09:58.296Z",
+        "amount": 9.298666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "37648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-03-04T18:09:58.296Z",
+        "amount": 9.298666666666668,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "37649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-18T18:09:58.296Z",
+        "amount": 9.298666666666668,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 121,
+    "name": "212 Global Sucursal Plaza Venezuela"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 6148,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

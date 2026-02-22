@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-28T16:23:07.004Z",
+  "updatedAt": "2025-04-29T16:28:28.342Z",
+  "id": 5433,
+  "name": "Big Ligas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "570ce573-9a9f-4ebb-9604-14ef69b1f450",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "bigligas2k22@gmail.com",
+    "legalName": "YENNILETH",
+    "phoneNumber": "4244573703"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T16:24:41.617Z",
+      "updatedAt": "2025-04-28T16:24:41.617Z",
+      "id": 13352,
+      "merchantId": 5433,
+      "name": "Big Ligas CC San Diego",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3805,
+      "address": {
+        "name": "AV. INTERCOMUNAL DON JULIO CENTENO, CC SAN DIEGO, GALERIA 3, LOCAL MF2. VALENCIA EDO CARABOBO",
+        "long": -67.9655625,
+        "lat": 10.223312499999992,
+        "location": "0101000020E61000009EEFA7C6CBFD50C07093180456722440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-20T14:55:49.468Z",
+      "updatedAt": "2025-05-20T14:55:49.468Z",
+      "id": 14351,
+      "merchantId": 5433,
+      "name": "VR_Big Ligas",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3805,
+      "address": {
+        "name": "AV. INTERCOMUNAL DON JULIO CENTENO, CC SAN DIEGO, GALERIA 3, LOCAL MF2. VALENCIA EDO CARABOBO",
+        "long": -67.9655625,
+        "lat": 10.223312499999992,
+        "location": "0101000020E61000009EEFA7C6CBFD50C07093180456722440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T19:29:16.988Z",
+  "id": "2790",
+  "amount": 35.1,
+  "invoiceId": "13802",
+  "paidToMerchant": false,
+  "identifierNumber": 3235,
+  "billingDate": "2022-12-20T19:29:16.988Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20490246",
+      "fullName": "LEIDY CONSUELO LOZANO ROJAS",
+      "phoneNumber": "+584242441349"
+    },
+    "installments": [
+      {
+        "id": "9202",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T19:29:56.722Z",
+        "amount": 17.55,
+        "status": "DONE"
+      },
+      {
+        "id": "9204",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T19:29:56.720Z",
+        "amount": 5.8500000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "9203",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T19:29:56.720Z",
+        "amount": 5.8500000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "9205",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T19:29:56.720Z",
+        "amount": 5.8500000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

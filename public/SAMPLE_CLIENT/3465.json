@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T14:40:40.504Z",
+  "id": "3078",
+  "amount": 35.82,
+  "invoiceId": "48867",
+  "paidToMerchant": false,
+  "identifierNumber": 3465,
+  "billingDate": "2022-12-21T14:40:40.504Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15842147",
+      "fullName": "ALEX HIKLIFF PERSICHILLI MANRIQUE",
+      "phoneNumber": "+584242844560"
+    },
+    "installments": [
+      {
+        "id": "10190",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T14:41:14.740Z",
+        "amount": 17.91,
+        "status": "DONE"
+      },
+      {
+        "id": "10193",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T14:41:14.740Z",
+        "amount": 5.97,
+        "status": "DONE"
+      },
+      {
+        "id": "10192",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T14:41:14.740Z",
+        "amount": 5.97,
+        "status": "DONE"
+      },
+      {
+        "id": "10191",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T14:41:14.740Z",
+        "amount": 5.97,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

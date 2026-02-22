@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-10T17:00:06.728Z",
+  "id": "333",
+  "amount": 180,
+  "invoiceId": "545",
+  "paidToMerchant": false,
+  "identifierNumber": 1333,
+  "billingDate": "2022-11-10T17:00:06.728Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25770461",
+      "fullName": "NICOLE CHRISTINE OLIVAS LOZANO",
+      "phoneNumber": "+584129629362"
+    },
+    "installments": [
+      {
+        "id": "1021",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-10T17:00:27.923Z",
+        "amount": 90,
+        "status": "DONE"
+      },
+      {
+        "id": "1024",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-22T17:00:27.922Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "1023",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-08T17:00:27.922Z",
+        "amount": 30,
+        "status": "DONE"
+      },
+      {
+        "id": "1022",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-24T17:00:27.922Z",
+        "amount": 30,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 5,
+    "name": "Doctor Lente Los Palos Grandes"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

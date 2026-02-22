@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:41:22.680Z",
+  "id": "1224",
+  "amount": 46.8,
+  "invoiceId": "17226",
+  "paidToMerchant": false,
+  "identifierNumber": 1947,
+  "billingDate": "2022-12-11T20:41:22.680Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18020270",
+      "fullName": "RUDY ALEXANDRA PEREZ MARTINEZ",
+      "phoneNumber": "+584242080995"
+    },
+    "installments": [
+      {
+        "id": "3925",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:41:38.835Z",
+        "amount": 7.8,
+        "status": "DONE"
+      },
+      {
+        "id": "3922",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:41:38.836Z",
+        "amount": 23.4,
+        "status": "DONE"
+      },
+      {
+        "id": "3923",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:41:38.835Z",
+        "amount": 7.8,
+        "status": "DONE"
+      },
+      {
+        "id": "3924",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:41:38.835Z",
+        "amount": 7.8,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

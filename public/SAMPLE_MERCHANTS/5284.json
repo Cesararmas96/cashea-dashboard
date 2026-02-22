@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-17T13:24:23.958Z",
+  "updatedAt": "2025-04-28T13:26:45.565Z",
+  "id": 5284,
+  "name": "El Bandolero",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f5755955-0b54-4a76-a5a4-d00f146a51b3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "jesusarmando.4105@gmail.com",
+    "legalName": "Jesus",
+    "phoneNumber": "04245507855"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T16:03:23.914Z",
+      "updatedAt": "2025-05-13T16:03:23.914Z",
+      "id": 14047,
+      "merchantId": 5284,
+      "name": "VR_El Bandolero",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4812,
+      "address": {
+        "name": "Avenida 6 entre calles 13 y 14 Quibor estado Lara",
+        "long": -69.62406250000001,
+        "lat": 9.922062499999996,
+        "location": "0101000020E61000003E0AD7A3F06751C068BC749318D82340",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-17T13:26:16.974Z",
+      "updatedAt": "2025-04-17T13:26:16.974Z",
+      "id": 13070,
+      "merchantId": 5284,
+      "name": "El Bandolero Lara",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4812,
+      "address": {
+        "name": "Avenida 6 entre calles 13 y 14 Quibor estado Lara",
+        "long": -69.62406250000001,
+        "lat": 9.922062499999996,
+        "location": "0101000020E61000003E0AD7A3F06751C068BC749318D82340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Deporte",
+  "shipmentOptionsAvailable": []
+}

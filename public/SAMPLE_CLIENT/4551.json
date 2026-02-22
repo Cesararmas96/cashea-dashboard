@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:03:35.279Z",
+  "id": "4143",
+  "amount": 112.71,
+  "invoiceId": "13789",
+  "paidToMerchant": false,
+  "identifierNumber": 4551,
+  "billingDate": "2022-12-23T21:03:35.279Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20653135",
+      "fullName": "VICTOR ALFONSO CAVET LUCENA",
+      "phoneNumber": "+584123309828"
+    },
+    "installments": [
+      {
+        "id": "14018",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:04:07.522Z",
+        "amount": 56.35,
+        "status": "DONE"
+      },
+      {
+        "id": "14021",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:04:07.522Z",
+        "amount": 18.786666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "14020",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:04:07.522Z",
+        "amount": 18.786666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "14019",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:04:07.522Z",
+        "amount": 18.786666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

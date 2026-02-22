@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T19:23:23.662Z",
+  "id": "7201",
+  "amount": 39.9,
+  "invoiceId": "19244",
+  "paidToMerchant": false,
+  "identifierNumber": 1887,
+  "billingDate": "2023-01-02T19:23:23.662Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11198890",
+      "fullName": "FRANKLIN ALBERTO MEDINA JAIMES",
+      "phoneNumber": "+584128661519"
+    },
+    "installments": [
+      {
+        "id": "24950",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T19:24:30.222Z",
+        "amount": 19.95,
+        "status": "DONE"
+      },
+      {
+        "id": "24953",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T19:24:30.221Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "24952",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T19:24:30.221Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      },
+      {
+        "id": "24951",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T19:24:30.221Z",
+        "amount": 6.6499999999999995,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

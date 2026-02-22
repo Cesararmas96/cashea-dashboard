@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-14T14:59:57.582Z",
+  "updatedAt": "2025-04-16T13:49:59.182Z",
+  "id": 5216,
+  "name": "Excelon",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "2e495d27-147b-4ae2-af4d-2346340e2938",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "daniel.tohme1@icloud.com",
+    "legalName": "Daniel",
+    "phoneNumber": "4140327313"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T15:01:12.331Z",
+      "updatedAt": "2025-04-14T15:01:12.331Z",
+      "id": 12934,
+      "merchantId": 5216,
+      "name": "Excelon Catia CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5927,
+      "address": {
+        "name": "CALLE COLOMBIA ESQUINA CON CALLE PANAMERICAN EDIF CRUMA PB PISO B LOCAL PB URB CATIA CARACAS",
+        "long": -66.94606250000001,
+        "lat": 10.513562500000006,
+        "location": "0101000020E6100000365EBA498CBC50C070E7FBA9F1062540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T23:38:40.924Z",
+  "id": "711",
+  "amount": 102,
+  "invoiceId": "1F3310-0005",
+  "paidToMerchant": false,
+  "identifierNumber": 3001,
+  "billingDate": "2022-12-04T23:38:40.924Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20308258",
+      "fullName": "DANIELA ADELAIDA JIMENEZ CARRASQUEL",
+      "phoneNumber": "+584141567858"
+    },
+    "installments": [
+      {
+        "id": "2296",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T23:39:18.558Z",
+        "amount": 17,
+        "status": "DONE"
+      },
+      {
+        "id": "2294",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T23:39:18.558Z",
+        "amount": 51,
+        "status": "DONE"
+      },
+      {
+        "id": "2297",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T23:39:18.558Z",
+        "amount": 17,
+        "status": "DONE"
+      },
+      {
+        "id": "2295",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T23:39:18.558Z",
+        "amount": 17,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 35,
+    "name": "A1WIN Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

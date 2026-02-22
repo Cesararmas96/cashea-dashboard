@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-28T13:20:56.714Z",
+  "updatedAt": "2025-07-09T16:08:29.630Z",
+  "id": 5410,
+  "name": "La Ferreteria del Agua",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "dc1e5462-8c53-478a-bb43-c7e00e8a32b7",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "ferreteriadelagua@gmail.com",
+    "legalName": "LUIS",
+    "phoneNumber": "04243572873"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-06T12:56:21.920Z",
+      "updatedAt": "2025-08-06T12:56:21.920Z",
+      "id": 18660,
+      "merchantId": 5410,
+      "name": "VR_La Ferreteria del Agua, Calle Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 16632,
+      "address": {
+        "name": "Local 4 y 5, Edificio Sucre, Calle Miranda, Cagua, Edo Aragua",
+        "long": -67.4601875,
+        "lat": 10.187437500000001,
+        "location": "0101000020E6100000CBA145B673DD50C08816D9CEF75F2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T13:22:35.127Z",
+      "updatedAt": "2025-04-28T13:22:35.127Z",
+      "id": 13325,
+      "merchantId": 5410,
+      "name": "La Ferreteria del Agua  Calle Miranda",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 16632,
+      "address": {
+        "name": "Local 4 y 5, Edificio Sucre, Calle Miranda, Cagua, Edo Aragua",
+        "long": -67.4601875,
+        "lat": 10.187437500000001,
+        "location": "0101000020E6100000CBA145B673DD50C08816D9CEF75F2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

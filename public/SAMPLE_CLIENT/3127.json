@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T23:11:28.826Z",
+  "id": "2632",
+  "amount": 37.97,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3127,
+  "billingDate": "2022-12-19T23:11:28.826Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

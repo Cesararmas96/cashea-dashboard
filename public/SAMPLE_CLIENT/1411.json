@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T20:14:38.054Z",
+  "id": "684",
+  "amount": 187.47,
+  "invoiceId": "3932",
+  "paidToMerchant": false,
+  "identifierNumber": 1411,
+  "billingDate": "2022-12-04T20:14:38.054Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18937103",
+      "fullName": "VALDEMAR ORRY PORTILLO YSEA",
+      "phoneNumber": "+584124760025"
+    },
+    "installments": [
+      {
+        "id": "2194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T20:15:32.623Z",
+        "amount": 93.73,
+        "status": "DONE"
+      },
+      {
+        "id": "2197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T20:15:32.623Z",
+        "amount": 31.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T20:15:32.623Z",
+        "amount": 31.246666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T20:15:32.623Z",
+        "amount": 31.246666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

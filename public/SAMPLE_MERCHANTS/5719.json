@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-12T20:10:52.744Z",
+  "updatedAt": "2025-05-12T20:10:52.744Z",
+  "id": 5719,
+  "name": "Centro Automotriz 3000",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "dd310e33-8953-4524-b740-2b0ce7cd1406",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "automotriz3000@gmail.com",
+    "legalName": "Katty",
+    "phoneNumber": "04123935309"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-12T20:12:52.071Z",
+      "updatedAt": "2025-05-12T20:12:52.071Z",
+      "id": 14004,
+      "merchantId": 5719,
+      "name": "Centro Automotriz 3000 Piedra Azul",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3991,
+      "address": {
+        "name": "CARRETERA LOS GUAYABITOS LOCAL 3 SECTOR PIEDRA AZUL",
+        "long": -66.8744375,
+        "lat": 10.426812500000011,
+        "location": "0101000020E61000005839B4C8F6B750C0500C022B87DA2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

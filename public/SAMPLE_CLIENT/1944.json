@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:03:29.551Z",
+  "id": "1277",
+  "amount": 350,
+  "invoiceId": "13977",
+  "paidToMerchant": false,
+  "identifierNumber": 1944,
+  "billingDate": "2022-12-11T23:03:29.551Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20489728",
+      "fullName": "MIRKEL JOHAN S RODRIGUEZ BARCENAS",
+      "phoneNumber": "+584244386657"
+    },
+    "installments": [
+      {
+        "id": "4107",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:03:44.078Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "4108",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:03:44.078Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "4109",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:03:44.078Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "4106",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:03:44.079Z",
+        "amount": 220,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

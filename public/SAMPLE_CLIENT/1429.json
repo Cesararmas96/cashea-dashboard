@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T18:23:55.056Z",
+  "id": "668",
+  "amount": 92,
+  "invoiceId": "10306",
+  "paidToMerchant": false,
+  "identifierNumber": 1429,
+  "billingDate": "2022-12-04T18:23:55.056Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19205574",
+      "fullName": "OLIMPIDO JORGE LUIS GARCIA MONTES",
+      "phoneNumber": "+584241663857"
+    },
+    "installments": [
+      {
+        "id": "2146",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T18:24:27.357Z",
+        "amount": 50,
+        "status": "DONE"
+      },
+      {
+        "id": "2149",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T18:24:27.356Z",
+        "amount": 14,
+        "status": "DONE"
+      },
+      {
+        "id": "2148",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T18:24:27.356Z",
+        "amount": 14,
+        "status": "DONE"
+      },
+      {
+        "id": "2147",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T18:24:27.356Z",
+        "amount": 14,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

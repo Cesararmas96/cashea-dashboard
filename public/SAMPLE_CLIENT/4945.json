@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-24T16:09:52.600Z",
+  "id": "4586",
+  "amount": 275.3,
+  "invoiceId": "50533",
+  "paidToMerchant": false,
+  "identifierNumber": 4945,
+  "billingDate": "2022-12-24T16:09:52.600Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-24T04:00:01.237+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "15644",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18818725",
+      "fullName": "MILETZA MARIAN QUINTERO",
+      "phoneNumber": "+584120373319"
+    },
+    "installments": [
+      {
+        "id": "15645",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T16:10:12.592Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "15644",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T16:10:12.592Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "15642",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T16:10:12.594Z",
+        "amount": 145.3,
+        "status": "DONE"
+      },
+      {
+        "id": "15643",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T16:10:12.592Z",
+        "amount": 43.333333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

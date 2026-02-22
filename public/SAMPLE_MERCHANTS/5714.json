@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-12T18:49:01.976Z",
+  "updatedAt": "2025-05-14T19:27:19.342Z",
+  "id": 5714,
+  "name": "City Ceramicas",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 865,
+  "tags": [],
+  "uuid": "d91034f3-12ac-45ab-944f-b371997cf6e9",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "enzoyfabio@gmail.com",
+    "legalName": "Fabrizio",
+    "phoneNumber": "04243690278"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-11-26T20:10:35.692Z",
+      "updatedAt": "2025-11-26T20:10:35.692Z",
+      "id": 26644,
+      "merchantId": 5714,
+      "name": "Balgres Turmero",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4171,
+      "address": {
+        "name": "Calle Rivas Nro. 02 Local Comercial Nro. 2A Turmero Edo. Aragua",
+        "long": -67.4736875,
+        "lat": 10.2241875,
+        "location": "0101000020E6100000894160E550DE50C0105839B4C8722440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-12T18:50:33.377Z",
+      "updatedAt": "2025-05-12T18:50:33.377Z",
+      "id": 13996,
+      "merchantId": 5714,
+      "name": "City Ceramicas Av Los Cedros",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 865,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4171,
+      "address": {
+        "name": "Av. LOS Cedros Local NRO 72 y 74 Sector El Hipodromo, Maracay, Edo. Aragua.",
+        "long": -67.58506249999999,
+        "lat": 10.232312500000006,
+        "location": "0101000020E61000006CE7FBA971E550C070E7FBA9F1762440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

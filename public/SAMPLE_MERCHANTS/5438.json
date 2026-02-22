@@ -1,0 +1,644 @@
+{
+  "createdAt": "2025-04-28T20:32:04.803Z",
+  "updatedAt": "2025-05-02T14:11:29.183Z",
+  "id": 5438,
+  "name": "Punto Al Mayor",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 782,
+  "tags": [],
+  "uuid": "3b402a5c-d3e9-482c-855a-75a505f1beb4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Mechacin67@hotmail.com",
+    "legalName": "Maria Elena Chacin",
+    "phoneNumber": "04144537897"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-10-14T18:46:09.538Z",
+      "updatedAt": "2025-10-14T18:46:09.538Z",
+      "id": 23653,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor El Pinar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-10-27T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "Sector el Pinar, Calle B",
+        "long": -66.93718750000001,
+        "lat": 10.484687500000007,
+        "location": "0101000020E610000015AE47E1FABB50C0608FC2F528F82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:16:51.827Z",
+      "updatedAt": "2025-04-28T21:16:51.827Z",
+      "id": 13391,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor El Hatillo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-05-05T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "CALLE EL PROGRESO EDIF AVENTURE'S SHOP CENTER PISO 1 LOCAL 1 SECTOR EL HATILLO CARACAS EL HATILLO MIRANDA ZONA POSTAL 1083",
+        "long": -66.8270625,
+        "lat": 10.426937500000008,
+        "location": "0101000020E6100000DF4F8D97EEB450C040DF4F8D97DA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-16T18:45:09.808Z",
+      "updatedAt": "2025-05-16T18:45:09.808Z",
+      "id": 14254,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 782,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-10-20T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": " PANAMERICANA KM 16 CC LA CASONA II NIVEL PB LOCAL 6 URB LA ROSALEDA SUR SAN ANTONIO DE LOS ALTOS MIRANDA ZONA POSTAL 1204",
+        "long": -66.9826875,
+        "lat": 10.370062499999989,
+        "location": "0101000020E610000008AC1C5AE4BE50C0B0F3FDD478BD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:09:32.450Z",
+      "updatedAt": "2025-04-28T21:09:32.450Z",
+      "id": 13386,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor CC La Casona II",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-05-05T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": " PANAMERICANA KM 16 CC LA CASONA II NIVEL PB LOCAL 6 URB LA ROSALEDA SUR SAN ANTONIO DE LOS ALTOS MIRANDA ZONA POSTAL 1204",
+        "long": -66.9826875,
+        "lat": 10.370062499999989,
+        "location": "0101000020E610000008AC1C5AE4BE50C0B0F3FDD478BD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:24:30.924Z",
+      "updatedAt": "2025-04-28T21:24:30.924Z",
+      "id": 13394,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor Catia La Mar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-05-05T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV LA MARINA LOCAL NRO S/N ZONA MUELLE PESQUERO LA ZORRA CATIA LA MAR LA GUAIRA ZONA POSTAL 1162",
+        "long": -67.04218750000001,
+        "lat": 10.599687500000002,
+        "location": "0101000020E610000034333333B3C250C0D8A3703D0A332540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:15:43.752Z",
+      "updatedAt": "2025-04-28T21:15:43.752Z",
+      "id": 13389,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor La Guaira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-05-05T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV SOUBLETTE EDIF DOS MERCADO MUNICIPAL DE PUNTA DE MULATOS PISO N/A LOCAL S/N SECTOR PUNTA DE MULATOS LA GUAIRA ZONA POSTAL 1160",
+        "long": -66.91668750000001,
+        "lat": 10.605062499999988,
+        "location": "0101000020E6100000BB490C02ABBA50C0681283C0CA352540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:11:07.688Z",
+      "updatedAt": "2025-04-28T21:11:07.688Z",
+      "id": 13387,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor Quinta Crespo / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-05-05T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "CALLE SUR 10, ENTRE ESQUINAS DE HORNO NEGRO Y RÍO LOCAL NRO 58-3 SECTOR QUINTA CRESPO CARACAS DISTRITO CAPITAL ZONA POSTAL 1010",
+        "long": -66.9223125,
+        "lat": 10.496312500000002,
+        "location": "0101000020E61000004A0C022B07BB50C0283108AC1CFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:31:32.013Z",
+      "updatedAt": "2025-12-17T14:31:32.013Z",
+      "id": 28172,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor El Pinar- Paraiso",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "Sector el Pinar, Calle B",
+        "long": -66.93718750000001,
+        "lat": 10.484687500000007,
+        "location": "0101000020E610000015AE47E1FABB50C0608FC2F528F82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:36:06.375Z",
+      "updatedAt": "2025-12-17T14:36:06.375Z",
+      "id": 28175,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor Catia La Mar",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV LA MARINA LOCAL NRO S/N ZONA MUELLE PESQUERO LA ZORRA CATIA LA MAR LA GUAIRA ZONA POSTAL 1162",
+        "long": -67.04218750000001,
+        "lat": 10.599687500000002,
+        "location": "0101000020E610000034333333B3C250C0D8A3703D0A332540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:36:48.282Z",
+      "updatedAt": "2025-12-17T14:36:48.282Z",
+      "id": 28176,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor La Guaira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV SOUBLETTE EDIF DOS MERCADO MUNICIPAL DE PUNTA DE MULATOS PISO N/A LOCAL S/N SECTOR PUNTA DE MULATOS LA GUAIRA ZONA POSTAL 1160",
+        "long": -66.91668750000001,
+        "lat": 10.605062499999988,
+        "location": "0101000020E6100000BB490C02ABBA50C0681283C0CA352540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:37:28.721Z",
+      "updatedAt": "2025-12-17T14:37:28.721Z",
+      "id": 28177,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor Santa Mónica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV ARTURO MICHELENA CRUCE CON CALLE REINALDO HAHN QTA EUDINES NRO 7 URB SANTA MONICA CARACAS DISTRITO CAPITAL ZONA POSTAL 1040",
+        "long": -66.8899375,
+        "lat": 10.478812500000004,
+        "location": "0101000020E6100000FA7E6ABCF4B850C000D578E926F52440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:38:07.397Z",
+      "updatedAt": "2025-12-17T14:38:07.397Z",
+      "id": 28178,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor Los Teques",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV BERMUDEZ CON CALLE MIQUILEN CC CITY MALL NIVEL 1 LOCAL S/N SECTOR EL LLANO LOS TEQUES MIRANDA ZONA POSTAL 1201",
+        "long": -67.0401875,
+        "lat": 10.340312499999996,
+        "location": "0101000020E6100000508D976E92C250C008D7A3703DAE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:39:24.877Z",
+      "updatedAt": "2025-12-17T14:39:24.877Z",
+      "id": 28180,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor El Hatillo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "CALLE EL PROGRESO EDIF AVENTURE'S SHOP CENTER PISO 1 LOCAL 1 SECTOR EL HATILLO CARACAS EL HATILLO MIRANDA ZONA POSTAL 1083",
+        "long": -66.8270625,
+        "lat": 10.426937500000008,
+        "location": "0101000020E6100000DF4F8D97EEB450C040DF4F8D97DA2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:35:05.749Z",
+      "updatedAt": "2025-12-17T14:35:05.749Z",
+      "id": 28173,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor Quinta Crespo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "CALLE SUR 10, ENTRE ESQUINAS DE HORNO NEGRO Y RÍO LOCAL NRO 58-3 SECTOR QUINTA CRESPO CARACAS DISTRITO CAPITAL ZONA POSTAL 1010",
+        "long": -66.9223125,
+        "lat": 10.496312500000002,
+        "location": "0101000020E61000004A0C022B07BB50C0283108AC1CFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-17T14:38:44.395Z",
+      "updatedAt": "2025-12-17T14:38:44.395Z",
+      "id": 28179,
+      "merchantId": 5438,
+      "name": "VR_Punto Al Mayor CC La Casona II",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-05T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": " PANAMERICANA KM 16 CC LA CASONA II NIVEL PB LOCAL 6 URB LA ROSALEDA SUR SAN ANTONIO DE LOS ALTOS MIRANDA ZONA POSTAL 1204",
+        "long": -66.9826875,
+        "lat": 10.370062499999989,
+        "location": "0101000020E610000008AC1C5AE4BE50C0B0F3FDD478BD2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-12-11T21:11:01.081Z",
+      "updatedAt": "2025-12-11T21:11:01.081Z",
+      "id": 27873,
+      "merchantId": 5438,
+      "name": "Web Punto Al Mayor",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_APP",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-02-02T08:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV BERMUDEZ CON CALLE MIQUILEN CC CITY MALL NIVEL 1 LOCAL S/N SECTOR EL LLANO LOS TEQUES MIRANDA ZONA POSTAL 1201",
+        "long": -67.0401875,
+        "lat": 10.340312499999996,
+        "location": "0101000020E6100000508D976E92C250C008D7A3703DAE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2026-01-16T20:49:39.533Z",
+      "updatedAt": "2026-01-22T13:08:49.714Z",
+      "id": 29367,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor Movil",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2026-01-26T04:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "Av Soublette CC Mercado Punta de Mulatos Nivel 1 Local 3 Sector Punta de Mulatos La Guaira",
+        "long": -66.9170625,
+        "lat": 10.605937499999982,
+        "location": "0101000020E6100000D578E926B1BA50C000D7A3703D362540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:26:06.736Z",
+      "updatedAt": "2025-04-28T21:26:06.736Z",
+      "id": 13395,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor Santa Mónica",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-05-05T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV ARTURO MICHELENA CRUCE CON CALLE REINALDO HAHN QTA EUDINES NRO 7 URB SANTA MONICA CARACAS DISTRITO CAPITAL ZONA POSTAL 1040",
+        "long": -66.8899375,
+        "lat": 10.478812500000004,
+        "location": "0101000020E6100000FA7E6ABCF4B850C000D578E926F52440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-28T21:18:15.427Z",
+      "updatedAt": "2025-04-28T21:18:15.427Z",
+      "id": 13392,
+      "merchantId": 5438,
+      "name": "Punto Al Mayor Los Teques / CCS",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": "WEEKLY",
+      "fcbStartDate": "2025-05-05T07:00:00.000Z",
+      "activefcb": true,
+      "activeSplitFcb": false,
+      "legalEntityId": 8106,
+      "address": {
+        "name": "AV BERMUDEZ CON CALLE MIQUILEN CC CITY MALL NIVEL 1 LOCAL S/N SECTOR EL LLANO LOS TEQUES MIRANDA ZONA POSTAL 1201",
+        "long": -67.0401875,
+        "lat": 10.340312499999996,
+        "location": "0101000020E6100000508D976E92C250C008D7A3703DAE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    },
+    {
+      "id": 9,
+      "name": "SINGLE_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 1,
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (sin financiamiento)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

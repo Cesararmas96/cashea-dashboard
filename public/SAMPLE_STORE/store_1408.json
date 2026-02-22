@@ -1,0 +1,200 @@
+[
+  {
+    "id": 29499,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098722198424586",
+    "accountType": "Corriente",
+    "phoneNumber": "4247047433",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29499,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098722198424586",
+    "accountType": "Corriente",
+    "phoneNumber": "4247047433",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29497,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098722198424586",
+    "accountType": "Corriente",
+    "phoneNumber": "4247047433",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29497,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098722198424586",
+    "accountType": "Corriente",
+    "phoneNumber": "4247047433",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29498,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098722198424586",
+    "accountType": "Corriente",
+    "phoneNumber": "4247047433",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29498,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098722198424586",
+    "accountType": "Corriente",
+    "phoneNumber": "4247047433",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 29500,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098782398336627",
+    "accountType": "Custodia",
+    "phoneNumber": "4247047433",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 29500,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J409075869",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "BEWAY, C.A.",
+    "internalBankHolder": "BEWAY, C.A.",
+    "account": "01910098782398336627",
+    "accountType": "Custodia",
+    "phoneNumber": "4247047433",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

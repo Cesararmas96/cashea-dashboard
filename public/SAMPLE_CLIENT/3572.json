@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T20:09:49.020Z",
+  "id": "3164",
+  "amount": 50.39,
+  "invoiceId": "14461",
+  "paidToMerchant": false,
+  "identifierNumber": 3572,
+  "billingDate": "2022-12-21T20:09:49.020Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24460936",
+      "fullName": "NAUYIN JOSE ANDRADE ROCHA",
+      "phoneNumber": "+584241613381"
+    },
+    "installments": [
+      {
+        "id": "10477",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T20:10:28.645Z",
+        "amount": 8.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10474",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T20:10:28.645Z",
+        "amount": 25.2,
+        "status": "DONE"
+      },
+      {
+        "id": "10475",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T20:10:28.645Z",
+        "amount": 8.396666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "10476",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T20:10:28.645Z",
+        "amount": 8.396666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

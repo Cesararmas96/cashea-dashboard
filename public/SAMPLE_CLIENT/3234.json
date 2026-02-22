@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T17:58:26.539Z",
+  "id": "2752",
+  "amount": 32.2,
+  "invoiceId": "50173",
+  "paidToMerchant": false,
+  "identifierNumber": 3234,
+  "billingDate": "2022-12-20T17:58:26.539Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25639551",
+      "fullName": "ALEJANDRA JOSE DEPABLOS COLL",
+      "phoneNumber": "+584242764724"
+    },
+    "installments": [
+      {
+        "id": "9070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T17:58:46.979Z",
+        "amount": 16.1,
+        "status": "DONE"
+      },
+      {
+        "id": "9072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T17:58:46.978Z",
+        "amount": 5.366666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T17:58:46.978Z",
+        "amount": 5.366666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "9073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T17:58:46.978Z",
+        "amount": 5.366666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

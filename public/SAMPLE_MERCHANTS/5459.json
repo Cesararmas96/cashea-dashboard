@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-04-29T22:31:02.953Z",
+  "updatedAt": "2025-04-29T22:33:40.922Z",
+  "id": 5459,
+  "name": "Roki",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 775,
+  "tags": [],
+  "uuid": "3139dee8-b750-4248-87b1-252fa65c54cc",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "f.moreno@renovadoraazem.com",
+    "legalName": "Aune",
+    "phoneNumber": "04125202710"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-08-15T17:08:08.896Z",
+      "updatedAt": "2025-08-15T17:08:08.896Z",
+      "id": 19288,
+      "merchantId": 5459,
+      "name": "VR_Roki Av. 8 Entre Calles 9 y 10 Chivacoa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 2476,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7945,
+      "address": {
+        "name": "Av. 8 Entre Calles 9 y 10 Chivacoa Yaracuy",
+        "long": -68.8951875,
+        "lat": 10.16181250000001,
+        "location": "0101000020E61000006F1283C04A3951C0082B8716D9522440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-29T22:35:41.453Z",
+      "updatedAt": "2025-04-29T22:35:41.453Z",
+      "id": 13447,
+      "merchantId": 5459,
+      "name": "Roki Av. 8 Entre Calles 9 y 10 Chivacoa",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7945,
+      "address": {
+        "name": "Av. 8 Entre Calles 9 y 10 Chivacoa Yaracuy",
+        "long": -68.8951875,
+        "lat": 10.16181250000001,
+        "location": "0101000020E61000006F1283C04A3951C0082B8716D9522440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

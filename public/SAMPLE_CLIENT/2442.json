@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T00:29:48.064Z",
+  "id": "1860",
+  "amount": 56.62,
+  "invoiceId": "1207",
+  "paidToMerchant": false,
+  "identifierNumber": 2442,
+  "billingDate": "2022-12-17T00:29:48.064Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "58",
+    "buyDebtDate": "2023-01-02T04:00:00.251+00:00",
+    "lastStoreId": 44,
+    "boughtForInstallmentId": "6031",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14989077",
+      "fullName": "MARIA ELIZABETH CARRANZA ESPINAL",
+      "phoneNumber": "+584142879384"
+    },
+    "installments": [
+      {
+        "id": "6033",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T00:30:03.396Z",
+        "amount": 9.436666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6030",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T00:30:03.397Z",
+        "amount": 28.31,
+        "status": "DONE"
+      },
+      {
+        "id": "6032",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T00:30:03.396Z",
+        "amount": 9.436666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "6031",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T00:30:03.396Z",
+        "amount": 9.436666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

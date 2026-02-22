@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-27T20:17:16.267Z",
+  "id": "5252",
+  "amount": 36.16,
+  "invoiceId": "00018741",
+  "paidToMerchant": false,
+  "identifierNumber": 5529,
+  "billingDate": "2022-12-27T20:17:16.267Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "35",
+    "buyDebtDate": "2023-01-13T04:00:00.312+00:00",
+    "lastStoreId": 19,
+    "boughtForInstallmentId": "18015",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15725172",
+      "fullName": "YESICA PILAR CANTILLO MUNOZ",
+      "phoneNumber": "+584142390447"
+    },
+    "installments": [
+      {
+        "id": "18017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T20:18:32.582Z",
+        "amount": 6.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T20:18:32.582Z",
+        "amount": 6.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T20:18:32.582Z",
+        "amount": 6.026666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "18014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T20:18:32.583Z",
+        "amount": 18.08,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

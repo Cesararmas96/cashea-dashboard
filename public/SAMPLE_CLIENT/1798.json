@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-10T23:32:53.052Z",
+  "id": "1140",
+  "amount": 39.73,
+  "invoiceId": "44171",
+  "paidToMerchant": false,
+  "identifierNumber": 1798,
+  "billingDate": "2022-12-10T23:32:53.052Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11469805",
+      "fullName": "NAYARIT DEL VALLE PRIETO PENA",
+      "phoneNumber": "+584125414826"
+    },
+    "installments": [
+      {
+        "id": "3649",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-21T23:33:20.259Z",
+        "amount": 6.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3647",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-24T23:33:20.259Z",
+        "amount": 6.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3648",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-07T23:33:20.259Z",
+        "amount": 6.623333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "3646",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-10T23:33:20.260Z",
+        "amount": 19.86,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

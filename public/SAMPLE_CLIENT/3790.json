@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T14:25:29.357Z",
+  "id": "3397",
+  "amount": 61.8,
+  "invoiceId": "246744",
+  "paidToMerchant": false,
+  "identifierNumber": 3790,
+  "billingDate": "2022-12-22T14:25:29.357Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16043411",
+      "fullName": "MARIEN MARGARITA PRIETO QUIROZ",
+      "phoneNumber": "+584141358383"
+    },
+    "installments": [
+      {
+        "id": "11346",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T14:26:28.340Z",
+        "amount": 30.9,
+        "status": "DONE"
+      },
+      {
+        "id": "11349",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T14:26:28.337Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11348",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T14:26:28.337Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "11347",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T14:26:28.337Z",
+        "amount": 10.299999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 37,
+    "name": "ProPlayer IPSFA/CC Los Proceres"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

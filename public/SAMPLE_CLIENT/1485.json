@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-05T22:10:59.937Z",
+  "id": "734",
+  "amount": 63.47,
+  "invoiceId": "000016816",
+  "paidToMerchant": false,
+  "identifierNumber": 1485,
+  "billingDate": "2022-12-05T22:10:59.937Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12889182",
+      "fullName": "MARISOL DEL CARMEN CARDENAS GOMEZ",
+      "phoneNumber": "+584242491597"
+    },
+    "installments": [
+      {
+        "id": "2386",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-05T22:11:10.408Z",
+        "amount": 31.73,
+        "status": "DONE"
+      },
+      {
+        "id": "2389",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-16T22:11:10.407Z",
+        "amount": 10.58,
+        "status": "DONE"
+      },
+      {
+        "id": "2387",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-19T22:11:10.407Z",
+        "amount": 10.58,
+        "status": "DONE"
+      },
+      {
+        "id": "2388",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-02T22:11:10.407Z",
+        "amount": 10.58,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

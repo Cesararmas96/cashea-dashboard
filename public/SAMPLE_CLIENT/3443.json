@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:00:23.976Z",
+  "id": "2991",
+  "amount": 31.49,
+  "invoiceId": "12612",
+  "paidToMerchant": false,
+  "identifierNumber": 3443,
+  "billingDate": "2022-12-21T00:00:23.976Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21016107",
+      "fullName": "DUNIA ANDREA RAMOS GARCIA",
+      "phoneNumber": "+584143032862"
+    },
+    "installments": [
+      {
+        "id": "9869",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:00:33.684Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9866",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:00:33.685Z",
+        "amount": 15.74,
+        "status": "DONE"
+      },
+      {
+        "id": "9868",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:00:33.684Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "9867",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:00:33.684Z",
+        "amount": 5.249999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,120 @@
+{
+  "createdAt": "2025-04-08T17:36:14.793Z",
+  "updatedAt": "2025-04-08T17:36:14.793Z",
+  "id": 5123,
+  "name": "La Tienda Del Pollo La Guaira",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "d6d16e67-6698-4e11-bccd-b8bfd3f04771",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "latiendadelpollo1.hoyada@gmail.com",
+    "legalName": "Rosneidy Perez",
+    "phoneNumber": "04120197032"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-03-18T19:27:07.922Z",
+      "updatedAt": "2025-03-18T19:27:07.922Z",
+      "id": 11924,
+      "merchantId": 5123,
+      "name": "La Tienda Del Pollo La Guaira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4746,
+      "address": {
+        "name": "Calle ppal entre vereda 7 y 8 local Santa Lucia urb Paez Catia la mar la Guaira",
+        "long": -67.0251875,
+        "lat": 10.600937499999986,
+        "location": "0101000020E6100000273108AC9CC150C040E17A14AE332540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-10T19:53:27.423Z",
+      "updatedAt": "2025-06-10T19:53:27.423Z",
+      "id": 15469,
+      "merchantId": 5123,
+      "name": "VR_La Tienda Del Pollo La Guaira",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4746,
+      "address": {
+        "name": "Calle ppal entre vereda 7 y 8 local Santa Lucia urb Paez Catia la mar la Guaira",
+        "long": -67.0251875,
+        "lat": 10.600937499999986,
+        "location": "0101000020E6100000273108AC9CC150C040E17A14AE332540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

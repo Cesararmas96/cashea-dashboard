@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-24T19:10:18.980Z",
+  "id": "4795",
+  "amount": 120,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5049,
+  "billingDate": "2022-12-24T19:10:18.980Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

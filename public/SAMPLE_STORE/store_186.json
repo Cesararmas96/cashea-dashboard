@@ -1,0 +1,128 @@
+[
+  {
+    "id": 84,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J400031613",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "VALTAT 2000, C.A",
+    "internalBankHolder": "VALTAT 2000, C.A",
+    "account": "01910098712198343900",
+    "accountType": "Corriente",
+    "phoneNumber": "4122056630",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J400031613",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "VALTAT 2000, C.A",
+    "internalBankHolder": "VALTAT 2000, C.A",
+    "account": "01910098712198343900",
+    "accountType": "Corriente",
+    "phoneNumber": "4122056630",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J400031613",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "VALTAT 2000, C.A",
+    "internalBankHolder": "VALTAT 2000, C.A",
+    "account": "01910098712198343900",
+    "accountType": "Corriente",
+    "phoneNumber": "4122056630",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J400031613",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "VALTAT 2000, C.A",
+    "internalBankHolder": "VALTAT 2000, C.A",
+    "account": "01910098722398231915",
+    "accountType": "Custodia",
+    "phoneNumber": "4122056630",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

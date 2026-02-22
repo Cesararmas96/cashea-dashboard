@@ -1,0 +1,146 @@
+[
+  {
+    "id": 24318,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J312004991",
+    "bankName": "Banesco",
+    "bankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "internalBankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "account": "01340031810311163813",
+    "accountType": "Corriente",
+    "phoneNumber": "4122852881",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 24316,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J312004991",
+    "bankName": "Banesco",
+    "bankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "internalBankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "account": "01340031810311163813",
+    "accountType": "Corriente",
+    "phoneNumber": "4122852881",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 24317,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J312004991",
+    "bankName": "Banesco",
+    "bankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "internalBankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "account": "01340031810311163813",
+    "accountType": "Corriente",
+    "phoneNumber": "4122852881",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 24319,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J312004991",
+    "bankName": "Banesco",
+    "bankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "internalBankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "account": "01341740710001073249",
+    "accountType": "Custodia",
+    "phoneNumber": "4122852881",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 24340,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J312004991",
+    "bankName": "Banesco",
+    "bankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "internalBankHolder": "FRIGORIFICO BARRIO OBRERO C.A.",
+    "account": "01341740710001073249",
+    "accountType": "Custodia",
+    "phoneNumber": "4122852881",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T20:47:39.869Z",
+  "id": "692",
+  "amount": 95,
+  "invoiceId": "5067",
+  "paidToMerchant": false,
+  "identifierNumber": 1421,
+  "billingDate": "2022-12-04T20:47:39.869Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15645171",
+      "fullName": "LEIDY DEL VALLE LARA MARTINEZ",
+      "phoneNumber": "+584242252159"
+    },
+    "installments": [
+      {
+        "id": "2228",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T20:53:25.942Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2229",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T20:53:25.942Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2227",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T20:53:25.942Z",
+        "amount": 15.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "2226",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T20:53:25.942Z",
+        "amount": 47.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

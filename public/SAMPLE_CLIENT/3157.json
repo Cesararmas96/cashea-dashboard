@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T00:22:00.909Z",
+  "id": "2675",
+  "amount": 54.8,
+  "invoiceId": "9126",
+  "paidToMerchant": false,
+  "identifierNumber": 3157,
+  "billingDate": "2022-12-20T00:22:00.909Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27426648",
+      "fullName": "VALENTINA ALEJANDRA VELASQUEZ ABRAHAM",
+      "phoneNumber": "+584241067856"
+    },
+    "installments": [
+      {
+        "id": "8790",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T00:24:14.614Z",
+        "amount": 27.4,
+        "status": "DONE"
+      },
+      {
+        "id": "8791",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T00:24:14.614Z",
+        "amount": 9.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8793",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T00:24:14.614Z",
+        "amount": 9.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8792",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T00:24:14.614Z",
+        "amount": 9.133333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 42,
+    "name": "Parfois Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-16T16:03:11.279Z",
+  "updatedAt": "2025-05-30T19:11:41.783Z",
+  "id": 5816,
+  "name": "El famoso 2014",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "51f4840b-2692-4c18-8774-3a286794d4ad",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "elfamoso2014ca@gmail.com",
+    "legalName": "OSSAMA MARMOUD",
+    "phoneNumber": "4141141111"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T16:12:51.802Z",
+      "updatedAt": "2025-05-16T16:12:51.802Z",
+      "id": 14235,
+      "merchantId": 5816,
+      "name": "El famoso 2014 Mariguitar Cumana",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4847,
+      "address": {
+        "name": "CALLE MEJIA CON BOULEVARD EL ROSARIO CENTRO COMERCIAL PALO SANO, LOCAL 01, MARIGUITAR MPIO BOLIVAR EDO.SUCRE",
+        "long": -63.901250000000005,
+        "lat": 10.446250000000006,
+        "location": "0101000020E610000090C2F5285CF34FC018AE47E17AE42440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

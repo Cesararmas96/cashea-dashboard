@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T22:03:11.204Z",
+  "id": "3620",
+  "amount": 154.46,
+  "invoiceId": "12836",
+  "paidToMerchant": false,
+  "identifierNumber": 4051,
+  "billingDate": "2022-12-22T22:03:11.204Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21438994",
+      "fullName": "GEORJEVITH SAMUEL CABRERA GALVIS",
+      "phoneNumber": "+584129969803"
+    },
+    "installments": [
+      {
+        "id": "12126",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:03:30.564Z",
+        "amount": 77.23,
+        "status": "DONE"
+      },
+      {
+        "id": "12129",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:03:30.564Z",
+        "amount": 25.743333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "12128",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:03:30.564Z",
+        "amount": 25.743333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "12127",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:03:30.564Z",
+        "amount": 25.743333333333336,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

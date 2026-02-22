@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T20:17:28.533Z",
+  "id": "1213",
+  "amount": 92.4,
+  "invoiceId": "11777",
+  "paidToMerchant": false,
+  "identifierNumber": 1873,
+  "billingDate": "2022-12-11T20:17:28.533Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10869734",
+      "fullName": "MARLENE COROMOTO TORRES RODRIGUEZ",
+      "phoneNumber": "+584125691831"
+    },
+    "installments": [
+      {
+        "id": "3901",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T20:28:01.363Z",
+        "amount": 15.4,
+        "status": "DONE"
+      },
+      {
+        "id": "3899",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T20:28:01.363Z",
+        "amount": 15.4,
+        "status": "DONE"
+      },
+      {
+        "id": "3900",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T20:28:01.363Z",
+        "amount": 15.4,
+        "status": "DONE"
+      },
+      {
+        "id": "3898",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T20:28:01.364Z",
+        "amount": 46.2,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

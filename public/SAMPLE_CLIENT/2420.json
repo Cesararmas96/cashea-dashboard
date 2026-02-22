@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T22:31:49.191Z",
+  "id": "1805",
+  "amount": 144.98,
+  "invoiceId": "00001331",
+  "paidToMerchant": false,
+  "identifierNumber": 2420,
+  "billingDate": "2022-12-16T22:31:49.191Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18709248",
+      "fullName": "LUIS RAFAEL ROJAS GARMENDIA",
+      "phoneNumber": "+584126152597"
+    },
+    "installments": [
+      {
+        "id": "5827",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T22:32:48.127Z",
+        "amount": 24.16333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5828",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T22:32:48.127Z",
+        "amount": 24.16333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5829",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T22:32:48.127Z",
+        "amount": 24.16333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "5826",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T22:32:48.127Z",
+        "amount": 72.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T18:29:56.765Z",
+  "id": "5463",
+  "amount": 58.93,
+  "invoiceId": "11746",
+  "paidToMerchant": false,
+  "identifierNumber": 5769,
+  "billingDate": "2022-12-28T18:29:56.765Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26711353",
+      "fullName": "NOSLENY AFINAT RUIZ GARCIA",
+      "phoneNumber": "+584140122868"
+    },
+    "installments": [
+      {
+        "id": "18805",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T18:47:37.364Z",
+        "amount": 9.823333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "18802",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T18:47:37.364Z",
+        "amount": 29.46,
+        "status": "DONE"
+      },
+      {
+        "id": "18804",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T18:47:37.364Z",
+        "amount": 9.823333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "18803",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T18:47:37.364Z",
+        "amount": 9.823333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 25,
+    "name": "Parfois Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

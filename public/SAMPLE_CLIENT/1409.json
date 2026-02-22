@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T01:17:29.085Z",
+  "id": "659",
+  "amount": 179.64,
+  "invoiceId": "3930",
+  "paidToMerchant": false,
+  "identifierNumber": 1409,
+  "billingDate": "2022-12-04T01:17:29.085Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18914645",
+      "fullName": "MARIA VICTORIA GOMEZ CHACON",
+      "phoneNumber": "+584125555253"
+    },
+    "installments": [
+      {
+        "id": "2114",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T01:17:52.608Z",
+        "amount": 89.82,
+        "status": "DONE"
+      },
+      {
+        "id": "2115",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T01:17:52.606Z",
+        "amount": 29.939999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "2116",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T01:17:52.606Z",
+        "amount": 29.939999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "2117",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T01:17:52.606Z",
+        "amount": 29.939999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

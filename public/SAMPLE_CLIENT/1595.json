@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T23:13:03.744Z",
+  "id": "1285",
+  "amount": 69.99,
+  "invoiceId": "00047804",
+  "paidToMerchant": false,
+  "identifierNumber": 1595,
+  "billingDate": "2022-12-11T23:13:03.744Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25235858",
+      "fullName": "CARLOS ALFREDO LECHIN HERNANDEZ",
+      "phoneNumber": "+584140283736"
+    },
+    "installments": [
+      {
+        "id": "4134",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T23:14:06.302Z",
+        "amount": 34.99,
+        "status": "DONE"
+      },
+      {
+        "id": "4137",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T23:14:06.302Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "4135",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T23:14:06.302Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      },
+      {
+        "id": "4136",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T23:14:06.302Z",
+        "amount": 11.666666666666664,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-27T23:55:18.303Z",
+  "id": "5328",
+  "amount": 994.2,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5631,
+  "billingDate": "2022-12-27T23:55:18.303Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

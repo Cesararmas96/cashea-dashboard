@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-04T17:25:01.629Z",
+  "updatedAt": "2025-04-08T21:50:22.260Z",
+  "id": 5055,
+  "name": "VITANALYSIS",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "72361c82-482c-4486-a672-21f6040ad1d4",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "vitanalysislab@gmail.com",
+    "legalName": "CARLOS MENDEZ",
+    "phoneNumber": "4243318127"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T17:26:19.271Z",
+      "updatedAt": "2025-04-04T17:26:19.271Z",
+      "id": 12616,
+      "merchantId": 5055,
+      "name": "VITANALYSIS CC Global",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8185,
+      "address": {
+        "name": "AV. BOLIVAR ESTE, CENTRO COMERCIAL GLOBAL, LOCAL 005. MARACAY, ARAGUA",
+        "long": -67.5793125,
+        "lat": 10.246937500000001,
+        "location": "0101000020E61000007F6ABC7413E550C0E04F8D976E7E2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

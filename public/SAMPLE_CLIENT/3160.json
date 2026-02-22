@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T01:48:37.544Z",
+  "id": "2705",
+  "amount": 39.98,
+  "invoiceId": "6723",
+  "paidToMerchant": false,
+  "identifierNumber": 3160,
+  "billingDate": "2022-12-20T01:48:37.544Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19721809",
+      "fullName": "MISLEIDY NASHARE REYES",
+      "phoneNumber": "+584141280737"
+    },
+    "installments": [
+      {
+        "id": "8905",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T01:54:12.790Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8902",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T01:54:12.791Z",
+        "amount": 19.99,
+        "status": "DONE"
+      },
+      {
+        "id": "8903",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T01:54:12.790Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "8904",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T01:54:12.790Z",
+        "amount": 6.663333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

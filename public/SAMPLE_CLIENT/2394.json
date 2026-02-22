@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T22:15:44.068Z",
+  "id": "1799",
+  "amount": 31.36,
+  "invoiceId": "12199",
+  "paidToMerchant": false,
+  "identifierNumber": 2394,
+  "billingDate": "2022-12-16T22:15:44.068Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21481797",
+      "fullName": "PAOLA PATRICIA PASTRANA PENATES",
+      "phoneNumber": "+584141398152"
+    },
+    "installments": [
+      {
+        "id": "5809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T22:16:31.421Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T22:16:31.421Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T22:16:31.422Z",
+        "amount": 15.68,
+        "status": "DONE"
+      },
+      {
+        "id": "5808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T22:16:31.421Z",
+        "amount": 5.226666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T23:46:58.898Z",
+  "id": "11554",
+  "amount": 37.35,
+  "invoiceId": "21037",
+  "paidToMerchant": false,
+  "identifierNumber": 4211,
+  "billingDate": "2023-01-30T23:46:58.898Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22036576",
+      "fullName": "WINDERLING GABRIELA GONZALEZ",
+      "phoneNumber": "+584129903032"
+    },
+    "installments": [
+      {
+        "id": "35441",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T23:47:22.685Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35438",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T23:47:22.691Z",
+        "amount": 18.68,
+        "status": "DONE"
+      },
+      {
+        "id": "35440",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T23:47:22.685Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "35439",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T23:47:22.685Z",
+        "amount": 6.223333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T17:36:21.680Z",
+  "id": "2513",
+  "amount": 37.28,
+  "invoiceId": "50082",
+  "paidToMerchant": false,
+  "identifierNumber": 3035,
+  "billingDate": "2022-12-19T17:36:21.680Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13110884",
+      "fullName": "YELITZA MILAGROS VEROES MEZA",
+      "phoneNumber": "+584123613229"
+    },
+    "installments": [
+      {
+        "id": "8277",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T17:37:12.799Z",
+        "amount": 6.213333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8274",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T17:37:12.800Z",
+        "amount": 18.64,
+        "status": "DONE"
+      },
+      {
+        "id": "8276",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T17:37:12.799Z",
+        "amount": 6.213333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "8275",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T17:37:12.799Z",
+        "amount": 6.213333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-10T13:21:01.859Z",
+  "id": "326",
+  "amount": 112,
+  "invoiceId": "15377",
+  "paidToMerchant": false,
+  "identifierNumber": 1157,
+  "billingDate": "2022-11-10T13:21:01.859Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "3981412",
+      "fullName": "MARINA ENCARNACION RODRIGUEZ MARTI",
+      "phoneNumber": "+584123204119"
+    },
+    "installments": [
+      {
+        "id": "1004",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-22T13:23:23.478Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1001",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-10T13:23:23.478Z",
+        "amount": 56,
+        "status": "DONE"
+      },
+      {
+        "id": "1003",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-08T13:23:23.478Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "1002",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-24T13:23:23.478Z",
+        "amount": 18.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 13,
+    "name": "Pintacasa La Trinidad"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

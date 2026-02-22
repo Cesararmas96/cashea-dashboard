@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T01:45:00.046Z",
+  "id": "3841",
+  "amount": 80,
+  "invoiceId": "816",
+  "paidToMerchant": false,
+  "identifierNumber": 4232,
+  "billingDate": "2022-12-23T01:45:00.046Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26830111",
+      "fullName": "JESUS ALBERTO MENDEZ MORIN",
+      "phoneNumber": "+584243621975"
+    },
+    "installments": [
+      {
+        "id": "12942",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T01:50:22.309Z",
+        "amount": 40,
+        "status": "DONE"
+      },
+      {
+        "id": "12945",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T01:50:22.309Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12944",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T01:50:22.309Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "12943",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T01:50:22.309Z",
+        "amount": 13.333333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 20,
+    "name": "Aldo Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

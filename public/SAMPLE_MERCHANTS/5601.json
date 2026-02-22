@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-07T18:55:11.227Z",
+  "updatedAt": "2025-05-13T14:08:57.000Z",
+  "id": 5601,
+  "name": "Modo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "fa4c97e8-7260-4d73-941e-307411a0bd13",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "lenin.pacheco@modoccs.com",
+    "legalName": "LENIN",
+    "phoneNumber": "04122155346"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T19:01:50.937Z",
+      "updatedAt": "2025-05-07T19:01:50.937Z",
+      "id": 13732,
+      "merchantId": 5601,
+      "name": "Modo Caracas Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4464,
+      "address": {
+        "name": "Casa del Pueblo, Calle Ávila, entre Mohedano y, Av. Sta. Teresa de Jesús, Caracas 1060, Miranda",
+        "long": -66.8544375,
+        "lat": 10.497062499999998,
+        "location": "0101000020E610000077BE9F1AAFB650C0D022DBF97EFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-06-05T19:53:08.771Z",
+      "updatedAt": "2025-06-05T19:53:08.771Z",
+      "id": 15279,
+      "merchantId": 5601,
+      "name": "VR_Modo Pizzeria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4464,
+      "address": {
+        "name": "Casa del Pueblo, Calle Ávila, entre Mohedano y, Av. Sta. Teresa de Jesús, Caracas 1060, Miranda",
+        "long": -66.8544375,
+        "lat": 10.497062499999998,
+        "location": "0101000020E610000077BE9F1AAFB650C0D022DBF97EFE2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Restaurantes",
+  "shipmentOptionsAvailable": []
+}

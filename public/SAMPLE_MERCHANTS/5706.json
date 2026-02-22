@@ -1,0 +1,149 @@
+{
+  "createdAt": "2025-05-12T15:01:48.773Z",
+  "updatedAt": "2025-05-27T20:38:43.885Z",
+  "id": 5706,
+  "name": "Centralcar Accesorios",
+  "ecommerceUrl": null,
+  "changePolicy": "Para devoluciones, el producto debe estar en su empaque original. El plazo para realizar devoluciones es de 48 horas desde la recepción del producto.\n\nPara solicitar un cambio o devolución, debe comunicarse llamando al teléfono de atención al cliente +584265521566. La opción de cambio o devolución dependerá del tipo de producto adquirido:\n\nSi el producto cuenta con otros modelos adicionales, se podrá optar por un cambio. En ese caso, si el nuevo producto tiene un costo superior al original, el cliente deberá pagar la diferencia.\nSi el producto es de modelo único, solo procederá la devolución.\nEn ambos casos, los costos de envío correrán por cuenta del cliente.\n\nPor último, los productos en oferta no están sujetos a cambios ni devoluciones.",
+  "email": "centralcaraccesorios@gmail.com",
+  "phoneNumber": "+584265521566",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_APP",
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "f447c6b5-1879-4498-b735-df0f9c3ec138",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "centralcaraccesorios@gmail.com",
+    "legalName": "Mario Alejandro",
+    "phoneNumber": "04265521566"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-06-16T21:28:28.635Z",
+      "updatedAt": "2025-06-16T21:28:28.635Z",
+      "id": 15748,
+      "merchantId": 5706,
+      "name": "VR_Centralcar Accesorios",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3986,
+      "address": {
+        "name": "Calle Peña con Calle Rodríguez, CC Centro G, Nivel PB, Local L-03, Sector El Peñonal, Lechería",
+        "long": -64.6874375,
+        "lat": 10.177562500000008,
+        "location": "0101000020E6100000D122DBF9FE2B50C0F8FDD478E95A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-12T15:17:54.823Z",
+      "updatedAt": "2025-05-12T15:17:54.823Z",
+      "id": 13965,
+      "merchantId": 5706,
+      "name": "Centralcar Accesorios CC Centro G",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3986,
+      "address": {
+        "name": "Calle Peña con Calle Rodríguez, CC Centro G, Nivel PB, Local L-03, Sector El Peñonal, Lechería",
+        "long": -64.6874375,
+        "lat": 10.177562500000008,
+        "location": "0101000020E6100000D122DBF9FE2B50C0F8FDD478E95A2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-26T18:27:38.375Z",
+      "updatedAt": "2025-05-27T20:38:43.886Z",
+      "id": 14694,
+      "merchantId": 5706,
+      "name": "Centralcar Accesorios Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3986,
+      "address": {
+        "name": "centralcaraccesorios@gmail.com",
+        "long": 0,
+        "lat": 0,
+        "location": "0101000020E610000000000000000000000000000000000000",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

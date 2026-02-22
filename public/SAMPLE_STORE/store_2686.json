@@ -1,0 +1,74 @@
+[
+  {
+    "id": 700,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J409248690",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO LAPANTO, C.A.",
+    "internalBankHolder": "GRUPO LAPANTO, C.A.",
+    "account": "01910181912100078419",
+    "accountType": "Corriente",
+    "phoneNumber": "4123270106",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 698,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J409248690",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO LAPANTO, C.A.",
+    "internalBankHolder": "GRUPO LAPANTO, C.A.",
+    "account": "01910181912100078419",
+    "accountType": "Corriente",
+    "phoneNumber": "4123270106",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 699,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J409248690",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO LAPANTO, C.A.",
+    "internalBankHolder": "GRUPO LAPANTO, C.A.",
+    "account": "01910181912100078419",
+    "accountType": "Corriente",
+    "phoneNumber": "4123270106",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 701,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J409248690",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GRUPO LAPANTO, C.A.",
+    "internalBankHolder": "GRUPO LAPANTO, C.A.",
+    "account": "01910181972300038671",
+    "accountType": "Custodia",
+    "phoneNumber": "4123270106",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-14T00:10:37.044Z",
+  "id": "1395",
+  "amount": 84,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 1983,
+  "billingDate": "2022-12-14T00:10:37.044Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

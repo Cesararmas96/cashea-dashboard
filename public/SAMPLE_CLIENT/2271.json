@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-16T15:40:17.662Z",
+  "id": "1687",
+  "amount": 52,
+  "invoiceId": "15572",
+  "paidToMerchant": false,
+  "identifierNumber": 2271,
+  "billingDate": "2022-12-16T15:40:17.662Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "31",
+    "buyDebtDate": "2023-01-30T04:00:01.218+00:00",
+    "lastStoreId": 13,
+    "boughtForInstallmentId": "5441",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19223435",
+      "fullName": "FREDERICK RAFAEL RENGIFO ALAYON",
+      "phoneNumber": "+584129304012"
+    },
+    "installments": [
+      {
+        "id": "5441",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T15:40:22.156Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5438",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T15:40:22.157Z",
+        "amount": 26,
+        "status": "DONE"
+      },
+      {
+        "id": "5439",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T15:40:22.156Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5440",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T15:40:22.156Z",
+        "amount": 8.666666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-01T21:28:55.134Z",
+  "updatedAt": "2025-04-04T18:50:12.046Z",
+  "id": 4960,
+  "name": "Materiales de Construcción El Roble",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "5569f9dd-2a2d-4270-a7d2-1e364990160f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "materialesdeconstruccionelrobleca@hotmail.com",
+    "legalName": "Pedro La Mantia",
+    "phoneNumber": "4147525329"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-01T21:30:20.412Z",
+      "updatedAt": "2025-04-01T21:30:20.412Z",
+      "id": 12482,
+      "merchantId": 4960,
+      "name": "Materiales de Construcción El Roble Merida",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6646,
+      "address": {
+        "name": "Av Bolivar N238-A Ejido Edo. Merida",
+        "long": -71.2336875,
+        "lat": 8.5480625,
+        "location": "0101000020E6100000FA7E6ABCF4CE51C0F853E3A59B182140",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

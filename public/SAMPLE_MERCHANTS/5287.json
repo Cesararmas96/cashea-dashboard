@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-17T13:45:52.279Z",
+  "updatedAt": "2025-04-23T16:45:57.852Z",
+  "id": 5287,
+  "name": "Nazareth Nails & More",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "7b384c4f-e1d8-4b5a-b5ef-00f817f443ac",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "distribuidoranazareht@gmail.com",
+    "legalName": "Ramon",
+    "phoneNumber": "04142342131"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-17T13:47:51.573Z",
+      "updatedAt": "2025-04-17T13:47:51.573Z",
+      "id": 13073,
+      "merchantId": 5287,
+      "name": "Nazareth Nails & More CC Jesus",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4738,
+      "address": {
+        "name": "CALLE ZAMORA CC JESUS DE NAZARETH NIVEL  PB LOCAL C15 Y C-16 ZONA CENTRO CUA MIRANDA ZONA POSTAL 1211",
+        "long": -66.8870625,
+        "lat": 10.1586875,
+        "location": "0101000020E610000083C0CAA1C5B850C06891ED7C3F512440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

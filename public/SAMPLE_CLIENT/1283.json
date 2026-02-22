@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-03T19:52:43.927Z",
+  "id": "250",
+  "amount": 190,
+  "invoiceId": "00000541",
+  "paidToMerchant": false,
+  "identifierNumber": 1283,
+  "billingDate": "2022-11-03T19:52:43.927Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24213946",
+      "fullName": "CRISBETT VIANNEY ORTEGA LOZANO",
+      "phoneNumber": "+584241878200"
+    },
+    "installments": [
+      {
+        "id": "773",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-03T19:53:10.190Z",
+        "amount": 95,
+        "status": "DONE"
+      },
+      {
+        "id": "776",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-15T19:53:10.190Z",
+        "amount": 31.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "775",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-01T19:53:10.190Z",
+        "amount": 31.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "774",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-17T19:53:10.190Z",
+        "amount": 31.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-09T16:18:59.450Z",
+  "updatedAt": "2025-05-12T20:49:22.201Z",
+  "id": 5673,
+  "name": "Kreatickets",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a8eecb57-faf7-47a8-ae13-18851268907f",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "kreaticketsve@gmail.com",
+    "legalName": "HC BUSINESS CORP",
+    "phoneNumber": "4144267435"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-27T13:57:43.908Z",
+      "updatedAt": "2025-05-27T13:57:43.908Z",
+      "id": 14714,
+      "merchantId": 5673,
+      "name": "VR_Kreatickets",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11549,
+      "address": {
+        "name": "Z.IND. SUR AV. LUIS E. BRANGER C.EMO. IND. ARTURO MICHELENA GALPON 7 VALENCIA",
+        "long": -67.975,
+        "lat": 10.175000000000004,
+        "location": "0101000020E61000006666666666FE50C09C99999999592440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T19:41:05.507Z",
+      "updatedAt": "2025-05-09T19:41:05.507Z",
+      "id": 13898,
+      "merchantId": 5673,
+      "name": "Kreatickets Valencia",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11549,
+      "address": {
+        "name": "Z.IND. SUR AV. LUIS E. BRANGER C.EMO. IND. ARTURO MICHELENA GALPON 7 VALENCIA",
+        "long": -67.975,
+        "lat": 10.175000000000004,
+        "location": "0101000020E61000006666666666FE50C09C99999999592440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 322,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J296520968",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Sin Fronteras Company Internacional C.A",
+    "internalBankHolder": "Sin Fronteras Company Internacional C.A",
+    "account": "01910098742198377395",
+    "accountType": "Corriente",
+    "phoneNumber": "04241277858",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 321,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J296520968",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Sin Fronteras Company Internacional C.A",
+    "internalBankHolder": "Sin Fronteras Company Internacional C.A",
+    "account": "01910098742198377395",
+    "accountType": "Corriente",
+    "phoneNumber": "04241277858",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 323,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J296520968",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Sin Fronteras Company Internacional C.A",
+    "internalBankHolder": "Sin Fronteras Company Internacional C.A",
+    "account": "01910098742198377395",
+    "accountType": "Corriente",
+    "phoneNumber": "04241277858",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 324,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J296520968",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "Sin Fronteras Company Internacional C.A",
+    "internalBankHolder": "Sin Fronteras Company Internacional C.A",
+    "account": "01910098752398275239",
+    "accountType": "Custodia",
+    "phoneNumber": "04241277858",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Transferencia",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

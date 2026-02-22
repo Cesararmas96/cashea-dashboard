@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-17T21:12:31.634Z",
+  "id": "2044",
+  "amount": 111.42,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2574,
+  "billingDate": "2022-12-17T21:12:31.634Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16856792",
+      "fullName": "YANINE DEL CARMEN DECAN RUIZ",
+      "phoneNumber": "+584241329665"
+    },
+    "installments": [
+      {
+        "id": "6622",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T21:13:12.962Z",
+        "amount": 55.71,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6624",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T21:13:12.961Z",
+        "amount": 18.57,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6623",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T21:13:12.961Z",
+        "amount": 18.57,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "6625",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T21:13:12.961Z",
+        "amount": 18.57,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

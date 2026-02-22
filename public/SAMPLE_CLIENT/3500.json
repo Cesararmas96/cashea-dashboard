@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T16:02:05.463Z",
+  "id": "3101",
+  "amount": 150,
+  "invoiceId": "0000587",
+  "paidToMerchant": false,
+  "identifierNumber": 3500,
+  "billingDate": "2022-12-21T16:02:05.463Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "13",
+    "buyDebtDate": "2023-01-07T04:00:00.380+00:00",
+    "lastStoreId": 4,
+    "boughtForInstallmentId": "10251",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12920360",
+      "fullName": "LEOMAR FRANCISCO MILLAN VILLARROEL",
+      "phoneNumber": "+584140108477"
+    },
+    "installments": [
+      {
+        "id": "10250",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T16:02:44.536Z",
+        "amount": 75,
+        "status": "DONE"
+      },
+      {
+        "id": "10253",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T16:02:44.535Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "10252",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T16:02:44.535Z",
+        "amount": 25,
+        "status": "DONE"
+      },
+      {
+        "id": "10251",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T16:02:44.535Z",
+        "amount": 25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 4,
+    "name": "Doctor Lente La Florida / CCS"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

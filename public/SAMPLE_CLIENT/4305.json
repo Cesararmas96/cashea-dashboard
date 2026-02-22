@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T15:32:43.625Z",
+  "id": "3905",
+  "amount": 144,
+  "invoiceId": "40001741",
+  "paidToMerchant": false,
+  "identifierNumber": 4305,
+  "billingDate": "2022-12-23T15:32:43.625Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "1",
+    "buyDebtDate": "2023-01-09T04:00:00.915+00:00",
+    "lastStoreId": 1,
+    "boughtForInstallmentId": "13159",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10345640",
+      "fullName": "KENIE DEL VALLE VA GUEVARA SILVA",
+      "phoneNumber": "+584149203205"
+    },
+    "installments": [
+      {
+        "id": "13161",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T15:33:22.606Z",
+        "amount": 24,
+        "status": "DONE"
+      },
+      {
+        "id": "13159",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T15:33:22.606Z",
+        "amount": 24,
+        "status": "DONE"
+      },
+      {
+        "id": "13158",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T15:33:22.607Z",
+        "amount": 72,
+        "status": "DONE"
+      },
+      {
+        "id": "13160",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T15:33:22.606Z",
+        "amount": 24,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

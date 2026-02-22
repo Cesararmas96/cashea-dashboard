@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-29T12:07:15.781Z",
+  "updatedAt": "2025-04-29T19:01:04.931Z",
+  "id": 5440,
+  "name": "Farmavitta",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "311ff2c6-8a72-49f9-9537-957a009bf73b",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "farmavittadg@gmail.com",
+    "legalName": "FREDDY",
+    "phoneNumber": "4243738557"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-29T12:08:59.440Z",
+      "updatedAt": "2025-04-29T12:08:59.440Z",
+      "id": 13402,
+      "merchantId": 5440,
+      "name": "Farmavitta CC Quinimari Aragua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5138,
+      "address": {
+        "name": "CALLE DR CARIAS CC QUINIMARI NIVEL PLANTA BAJA LOCAL UNO SECTOR CENTRO LA VICTORIA",
+        "long": -67.3371875,
+        "lat": 10.22793750000001,
+        "location": "0101000020E6100000AE47E17A94D550C068105839B4742440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T17:53:29.600Z",
+  "id": "3963",
+  "amount": 70.7,
+  "invoiceId": "50460",
+  "paidToMerchant": false,
+  "identifierNumber": 4364,
+  "billingDate": "2022-12-23T17:53:29.600Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "79",
+    "buyDebtDate": "2023-01-23T04:00:01.259+00:00",
+    "lastStoreId": 66,
+    "boughtForInstallmentId": "13356",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24409239",
+      "fullName": "MARIA ALEJANDRA MONTILLA QUINTERO",
+      "phoneNumber": "+584127098370"
+    },
+    "installments": [
+      {
+        "id": "13356",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T17:54:10.181Z",
+        "amount": 11.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13354",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T17:54:10.181Z",
+        "amount": 35.35,
+        "status": "DONE"
+      },
+      {
+        "id": "13355",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T17:54:10.181Z",
+        "amount": 11.783333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "13357",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T17:54:10.181Z",
+        "amount": 11.783333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T21:02:19.517Z",
+  "id": "5951",
+  "amount": 32.76,
+  "invoiceId": "45240",
+  "paidToMerchant": false,
+  "identifierNumber": 5321,
+  "billingDate": "2022-12-29T21:02:19.517Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17610669",
+      "fullName": "NOEL ALBERTO FARRERAS GOLINDANO",
+      "phoneNumber": "+584143201424"
+    },
+    "installments": [
+      {
+        "id": "20531",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T21:02:52.888Z",
+        "amount": 5.46,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20532",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T21:02:52.888Z",
+        "amount": 5.46,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20530",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T21:02:52.889Z",
+        "amount": 16.38,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20533",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T21:02:52.888Z",
+        "amount": 5.46,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

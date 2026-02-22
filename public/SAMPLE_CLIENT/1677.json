@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T18:46:58.387Z",
+  "id": "1315",
+  "amount": 102.37,
+  "invoiceId": "00001473",
+  "paidToMerchant": false,
+  "identifierNumber": 1677,
+  "billingDate": "2022-12-12T18:46:58.387Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25987014",
+      "fullName": "MARCO ANTONIO ZABALETA FERNANDEZ",
+      "phoneNumber": "+584124545584"
+    },
+    "installments": [
+      {
+        "id": "4238",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T18:47:16.932Z",
+        "amount": 51.19,
+        "status": "DONE"
+      },
+      {
+        "id": "4241",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T18:47:16.930Z",
+        "amount": 17.060000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "4239",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T18:47:16.930Z",
+        "amount": 17.060000000000002,
+        "status": "DONE"
+      },
+      {
+        "id": "4240",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T18:47:16.930Z",
+        "amount": 17.060000000000002,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

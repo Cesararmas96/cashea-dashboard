@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T13:50:14.276Z",
+  "id": "2713",
+  "amount": 48.6,
+  "invoiceId": "13722",
+  "paidToMerchant": false,
+  "identifierNumber": 3203,
+  "billingDate": "2022-12-20T13:50:14.276Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25222540",
+      "fullName": "JAVIER ENRIQUE SIERRA CORTES",
+      "phoneNumber": "+584241424597"
+    },
+    "installments": [
+      {
+        "id": "8937",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T13:50:40.393Z",
+        "amount": 8.1,
+        "status": "DONE"
+      },
+      {
+        "id": "8934",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T13:50:40.394Z",
+        "amount": 24.3,
+        "status": "DONE"
+      },
+      {
+        "id": "8935",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T13:50:40.393Z",
+        "amount": 8.1,
+        "status": "DONE"
+      },
+      {
+        "id": "8936",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T13:50:40.393Z",
+        "amount": 8.1,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

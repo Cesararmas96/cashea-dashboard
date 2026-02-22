@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-13T20:20:26.376Z",
+  "id": "1363",
+  "amount": 83.73,
+  "invoiceId": "00001477",
+  "paidToMerchant": false,
+  "identifierNumber": 1997,
+  "billingDate": "2022-12-13T20:20:26.376Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-27T04:00:00.205+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": "4405",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "12533585",
+      "fullName": "YERIGSON NEOMAR ESTRADA SOJO",
+      "phoneNumber": "+584129564591"
+    },
+    "installments": [
+      {
+        "id": "4404",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T20:20:38.393Z",
+        "amount": 13.953333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "4403",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T20:20:38.393Z",
+        "amount": 13.953333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "4405",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T20:20:38.393Z",
+        "amount": 13.953333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "4402",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T20:20:38.394Z",
+        "amount": 41.87,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

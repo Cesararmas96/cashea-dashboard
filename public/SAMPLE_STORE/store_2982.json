@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1648,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J409067386",
+    "bankName": "Banesco",
+    "bankHolder": "MONTE SACRO 2021 CA",
+    "internalBankHolder": "MONTE SACRO 2021 CA",
+    "account": "01340215962151062021",
+    "accountType": "Corriente",
+    "phoneNumber": "4126115808",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1646,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J409067386",
+    "bankName": "Banesco",
+    "bankHolder": "MONTE SACRO 2021 CA",
+    "internalBankHolder": "MONTE SACRO 2021 CA",
+    "account": "01340215962151062021",
+    "accountType": "Corriente",
+    "phoneNumber": "4126115808",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1647,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J409067386",
+    "bankName": "Banesco",
+    "bankHolder": "MONTE SACRO 2021 CA",
+    "internalBankHolder": "MONTE SACRO 2021 CA",
+    "account": "01340215962151062021",
+    "accountType": "Corriente",
+    "phoneNumber": "4126115808",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1725,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J409067386",
+    "bankName": "Banesco",
+    "bankHolder": "MONTE SACRO 2021 CA",
+    "internalBankHolder": "MONTE SACRO 2021 CA",
+    "account": "01341736940001005025",
+    "accountType": "Custodia",
+    "phoneNumber": "4126115808",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

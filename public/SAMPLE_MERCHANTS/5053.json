@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-04-04T17:06:18.729Z",
+  "updatedAt": "2025-07-08T20:18:57.587Z",
+  "id": 5053,
+  "name": "FARMACIA LA PLAZUELA",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 629,
+  "tags": [],
+  "uuid": "1f9fb55a-a259-4925-98e3-ef5aea5ebdcf",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "manueldelizq@gmail.com",
+    "legalName": "Manuel Delgado",
+    "phoneNumber": "04123007874"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-04T17:08:03.587Z",
+      "updatedAt": "2025-04-04T17:08:03.587Z",
+      "id": 12613,
+      "merchantId": 5053,
+      "name": "Farmacia La Plazuela CC La Plazuela",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 629,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 5,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11426,
+      "address": {
+        "name": "AV JOSE FELIPE MARQUEZ CAÑIZALES CC LA PLAZUELA  NIVEL PB LOCAL 1 SECTOR LA PLAZUELA, MUNICIPIO Y ESTADO TRUJILLO",
+        "long": -70.4326875,
+        "lat": 9.401812500000005,
+        "location": "0101000020E6100000D578E926B19B51C0803F355EBACD2240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

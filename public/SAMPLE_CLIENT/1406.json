@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T00:59:24.567Z",
+  "id": "656",
+  "amount": 40.46,
+  "invoiceId": "3927",
+  "paidToMerchant": false,
+  "identifierNumber": 1406,
+  "billingDate": "2022-12-04T00:59:24.567Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14989077",
+      "fullName": "MARIA ELIZABETH CARRANZA ESPINAL",
+      "phoneNumber": "+584142879384"
+    },
+    "installments": [
+      {
+        "id": "2105",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T00:59:39.134Z",
+        "amount": 6.743333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2104",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T00:59:39.134Z",
+        "amount": 6.743333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2102",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T00:59:39.135Z",
+        "amount": 20.23,
+        "status": "DONE"
+      },
+      {
+        "id": "2103",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T00:59:39.134Z",
+        "amount": 6.743333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

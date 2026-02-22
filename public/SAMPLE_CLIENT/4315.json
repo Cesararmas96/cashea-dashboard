@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-18T16:11:30.148Z",
+  "id": "10131",
+  "amount": 48.8,
+  "invoiceId": "50326",
+  "paidToMerchant": false,
+  "identifierNumber": 4315,
+  "billingDate": "2023-01-18T16:11:30.148Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17531905",
+      "fullName": "VILLY MANUEL HERRERA GUEVARA",
+      "phoneNumber": "+584141547590"
+    },
+    "installments": [
+      {
+        "id": "30329",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-01T16:11:50.589Z",
+        "amount": 8.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "30328",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-15T16:11:50.589Z",
+        "amount": 8.133333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "30326",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-18T16:11:50.590Z",
+        "amount": 24.4,
+        "status": "DONE"
+      },
+      {
+        "id": "30327",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-01T16:11:50.589Z",
+        "amount": 8.133333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

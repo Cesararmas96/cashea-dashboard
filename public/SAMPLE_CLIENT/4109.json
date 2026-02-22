@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-22T22:57:52.023Z",
+  "id": "3683",
+  "amount": 82.69,
+  "invoiceId": "14871",
+  "paidToMerchant": false,
+  "identifierNumber": 4109,
+  "billingDate": "2022-12-22T22:57:52.023Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-02-05T04:00:00.524+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "12353",
+    "boughtForInstallmentNumber": 3
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10780909",
+      "fullName": "NORIS YSBETH AGUILERA TINEDO",
+      "phoneNumber": "+584241877326"
+    },
+    "installments": [
+      {
+        "id": "12353",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T22:58:07.465Z",
+        "amount": 13.783333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "12350",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T22:58:07.465Z",
+        "amount": 41.34,
+        "status": "DONE"
+      },
+      {
+        "id": "12352",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T22:58:07.465Z",
+        "amount": 13.783333333333331,
+        "status": "DONE"
+      },
+      {
+        "id": "12351",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T22:58:07.465Z",
+        "amount": 13.783333333333331,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

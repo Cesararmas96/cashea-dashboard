@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T00:45:02.387Z",
+  "id": "1869",
+  "amount": 124.74,
+  "invoiceId": "00467",
+  "paidToMerchant": false,
+  "identifierNumber": 2474,
+  "billingDate": "2022-12-17T00:45:02.387Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "78",
+    "buyDebtDate": "2023-01-02T04:00:00.322+00:00",
+    "lastStoreId": 65,
+    "boughtForInstallmentId": "6059",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28307176",
+      "fullName": "ALANIS VALENTINA HARTLIEP PALACIO",
+      "phoneNumber": "+584242460742"
+    },
+    "installments": [
+      {
+        "id": "6061",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T00:46:01.877Z",
+        "amount": 20.79,
+        "status": "DONE"
+      },
+      {
+        "id": "6059",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T00:46:01.877Z",
+        "amount": 20.79,
+        "status": "DONE"
+      },
+      {
+        "id": "6060",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T00:46:01.877Z",
+        "amount": 20.79,
+        "status": "DONE"
+      },
+      {
+        "id": "6058",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T00:46:01.878Z",
+        "amount": 62.37,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

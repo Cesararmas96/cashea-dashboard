@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T21:39:42.669Z",
+  "id": "4193",
+  "amount": 237.29,
+  "invoiceId": "49180",
+  "paidToMerchant": false,
+  "identifierNumber": 4568,
+  "billingDate": "2022-12-23T21:39:42.669Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16331475",
+      "fullName": "ERICK ENISAEL BALCAZAR BORGES",
+      "phoneNumber": "+584242062056"
+    },
+    "installments": [
+      {
+        "id": "14194",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T21:39:52.628Z",
+        "amount": 118.64,
+        "status": "DONE"
+      },
+      {
+        "id": "14195",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T21:39:52.628Z",
+        "amount": 39.55,
+        "status": "DONE"
+      },
+      {
+        "id": "14196",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T21:39:52.628Z",
+        "amount": 39.55,
+        "status": "DONE"
+      },
+      {
+        "id": "14197",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T21:39:52.628Z",
+        "amount": 39.55,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

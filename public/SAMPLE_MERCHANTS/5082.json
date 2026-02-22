@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-06T20:56:38.329Z",
+  "updatedAt": "2025-08-24T19:30:15.374Z",
+  "id": 5082,
+  "name": "El Bombazo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 554,
+  "tags": [],
+  "uuid": "f1db448c-792f-4ef9-ac33-4d31c770ef90",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "broxell2126ca@gmail.com",
+    "legalName": "Neidy",
+    "phoneNumber": "04127816422"
+  },
+  "stores": [
+    {
+      "createdAt": "2024-11-26T20:59:41.599Z",
+      "updatedAt": "2024-11-26T20:59:41.599Z",
+      "id": 7794,
+      "merchantId": 5082,
+      "name": "El Bombazo Av 20 Entre Calles 21 y 22 Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 554,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3866,
+      "address": {
+        "name": "El Bombazo Av 20 Entre Calles 21 y 22 Barquisimeto",
+        "long": -69.31375,
+        "lat": 10.068749999999994,
+        "location": "0101000020E6100000AE47E17A145451C03033333333232440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

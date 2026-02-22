@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T19:16:01.430Z",
+  "id": "4030",
+  "amount": 45.66,
+  "invoiceId": "50470",
+  "paidToMerchant": false,
+  "identifierNumber": 4463,
+  "billingDate": "2022-12-23T19:16:01.430Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26824327",
+      "fullName": "ALEXANDRA VALENTINA ARENAS ROJAS",
+      "phoneNumber": "+584129225271"
+    },
+    "installments": [
+      {
+        "id": "13598",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T19:16:39.908Z",
+        "amount": 22.83,
+        "status": "DONE"
+      },
+      {
+        "id": "13599",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T19:16:39.908Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13601",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T19:16:39.908Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "13600",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T19:16:39.908Z",
+        "amount": 7.609999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

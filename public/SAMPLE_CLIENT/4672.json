@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:17:04.467Z",
+  "id": "4314",
+  "amount": 30.59,
+  "invoiceId": "14673",
+  "paidToMerchant": false,
+  "identifierNumber": 4672,
+  "billingDate": "2022-12-23T23:17:04.467Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26783535",
+      "fullName": "CARLEIDYS DILIANY CLEMENTE PICADO",
+      "phoneNumber": "+584142291836"
+    },
+    "installments": [
+      {
+        "id": "14645",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:17:27.194Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "14642",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:17:27.194Z",
+        "amount": 15.29,
+        "status": "DONE"
+      },
+      {
+        "id": "14643",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:17:27.194Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      },
+      {
+        "id": "14644",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:17:27.194Z",
+        "amount": 5.1000000000000005,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

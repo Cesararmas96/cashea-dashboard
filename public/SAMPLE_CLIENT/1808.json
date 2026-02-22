@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T14:08:01.195Z",
+  "id": "1303",
+  "amount": 140,
+  "invoiceId": "573",
+  "paidToMerchant": false,
+  "identifierNumber": 1808,
+  "billingDate": "2022-12-12T14:08:01.195Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20990329",
+      "fullName": "AGNNY GABRIELA WRANYANLETH VELIZ SANDOVAL",
+      "phoneNumber": "+584144464039"
+    },
+    "installments": [
+      {
+        "id": "4202",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T14:09:33.669Z",
+        "amount": 70,
+        "status": "DONE"
+      },
+      {
+        "id": "4205",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T14:09:33.667Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4204",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T14:09:33.667Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "4203",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T14:09:33.667Z",
+        "amount": 23.333333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 5,
+    "name": "Doctor Lente Los Palos Grandes"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

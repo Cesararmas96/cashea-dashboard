@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-07T23:33:37.867Z",
+  "updatedAt": "2025-05-07T23:33:37.867Z",
+  "id": 5607,
+  "name": "Bodegón El Tiamo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 815,
+  "tags": [],
+  "uuid": "73bb735f-48bd-4723-88ba-9500e1c06fd3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "larumbalcdlc2023@gmail.com",
+    "legalName": "David",
+    "phoneNumber": "4249140767"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T00:16:21.168Z",
+      "updatedAt": "2025-05-08T00:16:21.168Z",
+      "id": 13751,
+      "merchantId": 5607,
+      "name": "Bodegón El Tiamo CC El Tiamo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8232,
+      "address": {
+        "name": "Bodegón El Tiamo CC El Tiamo",
+        "long": -62.780812499999996,
+        "lat": 8.255937499999987,
+        "location": "0101000020E61000006CE7FBA9F1634FC0D0A3703D0A832040",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

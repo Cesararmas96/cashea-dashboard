@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-29T20:30:21.043Z",
+  "id": "212",
+  "amount": 54,
+  "invoiceId": "6409",
+  "paidToMerchant": false,
+  "identifierNumber": 1240,
+  "billingDate": "2022-10-29T20:30:21.043Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13161812",
+      "fullName": "WILMER ALEXANDER GUAURA VERA",
+      "phoneNumber": "+584120238270"
+    },
+    "installments": [
+      {
+        "id": "645",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-29T20:34:21.096Z",
+        "amount": 27,
+        "status": "DONE"
+      },
+      {
+        "id": "648",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-10T20:34:21.095Z",
+        "amount": 9,
+        "status": "DONE"
+      },
+      {
+        "id": "647",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-26T20:34:21.095Z",
+        "amount": 9,
+        "status": "DONE"
+      },
+      {
+        "id": "646",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-12T20:34:21.095Z",
+        "amount": 9,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

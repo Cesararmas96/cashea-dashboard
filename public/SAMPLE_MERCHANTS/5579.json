@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-07T13:19:17.475Z",
+  "updatedAt": "2025-05-12T20:07:37.092Z",
+  "id": 5579,
+  "name": "Asociación Civil Consultorio Odontologico Yurivan",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "87ae0f2e-fc5f-43ca-9fb5-0106113484ac",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "yuraypoleo@gmail.com",
+    "legalName": "YURAYMA",
+    "phoneNumber": "4166330890"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T13:20:33.018Z",
+      "updatedAt": "2025-05-07T13:20:33.018Z",
+      "id": 13700,
+      "merchantId": 5579,
+      "name": "Asociación Civil Consultorio Odontologico Yurivan CC El Recreo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3627,
+      "address": {
+        "name": "CENTRO COMERCIAL EL RECREO ENTRE AV. CASANOVA Y VENEZUELA, TORRE SUR PISO 12 LOCAL 12-1",
+        "long": -66.87718750000002,
+        "lat": 10.4915625,
+        "location": "0101000020E6100000723D0AD723B850C048E17A14AEFB2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T19:54:43.809Z",
+  "id": "5514",
+  "amount": 78.13,
+  "invoiceId": "13928",
+  "paidToMerchant": false,
+  "identifierNumber": 5814,
+  "billingDate": "2022-12-28T19:54:43.809Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22041849",
+      "fullName": "BARBARA MAGNOLIA ARCEO GONCALVES",
+      "phoneNumber": "+584242153107"
+    },
+    "installments": [
+      {
+        "id": "18938",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T19:56:23.288Z",
+        "amount": 39.06,
+        "status": "DONE"
+      },
+      {
+        "id": "18941",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T19:56:23.287Z",
+        "amount": 13.023333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "18940",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T19:56:23.287Z",
+        "amount": 13.023333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "18939",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T19:56:23.287Z",
+        "amount": 13.023333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

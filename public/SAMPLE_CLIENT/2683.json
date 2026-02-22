@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T01:14:35.435Z",
+  "id": "2169",
+  "amount": 151.83,
+  "invoiceId": "6672",
+  "paidToMerchant": false,
+  "identifierNumber": 2683,
+  "billingDate": "2022-12-18T01:14:35.435Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16683584",
+      "fullName": "JOSE GREGORIO GARCIA",
+      "phoneNumber": "+584143194548"
+    },
+    "installments": [
+      {
+        "id": "7088",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T01:15:23.282Z",
+        "amount": 25.303333333333338,
+        "status": "DONE"
+      },
+      {
+        "id": "7086",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T01:15:23.282Z",
+        "amount": 75.92,
+        "status": "DONE"
+      },
+      {
+        "id": "7089",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T01:15:23.282Z",
+        "amount": 25.303333333333338,
+        "status": "DONE"
+      },
+      {
+        "id": "7087",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T01:15:23.282Z",
+        "amount": 25.303333333333338,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

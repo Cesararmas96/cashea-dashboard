@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1138,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J502210210",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "internalBankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "account": "01910098792198373495",
+    "accountType": "Corriente",
+    "phoneNumber": "4124050904",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1136,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502210210",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "internalBankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "account": "01910098792198373495",
+    "accountType": "Corriente",
+    "phoneNumber": "4124050904",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1137,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502210210",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "internalBankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "account": "01910098792198373495",
+    "accountType": "Corriente",
+    "phoneNumber": "4124050904",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1139,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502210210",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "internalBankHolder": "METROPARK PARQUE DE DIVERSIONES C.A.",
+    "account": "01910098712398226067",
+    "accountType": "Custodia",
+    "phoneNumber": "4124050904",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

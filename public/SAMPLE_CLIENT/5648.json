@@ -1,0 +1,65 @@
+{
+  "createdAt": "2023-01-30T17:27:34.841Z",
+  "id": "11493",
+  "amount": 445.92,
+  "invoiceId": "3835",
+  "paidToMerchant": false,
+  "identifierNumber": 5648,
+  "billingDate": "2023-01-30T17:27:34.841Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-02-16T04:00:00.293+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "35215",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23689710",
+      "fullName": "VALENTINA FERREIRA MARCANO",
+      "phoneNumber": "+584241268238"
+    },
+    "installments": [
+      {
+        "id": "35217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T17:28:09.425Z",
+        "amount": 53.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T17:28:09.425Z",
+        "amount": 53.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T17:28:09.425Z",
+        "amount": 53.333333333333336,
+        "status": "DONE"
+      },
+      {
+        "id": "35214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T17:28:09.426Z",
+        "amount": 285.92,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

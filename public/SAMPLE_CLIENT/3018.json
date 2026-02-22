@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T18:52:07.487Z",
+  "id": "2524",
+  "amount": 37.98,
+  "invoiceId": "6620",
+  "paidToMerchant": false,
+  "identifierNumber": 3018,
+  "billingDate": "2022-12-19T18:52:07.487Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17482101",
+      "fullName": "ADRYALIS NEIKARY TORRES ESTABA",
+      "phoneNumber": "+584143985911"
+    },
+    "installments": [
+      {
+        "id": "8298",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T18:52:34.842Z",
+        "amount": 18.99,
+        "status": "DONE"
+      },
+      {
+        "id": "8301",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T18:52:34.840Z",
+        "amount": 6.329999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8299",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T18:52:34.840Z",
+        "amount": 6.329999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "8300",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T18:52:34.840Z",
+        "amount": 6.329999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

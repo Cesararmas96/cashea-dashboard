@@ -1,0 +1,128 @@
+[
+  {
+    "id": 14734,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J502518363",
+    "bankName": "Banesco",
+    "bankHolder": "PIZGA 44, C.A.",
+    "internalBankHolder": "PIZGA 44, C.A.",
+    "account": "01340342263421082347",
+    "accountType": "Corriente",
+    "phoneNumber": "4241502130",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 14732,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J502518363",
+    "bankName": "Banesco",
+    "bankHolder": "PIZGA 44, C.A.",
+    "internalBankHolder": "PIZGA 44, C.A.",
+    "account": "01340342263421082347",
+    "accountType": "Corriente",
+    "phoneNumber": "4241502130",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 14733,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J502518363",
+    "bankName": "Banesco",
+    "bankHolder": "PIZGA 44, C.A.",
+    "internalBankHolder": "PIZGA 44, C.A.",
+    "account": "01340342263421082347",
+    "accountType": "Corriente",
+    "phoneNumber": "4241502130",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 18083,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J502518363",
+    "bankName": "Banesco",
+    "bankHolder": "PIZGA 44, C.A.",
+    "internalBankHolder": "PIZGA 44, C.A.",
+    "account": "01341736930001005454",
+    "accountType": "Custodia",
+    "phoneNumber": "4241502130",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

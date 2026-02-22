@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T19:18:02.411Z",
+  "id": "1197",
+  "amount": 53.56,
+  "invoiceId": "784301",
+  "paidToMerchant": false,
+  "identifierNumber": 1866,
+  "billingDate": "2022-12-11T19:18:02.411Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10793379",
+      "fullName": "OSCAR ENRIQUE MARQUEZ ECHENIQUE",
+      "phoneNumber": "+584143227111"
+    },
+    "installments": [
+      {
+        "id": "3825",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:18:27.676Z",
+        "amount": 8.926666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3823",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:18:27.676Z",
+        "amount": 8.926666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3824",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:18:27.676Z",
+        "amount": 8.926666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "3822",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:18:27.677Z",
+        "amount": 26.78,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

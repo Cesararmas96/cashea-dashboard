@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T19:54:33.850Z",
+  "id": "5903",
+  "amount": 41.74,
+  "invoiceId": "45234",
+  "paidToMerchant": false,
+  "identifierNumber": 5278,
+  "billingDate": "2022-12-29T19:54:33.850Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13845180",
+      "fullName": "NIRGE ALEJANDRO ESCALANTE FLORES",
+      "phoneNumber": "+584142421222"
+    },
+    "installments": [
+      {
+        "id": "20354",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T19:54:53.851Z",
+        "amount": 20.87,
+        "status": "DONE"
+      },
+      {
+        "id": "20357",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T19:54:53.851Z",
+        "amount": 6.956666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20356",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T19:54:53.851Z",
+        "amount": 6.956666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "20355",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T19:54:53.851Z",
+        "amount": 6.956666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 62,
+    "name": "Planeta Sport CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

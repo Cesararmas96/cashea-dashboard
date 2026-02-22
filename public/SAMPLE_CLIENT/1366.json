@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-03T22:30:17.430Z",
+  "id": "631",
+  "amount": 163.95,
+  "invoiceId": "7758",
+  "paidToMerchant": false,
+  "identifierNumber": 1366,
+  "billingDate": "2022-12-03T22:30:17.430Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24202785",
+      "fullName": "MARIANNYS LEON COLMENAREZ",
+      "phoneNumber": "+584123201776"
+    },
+    "installments": [
+      {
+        "id": "2017",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T22:31:53.245Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2014",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T22:31:53.247Z",
+        "amount": 83.95,
+        "status": "DONE"
+      },
+      {
+        "id": "2016",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T22:31:53.245Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2015",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T22:31:53.245Z",
+        "amount": 26.66666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

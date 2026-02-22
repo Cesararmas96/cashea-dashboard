@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-17T21:58:35.446Z",
+  "id": "2065",
+  "amount": 57.47,
+  "invoiceId": "8469",
+  "paidToMerchant": false,
+  "identifierNumber": 3088,
+  "billingDate": "2022-12-17T21:58:35.446Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "47",
+    "buyDebtDate": "2023-01-15T04:00:01.136+00:00",
+    "lastStoreId": 33,
+    "boughtForInstallmentId": 6715,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16032054",
+      "fullName": "IRENE ANGELICA VARGAS NAVARRO",
+      "phoneNumber": "+584123187479"
+    },
+    "installments": [
+      {
+        "id": "6715",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-31T22:03:48.557Z",
+        "amount": 9.58,
+        "status": "DONE"
+      },
+      {
+        "id": "6716",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-14T22:03:48.557Z",
+        "amount": 9.58,
+        "status": "DONE"
+      },
+      {
+        "id": "6717",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-28T22:03:48.557Z",
+        "amount": 9.58,
+        "status": "DONE"
+      },
+      {
+        "id": "6714",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-17T22:03:48.557Z",
+        "amount": 28.73,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-08T12:43:57.564Z",
+  "updatedAt": "2025-05-21T22:52:26.860Z",
+  "id": 5613,
+  "name": "El reino del jeans 2023",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a81ffd9e-c107-4643-ad5a-b27fb96bc458",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "alguero80@hotmail.com",
+    "legalName": "Leidy",
+    "phoneNumber": "4242878752"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T12:45:32.989Z",
+      "updatedAt": "2025-05-08T12:45:32.989Z",
+      "id": 13775,
+      "merchantId": 5613,
+      "name": "El reino del jeans 2023 Av Fuerzas Armadas CCS Pt",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4886,
+      "address": {
+        "name": "Av fuerzas armadas diagonal al bus caracas de la hoyada local 1-2-3-4",
+        "long": -66.91156250000002,
+        "lat": 10.500312499999993,
+        "location": "0101000020E6100000A5703D0A57BA50C0588FC2F528002540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-23T12:36:30.854Z",
+      "updatedAt": "2025-05-23T12:36:30.854Z",
+      "id": 14578,
+      "merchantId": 5613,
+      "name": "VR_El reino del jeans 2023",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4886,
+      "address": {
+        "name": "Av fuerzas armadas diagonal al bus caracas de la hoyada local 1-2-3-4",
+        "long": -66.91156250000002,
+        "lat": 10.500312499999993,
+        "location": "0101000020E6100000A5703D0A57BA50C0588FC2F528002540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

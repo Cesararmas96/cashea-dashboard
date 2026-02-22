@@ -1,0 +1,178 @@
+{
+  "createdAt": "2025-04-08T15:21:25.849Z",
+  "updatedAt": "2025-04-09T19:04:27.530Z",
+  "id": 5118,
+  "name": "Sophis Boutique",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0eda6894-17d4-4e6a-9f70-91b389c93d52",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "moralvisth@gmail.com",
+    "legalName": "Moralvis Herrera",
+    "phoneNumber": "04121483322"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-09T17:51:05.346Z",
+      "updatedAt": "2025-04-09T17:51:05.346Z",
+      "id": 12767,
+      "merchantId": 5118,
+      "name": "VR_Sophies Boutique Valle de la Pascua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7707,
+      "address": {
+        "name": "Sophis Boutique Valle de la Pascua.",
+        "long": -66.0031875,
+        "lat": 9.211187500000008,
+        "location": "0101000020E610000062105839348050C0E8A59BC4206C2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-09T17:58:30.416Z",
+      "updatedAt": "2025-04-09T17:58:30.416Z",
+      "id": 12769,
+      "merchantId": 5118,
+      "name": "VR_Sophis Boutique CC Galerías Ávila",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7707,
+      "address": {
+        "name": "Galerías Ávila, Local P22. Nivel Parque. Caracas.",
+        "long": -66.9025625,
+        "lat": 10.506562499999987,
+        "location": "0101000020E610000025068195C3B950C088C2F5285C032540",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-08T15:23:40.541Z",
+      "updatedAt": "2025-04-08T15:23:40.541Z",
+      "id": 12703,
+      "merchantId": 5118,
+      "name": "Sophis Boutique Valle de la Pascua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7707,
+      "address": {
+        "name": "Sophis Boutique Valle de la Pascua.",
+        "long": -66.0031875,
+        "lat": 9.211187500000008,
+        "location": "0101000020E610000062105839348050C0E8A59BC4206C2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-08T18:19:01.555Z",
+      "updatedAt": "2025-04-08T18:19:01.555Z",
+      "id": 12711,
+      "merchantId": 5118,
+      "name": "Sophis Boutique CC Galerías Ávila",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7707,
+      "address": {
+        "name": "Galerías Ávila, Local P22. Nivel Parque. Caracas.",
+        "long": -66.9025625,
+        "lat": 10.506562499999987,
+        "location": "0101000020E610000025068195C3B950C088C2F5285C032540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

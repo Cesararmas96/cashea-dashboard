@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T17:01:13.758Z",
+  "id": "7187",
+  "amount": 105,
+  "invoiceId": "10880",
+  "paidToMerchant": false,
+  "identifierNumber": 5105,
+  "billingDate": "2023-01-02T17:01:13.758Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "16204578",
+      "fullName": "DALINE AIMEE SOARES DE SA",
+      "phoneNumber": "+584122862146"
+    },
+    "installments": [
+      {
+        "id": "24910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T17:01:57.806Z",
+        "amount": 52.5,
+        "status": "DONE"
+      },
+      {
+        "id": "24913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T17:01:57.806Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "24912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T17:01:57.806Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "24911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T17:01:57.806Z",
+        "amount": 17.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

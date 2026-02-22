@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-11-27T17:59:00.476Z",
+  "id": "519",
+  "amount": 132,
+  "invoiceId": "783777",
+  "paidToMerchant": false,
+  "identifierNumber": 1138,
+  "billingDate": "2022-11-27T17:59:00.476Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25664144",
+      "fullName": "JOSE ALFREDO CORDERO MARQUEZ",
+      "phoneNumber": "+584126391854"
+    },
+    "installments": [
+      {
+        "id": "1630",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-11-27T17:59:43.941Z",
+        "amount": 66,
+        "status": "DONE"
+      },
+      {
+        "id": "1632",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-25T17:59:43.940Z",
+        "amount": 22,
+        "status": "DONE"
+      },
+      {
+        "id": "1631",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-11T17:59:43.940Z",
+        "amount": 22,
+        "status": "DONE"
+      },
+      {
+        "id": "1633",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-08T17:59:43.940Z",
+        "amount": 22,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 15,
+    "name": "ProPlayer Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

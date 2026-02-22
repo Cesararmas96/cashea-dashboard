@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T16:50:37.868Z",
+  "id": "1694",
+  "amount": 104.98,
+  "invoiceId": "47950",
+  "paidToMerchant": false,
+  "identifierNumber": 2273,
+  "billingDate": "2022-12-16T16:50:37.868Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26109098",
+      "fullName": "SAMUEL JESUS BADUY RODRIGUEZ",
+      "phoneNumber": "+584141709745"
+    },
+    "installments": [
+      {
+        "id": "5455",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T16:50:59.059Z",
+        "amount": 17.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5456",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T16:50:59.059Z",
+        "amount": 17.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5457",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T16:50:59.059Z",
+        "amount": 17.496666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "5454",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T16:50:59.061Z",
+        "amount": 52.49,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

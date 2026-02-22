@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T14:02:25.964Z",
+  "id": "3883",
+  "amount": 34.99,
+  "invoiceId": "8987",
+  "paidToMerchant": false,
+  "identifierNumber": 4300,
+  "billingDate": "2022-12-23T14:02:25.964Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "6965578",
+      "fullName": "KATIUSKA BERENICE CALZADILLA PINERO",
+      "phoneNumber": "+584143359658"
+    },
+    "installments": [
+      {
+        "id": "13093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T14:03:02.862Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "13090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T14:03:02.862Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "13092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T14:03:02.862Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "13091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T14:03:02.862Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

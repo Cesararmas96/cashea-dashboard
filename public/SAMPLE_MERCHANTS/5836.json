@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-16T20:59:37.529Z",
+  "updatedAt": "2025-10-09T00:12:24.291Z",
+  "id": 5836,
+  "name": "Tornilleria y Ferreteria El Turkito",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "767fb829-07c6-4ba0-8a49-32e132acfc7d",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "torniturkito@gmail.com",
+    "legalName": "Elbee Ilbih Elbee Ilbih",
+    "phoneNumber": "4248529181"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-16T21:03:58.297Z",
+      "updatedAt": "2025-05-16T21:03:58.297Z",
+      "id": 14270,
+      "merchantId": 5836,
+      "name": "Tornilleria y Ferreteria El Turkito  Margarita",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4856,
+      "address": {
+        "name": "Av bolivar, sectro bella vista",
+        "long": -63.854312500000006,
+        "lat": 10.958437499999988,
+        "location": "0101000020E61000003208AC1C5AED4FC01885EB51B8EA2540",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

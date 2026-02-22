@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-06T14:49:59.467Z",
+  "updatedAt": "2025-05-07T13:38:56.417Z",
+  "id": 5560,
+  "name": "El Punto Garcia",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "a7a1fe17-2669-48a7-a3d8-437f11ce63a7",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "frankgarsil61@gmail.com",
+    "legalName": "Francisco",
+    "phoneNumber": "04124999565"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-06T14:53:19.066Z",
+      "updatedAt": "2025-05-06T14:53:19.066Z",
+      "id": 13637,
+      "merchantId": 5560,
+      "name": "El Punto Garcia  Calle Guzman",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5348,
+      "address": {
+        "name": "CALLE GUZMAN BLANCO NÚMERO 24, CARIPE ESTADO MONAGAS",
+        "long": -63.5,
+        "lat": 9.5,
+        "location": "0101000020E61000000000000000C04FC00000000000002340",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Servicios",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T17:41:14.576Z",
+  "id": "5816",
+  "amount": 30.56,
+  "invoiceId": "626",
+  "paidToMerchant": false,
+  "identifierNumber": 5227,
+  "billingDate": "2022-12-29T17:41:14.576Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18143837",
+      "fullName": "ISMERLY YENIREE IBARRA PEREZ",
+      "phoneNumber": "+584122532879"
+    },
+    "installments": [
+      {
+        "id": "20054",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:41:37.337Z",
+        "amount": 15.28,
+        "status": "DONE"
+      },
+      {
+        "id": "20057",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:41:37.337Z",
+        "amount": 5.093333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20056",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:41:37.337Z",
+        "amount": 5.093333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "20055",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:41:37.337Z",
+        "amount": 5.093333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

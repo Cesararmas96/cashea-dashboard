@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-24T16:25:07.475Z",
+  "id": "4600",
+  "amount": 103.06,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4948,
+  "billingDate": "2022-12-24T16:25:07.475Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

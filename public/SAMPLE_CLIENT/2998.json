@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T18:57:14.647Z",
+  "id": "2526",
+  "amount": 74.8,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2998,
+  "billingDate": "2022-12-19T18:57:14.647Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25715981",
+      "fullName": "MIGUEL EDUARDO PEREZ SALCEDO",
+      "phoneNumber": "+584125555118"
+    },
+    "installments": [
+      {
+        "id": "8302",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T18:57:41.705Z",
+        "amount": 37.4,
+        "status": "DONE"
+      },
+      {
+        "id": "8305",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T18:57:41.705Z",
+        "amount": 12.466666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8303",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T18:57:41.705Z",
+        "amount": 12.466666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8304",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T18:57:41.705Z",
+        "amount": 12.466666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:41:35.641Z",
+  "id": "5619",
+  "amount": 31.48,
+  "invoiceId": "00980",
+  "paidToMerchant": false,
+  "identifierNumber": 5886,
+  "billingDate": "2022-12-28T22:41:35.641Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31042683",
+      "fullName": "IGNACIO ALEJANDRO QUEREMEL PEREZ",
+      "phoneNumber": "+584241796022"
+    },
+    "installments": [
+      {
+        "id": "19322",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:43:09.621Z",
+        "amount": 15.74,
+        "status": "DONE"
+      },
+      {
+        "id": "19325",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:43:09.620Z",
+        "amount": 5.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19324",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:43:09.620Z",
+        "amount": 5.246666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "19323",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:43:09.620Z",
+        "amount": 5.246666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

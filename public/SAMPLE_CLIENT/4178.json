@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T00:51:19.587Z",
+  "id": "3803",
+  "amount": 113.11,
+  "invoiceId": "14083",
+  "paidToMerchant": false,
+  "identifierNumber": 4178,
+  "billingDate": "2022-12-23T00:51:19.587Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "67",
+    "buyDebtDate": "2023-01-22T04:00:00.843+00:00",
+    "lastStoreId": 54,
+    "boughtForInstallmentId": "12792",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24042969",
+      "fullName": "JOSE ENRIQUE CEDENO MONTES",
+      "phoneNumber": "+584142527474"
+    },
+    "installments": [
+      {
+        "id": "12790",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:51:37.509Z",
+        "amount": 56.55,
+        "status": "DONE"
+      },
+      {
+        "id": "12793",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:51:37.509Z",
+        "amount": 18.853333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "12792",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:51:37.509Z",
+        "amount": 18.853333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "12791",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:51:37.509Z",
+        "amount": 18.853333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

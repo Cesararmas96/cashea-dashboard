@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T20:38:32.532Z",
+  "id": "4873",
+  "amount": 57.66,
+  "invoiceId": "7144",
+  "paidToMerchant": false,
+  "identifierNumber": 5120,
+  "billingDate": "2022-12-24T20:38:32.532Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20802723",
+      "fullName": "MAIKEL ALEXANDER DOS SANTOS HERRERA",
+      "phoneNumber": "+584120908234"
+    },
+    "installments": [
+      {
+        "id": "16697",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T20:39:43.908Z",
+        "amount": 9.61,
+        "status": "DONE"
+      },
+      {
+        "id": "16694",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T20:39:43.908Z",
+        "amount": 28.83,
+        "status": "DONE"
+      },
+      {
+        "id": "16696",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T20:39:43.908Z",
+        "amount": 9.61,
+        "status": "DONE"
+      },
+      {
+        "id": "16695",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T20:39:43.908Z",
+        "amount": 9.61,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-20T20:23:43.835Z",
+  "id": "2826",
+  "amount": 134.73,
+  "invoiceId": "00001793",
+  "paidToMerchant": false,
+  "identifierNumber": 3308,
+  "billingDate": "2022-12-20T20:23:43.835Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "53",
+    "buyDebtDate": "2023-01-12T04:00:00.164+00:00",
+    "lastStoreId": 39,
+    "boughtForInstallmentId": 9307,
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "10685088",
+      "fullName": "NELLYS NOIRALIH LUZARDO URDANETA",
+      "phoneNumber": "+584146574277"
+    },
+    "installments": [
+      {
+        "id": "9306",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T20:25:05.655Z",
+        "amount": 67.36,
+        "status": "DONE"
+      },
+      {
+        "id": "9309",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T20:25:05.654Z",
+        "amount": 22.456666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "9308",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T20:25:05.654Z",
+        "amount": 22.456666666666663,
+        "status": "DONE"
+      },
+      {
+        "id": "9307",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T20:25:05.654Z",
+        "amount": 22.456666666666663,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

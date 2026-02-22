@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-21T15:00:30.256Z",
+  "id": "3083",
+  "amount": 119.93,
+  "invoiceId": "48869",
+  "paidToMerchant": false,
+  "identifierNumber": 3523,
+  "billingDate": "2022-12-21T15:00:30.256Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "59",
+    "buyDebtDate": "2023-01-21T04:00:00.524+00:00",
+    "lastStoreId": 45,
+    "boughtForInstallmentId": "10216",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14034905",
+      "fullName": "RANSSE RADAMES SANTANA BECERRA",
+      "phoneNumber": "+584141057563"
+    },
+    "installments": [
+      {
+        "id": "10217",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T15:00:44.182Z",
+        "amount": 19.986666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "10216",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T15:00:44.182Z",
+        "amount": 19.986666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "10214",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T15:00:44.183Z",
+        "amount": 59.97,
+        "status": "DONE"
+      },
+      {
+        "id": "10215",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T15:00:44.182Z",
+        "amount": 19.986666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

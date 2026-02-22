@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-23T13:48:53.291Z",
+  "id": "3881",
+  "amount": 64.9948,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2166,
+  "billingDate": "2022-12-23T13:48:53.291Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "29976586",
+      "fullName": "WILDER JESUS RODRIGUEZ GRATEROL",
+      "phoneNumber": "+584245505584"
+    },
+    "installments": [
+      {
+        "id": "13085",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T13:48:53.336Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13082",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T13:48:53.337Z",
+        "amount": 32.5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13083",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T13:48:53.336Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "13084",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T13:48:53.336Z",
+        "amount": 10.8316,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 152,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

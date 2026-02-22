@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-05-13T14:58:12.661Z",
+  "updatedAt": "2025-08-27T18:21:40.947Z",
+  "id": 5725,
+  "name": "Bom Dia",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "8dcecbc2-0b22-469e-9e64-d2773d015f4f",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "inversioneslusitanaii@gmail.com",
+    "legalName": "Miceli de Nobrega",
+    "phoneNumber": "4245526813"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-13T15:01:14.104Z",
+      "updatedAt": "2025-05-13T15:01:14.104Z",
+      "id": 14032,
+      "merchantId": 5725,
+      "name": "Bom Dia Carrera 23 Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6055,
+      "address": {
+        "name": "Carrera 23 Con Calle 34, Sector Centro Barquisimeto",
+        "long": -69.3253125,
+        "lat": 10.06893749999999,
+        "location": "0101000020E6100000B81E85EBD15451C098EFA7C64B232440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-27T15:24:05.392Z",
+      "updatedAt": "2025-05-27T15:24:05.392Z",
+      "id": 14727,
+      "merchantId": 5725,
+      "name": "VR_Bom Dia Carrera 23 Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 6055,
+      "address": {
+        "name": "Carrera 23 Con Calle 34, Sector Centro Barquisimeto",
+        "long": -69.3253125,
+        "lat": 10.06893749999999,
+        "location": "0101000020E6100000B81E85EBD15451C098EFA7C64B232440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Mercados y Bebidas",
+  "shipmentOptionsAvailable": []
+}

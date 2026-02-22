@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-16T21:06:02.923Z",
+  "id": "8650",
+  "amount": 72.15,
+  "invoiceId": "16359",
+  "paidToMerchant": false,
+  "identifierNumber": 5077,
+  "billingDate": "2023-01-16T21:06:02.923Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18589898",
+      "fullName": "LINDA MARINA DOMINGUEZ BLANCO",
+      "phoneNumber": "+584126036437"
+    },
+    "installments": [
+      {
+        "id": "29913",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-27T21:08:31.282Z",
+        "amount": 12.023333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "29910",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-16T21:08:31.283Z",
+        "amount": 36.08,
+        "status": "DONE"
+      },
+      {
+        "id": "29911",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-30T21:08:31.282Z",
+        "amount": 12.023333333333335,
+        "status": "DONE"
+      },
+      {
+        "id": "29912",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-13T21:08:31.282Z",
+        "amount": 12.023333333333335,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

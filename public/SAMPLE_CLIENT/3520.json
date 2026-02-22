@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T01:26:31.424Z",
+  "id": "3047",
+  "amount": 35.53,
+  "invoiceId": "8766",
+  "paidToMerchant": false,
+  "identifierNumber": 3520,
+  "billingDate": "2022-12-21T01:26:31.424Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25013451",
+      "fullName": "RODOLFO GABRIEL MACHADO FIGUEREDO",
+      "phoneNumber": "+584142318141"
+    },
+    "installments": [
+      {
+        "id": "10070",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T01:27:08.243Z",
+        "amount": 17.77,
+        "status": "DONE"
+      },
+      {
+        "id": "10072",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T01:27:08.242Z",
+        "amount": 5.920000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "10071",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T01:27:08.242Z",
+        "amount": 5.920000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "10073",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T01:27:08.242Z",
+        "amount": 5.920000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

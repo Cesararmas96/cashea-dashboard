@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-20T23:00:07.002Z",
+  "id": "2938",
+  "amount": 93.53,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 3408,
+  "billingDate": "2022-12-20T23:00:07.002Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "OPEN",
+  "paymentDetails": null,
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "OPEN"
+}

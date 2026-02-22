@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-20T22:18:41.280Z",
+  "id": "2908",
+  "amount": 34.99,
+  "invoiceId": "00048180",
+  "paidToMerchant": false,
+  "identifierNumber": 3373,
+  "billingDate": "2022-12-20T22:18:41.280Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13339474",
+      "fullName": "SONIA BENILSA RODRIGUEZ GUTIERREZ",
+      "phoneNumber": "+584125938361"
+    },
+    "installments": [
+      {
+        "id": "9582",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-20T22:18:58.737Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "9585",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-31T22:18:58.736Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "9583",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-03T22:18:58.736Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "9584",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-17T22:18:58.736Z",
+        "amount": 5.830000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 51,
+    "name": "Springfield Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

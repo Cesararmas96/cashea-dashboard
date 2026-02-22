@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T14:48:58.622Z",
+  "id": "3080",
+  "amount": 57.56,
+  "invoiceId": "18124",
+  "paidToMerchant": false,
+  "identifierNumber": 3464,
+  "billingDate": "2022-12-21T14:48:58.622Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11487562",
+      "fullName": "LILIANA CONCEPCION OSORIO CARMONA",
+      "phoneNumber": "+584142544079"
+    },
+    "installments": [
+      {
+        "id": "10202",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T14:49:40.084Z",
+        "amount": 28.78,
+        "status": "DONE"
+      },
+      {
+        "id": "10204",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T14:49:40.083Z",
+        "amount": 9.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10203",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T14:49:40.083Z",
+        "amount": 9.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10205",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T14:49:40.083Z",
+        "amount": 9.593333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

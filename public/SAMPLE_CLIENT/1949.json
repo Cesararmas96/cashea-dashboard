@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-13T00:08:55.376Z",
+  "id": "1344",
+  "amount": 187.36,
+  "invoiceId": "00346",
+  "paidToMerchant": false,
+  "identifierNumber": 1949,
+  "billingDate": "2022-12-13T00:08:55.376Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14908675",
+      "fullName": "SAMUEL ENRIQUE YANEZ",
+      "phoneNumber": "+584149105721"
+    },
+    "installments": [
+      {
+        "id": "4337",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-24T00:09:21.843Z",
+        "amount": 31.22666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4336",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-10T00:09:21.843Z",
+        "amount": 31.22666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4335",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-27T00:09:21.843Z",
+        "amount": 31.22666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "4334",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-13T00:09:21.844Z",
+        "amount": 93.68,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

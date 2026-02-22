@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T22:55:57.516Z",
+  "id": "1270",
+  "amount": 57.86,
+  "invoiceId": "00265",
+  "paidToMerchant": false,
+  "identifierNumber": 1885,
+  "billingDate": "2022-12-11T22:55:57.516Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19963609",
+      "fullName": "DULCE NAZARETH FIGUERA GARCIA",
+      "phoneNumber": "+584126057735"
+    },
+    "installments": [
+      {
+        "id": "4092",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T22:57:24.906Z",
+        "amount": 9.643333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4093",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T22:57:24.906Z",
+        "amount": 9.643333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4091",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T22:57:24.906Z",
+        "amount": 9.643333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4090",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T22:57:24.907Z",
+        "amount": 28.93,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 65,
+    "name": "PUSH & CO Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

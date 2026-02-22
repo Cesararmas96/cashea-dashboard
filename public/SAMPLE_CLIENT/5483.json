@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T00:39:51.977Z",
+  "id": "3020",
+  "amount": 81.05,
+  "invoiceId": "2172",
+  "paidToMerchant": false,
+  "identifierNumber": 5483,
+  "billingDate": "2022-12-21T00:39:51.977Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26711404",
+      "fullName": "ERICSON ALBERTO UZCATEGUI LOVERA",
+      "phoneNumber": "+584123715850"
+    },
+    "installments": [
+      {
+        "id": "9978",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T00:40:56.394Z",
+        "amount": 40.52,
+        "status": "DONE"
+      },
+      {
+        "id": "9981",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T00:40:56.392Z",
+        "amount": 13.509999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9979",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T00:40:56.392Z",
+        "amount": 13.509999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "9980",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T00:40:56.392Z",
+        "amount": 13.509999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 64,
+    "name": "Anakena CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

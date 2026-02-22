@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-27T22:55:22.489Z",
+  "id": "5301",
+  "amount": 140.89,
+  "invoiceId": "14532",
+  "paidToMerchant": false,
+  "identifierNumber": 5577,
+  "billingDate": "2022-12-27T22:55:22.489Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24279346",
+      "fullName": "BARBARA YESENIA ROMERO PERFECTO",
+      "phoneNumber": "+584126043407"
+    },
+    "installments": [
+      {
+        "id": "18206",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T22:59:12.316Z",
+        "amount": 70.44,
+        "status": "DONE"
+      },
+      {
+        "id": "18209",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T22:59:12.315Z",
+        "amount": 23.48333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18207",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T22:59:12.315Z",
+        "amount": 23.48333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "18208",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T22:59:12.315Z",
+        "amount": 23.48333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

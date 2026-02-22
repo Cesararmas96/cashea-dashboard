@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T20:23:07.950Z",
+  "id": "5527",
+  "amount": 32.35,
+  "invoiceId": "14598",
+  "paidToMerchant": false,
+  "identifierNumber": 5833,
+  "billingDate": "2022-12-28T20:23:07.950Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13125959",
+      "fullName": "JESUS MARIA GONZALEZ DIAZ",
+      "phoneNumber": "+584141246385"
+    },
+    "installments": [
+      {
+        "id": "18990",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T20:23:36.257Z",
+        "amount": 16.18,
+        "status": "DONE"
+      },
+      {
+        "id": "18993",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T20:23:36.257Z",
+        "amount": 5.390000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18991",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T20:23:36.257Z",
+        "amount": 5.390000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "18992",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T20:23:36.257Z",
+        "amount": 5.390000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

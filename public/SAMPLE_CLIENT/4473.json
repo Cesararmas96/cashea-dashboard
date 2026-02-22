@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-23T20:05:37.896Z",
+  "id": "4072",
+  "amount": 32.06,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4473,
+  "billingDate": "2022-12-23T20:05:37.896Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 39,
+    "name": "Balú Moda Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-23T20:47:29.211Z",
+  "id": "4126",
+  "amount": 119.13,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 4529,
+  "billingDate": "2022-12-23T20:47:29.211Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

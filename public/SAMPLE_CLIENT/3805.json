@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T01:52:26.453Z",
+  "id": "3382",
+  "amount": 56.56,
+  "invoiceId": "44309",
+  "paidToMerchant": false,
+  "identifierNumber": 3805,
+  "billingDate": "2022-12-22T01:52:26.453Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18036935",
+      "fullName": "CARLA CAROLINA AZUAJE DURAN",
+      "phoneNumber": "+584146451496"
+    },
+    "installments": [
+      {
+        "id": "11286",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T01:54:15.301Z",
+        "amount": 28.28,
+        "status": "DONE"
+      },
+      {
+        "id": "11289",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T01:54:15.300Z",
+        "amount": 9.426666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11288",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T01:54:15.300Z",
+        "amount": 9.426666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "11287",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T01:54:15.300Z",
+        "amount": 9.426666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T22:16:41.739Z",
+  "id": "3249",
+  "amount": 115.43,
+  "invoiceId": "12700",
+  "paidToMerchant": false,
+  "identifierNumber": 3688,
+  "billingDate": "2022-12-21T22:16:41.739Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "4420430",
+      "fullName": "ROSA ELENA LABRADOR DE RIVAS",
+      "phoneNumber": "+584143275148"
+    },
+    "installments": [
+      {
+        "id": "10790",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T22:17:29.921Z",
+        "amount": 57.72,
+        "status": "DONE"
+      },
+      {
+        "id": "10793",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T22:17:29.921Z",
+        "amount": 19.236666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "10792",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T22:17:29.921Z",
+        "amount": 19.236666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "10791",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T22:17:29.921Z",
+        "amount": 19.236666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

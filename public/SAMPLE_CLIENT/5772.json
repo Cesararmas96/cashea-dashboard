@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-02T19:42:21.658Z",
+  "id": "7202",
+  "amount": 33.48,
+  "invoiceId": "9629",
+  "paidToMerchant": false,
+  "identifierNumber": 5772,
+  "billingDate": "2023-01-02T19:42:21.658Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "31460262",
+      "fullName": "VICTORIA ALEJANDRA ESPINOZA HIDALGO",
+      "phoneNumber": "+584120233544"
+    },
+    "installments": [
+      {
+        "id": "24954",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-02T19:42:37.250Z",
+        "amount": 16.74,
+        "status": "DONE"
+      },
+      {
+        "id": "24957",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-13T19:42:37.249Z",
+        "amount": 5.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "24956",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-30T19:42:37.249Z",
+        "amount": 5.579999999999999,
+        "status": "DONE"
+      },
+      {
+        "id": "24955",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-16T19:42:37.249Z",
+        "amount": 5.579999999999999,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

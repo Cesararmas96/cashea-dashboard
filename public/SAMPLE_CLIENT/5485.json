@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T14:46:24.254Z",
+  "id": "3889",
+  "amount": 100,
+  "invoiceId": "12891",
+  "paidToMerchant": false,
+  "identifierNumber": 5485,
+  "billingDate": "2022-12-23T14:46:24.254Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "61",
+    "buyDebtDate": "2023-01-23T04:00:00.903+00:00",
+    "lastStoreId": 47,
+    "boughtForInstallmentId": "13112",
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14165878",
+      "fullName": "YELITZA MAYERLIN GUERRA MENDEZ",
+      "phoneNumber": "+584149030726"
+    },
+    "installments": [
+      {
+        "id": "13113",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T14:46:34.941Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13110",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T14:46:34.942Z",
+        "amount": 50,
+        "status": "DONE"
+      },
+      {
+        "id": "13112",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T14:46:34.941Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "13111",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T14:46:34.941Z",
+        "amount": 16.666666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

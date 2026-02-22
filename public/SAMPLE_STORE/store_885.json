@@ -1,0 +1,128 @@
+[
+  {
+    "id": 72,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J411768332",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "internalBankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "account": "01910281592100034803",
+    "accountType": "Corriente",
+    "phoneNumber": "4248070363",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J411768332",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "internalBankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "account": "01910281592100034803",
+    "accountType": "Corriente",
+    "phoneNumber": "4248070363",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J411768332",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "internalBankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "account": "01910281592100034803",
+    "accountType": "Corriente",
+    "phoneNumber": "4248070363",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J411768332",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "internalBankHolder": "ACTITUD CARACAS 2023, C.A.",
+    "account": "01910098762398231894",
+    "accountType": "Custodia ",
+    "phoneNumber": "4248070363",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Zelle",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Efectivo",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Otro",
+    "type": null,
+    "rif": null,
+    "bankName": null,
+    "bankHolder": null,
+    "internalBankHolder": null,
+    "account": null,
+    "accountType": null,
+    "phoneNumber": null,
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

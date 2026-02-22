@@ -1,0 +1,89 @@
+{
+  "createdAt": "2025-05-08T15:08:37.308Z",
+  "updatedAt": "2025-05-08T15:08:37.308Z",
+  "id": 5631,
+  "name": "Glac aliados",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "57b6b600-bfc4-4a80-9e9c-bd4d4abf02fd",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "gnbcostales@gmail.com",
+    "legalName": "Genesis",
+    "phoneNumber": "04121230331"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-08T15:18:36.988Z",
+      "updatedAt": "2025-05-08T15:18:36.988Z",
+      "id": 13803,
+      "merchantId": 5631,
+      "name": "Glac aliados Lecheria",
+      "statusId": 1,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": null,
+      "address": {
+        "name": "Edificio Zeus lechería",
+        "long": -64.66131250000001,
+        "lat": 10.18468750000001,
+        "location": "0101000020E6100000E8FBA9F1522A50C0C8F5285C8F5E2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Salud",
+  "shipmentOptionsAvailable": []
+}

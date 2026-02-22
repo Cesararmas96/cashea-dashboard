@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-15T20:23:50.635Z",
+  "id": "1571",
+  "amount": 33.17,
+  "invoiceId": "3160",
+  "paidToMerchant": false,
+  "identifierNumber": 1709,
+  "billingDate": "2022-12-15T20:23:50.635Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11469674",
+      "fullName": "RICHARD JESUS GUILLEN DUGARTE",
+      "phoneNumber": "+584142516102"
+    },
+    "installments": [
+      {
+        "id": "5078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-15T20:25:26.319Z",
+        "amount": 16.59,
+        "status": "DONE"
+      },
+      {
+        "id": "5081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-26T20:25:26.319Z",
+        "amount": 5.526666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-29T20:25:26.319Z",
+        "amount": 5.526666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "5080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-12T20:25:26.319Z",
+        "amount": 5.526666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T13:51:41.789Z",
+  "id": "4521",
+  "amount": 61.98,
+  "invoiceId": "7313",
+  "paidToMerchant": false,
+  "identifierNumber": 4880,
+  "billingDate": "2022-12-24T13:51:41.789Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15379044",
+      "fullName": "OMER ALEJANDRO ESTEVES LOPEZ",
+      "phoneNumber": "+584142988398"
+    },
+    "installments": [
+      {
+        "id": "15418",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T13:52:09.426Z",
+        "amount": 30.99,
+        "status": "DONE"
+      },
+      {
+        "id": "15421",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T13:52:09.425Z",
+        "amount": 10.33,
+        "status": "DONE"
+      },
+      {
+        "id": "15420",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T13:52:09.425Z",
+        "amount": 10.33,
+        "status": "DONE"
+      },
+      {
+        "id": "15419",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T13:52:09.425Z",
+        "amount": 10.33,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

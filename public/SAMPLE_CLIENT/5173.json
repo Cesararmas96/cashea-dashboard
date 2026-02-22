@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T21:26:25.386Z",
+  "id": "4920",
+  "amount": 57.02,
+  "invoiceId": "18595",
+  "paidToMerchant": false,
+  "identifierNumber": 5173,
+  "billingDate": "2022-12-24T21:26:25.386Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14139274",
+      "fullName": "ZUCETTE AMERICA GONZALEZ VARGAS",
+      "phoneNumber": "+584146623389"
+    },
+    "installments": [
+      {
+        "id": "16864",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T21:27:01.180Z",
+        "amount": 9.503333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16862",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T21:27:01.181Z",
+        "amount": 28.51,
+        "status": "DONE"
+      },
+      {
+        "id": "16865",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T21:27:01.180Z",
+        "amount": 9.503333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "16863",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T21:27:01.180Z",
+        "amount": 9.503333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

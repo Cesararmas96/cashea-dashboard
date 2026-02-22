@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-05-09T14:41:22.467Z",
+  "updatedAt": "2025-10-13T20:42:26.507Z",
+  "id": 5661,
+  "name": "Sueños relazzzz",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "4fa096d6-d89b-4d30-9380-91ed0413bbbc",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "relazzzz2013@gmail.com",
+    "legalName": "Irma Berrios",
+    "phoneNumber": "4141190838"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-09T14:43:00.767Z",
+      "updatedAt": "2025-05-09T14:43:00.767Z",
+      "id": 13872,
+      "merchantId": 5661,
+      "name": "Sueños relazzzz Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7738,
+      "address": {
+        "name": "Calle la joya, Edificio Esmeralda PB, local 2, Chacao, Edo. Miranda",
+        "long": -66.85718750000001,
+        "lat": 10.491437500000004,
+        "location": "0101000020E610000090C2F528DCB650C0580E2DB29DFB2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

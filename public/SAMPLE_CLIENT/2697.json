@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T16:52:00.285Z",
+  "id": "2196",
+  "amount": 227.68,
+  "invoiceId": "13542",
+  "paidToMerchant": false,
+  "identifierNumber": 2697,
+  "billingDate": "2022-12-18T16:52:00.285Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17980682",
+      "fullName": "JENNIFER ROJAS TREJO",
+      "phoneNumber": "+584125580244"
+    },
+    "installments": [
+      {
+        "id": "7178",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T16:52:19.592Z",
+        "amount": 113.84,
+        "status": "DONE"
+      },
+      {
+        "id": "7181",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T16:52:19.591Z",
+        "amount": 37.946666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "7179",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T16:52:19.591Z",
+        "amount": 37.946666666666665,
+        "status": "DONE"
+      },
+      {
+        "id": "7180",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T16:52:19.591Z",
+        "amount": 37.946666666666665,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 29,
+    "name": "Planeta Sport Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

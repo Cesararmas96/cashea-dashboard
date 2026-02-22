@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-18T01:28:58.784Z",
+  "id": "2172",
+  "amount": 151.02,
+  "invoiceId": "8503",
+  "paidToMerchant": false,
+  "identifierNumber": 2698,
+  "billingDate": "2022-12-18T01:28:58.784Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "15831342",
+      "fullName": "YEZNER EDWIN RIQUETT GONZALEZ",
+      "phoneNumber": "+584142159410"
+    },
+    "installments": [
+      {
+        "id": "7098",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-18T01:29:45.603Z",
+        "amount": 75.51,
+        "status": "DONE"
+      },
+      {
+        "id": "7099",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-01T01:29:45.603Z",
+        "amount": 25.17,
+        "status": "DONE"
+      },
+      {
+        "id": "7101",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-29T01:29:45.603Z",
+        "amount": 25.17,
+        "status": "DONE"
+      },
+      {
+        "id": "7100",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-15T01:29:45.603Z",
+        "amount": 25.17,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

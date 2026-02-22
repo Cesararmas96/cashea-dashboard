@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T23:31:48.475Z",
+  "id": "5663",
+  "amount": 53.47,
+  "invoiceId": "6256",
+  "paidToMerchant": false,
+  "identifierNumber": 5927,
+  "billingDate": "2022-12-28T23:31:48.475Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24899116",
+      "fullName": "ANDY JOSE GALLEGOS",
+      "phoneNumber": "+584242781346"
+    },
+    "installments": [
+      {
+        "id": "19490",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T23:32:14.259Z",
+        "amount": 26.73,
+        "status": "DONE"
+      },
+      {
+        "id": "19493",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T23:32:14.259Z",
+        "amount": 8.913333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19492",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T23:32:14.259Z",
+        "amount": 8.913333333333332,
+        "status": "DONE"
+      },
+      {
+        "id": "19491",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T23:32:14.259Z",
+        "amount": 8.913333333333332,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

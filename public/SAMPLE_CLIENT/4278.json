@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T02:03:24.369Z",
+  "id": "3853",
+  "amount": 175,
+  "invoiceId": "2993",
+  "paidToMerchant": false,
+  "identifierNumber": 4278,
+  "billingDate": "2022-12-23T02:03:24.369Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19826544",
+      "fullName": "HUGO ANTONIO NAVAS PAREDES",
+      "phoneNumber": "+584141576881"
+    },
+    "installments": [
+      {
+        "id": "12974",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T02:03:53.613Z",
+        "amount": 87.5,
+        "status": "DONE"
+      },
+      {
+        "id": "12977",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T02:03:53.612Z",
+        "amount": 29.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12976",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T02:03:53.612Z",
+        "amount": 29.166666666666668,
+        "status": "DONE"
+      },
+      {
+        "id": "12975",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T02:03:53.612Z",
+        "amount": 29.166666666666668,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-15T23:04:14.086Z",
+  "id": "1618",
+  "amount": 51.5,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2212,
+  "billingDate": "2022-12-15T23:04:14.086Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 36,
+    "name": "ProPlayer Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

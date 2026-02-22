@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-05-09T14:55:00.651Z",
+  "updatedAt": "2025-08-15T13:30:56.960Z",
+  "id": 5665,
+  "name": "Variedades Megatodo",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "07a31410-5ef0-47d0-9b47-9a9a55be4c53",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "variedadesmegatodo@gmail.com",
+    "legalName": "Jorkims javier Jaimes rojas",
+    "phoneNumber": "4243371727"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-14T23:04:07.084Z",
+      "updatedAt": "2025-05-14T23:04:07.084Z",
+      "id": 14141,
+      "merchantId": 5665,
+      "name": "VR_Variedades Megatodo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8115,
+      "address": {
+        "name": "AVENIDA CARABOBO SECTOR CASA DE ZINC LOCAL VARIEDADES MEGATOD SAN FERNANDO ESTADO APURE",
+        "long": -67.47906250000001,
+        "lat": 7.887187499999996,
+        "location": "0101000020E61000005D8FC2F5A8DE50C010AE47E17A8C1F40",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-09T14:57:32.872Z",
+      "updatedAt": "2025-05-09T14:57:32.872Z",
+      "id": 13874,
+      "merchantId": 5665,
+      "name": "Variedades Megatodo San Fernando de Apure",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 8115,
+      "address": {
+        "name": "AVENIDA CARABOBO SECTOR CASA DE ZINC LOCAL VARIEDADES MEGATOD SAN FERNANDO ESTADO APURE",
+        "long": -67.47906250000001,
+        "lat": 7.887187499999996,
+        "location": "0101000020E61000005D8FC2F5A8DE50C010AE47E17A8C1F40",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

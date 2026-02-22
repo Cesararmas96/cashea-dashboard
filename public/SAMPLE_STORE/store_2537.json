@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1142,
+    "name": "Pago Móvil",
+    "type": "MOBILE",
+    "rif": "J501564035",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "internalBankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "account": "01910001432101226639",
+    "accountType": "Corriente",
+    "phoneNumber": "4149072080",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1140,
+    "name": "Transferencia",
+    "type": "TRANSFER",
+    "rif": "J501564035",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "internalBankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "account": "01910001432101226639",
+    "accountType": "Corriente",
+    "phoneNumber": "4149072080",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1141,
+    "name": "Depósito",
+    "type": "DEPOSIT",
+    "rif": "J501564035",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "internalBankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "account": "01910001432101226639",
+    "accountType": "Corriente",
+    "phoneNumber": "4149072080",
+    "currencyId": 1,
+    "fees": [],
+    "currency": {
+      "id": 1,
+      "name": "VES"
+    }
+  },
+  {
+    "id": 1143,
+    "name": "Depósito USD",
+    "type": "DEPOSIT",
+    "rif": "J501564035",
+    "bankName": "Banco Nacional de Crédito",
+    "bankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "internalBankHolder": "GREEN VIAJES CONEXIONES, C.A.",
+    "account": "01910001402301089814",
+    "accountType": "Custodia",
+    "phoneNumber": "4149072080",
+    "currencyId": 2,
+    "fees": [],
+    "currency": {
+      "id": 2,
+      "name": "USD"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-16T20:36:20.785Z",
+  "id": "1752",
+  "amount": 38.06,
+  "invoiceId": "49852",
+  "paidToMerchant": false,
+  "identifierNumber": 2340,
+  "billingDate": "2022-12-16T20:36:20.785Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "30967267",
+      "fullName": "SONIA EVELIGRET ROMERO PEREZ",
+      "phoneNumber": "+584123696772"
+    },
+    "installments": [
+      {
+        "id": "5661",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-27T20:42:22.485Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5658",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-16T20:42:22.486Z",
+        "amount": 19.03,
+        "status": "DONE"
+      },
+      {
+        "id": "5659",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-30T20:42:22.485Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "5660",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-13T20:42:22.485Z",
+        "amount": 6.343333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 66,
+    "name": "Balú Moda El Recreo"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

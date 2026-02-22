@@ -1,0 +1,67 @@
+{
+  "createdAt": "2022-12-27T06:40:11.934Z",
+  "id": "5181",
+  "amount": 290,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5501,
+  "billingDate": "2022-12-27T06:40:11.934Z",
+  "deliveryType": null,
+  "channel": "IN_APP",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20825474",
+      "fullName": "DEYBERG KARIM CARRERO REYES",
+      "phoneNumber": "+584125828772"
+    },
+    "installments": [
+      {
+        "id": "17757",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-07T06:40:11.979Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17754",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-27T06:40:11.980Z",
+        "amount": 190,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17756",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-24T06:40:11.979Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "17755",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-10T06:40:11.979Z",
+        "amount": 33.333333333333336,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [
+    {
+      "quantity": 1,
+      "productId": 172,
+      "name": null,
+      "price": null,
+      "priceAfterDiscount": null
+    }
+  ],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

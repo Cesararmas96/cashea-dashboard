@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T18:23:34.491Z",
+  "id": "4728",
+  "amount": 111.79,
+  "invoiceId": "18556",
+  "paidToMerchant": false,
+  "identifierNumber": 4287,
+  "billingDate": "2022-12-24T18:23:34.491Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "22547020",
+      "fullName": "GISVELY ROIMAR GUZMAN CARRASQUEL",
+      "phoneNumber": "+584127490932"
+    },
+    "installments": [
+      {
+        "id": "16186",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T18:23:47.992Z",
+        "amount": 55.9,
+        "status": "DONE"
+      },
+      {
+        "id": "16189",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T18:23:47.991Z",
+        "amount": 18.630000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16188",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T18:23:47.991Z",
+        "amount": 18.630000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "16187",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T18:23:47.991Z",
+        "amount": 18.630000000000003,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

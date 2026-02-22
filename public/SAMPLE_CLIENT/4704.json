@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T23:38:32.400Z",
+  "id": "4349",
+  "amount": 78.96,
+  "invoiceId": "14679",
+  "paidToMerchant": false,
+  "identifierNumber": 4704,
+  "billingDate": "2022-12-23T23:38:32.400Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "14445848",
+      "fullName": "JESUS RAFAEL DOMINGUEZ GUERRERO",
+      "phoneNumber": "+584248376104"
+    },
+    "installments": [
+      {
+        "id": "14766",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T23:40:06.440Z",
+        "amount": 39.48,
+        "status": "DONE"
+      },
+      {
+        "id": "14767",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T23:40:06.440Z",
+        "amount": 13.159999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "14769",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T23:40:06.440Z",
+        "amount": 13.159999999999998,
+        "status": "DONE"
+      },
+      {
+        "id": "14768",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T23:40:06.440Z",
+        "amount": 13.159999999999998,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

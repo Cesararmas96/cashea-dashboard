@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T23:43:36.277Z",
+  "id": "888",
+  "amount": 75,
+  "invoiceId": "8730",
+  "paidToMerchant": false,
+  "identifierNumber": 1883,
+  "billingDate": "2022-12-07T23:43:36.277Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "20155051",
+      "fullName": "MARLA CAROLINA FARINAS PEREZ",
+      "phoneNumber": "+584123626689"
+    },
+    "installments": [
+      {
+        "id": "2820",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T23:43:46.081Z",
+        "amount": 12.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2821",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T23:43:46.081Z",
+        "amount": 12.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2819",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T23:43:46.081Z",
+        "amount": 12.5,
+        "status": "DONE"
+      },
+      {
+        "id": "2818",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T23:43:46.083Z",
+        "amount": 37.5,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

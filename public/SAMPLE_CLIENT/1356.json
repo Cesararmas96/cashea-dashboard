@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-03T21:56:01.812Z",
+  "id": "626",
+  "amount": 39.15,
+  "invoiceId": "3915",
+  "paidToMerchant": false,
+  "identifierNumber": 1356,
+  "billingDate": "2022-12-03T21:56:01.812Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-15T04:00:00.557+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": 1996,
+    "boughtForInstallmentNumber": 2
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26682631",
+      "fullName": "DARIANA YANARITH CARAMAUTA CASTILLO",
+      "phoneNumber": "+584127188365"
+    },
+    "installments": [
+      {
+        "id": "1994",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-03T21:58:57.872Z",
+        "amount": 19.57,
+        "status": "DONE"
+      },
+      {
+        "id": "1995",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-17T21:58:57.871Z",
+        "amount": 6.526666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1996",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-12-31T21:58:57.871Z",
+        "amount": 6.526666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "1997",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-14T21:58:57.871Z",
+        "amount": 6.526666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

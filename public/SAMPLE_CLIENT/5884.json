@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:51:07.375Z",
+  "id": "5624",
+  "amount": 60.18,
+  "invoiceId": "9317",
+  "paidToMerchant": false,
+  "identifierNumber": 5884,
+  "billingDate": "2022-12-28T22:51:07.375Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18365641",
+      "fullName": "YASMIN ISMERAY QUINTERO AVILA",
+      "phoneNumber": "+584142381321"
+    },
+    "installments": [
+      {
+        "id": "19342",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:51:28.134Z",
+        "amount": 30.09,
+        "status": "DONE"
+      },
+      {
+        "id": "19345",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:51:28.134Z",
+        "amount": 10.03,
+        "status": "DONE"
+      },
+      {
+        "id": "19344",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:51:28.134Z",
+        "amount": 10.03,
+        "status": "DONE"
+      },
+      {
+        "id": "19343",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:51:28.134Z",
+        "amount": 10.03,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

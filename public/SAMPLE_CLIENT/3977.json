@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T21:38:16.389Z",
+  "id": "3592",
+  "amount": 55,
+  "invoiceId": "000234",
+  "paidToMerchant": false,
+  "identifierNumber": 3977,
+  "billingDate": "2022-12-22T21:38:16.389Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25237603",
+      "fullName": "GIANCARLO BRAVO FALABELLA",
+      "phoneNumber": "+584120990850"
+    },
+    "installments": [
+      {
+        "id": "12025",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T21:38:35.511Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12022",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T21:38:35.511Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "12024",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T21:38:35.511Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "12023",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T21:38:35.511Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 68,
+    "name": "ProPlayer Sambil - Nivel Libertador"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

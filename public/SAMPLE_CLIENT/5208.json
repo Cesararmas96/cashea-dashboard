@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-29T20:06:27.098Z",
+  "id": "5915",
+  "amount": 63.57,
+  "invoiceId": "4325",
+  "paidToMerchant": false,
+  "identifierNumber": 5208,
+  "billingDate": "2022-12-29T20:06:27.098Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "77",
+    "buyDebtDate": "2023-01-15T04:00:00.947+00:00",
+    "lastStoreId": 64,
+    "boughtForInstallmentId": "20395",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "11488928",
+      "fullName": "TERESA MAIGUALIDA MUÑOZ DE BRICEÑO",
+      "phoneNumber": "+584242589236"
+    },
+    "installments": [
+      {
+        "id": "20396",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T20:06:40.849Z",
+        "amount": 10.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20397",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T20:06:40.849Z",
+        "amount": 10.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20395",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T20:06:40.849Z",
+        "amount": 10.593333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "20394",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T20:06:40.849Z",
+        "amount": 31.79,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

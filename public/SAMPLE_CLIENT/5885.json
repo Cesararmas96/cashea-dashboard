@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-28T22:00:17.094Z",
+  "id": "5585",
+  "amount": 65,
+  "invoiceId": "9583",
+  "paidToMerchant": false,
+  "identifierNumber": 5885,
+  "billingDate": "2022-12-28T22:00:17.094Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27767052",
+      "fullName": "MICHELLE PAOLA FLORES PEREZ",
+      "phoneNumber": "+584128323014"
+    },
+    "installments": [
+      {
+        "id": "19198",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-28T22:01:04.579Z",
+        "amount": 32.5,
+        "status": "DONE"
+      },
+      {
+        "id": "19201",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-08T22:01:04.579Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19199",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-11T22:01:04.579Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "19200",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-25T22:01:04.579Z",
+        "amount": 10.833333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 38,
+    "name": "Aldo Accesorios Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,148 @@
+{
+  "createdAt": "2025-03-26T21:00:41.644Z",
+  "updatedAt": "2025-03-28T18:02:05.866Z",
+  "id": 4869,
+  "name": "Distribuidora Fast Color",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 596,
+  "tags": [],
+  "uuid": "ebb760e2-2dda-46ac-a253-8fb64e174fa6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "carkmarquez@gmail.com",
+    "legalName": "Carlos",
+    "phoneNumber": "04241446678"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-28T21:08:42.708Z",
+      "updatedAt": "2025-04-28T21:08:42.708Z",
+      "id": 13385,
+      "merchantId": 4869,
+      "name": "VR_Distribuidora Fast Color",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4690,
+      "address": {
+        "name": "PB del el EDF. JELEJU, Parroquia el recreo, plaza las delicias, municipio Libertador del distrito Capital",
+        "long": -66.88418750000001,
+        "lat": 10.496687500000007,
+        "location": "0101000020E61000000D022B8796B850C000AAF1D24DFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-26T21:03:34.214Z",
+      "updatedAt": "2025-03-26T21:03:34.214Z",
+      "id": 12258,
+      "merchantId": 4869,
+      "name": "Distribuidora Fast Color El Recreo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 596,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4690,
+      "address": {
+        "name": "PB del el EDF. JELEJU, Parroquia el recreo, plaza las delicias, municipio Libertador del distrito Capital",
+        "long": -66.88418750000001,
+        "lat": 10.496687500000007,
+        "location": "0101000020E61000000D022B8796B850C000AAF1D24DFE2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-03-27T13:38:41.729Z",
+      "updatedAt": "2025-03-27T13:38:41.729Z",
+      "id": 12264,
+      "merchantId": 4869,
+      "name": "Distribuidora Fast Color  Chacao",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 596,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4690,
+      "address": {
+        "name": "Calle paez EDF vistula piso PB local F Urb. Chacao Caracas miranda",
+        "long": -66.8569375,
+        "lat": 10.494937500000006,
+        "location": "0101000020E6100000D34D6210D8B650C0C820B07268FD2440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

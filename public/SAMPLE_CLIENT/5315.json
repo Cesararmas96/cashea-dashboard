@@ -1,0 +1,59 @@
+{
+  "createdAt": "2023-01-30T17:00:19.030Z",
+  "id": "11489",
+  "amount": 32.41,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 5315,
+  "billingDate": "2023-01-30T17:00:19.030Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27314275",
+      "fullName": "MIHAEL ALEXANDER PORTUGAL DURAN",
+      "phoneNumber": "+584128094628"
+    },
+    "installments": [
+      {
+        "id": "35202",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2023-01-30T17:03:32.284Z",
+        "amount": 16.2,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35204",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-02-27T17:03:32.284Z",
+        "amount": 5.403333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35205",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-03-13T17:03:32.284Z",
+        "amount": 5.403333333333332,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "35203",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-02-13T17:03:32.284Z",
+        "amount": 5.403333333333332,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 67,
+    "name": "Planeta Sports CCCT"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

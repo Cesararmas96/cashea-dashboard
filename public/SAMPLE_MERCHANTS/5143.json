@@ -1,0 +1,134 @@
+{
+  "createdAt": "2025-04-09T15:42:49.373Z",
+  "updatedAt": "2025-12-18T13:43:22.361Z",
+  "id": 5143,
+  "name": "Corporación Les Eleves",
+  "ecommerceUrl": null,
+  "changePolicy": "Política de devoluciones:\n\nNo hacemos devoluciones, la garantía aplica solo para cambio del mismo artículo u otro artículo del mismo monto o superior. Para los perfumes y artículos de cuidado personal no se aceptan cambios una vez que  el envoltorio de seguridad del producto (plástico o celofán) haya sido abierto. La empresa sólo gestiona cambios o  luego de validar según el resultado de una revisión presencial, que el producto presentó algún defecto de fabricación o que le fué despachado el producto equivocado. \n\nNo se contemplan cambios bajo las siguientes premisas (sin excepción):\nEl cliente no leyó con detenimiento la descripción del producto\nEl cliente asumió que alguna referencia era original o no consultó con la empresa previamente antes de realizar la compra\nEl empaque fué devuelto a la tienda sin el envoltorio plástico de protección, con el empaque deteriorado y mucho menos sin el empaque de origen.\nSi el cliente solicita un cambio por garantía no justificado deberá correr con los gastos de envío (ida y vuelta). \n\nIMPORTANTE: LA TIENDA NO SE HACE RESPONSABLE DEL MANEJO , NI DEL TIEMPO DE ENTREGA, QUE PUEDAN IMPLEMENTAR LAS AGENCIAS DE ENCOMIENDAS, YA QUE ESCAPA DE NUESTRO ALCANCE Y RESPONSABILIDAD, POR LO CUAL SIEMPRE RECOMENDAMOS CONSULTAR O ADQUIRIR EL EMPAQUE ADICIONAL REFORZADO QUE OFRECEMOS ADICIONALMENTE, SOBRE TODO EN EL CASO DE LOS PERFUMES Y ELECTRÓNICOS.\n\nIndormación sobre envíos: \nAntes de solicitar el estatus de su envío le recordamos que una vez confirmada su compra en la próximas 48 horas hábiles se le estará enviando la foto con la guía definitiva, en esta guía aparece un número de tracking el cual podrá ingresar a la página web de MRW e ir rastreando su encomienda. Aclaramos que los tiempor de entrega no dependen ya de la tienda sino de la logística interna de la agencia MRW, si su pedido fue gestionado bajo la modalidad de “Cashea Envíos Gratis”, eltiempo total para la entrega es de 3 a 5 días hábiles.\n\nLa tienda como tal, no ofrece envíos ni deliverys gratuitos, sólo a través de la plataforma de Cashea el cliente podrá gestionar su solicitud y emisión de la guía que lo exonera del cobro en destino, si el cliente elige la opción “Servicio de Entrega de Corporación Les Eleves” ó “Retiro en tienda” debe asumir el costo del delivery particular o en su defecto gestionar el retiro por su cuenta.",
+  "email": "franktorrealba@hotmail.com",
+  "phoneNumber": "+584122779999",
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.2,
+  "channels": [
+    "IN_STORE",
+    "IN_APP"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0f2cceda-2717-4d72-aaa5-030c96c13092",
+  "shipmentPolicy": "",
+  "order": null,
+  "workingHours": {
+    "from": "11:00",
+    "to": "13:00"
+  },
+  "contact": {
+    "email": "franktorrealba@hotmail.com",
+    "legalName": "Frank Torrealba",
+    "phoneNumber": "+584122779999"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-09T15:44:27.598Z",
+      "updatedAt": "2025-09-14T20:40:24.956Z",
+      "id": 12750,
+      "merchantId": 5143,
+      "name": "Corporación Les Eleves Marketplace",
+      "statusId": 2,
+      "featured": true,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "DELIVERY"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4454,
+      "address": {
+        "name": "Municipio El Hatillo, Av ppal. De  La Boyera,  C.C. La Boyera,  Nivel PB, almacen SN (al lado de la panadería).Urb. La Boyera. Edo. Miranda Caracas. ",
+        "long": -66.8374375,
+        "lat": 10.426937500000008,
+        "location": "0101000020E61000006ABC749398B550C040DF4F8D97DA2440",
+        "shipmentsEnabled": true
+      }
+    },
+    {
+      "createdAt": "2025-04-30T21:48:33.181Z",
+      "updatedAt": "2025-04-30T21:48:33.181Z",
+      "id": 13493,
+      "merchantId": 5143,
+      "name": "VR_Corporación Les Eleves",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4454,
+      "address": {
+        "name": "Municipio El Hatillo, Av ppal. De  La Boyera,  C.C. La Boyera,  Nivel PB, almacen SN (al lado de la panadería).Urb. La Boyera. Edo. Miranda Caracas. ",
+        "long": -66.8374375,
+        "lat": 10.426937500000008,
+        "location": "0101000020E61000006ABC749398B550C040DF4F8D97DA2440",
+        "shipmentsEnabled": true
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": [
+    {
+      "id": 1,
+      "channel": "CASHEA_ENVIOS",
+      "type": "PICK_UP",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    },
+    {
+      "id": 4,
+      "channel": "CASHEA_ENVIOS",
+      "type": "LAST_MILE",
+      "paidByMerchant": false,
+      "maxFreeShippingWeight": 10
+    }
+  ]
+}

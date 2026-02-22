@@ -1,0 +1,119 @@
+{
+  "createdAt": "2025-04-06T23:50:32.324Z",
+  "updatedAt": "2025-04-06T23:50:32.324Z",
+  "id": 5084,
+  "name": "Comercial Kideh 24",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": null,
+  "enabled": false,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "0a731d92-8d17-4cac-8597-4db4f40cb2e3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "comercialkideh24@gmail.com",
+    "legalName": "Wuasin Kideh",
+    "phoneNumber": "04120564723"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-01-29T16:14:47.907Z",
+      "updatedAt": "2025-01-29T16:14:47.907Z",
+      "id": 10202,
+      "merchantId": 5084,
+      "name": "Comercial Kideh 24 Carrera 22 Entre Calles 37 Y 38 Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE",
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 7310,
+      "minimumDownPayment": 0.2,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4326,
+      "address": {
+        "name": "Comercial Kideh 24 Carrera 22 Entre Calles 37 Y 38 Barquisimeto ",
+        "long": -69.3283125,
+        "lat": 10.068062499999996,
+        "location": "0101000020E61000008D976E12035551C0002B8716D9222440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-19T23:13:46.770Z",
+      "updatedAt": "2025-04-19T23:13:46.770Z",
+      "id": 13089,
+      "merchantId": 5084,
+      "name": "VR_Comercial Kideh Barquisimeto",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 7310,
+      "minimumDownPayment": 0.2,
+      "minimumFinanceableAmount": 10,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 4326,
+      "address": {
+        "name": "VR_Comercial Kideh Barquisimeto",
+        "long": -69.3283125,
+        "lat": 10.0679375,
+        "location": "0101000020E61000008D976E12035551C0105839B4C8222440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Hogar",
+  "shipmentOptionsAvailable": []
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-07T14:05:52.975Z",
+  "updatedAt": "2025-05-09T16:04:22.166Z",
+  "id": 5584,
+  "name": "Repuestos y Accesorios San Roman",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "16e9c424-7a91-403a-91ba-9276583a88c6",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "Sanromanvlp@gmail.com",
+    "legalName": "JULIO ROMAN",
+    "phoneNumber": "04243414623"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-07T14:07:43.591Z",
+      "updatedAt": "2025-05-07T14:07:43.591Z",
+      "id": 13708,
+      "merchantId": 5584,
+      "name": "Repuestos y Accesorios San Roman Vldp",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7477,
+      "address": {
+        "name": "Repuestos y Accesorios San Roman Vldp.",
+        "long": -66.00831249999999,
+        "lat": 9.2163125,
+        "location": "0101000020E610000078E92631888050C0986E1283C06E2240",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-22T21:06:22.327Z",
+      "updatedAt": "2025-05-22T21:06:22.327Z",
+      "id": 14566,
+      "merchantId": 5584,
+      "name": "VR_Repuestos y Accesorios San Roman",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 7477,
+      "address": {
+        "name": "Repuestos y Accesorios San Roman Vldp.",
+        "long": -66.00831249999999,
+        "lat": 9.2163125,
+        "location": "0101000020E610000078E92631888050C0986E1283C06E2240",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

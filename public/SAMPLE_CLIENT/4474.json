@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T20:24:33.155Z",
+  "id": "4092",
+  "amount": 37.23,
+  "invoiceId": "12946",
+  "paidToMerchant": false,
+  "identifierNumber": 4474,
+  "billingDate": "2022-12-23T20:24:33.155Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "25764808",
+      "fullName": "KERLLY KARINA HERNANDEZ HERRERA",
+      "phoneNumber": "+584141237437"
+    },
+    "installments": [
+      {
+        "id": "13822",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T20:24:51.291Z",
+        "amount": 18.61,
+        "status": "DONE"
+      },
+      {
+        "id": "13823",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T20:24:51.290Z",
+        "amount": 6.206666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13825",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T20:24:51.290Z",
+        "amount": 6.206666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "13824",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T20:24:51.290Z",
+        "amount": 6.206666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-20T18:06:35.460Z",
+  "id": "126",
+  "amount": 49,
+  "invoiceId": "1255",
+  "paidToMerchant": false,
+  "identifierNumber": 1220,
+  "billingDate": "2022-10-20T18:06:35.460Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "17423866",
+      "fullName": "BETTY CAROLINA DE PONTE DA SILVA",
+      "phoneNumber": "+584123070907"
+    },
+    "installments": [
+      {
+        "id": "401",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-20T18:07:01.201Z",
+        "amount": 24.5,
+        "status": "DONE"
+      },
+      {
+        "id": "404",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-01T18:07:01.200Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "402",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-03T18:07:01.200Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "403",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-17T18:07:01.200Z",
+        "amount": 8.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 1,
+    "name": "Depofit Boleita Center"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

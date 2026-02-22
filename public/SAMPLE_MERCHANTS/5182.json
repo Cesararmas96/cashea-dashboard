@@ -1,0 +1,329 @@
+{
+  "createdAt": "2025-04-11T14:02:30.687Z",
+  "updatedAt": "2025-04-16T15:51:50.950Z",
+  "id": 5182,
+  "name": "Farma Central",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "DAILY",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "759aa6da-f6ff-41ce-97cb-1a3a6fcc6284",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "cabricesj33@gmail.com",
+    "legalName": "Jesus cabrices",
+    "phoneNumber": "04124408393"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-14T18:46:40.471Z",
+      "updatedAt": "2025-04-14T18:46:40.471Z",
+      "id": 12968,
+      "merchantId": 5182,
+      "name": "Farma Central Fama",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farmacia Central Fama.",
+        "long": -68.0165625,
+        "lat": 10.170437500000006,
+        "location": "0101000020E6100000C3F5285C0F0151C02806819543572440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T19:00:41.625Z",
+      "updatedAt": "2025-04-14T19:00:41.625Z",
+      "id": 12971,
+      "merchantId": 5182,
+      "name": "Farma Central Santa Maria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farmacia Santa Maria.",
+        "long": -68.0180625,
+        "lat": 10.131937499999992,
+        "location": "0101000020E61000002DB29DEF270151C0603BDF4F8D432440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T17:26:17.359Z",
+      "updatedAt": "2025-04-14T17:26:17.359Z",
+      "id": 12957,
+      "merchantId": 5182,
+      "name": "Farma Central Plaza",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farma Central Plaza.",
+        "long": -67.9985625,
+        "lat": 10.147562499999992,
+        "location": "0101000020E6100000C520B072E8FF50C0603BDF4F8D4B2440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T20:59:59.998Z",
+      "updatedAt": "2025-04-14T20:59:59.998Z",
+      "id": 12974,
+      "merchantId": 5182,
+      "name": "VR_Farma Central Fama",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "REMOTE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farmacia Central Fama.",
+        "long": -68.0165625,
+        "lat": 10.170437500000006,
+        "location": "0101000020E6100000C3F5285C0F0151C02806819543572440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T18:18:29.661Z",
+      "updatedAt": "2025-04-14T18:18:29.661Z",
+      "id": 12963,
+      "merchantId": 5182,
+      "name": "Farma Central Sur",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farma Central Sur.",
+        "long": -68.0145625,
+        "lat": 10.140562500000001,
+        "location": "0101000020E6100000DF4F8D97EE0051C08816D9CEF7472440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T18:25:29.120Z",
+      "updatedAt": "2025-04-14T18:25:29.120Z",
+      "id": 12964,
+      "merchantId": 5182,
+      "name": "Farma Central Super Feria",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farma Central Super Feria.",
+        "long": -68.00031249999999,
+        "lat": 10.158312499999994,
+        "location": "0101000020E6100000EB51B81E050051C0901804560E512440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T18:35:16.908Z",
+      "updatedAt": "2025-04-14T18:35:16.908Z",
+      "id": 12967,
+      "merchantId": 5182,
+      "name": "Farma Central La Cruz De Mayo",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farmacia La Cruz De Mayo.",
+        "long": -68.0165625,
+        "lat": 10.170437500000006,
+        "location": "0101000020E6100000C3F5285C0F0151C02806819543572440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-11T14:37:19.373Z",
+      "updatedAt": "2025-04-11T14:37:19.373Z",
+      "id": 12845,
+      "merchantId": 5182,
+      "name": "Farma Central Aranzazu",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farma Central Aranzazu.",
+        "long": -68.01106250000001,
+        "lat": 10.167312500000008,
+        "location": "0101000020E610000092ED7C3FB50051C0906CE7FBA9552440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-04-14T19:20:09.584Z",
+      "updatedAt": "2025-04-14T19:20:09.584Z",
+      "id": 12973,
+      "merchantId": 5182,
+      "name": "Farma Central Naguanagua",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "DAILY",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 5021,
+      "address": {
+        "name": "Farma Central Naguanagua.",
+        "long": -68.0151875,
+        "lat": 10.257562499999992,
+        "location": "0101000020E6100000B6F3FDD4F80051C0185A643BDF832440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 2,
+      "name": "DEFAULT_DAILY",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 2,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "financedAmountMultiplier": 1,
+        "installmentsInterestRate": 0
+      },
+      "type": "DAILY",
+      "isPublic": true,
+      "description": "Línea cotidiana (1 cuota)"
+    }
+  ],
+  "category": "Farmacias",
+  "shipmentOptionsAvailable": []
+}

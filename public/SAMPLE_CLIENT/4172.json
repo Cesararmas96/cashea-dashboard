@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-23T00:11:31.539Z",
+  "id": "3761",
+  "amount": 43.99,
+  "invoiceId": "8962",
+  "paidToMerchant": false,
+  "identifierNumber": 4172,
+  "billingDate": "2022-12-23T00:11:31.539Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24999295",
+      "fullName": "RAQUEL ORIANIS TARAZONA RENGIFO",
+      "phoneNumber": "+584166396903"
+    },
+    "installments": [
+      {
+        "id": "12630",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T00:12:29.089Z",
+        "amount": 22,
+        "status": "DONE"
+      },
+      {
+        "id": "12631",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T00:12:29.088Z",
+        "amount": 7.330000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "12633",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T00:12:29.088Z",
+        "amount": 7.330000000000001,
+        "status": "DONE"
+      },
+      {
+        "id": "12632",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T00:12:29.088Z",
+        "amount": 7.330000000000001,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 33,
+    "name": "Anakena Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

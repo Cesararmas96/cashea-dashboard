@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-10-29T00:46:08.952Z",
+  "id": "208",
+  "amount": 133,
+  "invoiceId": "6395",
+  "paidToMerchant": false,
+  "identifierNumber": 1239,
+  "billingDate": "2022-10-29T00:46:08.952Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "18355474",
+      "fullName": "BREINER JOSUE MARTINEZ GOMEZ",
+      "phoneNumber": "+584147213595"
+    },
+    "installments": [
+      {
+        "id": "633",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-10-29T00:46:24.331Z",
+        "amount": 66.5,
+        "status": "DONE"
+      },
+      {
+        "id": "636",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2022-12-10T00:46:24.330Z",
+        "amount": 22.1666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "634",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-11-12T00:46:24.330Z",
+        "amount": 22.1666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "635",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2022-11-26T00:46:24.330Z",
+        "amount": 22.1666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 2,
+    "name": "Depofit CC Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

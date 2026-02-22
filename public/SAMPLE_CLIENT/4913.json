@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-24T14:26:05.374Z",
+  "id": "4529",
+  "amount": 53.38,
+  "invoiceId": "14222",
+  "paidToMerchant": false,
+  "identifierNumber": 4913,
+  "billingDate": "2022-12-24T14:26:05.374Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23198468",
+      "fullName": "ORLENYS DEL CARMEN ROBLES",
+      "phoneNumber": "+584242923989"
+    },
+    "installments": [
+      {
+        "id": "15450",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-24T14:29:04.532Z",
+        "amount": 26.69,
+        "status": "DONE"
+      },
+      {
+        "id": "15453",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-04T14:29:04.531Z",
+        "amount": 8.896666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15452",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-21T14:29:04.531Z",
+        "amount": 8.896666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "15451",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-07T14:29:04.531Z",
+        "amount": 8.896666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 54,
+    "name": "Balú Moda CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-11T19:41:32.386Z",
+  "id": "1205",
+  "amount": 38,
+  "invoiceId": "10440",
+  "paidToMerchant": false,
+  "identifierNumber": 1846,
+  "billingDate": "2022-12-11T19:41:32.386Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24758974",
+      "fullName": "DAVID OBADIS TORRECILLA ARCE",
+      "phoneNumber": "+584123632371"
+    },
+    "installments": [
+      {
+        "id": "3850",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-11T19:45:04.193Z",
+        "amount": 19,
+        "status": "DONE"
+      },
+      {
+        "id": "3851",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-25T19:45:04.192Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3853",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-22T19:45:04.192Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "3852",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-08T19:45:04.192Z",
+        "amount": 6.333333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 8,
+    "name": "Xiaomi Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

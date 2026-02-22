@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T19:58:06.729Z",
+  "id": "3161",
+  "amount": 38.25,
+  "invoiceId": "48900",
+  "paidToMerchant": false,
+  "identifierNumber": 3590,
+  "billingDate": "2022-12-21T19:58:06.729Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "19371474",
+      "fullName": "ANTHONY LEONARDO MENDOZA SAIRIAS",
+      "phoneNumber": "+584166057944"
+    },
+    "installments": [
+      {
+        "id": "10461",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T19:58:22.102Z",
+        "amount": 6.373333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10458",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T19:58:22.102Z",
+        "amount": 19.13,
+        "status": "DONE"
+      },
+      {
+        "id": "10460",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T19:58:22.102Z",
+        "amount": 6.373333333333334,
+        "status": "DONE"
+      },
+      {
+        "id": "10459",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T19:58:22.102Z",
+        "amount": 6.373333333333334,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 45,
+    "name": "Planeta Sports Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

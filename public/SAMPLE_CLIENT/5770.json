@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-29T17:51:52.059Z",
+  "id": "5823",
+  "amount": 30,
+  "invoiceId": "0000",
+  "paidToMerchant": false,
+  "identifierNumber": 5770,
+  "billingDate": "2022-12-29T17:51:52.059Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "28434725",
+      "fullName": "LUIS MANUEL HERNANDEZ CARRANZA",
+      "phoneNumber": "+584241306897"
+    },
+    "installments": [
+      {
+        "id": "20081",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-09T17:52:05.941Z",
+        "amount": 5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20079",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-12T17:52:05.941Z",
+        "amount": 5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20080",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-26T17:52:05.941Z",
+        "amount": 5,
+        "status": "CANCELLED"
+      },
+      {
+        "id": "20078",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-29T17:52:05.942Z",
+        "amount": 15,
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "store": {
+    "id": 32,
+    "name": "Timberland Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

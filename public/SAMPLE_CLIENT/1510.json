@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-07T23:09:07.351Z",
+  "id": "884",
+  "amount": 45.5,
+  "invoiceId": "00000691",
+  "paidToMerchant": false,
+  "identifierNumber": 1510,
+  "billingDate": "2022-12-07T23:09:07.351Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "26925193",
+      "fullName": "ANTHONY RAUL FARFAN BASTIDAS",
+      "phoneNumber": "+584124732247"
+    },
+    "installments": [
+      {
+        "id": "2808",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-04T23:09:25.856Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2806",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-07T23:09:25.856Z",
+        "amount": 22.75,
+        "status": "DONE"
+      },
+      {
+        "id": "2809",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-18T23:09:25.856Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "2807",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-21T23:09:25.856Z",
+        "amount": 7.583333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 26,
+    "name": "Springfield Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-12T18:06:03.050Z",
+  "id": "1310",
+  "amount": 30.5,
+  "invoiceId": "11828",
+  "paidToMerchant": false,
+  "identifierNumber": 1926,
+  "billingDate": "2022-12-12T18:06:03.050Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "23617186",
+      "fullName": "SINDY MAYERLYN SEGOVIA ISTURIZ",
+      "phoneNumber": "+584241618914"
+    },
+    "installments": [
+      {
+        "id": "4227",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-26T18:07:14.169Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4226",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-12T18:07:14.169Z",
+        "amount": 15.25,
+        "status": "DONE"
+      },
+      {
+        "id": "4229",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-23T18:07:14.169Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "4228",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-09T18:07:14.169Z",
+        "amount": 5.083333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

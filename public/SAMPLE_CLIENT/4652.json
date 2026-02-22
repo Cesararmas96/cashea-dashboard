@@ -1,0 +1,65 @@
+{
+  "createdAt": "2022-12-23T22:53:42.490Z",
+  "id": "4286",
+  "amount": 194.37,
+  "invoiceId": "13806",
+  "paidToMerchant": false,
+  "identifierNumber": 4652,
+  "billingDate": "2022-12-23T22:53:42.490Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": {
+    "lastPosId": "43",
+    "buyDebtDate": "2023-01-09T04:00:01.437+00:00",
+    "lastStoreId": 29,
+    "boughtForInstallmentId": "14551",
+    "boughtForInstallmentNumber": 1
+  },
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "13871284",
+      "fullName": "TOMMY EDMUNDO CALZADILLA OTERO",
+      "phoneNumber": "+584141370667"
+    },
+    "installments": [
+      {
+        "id": "14553",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-03T22:59:21.470Z",
+        "amount": 18.110000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "14552",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-20T22:59:21.470Z",
+        "amount": 18.110000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "14551",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-06T22:59:21.470Z",
+        "amount": 18.110000000000003,
+        "status": "DONE"
+      },
+      {
+        "id": "14550",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-23T22:59:21.470Z",
+        "amount": 140.04,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 7,
+    "name": "Cashea"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

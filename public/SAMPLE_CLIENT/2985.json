@@ -1,0 +1,23 @@
+{
+  "createdAt": "2022-12-19T16:39:53.558Z",
+  "id": "2505",
+  "amount": 64,
+  "invoiceId": null,
+  "paidToMerchant": false,
+  "identifierNumber": 2985,
+  "billingDate": "2022-12-19T16:39:53.558Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CANCELLED",
+  "paymentDetails": null,
+  "store": {
+    "id": 24,
+    "name": "Mango Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CANCELLED"
+}

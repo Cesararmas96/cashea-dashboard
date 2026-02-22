@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-19T17:26:39.996Z",
+  "id": "2510",
+  "amount": 30.23,
+  "invoiceId": "12454",
+  "paidToMerchant": false,
+  "identifierNumber": 3026,
+  "billingDate": "2022-12-19T17:26:39.996Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "24940282",
+      "fullName": "MICHELLE AUDREY FIGUEREDO NINO",
+      "phoneNumber": "+584142039290"
+    },
+    "installments": [
+      {
+        "id": "8269",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-30T17:26:54.647Z",
+        "amount": 5.036666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8266",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-19T17:26:54.648Z",
+        "amount": 15.12,
+        "status": "DONE"
+      },
+      {
+        "id": "8268",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-16T17:26:54.647Z",
+        "amount": 5.036666666666667,
+        "status": "DONE"
+      },
+      {
+        "id": "8267",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-02T17:26:54.647Z",
+        "amount": 5.036666666666667,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 19,
+    "name": "Balú Moda Sambil Chacao"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2025-05-02T18:28:02.632Z",
+  "updatedAt": "2025-05-07T14:06:36.934Z",
+  "id": 5511,
+  "name": "Uniformes Ávila",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": 783,
+  "tags": [],
+  "uuid": "08f87a49-1b1f-4346-94e5-07d41bbb6385",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "caho_14@hotmail.com",
+    "legalName": "CESAR HERNANDEZ",
+    "phoneNumber": "4244530609"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-05-02T18:29:44.576Z",
+      "updatedAt": "2025-05-02T18:29:44.576Z",
+      "id": 13537,
+      "merchantId": 5511,
+      "name": "Uniformes Ávila CCCT",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 783,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3743,
+      "address": {
+        "name": "CCCT URB CHUAO SECTOR CIUDAD COMERCIAL TAMANACO MUN CHACAO EDO MIRANDA L-C1-M27, MZ NIVEL C1",
+        "long": -66.8544375,
+        "lat": 10.484437499999999,
+        "location": "0101000020E610000077BE9F1AAFB650C078E9263108F82440",
+        "shipmentsEnabled": false
+      }
+    },
+    {
+      "createdAt": "2025-05-02T18:37:02.439Z",
+      "updatedAt": "2025-05-02T18:37:02.439Z",
+      "id": 13538,
+      "merchantId": 5511,
+      "name": "Uniformes Ávila CC Trinitarias",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": 783,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 3743,
+      "address": {
+        "name": "CIUDAD COMERCIAL LAS TRINITARIAS, NIVEL GALERIA PLANTA ALTA, LOCAL 52-G URBANIZACION CLUB HIPICO LAS TRINITARIAS, AVENIDA LOS LEONES CON AVENIDA LIBERTADOR, MUNICIPIO IRIBARREN, BARQUISIMETO, ESTADO LARA",
+        "long": -69.2816875,
+        "lat": 10.078062500000001,
+        "location": "0101000020E61000004A0C022B075251C08816D9CEF7272440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Moda",
+  "shipmentOptionsAvailable": []
+}

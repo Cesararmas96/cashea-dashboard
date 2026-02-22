@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-04T19:28:11.730Z",
+  "id": "676",
+  "amount": 92.5,
+  "invoiceId": "5054",
+  "paidToMerchant": false,
+  "identifierNumber": 1413,
+  "billingDate": "2022-12-04T19:28:11.730Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "21415526",
+      "fullName": "DIOSANA BEATRIZ ISVHARA CARDENAS CHIM LAM",
+      "phoneNumber": "+584128009120"
+    },
+    "installments": [
+      {
+        "id": "2173",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-01-15T19:29:37.175Z",
+        "amount": 15.416666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2171",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2022-12-18T19:29:37.175Z",
+        "amount": 15.416666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2172",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-01T19:29:37.175Z",
+        "amount": 15.416666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "2170",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-04T19:29:37.175Z",
+        "amount": 46.25,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 34,
+    "name": "PUSH & CO Sambil"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

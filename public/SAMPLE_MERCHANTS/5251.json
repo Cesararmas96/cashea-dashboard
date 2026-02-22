@@ -1,0 +1,88 @@
+{
+  "createdAt": "2025-04-15T15:55:31.295Z",
+  "updatedAt": "2025-04-29T22:13:38.879Z",
+  "id": 5251,
+  "name": "Materiales Todo Rustico",
+  "ecommerceUrl": null,
+  "changePolicy": "",
+  "email": null,
+  "phoneNumber": null,
+  "logoUrl": null,
+  "data": null,
+  "description": "",
+  "enabled": true,
+  "featured": false,
+  "type": "SPLIT",
+  "minimumDownPayment": 0.4,
+  "channels": [
+    "IN_STORE"
+  ],
+  "parentGroupId": null,
+  "tags": [],
+  "uuid": "c5de5264-6868-4c3d-b813-27f7497783a3",
+  "shipmentPolicy": null,
+  "order": null,
+  "workingHours": {
+    "from": "09:00",
+    "to": "17:00"
+  },
+  "contact": {
+    "email": "materialestodorustico@gmail.com",
+    "legalName": "Sandra",
+    "phoneNumber": "04142478688"
+  },
+  "stores": [
+    {
+      "createdAt": "2025-04-15T15:57:17.477Z",
+      "updatedAt": "2025-04-15T15:57:17.477Z",
+      "id": 13014,
+      "merchantId": 5251,
+      "name": "Materiales Todo Rustico Los Rosales",
+      "statusId": 2,
+      "featured": false,
+      "orderType": "SPLIT",
+      "data": null,
+      "channels": [
+        "IN_STORE"
+      ],
+      "isPhysical": true,
+      "merchantGroupId": null,
+      "minimumDownPayment": null,
+      "minimumFinanceableAmount": null,
+      "fcbPeriod": null,
+      "fcbStartDate": null,
+      "activefcb": false,
+      "activeSplitFcb": false,
+      "legalEntityId": 11577,
+      "address": {
+        "name": "AV. El Cortijo Quinta Materiales Todo Rustico, Los Rosales. Cracas",
+        "long": -66.89931250000001,
+        "lat": 10.4795625,
+        "location": "0101000020E6100000941804568EB950C0A8C64B3789F52440",
+        "shipmentsEnabled": false
+      }
+    }
+  ],
+  "installmentPlansAvailable": [
+    {
+      "id": 1,
+      "name": "DEFAULT_SPLIT",
+      "data": {
+        "minimumLevel": 1,
+        "installmentsAmount": 4,
+        "installmentsFrequency": {
+          "unit": "week",
+          "number": 2
+        },
+        "installmentGracePeriod": 0,
+        "installmentFirstPayment": 0,
+        "installmentsInterestRate": 0
+      },
+      "type": "SPLIT",
+      "isPublic": true,
+      "description": "Línea principal (3 cuotas)"
+    }
+  ],
+  "category": "Herramientas",
+  "shipmentOptionsAvailable": []
+}

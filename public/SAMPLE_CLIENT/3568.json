@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-21T19:13:35.895Z",
+  "id": "3145",
+  "amount": 35,
+  "invoiceId": "12310",
+  "paidToMerchant": false,
+  "identifierNumber": 3568,
+  "billingDate": "2022-12-21T19:13:35.895Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "5600440",
+      "fullName": "LOURDES COROMOTO MARTINEZ BARRIOS",
+      "phoneNumber": "+584241268125"
+    },
+    "installments": [
+      {
+        "id": "10410",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-21T19:14:26.507Z",
+        "amount": 17.5,
+        "status": "DONE"
+      },
+      {
+        "id": "10413",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-01T19:14:26.507Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10412",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-18T19:14:26.507Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      },
+      {
+        "id": "10411",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-04T19:14:26.507Z",
+        "amount": 5.833333333333333,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 48,
+    "name": "Anakena Tolón"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}

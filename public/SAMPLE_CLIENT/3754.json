@@ -1,0 +1,59 @@
+{
+  "createdAt": "2022-12-22T00:53:14.542Z",
+  "id": "3356",
+  "amount": 55,
+  "invoiceId": "10103",
+  "paidToMerchant": false,
+  "identifierNumber": 3754,
+  "billingDate": "2022-12-22T00:53:14.542Z",
+  "deliveryType": null,
+  "channel": "IN_STORE",
+  "deliveryStatus": "DELIVERED",
+  "data": null,
+  "downPaymentPaidAt": null,
+  "status": "CLOSED",
+  "paymentDetails": {
+    "user": {
+      "identificationNumber": "27472177",
+      "fullName": "JESSICA MARIA ANDRADE MALHANTE",
+      "phoneNumber": "+584242658542"
+    },
+    "installments": [
+      {
+        "id": "11190",
+        "installmentNumber": 0,
+        "scheduledPaymentDate": "2022-12-22T00:53:35.655Z",
+        "amount": 27.5,
+        "status": "DONE"
+      },
+      {
+        "id": "11192",
+        "installmentNumber": 2,
+        "scheduledPaymentDate": "2023-01-19T00:53:35.654Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11193",
+        "installmentNumber": 3,
+        "scheduledPaymentDate": "2023-02-02T00:53:35.654Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      },
+      {
+        "id": "11191",
+        "installmentNumber": 1,
+        "scheduledPaymentDate": "2023-01-05T00:53:35.654Z",
+        "amount": 9.166666666666666,
+        "status": "DONE"
+      }
+    ]
+  },
+  "store": {
+    "id": 61,
+    "name": "Springfield CC Lider"
+  },
+  "orderProducts": [],
+  "shipment": null,
+  "statusName": "CLOSED"
+}
