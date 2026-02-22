@@ -67,7 +67,7 @@ export function MerchantsPage() {
           {/* Header Banner */}
           <div className="h-32 bg-gradient-to-r from-indigo-500 to-purple-600"></div>
 
-          <div className="px-8 py-6 -mt-12 relative">
+          <div className="px-4 md:px-8 py-6 -mt-12 relative">
             <div className="bg-white p-3 rounded-xl shadow-sm inline-block mb-4 border border-gray-100">
               <Store className="w-10 h-10 text-indigo-500" />
             </div>
@@ -85,7 +85,7 @@ export function MerchantsPage() {
             </div>
           </div>
 
-          <div className="px-8 py-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 bg-gray-50/50 border-t border-gray-100">
+          <div className="px-4 md:px-8 py-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 bg-gray-50/50 border-t border-gray-100">
             <InfoCard icon={<Phone className="w-4 h-4" />} label="Contacto" value={merchant.contact.phoneNumber || '—'} />
             <InfoCard label="Email" value={merchant.contact.email || '—'} />
             <InfoCard label="Responsable" value={merchant.contact.legalName || '—'} />
@@ -96,7 +96,7 @@ export function MerchantsPage() {
 
           {/* Planes de cuotas */}
           {merchant.installmentPlansAvailable.length > 0 && (
-            <div className="px-8 py-6 border-t border-gray-100">
+            <div className="px-4 md:px-8 py-6 border-t border-gray-100">
               <h3 className="text-lg font-bold text-gray-800 mb-4">Planes de Cuotas</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {merchant.installmentPlansAvailable.map((plan) => (
@@ -115,7 +115,7 @@ export function MerchantsPage() {
 
           {/* Sucursales */}
           {merchant.stores.length > 0 && (
-            <div className="px-8 py-6 border-t border-gray-100 bg-gray-50">
+            <div className="px-4 md:px-8 py-6 border-t border-gray-100 bg-gray-50">
               <h3 className="text-lg font-bold text-gray-800 mb-4">Sucursales ({merchant.stores.length})</h3>
               <div className="space-y-3">
                 {merchant.stores.map((store) => (
@@ -145,11 +145,11 @@ export function MerchantsPage() {
 
           {/* Mapa de Sucursales */}
           {merchant.stores.length > 0 && merchant.stores.some(s => s.address && s.address.lat && s.address.long) && (
-            <div className="px-8 py-6 border-t border-gray-100 bg-white">
+            <div className="px-4 md:px-8 py-6 border-t border-gray-100 bg-white">
               <h3 className="text-lg font-bold text-gray-800 mb-4 flex items-center gap-2">
                 <MapPin className="w-5 h-5 text-indigo-500" /> Ubicaciones en el Mapa
               </h3>
-              <div className="h-[400px] w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm relative z-0">
+              <div className="h-[300px] md:h-[400px] w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm relative z-0">
                 <MapContainer
                   center={[merchant.stores.find(s => s.address?.lat)?.address.lat || 10.4806, merchant.stores.find(s => s.address?.long)?.address.long || -66.9036]}
                   zoom={12}

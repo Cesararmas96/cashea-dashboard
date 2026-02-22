@@ -76,7 +76,7 @@ export function StoresPage() {
         <div className="bg-white rounded-3xl shadow-lg border border-gray-100 overflow-hidden relative">
           <div className="h-24 bg-gradient-to-r from-emerald-500 to-teal-500"></div>
 
-          <div className="px-8 py-6 -mt-10 relative flex justify-between items-end">
+          <div className="px-4 md:px-8 py-6 -mt-10 relative flex flex-col md:flex-row md:justify-between items-start md:items-end gap-4">
             <div className="flex items-center gap-4">
               <div className="bg-white p-4 rounded-full shadow-md border-4 border-white">
                 <StoreIcon className="w-8 h-8 text-emerald-500" />
@@ -86,7 +86,7 @@ export function StoresPage() {
                 <h1 className="text-3xl font-extrabold text-gray-900">#{storeId}</h1>
               </div>
             </div>
-            <div className="bg-gray-100 px-4 py-2 rounded-xl border border-gray-200 shadow-sm text-sm text-gray-700 font-semibold flex items-center gap-2">
+            <div className="bg-gray-100 px-4 py-2 rounded-xl border border-gray-200 shadow-sm text-sm text-gray-700 font-semibold flex items-center gap-2 self-start md:self-auto">
               <CreditCard className="w-4 h-4" /> {methods.length} Metodos de pago
             </div>
           </div>
@@ -136,8 +136,8 @@ export function StoresPage() {
               key={type}
               onClick={() => setFilterType(type)}
               className={`px-4 py-2.5 rounded-xl font-semibold text-sm transition-all whitespace-nowrap ${filterType === type
-                  ? 'bg-emerald-600 text-white shadow-md'
-                  : 'bg-gray-50 text-gray-600 hover:bg-gray-100 border border-transparent'
+                ? 'bg-emerald-600 text-white shadow-md'
+                : 'bg-gray-50 text-gray-600 hover:bg-gray-100 border border-transparent'
                 }`}
             >
               {type === 'ALL' ? 'Todos los métodos' : type}

@@ -81,7 +81,7 @@ export function OrdersPage() {
         <div className="bg-white rounded-3xl shadow-lg border border-gray-100 overflow-hidden relative">
           <div className="h-28 bg-gradient-to-r from-blue-600 to-indigo-600"></div>
 
-          <div className="px-8 py-6 -mt-12 relative flex justify-between items-end flex-wrap gap-4">
+          <div className="px-4 md:px-8 py-6 -mt-12 relative flex flex-col md:flex-row md:justify-between items-start md:items-end flex-wrap gap-4">
             <div className="flex items-center gap-4">
               <div className="bg-white p-4 rounded-full shadow-md border-4 border-white flex-shrink-0">
                 <ShoppingBag className="w-8 h-8 text-blue-600" />
@@ -91,12 +91,12 @@ export function OrdersPage() {
                 <h1 className="text-3xl font-extrabold text-gray-900 line-clamp-1">{order.invoiceId ?? `#${order.id}`}</h1>
               </div>
             </div>
-            <div className={`px-4 py-2 rounded-xl border border-transparent font-bold tracking-wider text-sm ${STATUS_COLORS[order.status] ?? 'bg-gray-100 text-gray-700'}`}>
+            <div className={`px-4 py-2 rounded-xl border border-transparent font-bold tracking-wider text-sm self-start md:self-auto ${STATUS_COLORS[order.status] ?? 'bg-gray-100 text-gray-700'}`}>
               ESTADO: {order.status}
             </div>
           </div>
 
-          <div className="px-8 py-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 bg-slate-50/50 border-y border-gray-100">
+          <div className="px-4 md:px-8 py-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 bg-slate-50/50 border-y border-gray-100">
             <InfoCard icon={<FileText className="w-4 h-4" />} label="Identificador" value={String(order.identifierNumber)} />
             <InfoCard icon={<Calendar className="w-4 h-4" />} label="Fecha de Creación" value={new Date(order.createdAt).toLocaleString('es-VE')} />
             <InfoCard label="Monto Total" value={`$${order.amount.toFixed(2)}`} />
@@ -104,7 +104,7 @@ export function OrdersPage() {
             <InfoCard label="Tienda" value={`${order.store.name} (ID: ${order.store.id})`} />
           </div>
 
-          <div className="px-8 py-6">
+          <div className="px-4 md:px-8 py-6">
             <h3 className="text-lg font-bold text-gray-900 mb-4 flex items-center gap-2">
               <User className="w-5 h-5 text-gray-400" /> Detalles del Cliente
             </h3>
@@ -128,7 +128,7 @@ export function OrdersPage() {
           </div>
 
           {order.paymentDetails?.installments && order.paymentDetails.installments.length > 0 && (
-            <div className="px-8 py-6 bg-slate-50 border-t border-gray-100">
+            <div className="px-4 md:px-8 py-6 bg-slate-50 border-t border-gray-100">
               <h3 className="text-lg font-bold text-gray-900 mb-4">Plan de Cuotas</h3>
               <div className="space-y-3">
                 {[...order.paymentDetails.installments]
@@ -235,12 +235,12 @@ export function OrdersPage() {
                 <table className="w-full text-left border-collapse">
                   <thead>
                     <tr className="bg-slate-50 border-b border-gray-200 text-xs uppercase tracking-widest text-gray-500 font-bold">
-                      <th className="px-6 py-4">Orden</th>
-                      <th className="px-6 py-4">Cliente</th>
-                      <th className="px-6 py-4">Monto</th>
-                      <th className="px-6 py-4">Estado</th>
-                      <th className="px-6 py-4">Canal</th>
-                      <th className="px-6 py-4 text-right">Acciones</th>
+                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Orden</th>
+                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Cliente</th>
+                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Monto</th>
+                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Estado</th>
+                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Canal</th>
+                      <th className="px-4 md:px-6 py-4 text-right whitespace-nowrap">Acciones</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-gray-100 text-sm">
@@ -250,27 +250,27 @@ export function OrdersPage() {
                         className="hover:bg-blue-50/50 transition-colors group cursor-pointer"
                         onClick={() => handleSelectOrder(order.identifierNumber)}
                       >
-                        <td className="px-6 py-4 align-middle">
+                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
                           <div className="font-bold text-gray-900">#{order.identifierNumber}</div>
                           <div className="text-[10px] text-gray-400 font-mono mt-0.5 max-w-[120px] truncate" title={order.id}>{order.id}</div>
                         </td>
-                        <td className="px-6 py-4 align-middle">
+                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
                           <div className="font-semibold text-gray-800">{order.customerName || <span className="text-gray-400 italic">Desconocido</span>}</div>
                         </td>
-                        <td className="px-6 py-4 align-middle">
+                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
                           <div className="font-black text-gray-900">${order.amount.toFixed(2)}</div>
                         </td>
-                        <td className="px-6 py-4 align-middle">
+                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
                           <span className={`text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 rounded border ${STATUS_COLORS[order.status] ?? 'bg-gray-100 text-gray-600'}`}>
                             {order.status}
                           </span>
                         </td>
-                        <td className="px-6 py-4 align-middle">
+                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
                           <div className="text-xs font-semibold text-gray-500 bg-gray-100 inline-block px-2 py-1 rounded-md">{order.channel}</div>
                         </td>
-                        <td className="px-6 py-4 align-middle text-right">
-                          <button className="text-blue-600 font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
-                            {loadingDetail === order.identifierNumber ? 'Cargando...' : 'Ver detalles →'}
+                        <td className="px-4 md:px-6 py-4 align-middle text-right whitespace-nowrap">
+                          <button className="text-blue-600 font-semibold md:opacity-0 md:group-hover:opacity-100 transition-opacity">
+                            {loadingDetail === order.identifierNumber ? 'Cargando...' : 'Detalles →'}
                           </button>
                         </td>
                       </tr>
