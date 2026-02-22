@@ -284,53 +284,99 @@ export function OrdersPage() {
               <p className="text-gray-500 text-sm mt-1">Revisa los términos de búsqueda o cambia los filtros de estado.</p>
             </div>
           ) : (
-            <div className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
-              <div className="overflow-x-auto">
-                <table className="w-full text-left border-collapse">
-                  <thead>
-                    <tr className="bg-slate-50 border-b border-gray-200 text-xs uppercase tracking-widest text-gray-500 font-bold">
-                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Orden</th>
-                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Cliente</th>
-                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Monto</th>
-                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Estado</th>
-                      <th className="px-4 md:px-6 py-4 whitespace-nowrap">Canal</th>
-                      <th className="px-4 md:px-6 py-4 text-right whitespace-nowrap">Acciones</th>
-                    </tr>
-                  </thead>
-                  <tbody className="divide-y divide-gray-100 text-sm">
-                    {filteredOrders.map((order) => (
-                      <tr
-                        key={order.id}
-                        className="hover:bg-blue-50/50 transition-colors group cursor-pointer"
-                        onClick={() => handleSelectOrder(order.identifierNumber)}
-                      >
-                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
-                          <div className="font-bold text-gray-900">#{order.identifierNumber}</div>
-                          <div className="text-[10px] text-gray-400 font-mono mt-0.5 max-w-[120px] truncate" title={order.id}>{order.id}</div>
-                        </td>
-                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
-                          <div className="font-semibold text-gray-800">{order.customerName || <span className="text-gray-400 italic">Desconocido</span>}</div>
-                        </td>
-                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
-                          <div className="font-black text-gray-900">${order.amount.toFixed(2)}</div>
-                        </td>
-                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
-                          <span className={`text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 rounded border ${STATUS_COLORS[order.status] ?? 'bg-gray-100 text-gray-600'}`}>
-                            {order.status}
-                          </span>
-                        </td>
-                        <td className="px-4 md:px-6 py-4 align-middle whitespace-nowrap">
-                          <div className="text-xs font-semibold text-gray-500 bg-gray-100 inline-block px-2 py-1 rounded-md">{order.channel}</div>
-                        </td>
-                        <td className="px-4 md:px-6 py-4 align-middle text-right whitespace-nowrap">
-                          <button className="text-blue-600 font-semibold md:opacity-0 md:group-hover:opacity-100 transition-opacity">
-                            {loadingDetail === order.identifierNumber ? 'Cargando...' : 'Detalles →'}
-                          </button>
-                        </td>
+            <div>
+              {/* Desktop View: Table */}
+              <div className="hidden md:block bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
+                <div className="overflow-x-auto">
+                  <table className="w-full text-left border-collapse">
+                    <thead>
+                      <tr className="bg-slate-50 border-b border-gray-200 text-xs uppercase tracking-widest text-gray-500 font-bold">
+                        <th className="px-6 py-4 whitespace-nowrap">Orden</th>
+                        <th className="px-6 py-4 whitespace-nowrap">Cliente</th>
+                        <th className="px-6 py-4 whitespace-nowrap">Monto</th>
+                        <th className="px-6 py-4 whitespace-nowrap">Estado</th>
+                        <th className="px-6 py-4 whitespace-nowrap">Canal</th>
+                        <th className="px-6 py-4 text-right whitespace-nowrap">Acciones</th>
                       </tr>
-                    ))}
-                  </tbody>
-                </table>
+                    </thead>
+                    <tbody className="divide-y divide-gray-100 text-sm">
+                      {filteredOrders.map((order) => (
+                        <tr
+                          key={order.id}
+                          className="hover:bg-blue-50/50 transition-colors group cursor-pointer"
+                          onClick={() => handleSelectOrder(order.identifierNumber)}
+                        >
+                          <td className="px-6 py-4 align-middle whitespace-nowrap">
+                            <div className="font-bold text-gray-900">#{order.identifierNumber}</div>
+                            <div className="text-[10px] text-gray-400 font-mono mt-0.5 max-w-[120px] truncate" title={order.id}>{order.id}</div>
+                          </td>
+                          <td className="px-6 py-4 align-middle whitespace-nowrap">
+                            <div className="font-semibold text-gray-800">{order.customerName || <span className="text-gray-400 italic">Desconocido</span>}</div>
+                          </td>
+                          <td className="px-6 py-4 align-middle whitespace-nowrap">
+                            <div className="font-black text-gray-900">${order.amount.toFixed(2)}</div>
+                          </td>
+                          <td className="px-6 py-4 align-middle whitespace-nowrap">
+                            <span className={`text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 rounded border ${STATUS_COLORS[order.status] ?? 'bg-gray-100 text-gray-600'}`}>
+                              {order.status}
+                            </span>
+                          </td>
+                          <td className="px-6 py-4 align-middle whitespace-nowrap">
+                            <div className="text-xs font-semibold text-gray-500 bg-gray-100 inline-block px-2 py-1 rounded-md">{order.channel}</div>
+                          </td>
+                          <td className="px-6 py-4 align-middle text-right whitespace-nowrap">
+                            <button className="text-blue-600 font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
+                              {loadingDetail === order.identifierNumber ? 'Cargando...' : 'Detalles →'}
+                            </button>
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              {/* Mobile View: Cards */}
+              <div className="flex md:hidden flex-col gap-4">
+                {filteredOrders.map((order) => (
+                  <div
+                    key={order.id}
+                    onClick={() => handleSelectOrder(order.identifierNumber)}
+                    className="bg-white p-5 rounded-2xl shadow-sm border border-gray-200 flex flex-col gap-4 active:scale-[0.98] transition-all cursor-pointer"
+                  >
+                    <div className="flex justify-between items-start">
+                      <div>
+                        <div className="font-black text-lg text-gray-900 flex items-center gap-2 leading-none mb-1">
+                          #{order.identifierNumber}
+                        </div>
+                        <div className="text-xs text-gray-400 font-mono truncate max-w-[180px]">{order.id}</div>
+                      </div>
+                      <div className="text-right flex flex-col items-end gap-1.5">
+                        <div className="font-black text-xl text-blue-600 leading-none">${order.amount.toFixed(2)}</div>
+                        <span className={`text-[9px] uppercase font-extrabold tracking-widest px-2 py-0.5 rounded border ${STATUS_COLORS[order.status] ?? 'bg-gray-100 text-gray-600'}`}>
+                          {order.status}
+                        </span>
+                      </div>
+                    </div>
+
+                    <div className="flex justify-between items-center bg-slate-50 p-3 rounded-xl border border-gray-100 mt-1">
+                      <div>
+                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Cliente</p>
+                        <p className="text-sm font-bold text-gray-800 line-clamp-1">{order.customerName || 'Desconocido'}</p>
+                      </div>
+                      <div className="text-right border-l border-gray-200 pl-4 ml-4">
+                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Canal</p>
+                        <p className="text-sm font-extrabold text-gray-600">{order.channel}</p>
+                      </div>
+                    </div>
+
+                    <div className="w-full pt-2 flex justify-center border-t border-gray-50 mt-1">
+                      <span className="text-blue-600 font-bold text-sm flex items-center gap-1">
+                        {loadingDetail === order.identifierNumber ? 'Cargando...' : 'Ver detalles completos →'}
+                      </span>
+                    </div>
+                  </div>
+                ))}
               </div>
             </div>
           )}
