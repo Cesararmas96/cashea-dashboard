@@ -1,7 +1,8 @@
 import { NavLink } from 'react-router-dom'
-import { ShoppingBag, Store, CreditCard } from 'lucide-react'
+import { LayoutDashboard, ShoppingBag, Store, CreditCard } from 'lucide-react'
 
 const links = [
+  { to: '/dashboard', label: 'Dashboard', icon: <LayoutDashboard className="w-5 h-5" /> },
   { to: '/orders', label: 'Órdenes', icon: <ShoppingBag className="w-5 h-5" /> },
   { to: '/merchants', label: 'Merchants', icon: <Store className="w-5 h-5" /> },
   { to: '/stores', label: 'Stores', icon: <CreditCard className="w-5 h-5" /> },
