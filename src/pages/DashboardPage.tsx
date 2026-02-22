@@ -4,7 +4,7 @@ import type { MerchantIndexItem, OrderIndexItem, StoreIndexItem } from '../servi
 import { TrendingUp, ShoppingBag, Store, Activity, Filter, RefreshCcw } from 'lucide-react'
 import {
     XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
-    BarChart, Bar, PieChart, Pie, Cell, Legend
+    BarChart, Bar, PieChart, Pie, Cell, Legend, AreaChart, Area
 } from 'recharts'
 
 const STATUS_COLORS: Record<string, string> = {
@@ -94,6 +94,36 @@ export function DashboardPage() {
 
         return Object.entries(channels).map(([name, Total]) => ({ name, Total })).sort((a, b) => b.Total - a.Total).slice(0, 5) // top 5
     }, [filteredOrders])
+
+    const revenueTrendData = useMemo(() => {
+        const trend = filteredOrders.reduce((acc, order) => {
+            if (order.status === 'CANCELLED' || !order.createdAt) return acc;
+
+            // Format YYYY-MM
+            const date = new Date(order.createdAt);
+            const monthStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+
+            acc[monthStr] = (acc[monthStr] || 0) + order.amount;
+            return acc;
+        }, {} as Record<string, number>);
+
+        return Object.entries(trend)
+            .map(([month, volume]) => ({ month, volume }))
+            .sort((a, b) => a.month.localeCompare(b.month)); // sort chronologically
+    }, [filteredOrders]);
+
+    const stateData = useMemo(() => {
+        const states = merchants.reduce((acc, merchant) => {
+            if (!merchant.state || merchant.state === 'Desconocido') return acc;
+            acc[merchant.state] = (acc[merchant.state] || 0) + 1;
+            return acc;
+        }, {} as Record<string, number>);
+
+        return Object.entries(states)
+            .map(([state, count]) => ({ state, count }))
+            .sort((a, b) => b.count - a.count)
+            .slice(0, 10); // top 10 states
+    }, [merchants]);
     if (loading) {
         return (
             <div className="flex flex-col items-center justify-center min-h-[60vh]">
@@ -243,6 +273,63 @@ export function DashboardPage() {
                                 />
                                 <Legend iconType="circle" wrapperStyle={{ fontSize: '12px' }} />
                             </PieChart>
+                        </ResponsiveContainer>
+                    </div>
+                </div>
+            </div>
+
+            {/* Fila de Gráficos de Analítica Avanzada */}
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+                {/* Gráfico Tendencia Ingresos */}
+                <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
+                    <h3 className="text-lg font-bold text-gray-800 mb-6 flex items-center gap-2">
+                        Evolución de Volumen Operativo (Neto)
+                    </h3>
+                    <div className="flex-1 w-full min-h-[300px]">
+                        <ResponsiveContainer width="100%" height="100%">
+                            <AreaChart data={revenueTrendData} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
+                                <defs>
+                                    <linearGradient id="colorVolume" x1="0" y1="0" x2="0" y2="1">
+                                        <stop offset="5%" stopColor="#8b5cf6" stopOpacity={0.3} />
+                                        <stop offset="95%" stopColor="#8b5cf6" stopOpacity={0} />
+                                    </linearGradient>
+                                </defs>
+                                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f3f4f6" />
+                                <XAxis dataKey="month" axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#6b7280' }} />
+                                <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#6b7280' }} tickFormatter={(value) => `$${value}`} />
+                                <Tooltip
+                                    cursor={{ fill: '#f9fafb' }}
+                                    contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
+                                    formatter={(value: any) => [`$${Number(value).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`, 'Volumen']}
+                                />
+                                <Area type="monotone" dataKey="volume" stroke="#8b5cf6" strokeWidth={3} fillOpacity={1} fill="url(#colorVolume)" />
+                            </AreaChart>
+                        </ResponsiveContainer>
+                    </div>
+                </div>
+
+                {/* Gráfico Bar - Estados Top */}
+                <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
+                    <h3 className="text-lg font-bold text-gray-800 mb-6 flex items-center gap-2">
+                        Top 10 Regiones con más Aliados
+                    </h3>
+                    <div className="flex-1 w-full min-h-[300px]">
+                        <ResponsiveContainer width="100%" height="100%">
+                            <BarChart data={stateData} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
+                                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f3f4f6" />
+                                <XAxis dataKey="state" axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#6b7280' }} />
+                                <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#6b7280' }} />
+                                <Tooltip
+                                    cursor={{ fill: '#f9fafb' }}
+                                    contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
+                                    formatter={(value: any) => [value, 'Aliados (Merchants)']}
+                                />
+                                <Bar dataKey="count" fill="#ec4899" radius={[6, 6, 0, 0]}>
+                                    {stateData.map((_entry, index) => (
+                                        <Cell key={`cell-${index}`} fill={DEFAULT_COLORS[(index + 3) % DEFAULT_COLORS.length]} />
+                                    ))}
+                                </Bar>
+                            </BarChart>
                         </ResponsiveContainer>
                     </div>
                 </div>
