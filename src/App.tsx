@@ -5,6 +5,9 @@ import { MerchantsPage } from './pages/MerchantsPage'
 import { StoresPage } from './pages/StoresPage'
 
 import { DashboardPage } from './pages/DashboardPage'
+import { AnalyticsPage } from './pages/AnalyticsPage'
+import { UsersPage } from './pages/UsersPage'
+import { UserProfilePage } from './pages/UserProfilePage'
 
 const router = createBrowserRouter([
   {
@@ -13,6 +16,9 @@ const router = createBrowserRouter([
     children: [
       { index: true, element: <Navigate to="/dashboard" replace /> },
       { path: 'dashboard', element: <DashboardPage /> },
+      { path: 'analytics', element: <AnalyticsPage /> },
+      { path: 'users', element: <UsersPage /> },
+      { path: 'users/:id', element: <UserProfilePage /> },
       { path: 'orders', element: <OrdersPage /> },
       { path: 'merchants', element: <MerchantsPage /> },
       { path: 'stores', element: <StoresPage /> },
