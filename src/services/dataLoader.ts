@@ -31,7 +31,7 @@ export function loadStore(id: number): Promise<StorePaymentMethods> {
 
 export interface MerchantIndexItem { id: number; name: string; category: string; enabled: boolean; type: string; locations?: { lat: number, lng: number, name: string }[]; }
 export interface StoreIndexItem { id: number; methodCount: number; types: string[]; }
-export interface OrderIndexItem { id: string; identifierNumber: number; amount: number; status: string; channel: string; customerName: string | null; }
+export interface OrderIndexItem { id: string; identifierNumber: number; amount: number; status: string; channel: string; customerName: string | null; createdAt: string | null; }
 
 export function loadMerchantsIndex(): Promise<MerchantIndexItem[]> {
   return cachedFetch<MerchantIndexItem[]>('/merchants_index.json')

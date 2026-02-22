@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { loadClient, loadOrdersIndex } from '../services/dataLoader'
 import type { ClientOrder } from '../types/client'
 import type { OrderIndexItem } from '../services/dataLoader'
-import { Search, ChevronLeft, Calendar, FileText, User, ShoppingBag } from 'lucide-react'
+import { Search, ChevronLeft, Calendar, FileText, User, ShoppingBag, Filter } from 'lucide-react'
 
 const STATUS_COLORS: Record<string, string> = {
   CLOSED: 'bg-green-100 text-green-700 border-green-200',
@@ -21,6 +21,11 @@ export function OrdersPage() {
   const [ordersList, setOrdersList] = useState<OrderIndexItem[]>([])
   const [searchTerm, setSearchTerm] = useState('')
   const [filterStatus, setFilterStatus] = useState<string>('ALL')
+  const [dateFrom, setDateFrom] = useState<string>('')
+  const [dateTo, setDateTo] = useState<string>('')
+  const [minAmount, setMinAmount] = useState<string>('')
+  const [maxAmount, setMaxAmount] = useState<string>('')
+  const [showFilters, setShowFilters] = useState(false)
 
   const [selectedOrder, setSelectedOrder] = useState<ClientOrder | null>(null)
   const [loadingList, setLoadingList] = useState(true)
@@ -47,11 +52,29 @@ export function OrdersPage() {
         o.identifierNumber.toString().includes(searchTerm) ||
         (o.customerName && o.customerName.toLowerCase().includes(searchTerm.toLowerCase()));
 
-      const matchesFilter = filterStatus === 'ALL' || o.status === filterStatus;
+      const matchesStatus = filterStatus === 'ALL' || o.status === filterStatus;
 
-      return matchesSearch && matchesFilter;
-    }).slice(0, 100) // Paginamos a 100 para no hacer lenta la UI en búsquedas vacías
-  }, [ordersList, searchTerm, filterStatus])
+      let matchesDate = true;
+      if (dateFrom || dateTo) {
+        const orderDate = o.createdAt ? new Date(o.createdAt).getTime() : 0;
+        const fromTime = dateFrom ? new Date(dateFrom).getTime() : 0;
+        const toTime = dateTo ? new Date(dateTo).getTime() + 86399999 : Infinity;
+
+        if (orderDate) {
+          matchesDate = orderDate >= fromTime && orderDate <= toTime;
+        }
+      }
+
+      let matchesAmount = true;
+      if (minAmount || maxAmount) {
+        const min = parseFloat(minAmount) || 0;
+        const max = parseFloat(maxAmount) || Infinity;
+        matchesAmount = o.amount >= min && o.amount <= max;
+      }
+
+      return matchesSearch && matchesStatus && matchesDate && matchesAmount;
+    }).slice(0, 100)
+  }, [ordersList, searchTerm, filterStatus, dateFrom, dateTo, minAmount, maxAmount])
 
   async function handleSelectOrder(identifierNumber: number) {
     setLoadingDetail(identifierNumber)
@@ -176,32 +199,63 @@ export function OrdersPage() {
         </div>
       </div>
 
-      <div className="bg-white p-4 rounded-2xl shadow-sm border border-gray-200 mb-8 flex flex-col lg:flex-row gap-4 lg:items-center">
-        <div className="relative flex-1 w-full">
-          <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
-          <input
-            type="text"
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="Buscar orden, cliente o identificador..."
-            className="w-full pl-12 pr-4 py-3 bg-gray-50 border-none rounded-xl focus:ring-2 focus:ring-blue-500 outline-none text-gray-800 transition-all font-medium"
-          />
+      <div className="bg-white p-4 rounded-2xl shadow-sm border border-gray-200 mb-8 flex flex-col gap-4">
+        <div className="flex flex-col lg:flex-row gap-4 lg:items-center w-full">
+          <div className="relative flex-1 w-full">
+            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+            <input
+              type="text"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Buscar orden, cliente o identificador..."
+              className="w-full pl-12 pr-4 py-3 bg-gray-50 border-none rounded-xl focus:ring-2 focus:ring-blue-500 outline-none text-gray-800 transition-all font-medium"
+            />
+          </div>
+
+          <div className="w-full lg:w-auto overflow-x-auto pb-2 lg:pb-0 hide-scrollbar flex gap-2 pt-2 lg:pt-0">
+            {availableStatuses.map((status) => (
+              <button
+                key={status}
+                onClick={() => setFilterStatus(status)}
+                className={`px-4 py-2.5 rounded-xl font-semibold text-sm transition-all whitespace-nowrap ${filterStatus === status
+                  ? 'bg-blue-600 text-white shadow-md'
+                  : 'bg-gray-50 text-gray-600 hover:bg-gray-100 border border-transparent'
+                  }`}
+              >
+                {status === 'ALL' ? 'Todos' : status}
+              </button>
+            ))}
+          </div>
+
+          <button
+            onClick={() => setShowFilters(!showFilters)}
+            className={`p-3 rounded-xl border flex items-center justify-center transition-colors flex-shrink-0 ${showFilters ? 'bg-blue-50 border-blue-200 text-blue-600 shadow-sm' : 'bg-gray-50 border-transparent text-gray-500 hover:bg-gray-100'}`}
+            title="Filtros avanzados"
+          >
+            <Filter className="w-5 h-5" />
+          </button>
         </div>
 
-        <div className="w-full lg:w-auto overflow-x-auto pb-2 lg:pb-0 hide-scrollbar flex gap-2 pt-2 lg:pt-0">
-          {availableStatuses.map((status) => (
-            <button
-              key={status}
-              onClick={() => setFilterStatus(status)}
-              className={`px-4 py-2.5 rounded-xl font-semibold text-sm transition-all whitespace-nowrap ${filterStatus === status
-                ? 'bg-blue-600 text-white shadow-md'
-                : 'bg-gray-50 text-gray-600 hover:bg-gray-100 border border-transparent'
-                }`}
-            >
-              {status === 'ALL' ? 'Todos los estados' : status}
-            </button>
-          ))}
-        </div>
+        {showFilters && (
+          <div className="pt-4 border-t border-gray-100 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 animation-fade-in">
+            <div>
+              <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-1">Desde Fecha</label>
+              <input type="date" value={dateFrom} onChange={e => setDateFrom(e.target.value)} className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition-shadow" />
+            </div>
+            <div>
+              <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-1">Hasta Fecha</label>
+              <input type="date" value={dateTo} onChange={e => setDateTo(e.target.value)} className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition-shadow" />
+            </div>
+            <div>
+              <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-1">Monto Mínimo ($)</label>
+              <input type="number" step="0.01" value={minAmount} onChange={e => setMinAmount(e.target.value)} placeholder="Ej: 10" className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition-shadow" />
+            </div>
+            <div>
+              <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-1">Monto Máximo ($)</label>
+              <input type="number" step="0.01" value={maxAmount} onChange={e => setMaxAmount(e.target.value)} placeholder="Ej: 500.50" className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition-shadow" />
+            </div>
+          </div>
+        )}
       </div>
 
       {error && (

@@ -55,7 +55,8 @@ if (fs.existsSync(clientsDir)) {
         amount: data.amount || 0,
         status: data.status,
         channel: data.channel,
-        customerName: data.paymentDetails?.user?.fullName || null
+        customerName: data.paymentDetails?.user?.fullName || null,
+        createdAt: data.createdAt || null
       });
     } catch (e) { }
   }
