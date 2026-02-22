@@ -111,8 +111,11 @@ export function StoresPage() {
     <div className="max-w-5xl mx-auto pb-12">
       <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-8 gap-4">
         <div>
-          <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-500 mb-2">
+          <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-500 mb-2 flex items-center gap-3">
             Directorio de Tiendas
+            <span className="text-sm font-bold bg-emerald-100 text-emerald-800 px-3 py-1 rounded-full shadow-sm border border-emerald-200">
+              {filteredStores.length}
+            </span>
           </h2>
           <p className="text-gray-500 font-medium">Busca y visualiza los métodos de pago de cada tienda.</p>
         </div>
