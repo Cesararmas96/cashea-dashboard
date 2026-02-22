@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { loadMerchantsIndex, loadOrdersIndex, loadStoresIndex } from '../services/dataLoader'
 import type { MerchantIndexItem, OrderIndexItem, StoreIndexItem } from '../services/dataLoader'
-import { TrendingUp, ShoppingBag, Store, Activity } from 'lucide-react'
+import { TrendingUp, ShoppingBag, Store, Activity, Filter, RefreshCcw } from 'lucide-react'
 import {
     XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
     BarChart, Bar, PieChart, Pie, Cell, Legend
@@ -23,6 +23,12 @@ export function DashboardPage() {
     const [, setStores] = useState<StoreIndexItem[]>([])
     const [loading, setLoading] = useState(true)
 
+    const [dateFrom, setDateFrom] = useState<string>('')
+    const [dateTo, setDateTo] = useState<string>('')
+    const [minAmount, setMinAmount] = useState<string>('')
+    const [maxAmount, setMaxAmount] = useState<string>('')
+    const [showFilters, setShowFilters] = useState(false)
+
     useEffect(() => {
         Promise.all([
             loadMerchantsIndex().catch(() => []),
@@ -36,35 +42,58 @@ export function DashboardPage() {
         })
     }, [])
 
+    const filteredOrders = useMemo(() => {
+        return orders.filter(o => {
+            let matchesDate = true;
+            if (dateFrom || dateTo) {
+                const orderDate = o.createdAt ? new Date(o.createdAt).getTime() : 0;
+                const fromTime = dateFrom ? new Date(dateFrom).getTime() : 0;
+                const toTime = dateTo ? new Date(dateTo).getTime() + 86399999 : Infinity;
+
+                if (orderDate) {
+                    matchesDate = orderDate >= fromTime && orderDate <= toTime;
+                }
+            }
+
+            let matchesAmount = true;
+            if (minAmount || maxAmount) {
+                const min = parseFloat(minAmount) || 0;
+                const max = parseFloat(maxAmount) || Infinity;
+                matchesAmount = o.amount >= min && o.amount <= max;
+            }
+
+            return matchesDate && matchesAmount;
+        })
+    }, [orders, dateFrom, dateTo, minAmount, maxAmount])
+
     const kpis = useMemo(() => {
-        const totalOrders = orders.length
-        const totalVolume = orders.reduce((sum, o) => sum + (o.status !== 'CANCELLED' ? o.amount : 0), 0)
+        const totalOrders = filteredOrders.length
+        const totalVolume = filteredOrders.reduce((sum, o) => sum + (o.status !== 'CANCELLED' ? o.amount : 0), 0)
         const activeMerchants = merchants.filter(m => m.enabled).length
-        const avgTicket = totalOrders > 0 ? totalVolume / orders.filter(o => o.status !== 'CANCELLED').length : 0
-        const cancelledOrders = orders.filter(o => o.status === 'CANCELLED').length
+        const avgTicket = totalOrders > 0 ? totalVolume / filteredOrders.filter(o => o.status !== 'CANCELLED').length : 0
+        const cancelledOrders = filteredOrders.filter(o => o.status === 'CANCELLED').length
 
         return { totalOrders, totalVolume, activeMerchants, avgTicket, cancelledOrders }
-    }, [orders, merchants])
+    }, [filteredOrders, merchants])
 
     const statusData = useMemo(() => {
-        const counts = orders.reduce((acc, order) => {
+        const counts = filteredOrders.reduce((acc, order) => {
             acc[order.status] = (acc[order.status] || 0) + 1;
             return acc;
         }, {} as Record<string, number>)
 
         return Object.entries(counts).map(([name, value]) => ({ name, value })).sort((a, b) => b.value - a.value)
-    }, [orders])
+    }, [filteredOrders])
 
     const channelData = useMemo(() => {
-        const channels = orders.reduce((acc, order) => {
+        const channels = filteredOrders.reduce((acc, order) => {
             if (order.status === 'CANCELLED') return acc;
             acc[order.channel] = (acc[order.channel] || 0) + order.amount;
             return acc;
         }, {} as Record<string, number>)
 
         return Object.entries(channels).map(([name, Total]) => ({ name, Total })).sort((a, b) => b.Total - a.Total).slice(0, 5) // top 5
-    }, [orders])
-
+    }, [filteredOrders])
     if (loading) {
         return (
             <div className="flex flex-col items-center justify-center min-h-[60vh]">
@@ -76,12 +105,54 @@ export function DashboardPage() {
 
     return (
         <div className="max-w-7xl mx-auto pb-12 animation-fade-in">
-            <div className="mb-8">
-                <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-purple-600 mb-2">
-                    Dashboard de Inteligencia
-                </h2>
-                <p className="text-gray-500">Métricas principales y estado actual del negocio.</p>
+            <div className="mb-8 flex flex-col md:flex-row md:items-end justify-between gap-4">
+                <div>
+                    <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-purple-600 mb-2">
+                        Dashboard de Inteligencia
+                    </h2>
+                    <p className="text-gray-500">Métricas principales y estado actual del negocio.</p>
+                </div>
+
+                <div className="flex gap-2">
+                    {(dateFrom || dateTo || minAmount || maxAmount) && (
+                        <button
+                            onClick={() => { setDateFrom(''); setDateTo(''); setMinAmount(''); setMaxAmount(''); }}
+                            className="p-3 text-sm font-semibold text-gray-500 hover:text-indigo-600 hover:bg-indigo-50 rounded-xl transition-colors flex items-center gap-2"
+                        >
+                            <RefreshCcw className="w-4 h-4" /> Limpiar
+                        </button>
+                    )}
+                    <button
+                        onClick={() => setShowFilters(!showFilters)}
+                        className={`p-3 rounded-xl border flex items-center gap-2 text-sm font-bold transition-colors ${showFilters ? 'bg-indigo-50 border-indigo-200 text-indigo-700 shadow-sm' : 'bg-white border-gray-200 text-gray-700 hover:bg-gray-50'}`}
+                    >
+                        <Filter className="w-5 h-5" /> Filtros
+                    </button>
+                </div>
             </div>
+
+            {/* Panel de Filtros */}
+            {showFilters && (
+                <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 mb-8 animation-fade-in grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 relative overflow-hidden">
+                    <div className="absolute top-0 right-0 w-32 h-32 bg-indigo-50 rounded-bl-full opacity-50 pointer-events-none"></div>
+                    <div className="relative z-10">
+                        <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-2">Desde Fecha</label>
+                        <input type="date" value={dateFrom} onChange={e => setDateFrom(e.target.value)} className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 transition-shadow" />
+                    </div>
+                    <div className="relative z-10">
+                        <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-2">Hasta Fecha</label>
+                        <input type="date" value={dateTo} onChange={e => setDateTo(e.target.value)} className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 transition-shadow" />
+                    </div>
+                    <div className="relative z-10">
+                        <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-2">Monto Mínimo ($)</label>
+                        <input type="number" step="0.01" value={minAmount} onChange={e => setMinAmount(e.target.value)} placeholder="Ej: 10" className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 transition-shadow" />
+                    </div>
+                    <div className="relative z-10">
+                        <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-2">Monto Máximo ($)</label>
+                        <input type="number" step="0.01" value={maxAmount} onChange={e => setMaxAmount(e.target.value)} placeholder="Ej: 500.50" className="w-full p-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm text-gray-700 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 transition-shadow" />
+                    </div>
+                </div>
+            )}
 
             {/* KPIs */}
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6 mb-8">
