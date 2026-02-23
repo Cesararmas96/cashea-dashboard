@@ -3,6 +3,7 @@ import { loadStore, loadStoresIndex } from '../services/dataLoader'
 import type { StorePaymentMethods } from '../types/store'
 import type { StoreIndexItem } from '../services/dataLoader'
 import { Search, ChevronLeft, CreditCard, Box, Wallet } from 'lucide-react'
+import { censorName, censorPhone, censorEmail } from '../utils/formatters'
 
 const TYPE_COLORS: Record<string, string> = {
   MOBILE: 'bg-indigo-100 text-indigo-700 border-indigo-200',
@@ -234,11 +235,12 @@ function MethodCard({ method }: { method: any }) {
       {method.bankName && (
         <div className="grid grid-cols-2 gap-x-4 gap-y-3 mt-4 pt-4 border-t border-gray-100">
           {method.bankName && <SmallRow label="Banco" value={method.bankName} />}
-          {method.bankHolder && <SmallRow label="Titular" value={method.bankHolder} />}
+          {method.bankHolder && <SmallRow label="Titular" value={censorName(method.bankHolder)} />}
           {method.rif && <SmallRow label="RIF" value={method.rif} />}
           {method.account && <SmallRow label="Titular/Cuenta" value={method.account} />}
           {method.accountType && <SmallRow label="Tipo de cuenta" value={method.accountType} />}
-          {method.phoneNumber && <SmallRow label="Teléfono" value={method.phoneNumber} />}
+          {method.phoneNumber && <SmallRow label="Teléfono" value={censorPhone(method.phoneNumber)} />}
+          {method.email && <SmallRow label="Email" value={censorEmail(method.email)} />}
         </div>
       )}
     </div>

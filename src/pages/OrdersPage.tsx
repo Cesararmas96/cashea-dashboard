@@ -3,7 +3,7 @@ import { loadClient, loadOrdersIndex } from '../services/dataLoader'
 import type { ClientOrder } from '../types/client'
 import type { OrderIndexItem } from '../services/dataLoader'
 import { Search, ChevronLeft, Calendar, FileText, User, ShoppingBag, Filter } from 'lucide-react'
-import { censorName, censorIdDocument } from '../utils/formatters'
+import { censorName, censorIdDocument, censorPhone } from '../utils/formatters'
 
 const STATUS_COLORS: Record<string, string> = {
   CLOSED: 'bg-green-100 text-green-700 border-green-200',
@@ -142,7 +142,7 @@ export function OrdersPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 flex-1">
                   <InfoCard label="Nombre" value={censorName(order.paymentDetails.user.fullName)} />
                   <InfoCard label="Número de Cédula" value={censorIdDocument(order.paymentDetails.user.identificationNumber)} />
-                  <InfoCard label="Teléfono" value={order.paymentDetails.user.phoneNumber} />
+                  <InfoCard label="Teléfono" value={censorPhone(order.paymentDetails.user.phoneNumber)} />
                 </div>
               </div>
             ) : (

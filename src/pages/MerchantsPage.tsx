@@ -4,6 +4,7 @@ import type { Merchant } from '../types/merchant'
 import type { MerchantIndexItem } from '../services/dataLoader'
 import { Search, ChevronLeft, Store, MapPin, Phone, Map } from 'lucide-react'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
+import { censorName, censorPhone, censorEmail } from '../utils/formatters'
 
 export function MerchantsPage() {
   const [merchantsList, setMerchantsList] = useState<MerchantIndexItem[]>([])
@@ -99,9 +100,9 @@ export function MerchantsPage() {
           </div>
 
           <div className="px-4 md:px-8 py-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 bg-gray-50/50 border-t border-gray-100">
-            <InfoCard icon={<Phone className="w-4 h-4" />} label="Contacto" value={merchant.contact.phoneNumber || '—'} />
-            <InfoCard label="Email" value={merchant.contact.email || '—'} />
-            <InfoCard label="Responsable" value={merchant.contact.legalName || '—'} />
+            <InfoCard icon={<Phone className="w-4 h-4" />} label="Contacto" value={censorPhone(merchant.contact.phoneNumber) || '—'} />
+            <InfoCard label="Email" value={censorEmail(merchant.contact.email) || '—'} />
+            <InfoCard label="Responsable" value={censorName(merchant.contact.legalName) || '—'} />
             <InfoCard label="Horario" value={`${merchant.workingHours.from} – ${merchant.workingHours.to}`} />
             <InfoCard label="Enganche Mínimo" value={`${(merchant.minimumDownPayment * 100).toFixed(0)}%`} />
             <InfoCard label="Canales" value={merchant.channels.join(', ')} />

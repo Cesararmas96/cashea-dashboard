@@ -36,3 +36,29 @@ export const censorIdDocument = (doc: string | null | undefined): string => {
 
     return `${start}${masked}${end}`;
 };
+
+export const censorPhone = (phone: string | null | undefined): string => {
+    if (!phone) return '';
+    const cleanPhone = phone.trim();
+    if (cleanPhone.length < 8) return cleanPhone;
+
+    const prefixLen = cleanPhone.startsWith('+') ? 6 : 4;
+    const prefix = cleanPhone.slice(0, prefixLen);
+    const suffix = cleanPhone.slice(-4);
+    const maskedLen = Math.max(0, cleanPhone.length - prefixLen - 4);
+    const masked = '*'.repeat(maskedLen);
+    return `${prefix}${masked}${suffix}`;
+};
+
+export const censorEmail = (email: string | null | undefined): string => {
+    if (!email) return '';
+    const parts = email.split('@');
+    if (parts.length !== 2) return email;
+    const [local, domain] = parts;
+    if (local.length <= 2) {
+        return `${local[0]}*@${domain}`;
+    }
+    const prefix = local.slice(0, 2);
+    const masked = '*'.repeat(local.length - 2);
+    return `${prefix}${masked}@${domain}`;
+};
