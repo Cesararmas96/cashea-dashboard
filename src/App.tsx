@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider, Navigate } from 'react-router-dom'
+import { createHashRouter, RouterProvider, Navigate } from 'react-router-dom'
 import { AppShell } from './components/layout/AppShell'
 import { OrdersPage } from './pages/OrdersPage'
 import { MerchantsPage } from './pages/MerchantsPage'
@@ -9,7 +9,7 @@ import { AnalyticsPage } from './pages/AnalyticsPage'
 import { UsersPage } from './pages/UsersPage'
 import { UserProfilePage } from './pages/UserProfilePage'
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <AppShell />,
