@@ -18,5 +18,5 @@ export default defineConfig({
   server: {
     fs: { allow: ['..'] },
   },
-  base: '/cashea-dashboard/',
+  base: './',
 })
