@@ -342,7 +342,7 @@ export function AnalyticsPage() {
                                 <RechartsTooltip
                                     cursor={{ fill: '#f9fafb' }}
                                     contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
-                                    formatter={(val: number) => [`${val} tiendas`, 'Habilitado en']}
+                                    formatter={(val?: number) => [`${val ?? 0} tiendas`, 'Habilitado en']}
                                 />
                                 <Bar dataKey="count" name="Tiendas" radius={[6, 6, 0, 0]} barSize={32}>
                                     {storePlatforms.map((_entry, index) => (
