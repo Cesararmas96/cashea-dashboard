@@ -3,7 +3,7 @@ import { loadMerchantsIndex, loadOrdersIndex, loadStoresIndex } from '../service
 import type { MerchantIndexItem, OrderIndexItem, StoreIndexItem } from '../services/dataLoader'
 import { Link } from 'react-router-dom'
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, ResponsiveContainer, BarChart, Bar, Cell, AreaChart, Area, PieChart, Pie, Legend } from 'recharts'
-import { BarChart3, TrendingUp, Users, Target, Activity, ShieldAlert, Award, Repeat, ExternalLink } from 'lucide-react'
+import { BarChart3, TrendingUp, Users, Target, Activity, ShieldAlert, Award, Repeat, ExternalLink, Store } from 'lucide-react'
 
 const DEFAULT_COLORS = ['#6366f1', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899', '#14b8a6', '#0ea5e9']
 
@@ -157,6 +157,23 @@ export function AnalyticsPage() {
         return Object.entries(frequencies).map(([name, value]) => ({ name, value }))
     }, [orders])
 
+    // 8. Plataformas de Tiendas (Métodos habilitados)
+    const storePlatforms = useMemo(() => {
+        const methods: Record<string, number> = {}
+        stores.forEach(s => {
+            if (!s.types) return;
+            s.types.forEach(type => {
+                methods[type] = (methods[type] || 0) + 1
+            })
+        })
+        return Object.entries(methods)
+            .map(([name, count]) => ({
+                name,
+                count
+            }))
+            .sort((a, b) => b.count - a.count)
+    }, [stores])
+
     if (loading) {
         return (
             <div className="flex flex-col items-center justify-center min-h-[60vh]">
@@ -300,7 +317,39 @@ export function AnalyticsPage() {
                 </div>
             </div>
 
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-6">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-6">
+                {/* Tiendas - Plataformas Aceptadas */}
+                <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
+                    <div className="flex items-center gap-3 mb-6">
+                        <div className="w-10 h-10 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center shadow-sm">
+                            <Store className="w-5 h-5" />
+                        </div>
+                        <div>
+                            <h3 className="text-lg font-bold text-gray-800">Plataformas de Pago</h3>
+                            <p className="text-xs text-gray-400">Métodos habilitados en Tiendas</p>
+                        </div>
+                    </div>
+                    <div className="flex-1 w-full min-h-[300px]">
+                        <ResponsiveContainer width="100%" height="100%">
+                            <BarChart data={storePlatforms} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
+                                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f3f4f6" />
+                                <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#6b7280' }} />
+                                <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#6b7280' }} />
+                                <RechartsTooltip
+                                    cursor={{ fill: '#f9fafb' }}
+                                    contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
+                                    formatter={(val: number) => [`${val} tiendas`, 'Habilitado en']}
+                                />
+                                <Bar dataKey="count" name="Tiendas" radius={[6, 6, 0, 0]} barSize={32}>
+                                    {storePlatforms.map((_entry, index) => (
+                                        <Cell key={`cell-${index}`} fill={DEFAULT_COLORS[(index + 1) % DEFAULT_COLORS.length]} />
+                                    ))}
+                                </Bar>
+                            </BarChart>
+                        </ResponsiveContainer>
+                    </div>
+                </div>
+
                 {/* Salud y Riesgo Operativo */}
                 <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
                     <div className="flex items-center gap-3 mb-6">

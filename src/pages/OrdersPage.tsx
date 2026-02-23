@@ -3,6 +3,7 @@ import { loadClient, loadOrdersIndex } from '../services/dataLoader'
 import type { ClientOrder } from '../types/client'
 import type { OrderIndexItem } from '../services/dataLoader'
 import { Search, ChevronLeft, Calendar, FileText, User, ShoppingBag, Filter } from 'lucide-react'
+import { censorName, censorIdDocument } from '../utils/formatters'
 
 const STATUS_COLORS: Record<string, string> = {
   CLOSED: 'bg-green-100 text-green-700 border-green-200',
@@ -50,7 +51,9 @@ export function OrdersPage() {
       const matchesSearch =
         o.id.toString().includes(searchTerm) ||
         o.identifierNumber.toString().includes(searchTerm) ||
-        (o.customerName && o.customerName.toLowerCase().includes(searchTerm.toLowerCase()));
+        censorIdDocument(o.identifierNumber.toString()).includes(searchTerm) ||
+        (o.customerName && o.customerName.toLowerCase().includes(searchTerm.toLowerCase())) ||
+        (o.customerName && censorName(o.customerName).toLowerCase().includes(searchTerm.toLowerCase()));
 
       const matchesStatus = filterStatus === 'ALL' || o.status === filterStatus;
 
@@ -137,8 +140,8 @@ export function OrdersPage() {
                   {order.paymentDetails.user.fullName.charAt(0)}
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 flex-1">
-                  <InfoCard label="Nombre" value={order.paymentDetails.user.fullName} />
-                  <InfoCard label="Número de Cédula" value={order.paymentDetails.user.identificationNumber} />
+                  <InfoCard label="Nombre" value={censorName(order.paymentDetails.user.fullName)} />
+                  <InfoCard label="Número de Cédula" value={censorIdDocument(order.paymentDetails.user.identificationNumber)} />
                   <InfoCard label="Teléfono" value={order.paymentDetails.user.phoneNumber} />
                 </div>
               </div>
@@ -311,7 +314,7 @@ export function OrdersPage() {
                             <div className="text-[10px] text-gray-400 font-mono mt-0.5 max-w-[120px] truncate" title={order.id}>{order.id}</div>
                           </td>
                           <td className="px-6 py-4 align-middle whitespace-nowrap">
-                            <div className="font-semibold text-gray-800">{order.customerName || <span className="text-gray-400 italic">Desconocido</span>}</div>
+                            <div className="font-semibold text-gray-800">{order.customerName ? censorName(order.customerName) : <span className="text-gray-400 italic">Desconocido</span>}</div>
                           </td>
                           <td className="px-6 py-4 align-middle whitespace-nowrap">
                             <div className="font-black text-gray-900">${order.amount.toFixed(2)}</div>
@@ -362,7 +365,7 @@ export function OrdersPage() {
                     <div className="flex justify-between items-center bg-slate-50 p-3 rounded-xl border border-gray-100 mt-1">
                       <div>
                         <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Cliente</p>
-                        <p className="text-sm font-bold text-gray-800 line-clamp-1">{order.customerName || 'Desconocido'}</p>
+                        <p className="text-sm font-bold text-gray-800 line-clamp-1">{order.customerName ? censorName(order.customerName) : 'Desconocido'}</p>
                       </div>
                       <div className="text-right border-l border-gray-200 pl-4 ml-4">
                         <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Canal</p>

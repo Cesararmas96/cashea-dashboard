@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { loadOrdersIndex, type OrderIndexItem } from '../services/dataLoader'
 import { Users, Search, ChevronRight, ChevronLeft } from 'lucide-react'
 import { Link } from 'react-router-dom'
+import { censorName, censorIdDocument } from '../utils/formatters'
 
 export function UsersPage() {
     const [orders, setOrders] = useState<OrderIndexItem[]>([])
@@ -41,7 +42,9 @@ export function UsersPage() {
             const lowerTerm = searchTerm.toLowerCase()
             list = list.filter(u =>
                 u.name.toLowerCase().includes(lowerTerm) ||
-                String(u.identifierNumber).includes(lowerTerm)
+                censorName(u.name).toLowerCase().includes(lowerTerm) ||
+                String(u.identifierNumber).includes(lowerTerm) ||
+                censorIdDocument(String(u.identifierNumber)).toLowerCase().includes(lowerTerm)
             )
         }
 
@@ -106,8 +109,8 @@ export function UsersPage() {
                         <tbody>
                             {paginatedUsers.map((user) => (
                                 <tr key={user.identifierNumber} className="border-b border-gray-50 hover:bg-indigo-50/30 transition-colors group">
-                                    <td className="p-4 font-mono text-sm text-gray-500">{user.identifierNumber}</td>
-                                    <td className="p-4 font-semibold text-gray-800 capitalize">{user.name.toLowerCase()}</td>
+                                    <td className="p-4 font-mono text-sm text-gray-500">{censorIdDocument(String(user.identifierNumber))}</td>
+                                    <td className="p-4 font-semibold text-gray-800 capitalize">{censorName(user.name).toLowerCase()}</td>
                                     <td className="p-4 text-gray-600 font-medium">
                                         <span className="bg-blue-50 text-blue-600 py-1 px-3 rounded-full text-xs">{user.ordersCount} órdenes</span>
                                     </td>
@@ -141,7 +144,7 @@ export function UsersPage() {
                             <div className="flex justify-between items-start">
                                 <div>
                                     <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">ID / Cédula</p>
-                                    <p className="font-mono text-gray-600 font-bold">{user.identifierNumber}</p>
+                                    <p className="font-mono text-gray-600 font-bold">{censorIdDocument(String(user.identifierNumber))}</p>
                                 </div>
                                 <div className="text-right">
                                     <p className="font-black text-xl text-indigo-600 leading-none">${user.volume.toLocaleString('en-US', { minimumFractionDigits: 2 })}</p>
@@ -151,7 +154,7 @@ export function UsersPage() {
 
                             <div className="bg-gray-50 p-3 rounded-xl border border-gray-100 mt-1">
                                 <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Cliente</p>
-                                <p className="text-sm font-bold text-gray-800 capitalize line-clamp-1">{user.name.toLowerCase()}</p>
+                                <p className="text-sm font-bold text-gray-800 capitalize line-clamp-1">{censorName(user.name).toLowerCase()}</p>
                             </div>
 
                             <div className="flex justify-between items-center mt-1 border-t border-gray-100 pt-3">
