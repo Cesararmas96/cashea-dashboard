@@ -1,0 +1,100 @@
+{
+  "banks": [
+    {
+      "name": "Banco Nacional de Crédito",
+      "count": 4010
+    },
+    {
+      "name": "Banplus",
+      "count": 1037
+    },
+    {
+      "name": "Banco de Venezuela",
+      "count": 1030
+    },
+    {
+      "name": "Banco Exterior",
+      "count": 1015
+    },
+    {
+      "name": "Banco Provincial",
+      "count": 1014
+    },
+    {
+      "name": "Bancaribe",
+      "count": 1003
+    },
+    {
+      "name": "Banco Mercantil",
+      "count": 961
+    },
+    {
+      "name": "Banesco",
+      "count": 943
+    }
+  ],
+  "currencies": [
+    {
+      "name": "USD",
+      "count": 11071
+    },
+    {
+      "name": "VES",
+      "count": 8433
+    }
+  ],
+  "paymentTypes": [
+    {
+      "name": "Transferencia",
+      "count": 2834
+    },
+    {
+      "name": "Otro",
+      "count": 2833
+    },
+    {
+      "name": "Depósito",
+      "count": 2818
+    },
+    {
+      "name": "Zelle",
+      "count": 2815
+    },
+    {
+      "name": "Efectivo",
+      "count": 2809
+    },
+    {
+      "name": "Pago Móvil",
+      "count": 2775
+    },
+    {
+      "name": "Depósito USD",
+      "count": 2590
+    },
+    {
+      "name": "Pago móvil",
+      "count": 14
+    },
+    {
+      "name": "Paypal",
+      "count": 9
+    },
+    {
+      "name": "Tarjeta",
+      "count": 3
+    },
+    {
+      "name": "Venmo",
+      "count": 2
+    },
+    {
+      "name": "Mercantil Panamá",
+      "count": 1
+    },
+    {
+      "name": "Binance",
+      "count": 1
+    }
+  ]
+}

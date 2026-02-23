@@ -1,27 +1,31 @@
 import { useState, useEffect, useMemo } from 'react'
-import { loadMerchantsIndex, loadOrdersIndex, loadStoresIndex } from '../services/dataLoader'
-import type { MerchantIndexItem, OrderIndexItem, StoreIndexItem } from '../services/dataLoader'
+import { loadMerchantsIndex, loadOrdersIndex, loadStoresIndex, loadPaymentsAnalytics } from '../services/dataLoader'
+import type { MerchantIndexItem, OrderIndexItem, StoreIndexItem, PaymentAnalytics } from '../services/dataLoader'
 import { Link } from 'react-router-dom'
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, ResponsiveContainer, BarChart, Bar, Cell, AreaChart, Area, PieChart, Pie, Legend } from 'recharts'
-import { BarChart3, TrendingUp, Users, Target, Activity, ShieldAlert, Award, Repeat, ExternalLink, Store } from 'lucide-react'
+import { BarChart3, TrendingUp, Users, Target, Activity, ShieldAlert, Award, Repeat, ExternalLink, Store, Landmark, Coins, CreditCard } from 'lucide-react'
+import { censorName } from '../utils/formatters'
 
 const DEFAULT_COLORS = ['#6366f1', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899', '#14b8a6', '#0ea5e9']
 
 export function AnalyticsPage() {
     const [, setMerchants] = useState<MerchantIndexItem[]>([])
     const [orders, setOrders] = useState<OrderIndexItem[]>([])
-    const [, setStores] = useState<StoreIndexItem[]>([])
+    const [stores, setStores] = useState<StoreIndexItem[]>([])
+    const [paymentsData, setPaymentsData] = useState<PaymentAnalytics | null>(null)
     const [loading, setLoading] = useState(true)
 
     useEffect(() => {
         Promise.all([
             loadMerchantsIndex().catch(() => []),
             loadOrdersIndex().catch(() => []),
-            loadStoresIndex().catch(() => [])
-        ]).then(([m, o, s]) => {
+            loadStoresIndex().catch(() => []),
+            loadPaymentsAnalytics().catch(() => null)
+        ]).then(([m, o, s, pData]) => {
             setMerchants(m)
             setOrders(o)
             setStores(s)
+            setPaymentsData(pData)
             setLoading(false)
         })
     }, [])
@@ -427,6 +431,118 @@ export function AnalyticsPage() {
                 </div>
             </div>
 
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-6">
+                {/* 1. Bancos de Venezolanos */}
+                <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
+                    <div className="flex items-center gap-3 mb-6">
+                        <div className="w-10 h-10 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center shadow-sm">
+                            <Landmark className="w-5 h-5" />
+                        </div>
+                        <div>
+                            <h3 className="text-lg font-bold text-gray-800">Bancos Utilizados</h3>
+                            <p className="text-xs text-gray-400">Preferencias bancarias en comercios</p>
+                        </div>
+                    </div>
+                    <div className="flex-1 w-full min-h-[300px]">
+                        {paymentsData ? (
+                            <ResponsiveContainer width="100%" height="100%">
+                                <BarChart data={paymentsData.banks} layout="vertical" margin={{ top: 10, right: 30, left: 10, bottom: 0 }}>
+                                    <CartesianGrid strokeDasharray="3 3" horizontal={false} stroke="#f3f4f6" />
+                                    <XAxis type="number" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#6b7280' }} />
+                                    <YAxis dataKey="name" type="category" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#4b5563' }} width={90} />
+                                    <RechartsTooltip
+                                        cursor={{ fill: '#f9fafb' }}
+                                        contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
+                                    />
+                                    <Bar dataKey="count" name="Tiendas" radius={[0, 4, 4, 0]} barSize={24}>
+                                        {paymentsData.banks.map((_entry, index) => (
+                                            <Cell key={`cell-${index}`} fill={DEFAULT_COLORS[(index + 3) % DEFAULT_COLORS.length]} />
+                                        ))}
+                                    </Bar>
+                                </BarChart>
+                            </ResponsiveContainer>
+                        ) : (
+                            <div className="h-full flex items-center justify-center text-gray-400 text-sm">Sin datos bancarios</div>
+                        )}
+                    </div>
+                </div>
+
+                {/* 2. Tipos de Monedas */}
+                <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
+                    <div className="flex items-center gap-3 mb-6">
+                        <div className="w-10 h-10 rounded-xl bg-amber-50 text-amber-600 flex items-center justify-center shadow-sm">
+                            <Coins className="w-5 h-5" />
+                        </div>
+                        <div>
+                            <h3 className="text-lg font-bold text-gray-800">Tipos de Monedas</h3>
+                            <p className="text-xs text-gray-400">Distribución fiduciaria habilitada</p>
+                        </div>
+                    </div>
+                    <div className="flex-1 w-full min-h-[300px]">
+                        {paymentsData ? (
+                            <ResponsiveContainer width="100%" height="100%">
+                                <PieChart>
+                                    <Pie
+                                        data={paymentsData.currencies}
+                                        cx="50%"
+                                        cy="45%"
+                                        innerRadius={60}
+                                        outerRadius={100}
+                                        paddingAngle={4}
+                                        dataKey="count"
+                                    >
+                                        {paymentsData.currencies.map((entry, index) => (
+                                            <Cell key={`cell-${index}`} fill={entry.name === 'USD' ? '#10b981' : '#6366f1'} />
+                                        ))}
+                                    </Pie>
+                                    <RechartsTooltip
+                                        contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
+                                    />
+                                    <Legend iconType="circle" wrapperStyle={{ fontSize: '12px' }} />
+                                </PieChart>
+                            </ResponsiveContainer>
+                        ) : (
+                            <div className="h-full flex items-center justify-center text-gray-400 text-sm">Sin datos de monedas</div>
+                        )}
+                    </div>
+                </div>
+
+                {/* 3. Tipos de Pagos */}
+                <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
+                    <div className="flex items-center gap-3 mb-6">
+                        <div className="w-10 h-10 rounded-xl bg-purple-50 text-purple-600 flex items-center justify-center shadow-sm">
+                            <CreditCard className="w-5 h-5" />
+                        </div>
+                        <div>
+                            <h3 className="text-lg font-bold text-gray-800">Tipos de Pagos</h3>
+                            <p className="text-xs text-gray-400">Canales de liquidación preferidos</p>
+                        </div>
+                    </div>
+                    <div className="flex-1 w-full min-h-[300px]">
+                        {paymentsData ? (
+                            <ResponsiveContainer width="100%" height="100%">
+                                <BarChart data={paymentsData.paymentTypes.slice(0, 7)} margin={{ top: 10, right: 10, left: -20, bottom: 20 }}>
+                                    <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f3f4f6" />
+                                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#6b7280' }} angle={-30} textAnchor="end" />
+                                    <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#6b7280' }} />
+                                    <RechartsTooltip
+                                        cursor={{ fill: '#f9fafb' }}
+                                        contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
+                                    />
+                                    <Bar dataKey="count" name="Tiendas" radius={[4, 4, 0, 0]} barSize={24}>
+                                        {paymentsData.paymentTypes.slice(0, 7).map((_entry, index) => (
+                                            <Cell key={`cell-${index}`} fill={DEFAULT_COLORS[(index + 1) % DEFAULT_COLORS.length]} />
+                                        ))}
+                                    </Bar>
+                                </BarChart>
+                            </ResponsiveContainer>
+                        ) : (
+                            <div className="h-full flex items-center justify-center text-gray-400 text-sm">Sin datos de métodos</div>
+                        )}
+                    </div>
+                </div>
+            </div>
+
             {/* Top VIP */}
             <div className="mt-6 bg-white p-6 rounded-3xl shadow-sm border border-gray-100 flex flex-col">
                 <div className="flex items-center gap-3 mb-6">
@@ -434,7 +550,7 @@ export function AnalyticsPage() {
                         <Award className="w-5 h-5" />
                     </div>
                     <div>
-                        <h3 className="text-lg font-bold text-gray-800">Top 10 Clientes VIP</h3>
+                        <h3 className="text-lg font-bold text-gray-800">Top 10 Clientes</h3>
                         <p className="text-xs text-gray-400">Usuarios con mayor volumen de compra en la plataforma</p>
                     </div>
                 </div>
@@ -459,7 +575,7 @@ export function AnalyticsPage() {
                                     </td>
                                     <td className="p-4 font-semibold text-gray-800 capitalize">
                                         <Link to={`/users/${client.identifierNumber}`} className="flex items-center gap-2 hover:text-indigo-600 transition-colors group">
-                                            {client.name.toLowerCase()}
+                                            {censorName(client.name).toLowerCase()}
                                             <ExternalLink className="w-3 h-3 text-gray-300 group-hover:text-indigo-600" />
                                         </Link>
                                     </td>
@@ -485,7 +601,7 @@ export function AnalyticsPage() {
                                     <div>
                                         <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest leading-none mb-1">Cliente</p>
                                         <Link to={`/users/${client.identifierNumber}`} className="font-bold text-gray-800 flex items-center gap-1 capitalize hover:text-indigo-600">
-                                            {client.name.toLowerCase()} <ExternalLink className="w-3 h-3 text-indigo-400" />
+                                            {censorName(client.name).toLowerCase()} <ExternalLink className="w-3 h-3 text-indigo-400" />
                                         </Link>
                                     </div>
                                 </div>

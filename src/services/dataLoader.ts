@@ -44,3 +44,13 @@ export function loadStoresIndex(): Promise<StoreIndexItem[]> {
 export function loadOrdersIndex(): Promise<OrderIndexItem[]> {
   return cachedFetch<OrderIndexItem[]>('/orders_index.json')
 }
+
+export interface PaymentAnalytics {
+  banks: { name: string; count: number }[];
+  currencies: { name: string; count: number }[];
+  paymentTypes: { name: string; count: number }[];
+}
+
+export function loadPaymentsAnalytics(): Promise<PaymentAnalytics> {
+  return cachedFetch<PaymentAnalytics>('/payments_analytics.json')
+}
